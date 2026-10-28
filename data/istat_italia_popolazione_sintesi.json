@@ -1,0 +1,43 @@
+{
+  "dataset": "istat_italia_popolazione_sintesi",
+  "edition_base": "2025-01-01",
+  "updated_on": "2026-10-28",
+  "geography": "Italia",
+  "geo_level": "nazione",
+  "scenario": "mediano",
+  "measure": "popolazione_residente",
+  "unit": "milioni_di_persone",
+  "precision": "0.1 milioni",
+  "is_rounded": true,
+  "is_complete_yearly_series": false,
+  "years_available": [
+    2025,
+    2030,
+    2050,
+    2080
+  ],
+  "source": {
+    "publisher": "ISTAT",
+    "url": "https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-delle-famiglie-e-delle-forze-di-lavoro-base-1-1-2025/",
+    "kind": "comunicato ufficiale; sintesi arrotondata",
+    "license": "CC BY 4.0 (attribuzione ISTAT)"
+  },
+  "records": [
+    {
+      "year": 2025,
+      "value": 58.9
+    },
+    {
+      "year": 2030,
+      "value": 58.7
+    },
+    {
+      "year": 2050,
+      "value": 55
+    },
+    {
+      "year": 2080,
+      "value": 45.8
+    }
+  ]
+}
