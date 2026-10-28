@@ -1,0 +1,62 @@
+{
+  "app": "PRAEVOL 2050",
+  "manifest_version": 1,
+  "generated_date": "2026-10-28",
+  "dataset_version": "0.1.0",
+  "status": "partial_verified_data",
+  "build_actions_enabled": false,
+  "description": "Catalogo dataset per app Android. Attualmente solo quattro punti nazionali arrotondati ufficiali, non la serie completa.",
+  "api_base": "https://raw.githubusercontent.com/AppInRome/PRAEVOL-2050-DATA/main/",
+  "datasets": [
+    {
+      "id": "istat_italia_popolazione_sintesi",
+      "path": "data/istat_italia_popolazione_sintesi.json",
+      "csv_path": "data/istat_italia_popolazione_sintesi.csv",
+      "status": "available",
+      "geography_level": "nazione",
+      "time_points": [
+        2025,
+        2030,
+        2050,
+        2080
+      ],
+      "precision": "0.1 milioni",
+      "complete_series": false,
+      "kind": "official_published_rounded_forecast",
+      "source_url": "https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-delle-famiglie-e-delle-forze-di-lavoro-base-1-1-2025/"
+    },
+    {
+      "id": "istat_ppc_comuni_2025_2050",
+      "status": "not_uploaded",
+      "geography_level": "comune_e_provincia",
+      "source_url": "https://demo.istat.it/app/?i=PPC",
+      "note": "Solo Comuni >5000 abitanti e capoluoghi; fonte CSV/ZIP ancora da importare"
+    },
+    {
+      "id": "istat_ppr_regioni_2025_2080",
+      "status": "not_uploaded",
+      "geography_level": "regione",
+      "source_url": "https://demo.istat.it/app/?i=PPR"
+    },
+    {
+      "id": "istat_prf_famiglie_2025_2050",
+      "status": "not_uploaded",
+      "geography_level": "regione",
+      "source_url": "https://demo.istat.it/app/?i=PRF"
+    },
+    {
+      "id": "roma_anagrafe_2025",
+      "status": "not_uploaded",
+      "geography_level": "municipio_zona_urbanistica",
+      "reference_date": "2025-12-31",
+      "source_url": "https://www.comune.roma.it/web/it/informazione-di-servizio.page?contentId=IDS1579597",
+      "kind": "observed_registry_not_forecast"
+    }
+  ],
+  "rules": [
+    "Non utilizzare i quattro punti arrotondati come serie annuale completa; non interpolare senza etichettare come elaborazione.",
+    "Dati Roma Capitale osservati e previsioni ISTAT sono dataset distinti.",
+    "Le previsioni per Municipio non sono ufficiali ISTAT.",
+    "Conservare anno base, scenario e provenienza per ogni dataset."
+  ]
+}
