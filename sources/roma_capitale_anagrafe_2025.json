@@ -1,0 +1,22 @@
+{
+  "dataset": "roma_capitale_anagrafe_2025",
+  "status": "reference_only_not_downloaded",
+  "publisher": "Roma Capitale",
+  "reference_date": "2025-12-31",
+  "publication_date": "2026-05-05",
+  "geographic_levels": [
+    "municipio",
+    "zona_urbanistica",
+    "suddivisione_territoriale_toponomastica"
+  ],
+  "measures": [
+    "popolazione_anagrafica",
+    "popolazione_straniera",
+    "indicatori"
+  ],
+  "source_page": "https://www.comune.roma.it/web/it/informazione-di-servizio.page?contentId=IDS1579597",
+  "data_portal": "https://www.comune.roma.it/web/it/dati-statistici.page",
+  "forecast": false,
+  "usage": "Analisi storica e punto di riferimento osservato per Roma, non proiezione futura ufficiale per Municipio",
+  "warning": "La popolazione anagrafica comunale può differire da quella stimata da ISTAT; non confrontare senza armonizzare definizioni e date."
+}
