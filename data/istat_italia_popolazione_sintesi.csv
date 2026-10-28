@@ -1,0 +1,5 @@
+anno;territorio;misura;valore_milioni;tipo_dato;precisione;scenario;fonte
+2025;Italia;popolazione_residente;58.9;previsione_istat_arrotondata;0.1_milioni;mediano;https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-delle-famiglie-e-delle-forze-di-lavoro-base-1-1-2025/
+2030;Italia;popolazione_residente;58.7;previsione_istat_arrotondata;0.1_milioni;mediano;https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-delle-famiglie-e-delle-forze-di-lavoro-base-1-1-2025/
+2050;Italia;popolazione_residente;55.0;previsione_istat_arrotondata;0.1_milioni;mediano;https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-delle-famiglie-e-delle-forze-di-lavoro-base-1-1-2025/
+2080;Italia;popolazione_residente;45.8;previsione_istat_arrotondata;0.1_milioni;mediano;https://www.istat.it/comunicato-stampa/previsioni-della-popolazione-residente-delle-famiglie-e-delle-forze-di-lavoro-base-1-1-2025/
