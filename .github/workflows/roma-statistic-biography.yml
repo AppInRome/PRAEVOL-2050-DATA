@@ -1,0 +1,26 @@
+name: Roma Statistic - Biografie calciatori
+on:
+  push:
+    branches:
+      - roma-statistic-wikipedia-archive
+    paths:
+      - tools/roma_statistic_biography.py
+      - .github/workflows/roma-statistic-biography.yml
+permissions:
+  contents: read
+jobs:
+  wikidata:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recupere date di nascita e anniversari con fonti
+        run: python3 tools/roma_statistic_biography.py
+      - name: Pubblica estrazione e relazione di qualita
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: roma-statistic-biografie-wikidata
+          path: biography/
+          if-no-files-found: warn
+          retention-days: 14
