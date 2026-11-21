@@ -1,0 +1,28 @@
+name: Roma Statistic - Storia allenatori
+on:
+  push:
+    branches:
+      - roma-statistic-wikipedia-archive
+    paths:
+      - tools/roma_statistic_managers.py
+      - .github/workflows/roma-statistic-managers.yml
+permissions:
+  contents: read
+jobs:
+  collect-coaches:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dipendenze parser
+        run: python3 -m pip install beautifulsoup4
+      - name: Acquisisci statistiche Wikipedia allenatori
+        run: python3 tools/roma_statistic_managers.py
+      - name: Archivio fonti per import
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: roma-statistic-allenatori-storici
+          path: coach_acquisition/
+          if-no-files-found: warn
+          retention-days: 21
