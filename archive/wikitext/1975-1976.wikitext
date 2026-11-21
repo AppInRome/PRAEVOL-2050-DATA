@@ -1,0 +1,1086 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1975-1976
+|allenatore1 = {{Bandiera|SWE}} [[Nils Liedholm]]
+|presidente = {{Bandiera|ITA}} [[Gaetano Anzalone]]
+|campionato = [[Serie A 1975-1976|Serie A]]
+|campionato posizione = 10º
+|coppa1 = [[Coppa Italia 1975-1976|Coppa Italia]]
+|coppa1 posizione = Primo turno
+|coppa2 = [[Coppa UEFA 1975-1976|Coppa UEFA]]
+|coppa2 posizione = Ottavi di finale
+|marcatore campionato = [[Carlo Petrini (calciatore)|Petrini]] (6)
+|marcatore totale = [[Stefano Pellegrini (1953)|Pellegrini]], Petrini (8)
+|presenze campionato = [[Sergio Santarini|Santarini]] (30)
+|presenze totale = Santarini (40)
+|spettatori media = {{formatnum:44607}}<ref>{{Cita web |url=http://www.stadiapostcards.com/a2.htm.htm |titolo=Media spettatori Serie A dal 74-75 al 85-86}}</ref>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1974-1975|1974-1975]]
+|stagione dopo = [[Associazione Sportiva Roma 1976-1977|1976-1977]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1975-1976'''.
+== Stagione ==
+In questa stagione la Roma termina il campionato decima, con solo sei vittorie all'attivo. In [[Coppa UEFA 1975-1976|Coppa UEFA]] i capitolini, alla loro prima partecipazione nel torneo, vengono eliminati negli ottavi di finale dal {{Calcio Club Bruges|N}}, poi finalista della competizione, perdendo per 1-0 nelle due gare di andata e ritorno.<ref name=cor4>{{cita|Romano|titolo=1974-1982 La grande Roma di Nils Liedholm}}.</ref>
+
+== Divise ==
+[[File:1975-76 Associazione Sportiva Roma.jpg|thumb|Una formazione romanista nel precampionato, con maglia giallorossa abbinata a insoliti pantaloncini neri.]]
+Lo sponsor tecnico è [[Lacoste (azienda)|Lacoste]].
+La divisa primaria della Roma è costituita da maglia rossa con colletto a polo bordato di giallo, pantaloncini bianchi e calzettoni rossi bordati di giallo. In trasferta la Lupa usa una maglia bianca bordata di giallorosso, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. I portieri hanno tre divise: la prima è formata da maglia verde bordata di giallorosso, pantaloncini neri e calzettoni rossi bordati di giallo, la seconda è costituita da maglia gialla bordata di rosso, pantaloncini neri e calzettoni rossi bordati di giallo, la terza da maglia grigia bordata di giallorosso abbinata agli stessi pantaloncini e calzettoni della verde.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 129-132}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la = _asroma2728h
+|leftarm = A00000
+|pattern_b = _asroma7576h
+|body = A00000
+|pattern_ra = _asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so = _asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma7073h
+|leftarm = FFFFFF
+|pattern_b = _asroma1213a
+|body = FFFFFF
+|pattern_ra = _asroma7073h
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so = _asromaa
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma4849t
+|leftarm = 858585
+|pattern_b = _asroma6263gk2
+|body = 858585
+|pattern_ra = _asroma4849t
+|rightarm = 000000
+|shorts = 000000
+|pattern_so = _asromah
+|socks = 030347
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma6263t
+|leftarm = 858585
+|pattern_b = _asroma7677gk2
+|body = 858585
+|pattern_ra = _asroma6263t
+|rightarm = 000000
+|shorts = 000000
+|pattern_so = _asromah
+|socks = 030347
+|title = 2ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma20sgk
+|leftarm = 858585
+|pattern_b = _asroma5455gk2
+|body = 858585
+|pattern_ra = _asroma20sgk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so = _asromah
+|socks = 030347
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor4/>
+{{Colonne}}
+;Area direttiva
+*Presidente: [[Gaetano Anzalone]]
+*Segretario: Carlo Mupo
+{{Colonne spezza}}
+;Area tecnica
+*Allenatore: [[Nils Liedholm]]
+{{Colonne spezza}}
+;Area sanitaria
+*Medici sociali: Antonio Todaro
+*Massaggiatori: Roberto Minaccioni
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 75/76">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1975|titolo=Rosa AS Roma - Saison 75/76|accesso=10 aprile 2018}}</ref>
+[[File:1975–76 AS Roma preseason - Petrini, Liedholm, Boni.jpg|thumb|Il tecnico [[Nils Liedholm]] posa nel ritiro estivo di [[Brunico]] tra i neoacquisti [[Carlo Petrini (calciatore)|Carlo Petrini]] (a sinistra) e [[Loris Boni]] (a destra).]]
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Conti (calciatore 1950)|Paolo Conti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Massimo Meola]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Quintini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Batistoni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Massimi]]<ref name="p">Aggregato dalla squadra [[Primavera (calcio)|Primavera]].</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Piergiorgio Negrisolo]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Peccenini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Rocca (calciatore)|Francesco Rocca]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Salvatori]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mauro Sandreani]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Santarini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Guglielmo Bacci]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Loris Boni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Borelli]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Cordova]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giancarlo De Sisti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giorgio Morini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Mauro Persiani|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Valerio Spadoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Casaroli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Orazi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Carlo Petrini (calciatore)|Carlo Petrini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Pellegrini (calciatore 1953)|Stefano Pellegrini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Pierino Prati]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 75/76"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| C || [[Loris Boni]] || {{Calcio Sampdoria|N}} || ''definitivo'' (800 mln £<ref>{{cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,10/articleid,1108_02_1975_0152_0010_23915653/|titolo=Roma ora pensa a vincere lo scudetto.Lazio cerca di dimenticare chinaglia|pubblicazione=[[La stampa]]}}</ref>)
+|-
+| C || Mauro Persiani || San Lazzaro Savena || ''definitivo''
+|-
+| A || [[Carlo Petrini (calciatore)|Carlo Petrini]] || {{Calcio Ternana|N}} || ''definitivo''
+|-
+| A || [[Stefano Pellegrini (1953)|Stefano Pellegrini]] || {{Calcio Barletta|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P || [[Alberto Ginulfi]] || {{Calcio Verona|N}} || ''definitivo''
+|-
+| D || Claudio Cavalieri || {{Calcio Brindisi|N}} || ''definitivo''
+|-
+| D || [[Liborio Liguori]] || {{Calcio Bari|N}} || ''definitivo''
+|-
+| C || Fausto Alimenti || {{Calcio Avellino|N}} || ''definitivo''
+|-
+| C || [[Bruno Conti]] || {{Calcio Genoa|N}} || ''prestito''
+|-
+| C || [[Agostino Di Bartolomei]] || {{Calcio Vicenza|N|1954}} || ''prestito''
+|-
+| A || [[Emanuele Curcio]] || {{Calcio Alessandria|N}} || ''comproprietà''
+|-
+| A || [[Domenico Penzo]] || {{Calcio Piacenza|N}} || ''comproprietà''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1975-1976}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 1975
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaCagliari_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Carlo Petrini (calciatore)|Petrini]] {{goal|51}}
+|Marcatori 2 = {{goal|38}} [[Fernando Viola|Viola]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 ottobre
+|Anno = 1975
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Cesena
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576CesenaRoma_Unita_af.jpg
+|Città = [[Cesena]]
+|Stadio = [[Stadio Dino Manuzzi|Stadio La Fiorita]]
+|Spettatori = circa 12.000
+|Arbitro = [[Fernando Lazzaroni]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Mario Frustalupi|Frustalupi]] {{Goal|3}}<br/>[[Giovanni Urban|Urban]] {{Goal|47}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576RomaVerona_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Arnaldo Prati]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Valerio Spadoni|Spadoni]] {{goal|5}}<br />[[Pierino Prati|Prati]] {{goal|85}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 novembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 4ª giornata
+|Squadra 1 = Como
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576ComoRoma_Unita_af.jpg
+|Città = [[Como]]
+|Stadio = [[Stadio Giuseppe Sinigaglia]]
+|Spettatori =
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576RomaMilan_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Ferdinando Reggiani]]
+|Cittarbitro = [[Bologna]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 novembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576LazieRoma_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giorgio Chinaglia|Chinaglia]] {{goal|78}}
+|Marcatori 2 = {{goal|53}} [[Giancarlo De Sisti|De Sisti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 novembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaTorino_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Piergiorgio Negrisolo|Negrisolo]] {{goal|73}}
+|Marcatori 2 = {{goal|69}} [[Francesco Graziani|Graziani]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576FiorentinaRoma_Unita_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 = [[Giancarlo Antognoni|Antognoni]] {{goal|24}}<br/>[[Claudio Desolati|Desolati]] {{goal|59}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 dicembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576RomaSampdoria_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Fiorenzo Lenardon]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Carlo Petrini (calciatore)|Petrini]] {{goal|35}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 dicembre
+|Anno = 1975
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576PerugiaRoma_Unita_af.jpg
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi|Stadio Comunale di Pian di Massiano]]
+|Spettatori = circa 25.000
+|Arbitro = [[Pierluigi Levrero]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|88}} [[Franco Cordova|Cordova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 gennaio
+|Anno = 1976
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576BolognaRoma_Unita_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 30.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Rosario Rampanti|Rampanti]] {{goal|38}}<br/>[[Franco Cresci|Cresci]] {{goal|52}}
+|Marcatori 2 = {{goal|34}} [[Valerio Spadoni|Spadoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 1976
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaJuventus_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|90+1}} [[Roberto Bettega|Bettega]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 gennaio
+|Anno = 1976
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/1975-1976/Campionato/13Giornata/Articolo.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giuseppe Massa|Massa]] {{goal|59}}<br/>[[Giuseppe Savoldi|Savoldi]] {{goal|69}}
+|Marcatori 2 = {{goal|85}} [[Piergiorgio Negrisolo|Negrisolo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 1976
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaInter_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|60}}
+|Marcatori 2 = {{goal|35}} [[Franco Cerilli|Cerilli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 febbraio
+|Anno = 1976
+|Ora = 15:00
+|Turno = 15ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576ascoliroma-tab.jpg
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori = circa 15.000
+|Arbitro = [[Arnaldo Prati]]
+|Cittarbitro = [[Parma]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 1976
+|Ora = 15:30
+|Turno = 16ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 5
+|Referto = http://www.asromaultras.org/7576CagliariRoma_Unita_af.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori =
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Pietro Paolo Virdis|Virdis]] {{goal|45|rig.}}
+|Marcatori 2 = {{goal|33}} [[Walter Casaroli|Casaroli]]<br/>{{goal|37||63}} [[Carlo Petrini (calciatore)|Petrini]]<br/>{{goal|70}} [[Stefano Pellegrini (calciatore 1953)|Pellegrini]]<br/>{{goal|86}} [[Piergiorgio Negrisolo|Negrisolo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio<ref>Prevista per il 15 febbraio, sospesa per impraticabilità di campo e recuperata il giorno dopo.</ref><ref>{{cita web|url=http://www.asromaultras.org/7576RomaCesena_Rinviata_La_Stampa_af.JPG|titolo=Nubifraggio fa rinviare a oggi l'incontro tra Roma e Cesena}}</ref>
+|Anno = 1976
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cesena
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/1975-1976/Campionato/17Giornata/Articolo.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Tradate]]
+|Marcatori 1 = [[Stefano Pellegrini (calciatore 1953)|Pellegrini]] {{goal|22}}<br/>[[Walter Casaroli|Casaroli]] {{goal|52}}
+|Marcatori 2 = {{Goal|58|rig.}} [[Mario Frustalupi|Frustalupi]]<br/>{{Goal|74}} [[Giuliano Bertarelli|Bertarelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 febbraio
+|Anno = 1976
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576VeronaRoma_Unita_af.jpg
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = 24.550
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|64}} [[Carlo Petrini (calciatore)|Petrini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 febbraio
+|Anno = 1976
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaComo_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Walter Casaroli|Casaroli]] {{goal|28}}<br/>[[Stefano Pellegrini (calciatore 1953)|Pellegrini]] {{goal|47}}
+|Marcatori 2 = {{goal|62}} [[Alessandro Scanziani|Scanziani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1976
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576MilanRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Cesare Trinchieri]]
+|Cittarbitro = [[Reggio Emilia]]
+|Marcatori 1 = [[Egidio Calloni|Calloni]] {{goal|60}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 marzo
+|Anno = 1976
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576RomaLazie_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 marzo
+|Anno = 1976
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576TorinoRoma_Unita_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 32.000
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Francesco Graziani|Graziani]] {{goal|31}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 marzo
+|Anno = 1976
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7576RomaFiorentina_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Giuseppe Mario Moretto]]
+|Cittarbitro = [[San Donà di Piave]]
+|Marcatori 1 = [[Giancarlo De Sisti|De Sisti]] {{goal|6}}<br/>[[Giancarlo Galdiolo|Galdiolo]] {{goal|60|aut.}}
+|Marcatori 2 = {{goal|20}} [[Giancarlo Antognoni|Antognoni]]<br/>{{goal|83}} [[Gianfranco Casarsa|Casarsa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile
+|Anno = 1976
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576SampdoriaRoma_Unita_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 20.000
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 = [[Nello Saltutti|Saltutti]] {{goal|82}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 1976
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7576RomaPerugia_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Francesco Paolo Schena]]
+|Cittarbitro = [[Foggia]]
+|Marcatori 1 = [[Franco Cordova|Cordova]] {{goal|27|rig.}}
+|Marcatori 2 = {{goal|2|aut.}} [[Sergio Santarini|Santarini]]<br/>{{goal|54}} [[Aldo Agroppi|Agroppi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1976
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576RomaBologna_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1976
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576JuventusRoma_Unita_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 35.000
+|Arbitro = [[Arnaldo Prati]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Roberto Bettega|Bettega]] {{goal|34}}
+|Marcatori 2 = {{goal|62}} [[Carlo Petrini (calciatore)|Petrini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 maggio
+|Anno = 1976
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/7576RomaNapoli_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Cesare Trinchieri]]
+|Cittarbitro = [[Reggio Emilia]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|11}} [[Giannantonio Sperotto|Sperotto]]<br/>{{goal|42|rig.|62}} [[Giuseppe Savoldi|Savoldi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 maggio
+|Anno = 1976
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576InterRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = circa 21.000
+|Arbitro = [[Luigi Frasso]]
+|Cittarbitro = [[Capua (città moderna)|Capua]]
+|Marcatori 1 = [[Mario Bertini|Bertini]] {{goal|28|rig.}}<br/>[[Franco Peccenini|Peccenini]] {{goal|34|aut.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1976
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaAscoli_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Stefano Pellegrini (calciatore 1953)|Pellegrini]] {{goal|61}}
+|Marcatori 2 = {{goal|28}} [[Massimo Silva|Silva]]
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1975-1976}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 agosto
+|Anno = 1975
+|Ora = 20:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pescara
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaPescara_CI_27-8-75_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Fiorenzo Lenardon]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Franco Cordova|Cordova]] {{goal|5}}<br/>[[Pierino Prati|Prati]] {{goal|47||63||79}}<br/>[[Piergiorgio Negrisolo|Negrisolo]] {{goal|60}}
+|Marcatori 2 = {{goal|90}} Marchini
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 1975
+|Ora =
+|Turno = 2ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/7576SampdoriaRoma_CI_31-8-75_La_Stampa_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Pellegrino Valente|Valente]] {{goal|11}}<br/>[[Sergio Magistrelli|Magistrelli]] {{goal|25||60||62}}<br/>[[Nello Saltutti|Saltutti]] {{goal|58}}
+|Marcatori 2 = {{goal|46}} [[Carlo Petrini (calciatore)|Petrini]]<br/>{{goal|75|rig.|85}} [[Franco Cordova|Cordova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 settembre
+|Anno = 1975
+|Ora = 20:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7576RomaPiacenza_CI_7-9-75_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Pasquale Gialluisi]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Stefano Pellegrini (calciatore 1953)|Pellegrini]] {{goal|50||86}}
+|Marcatori 2 = {{goal|27}} [[Giuseppe Regali|Regali]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Anno = 1975
+|Ora =
+|Turno = 4ª giornata<ref name="riposo">Turno di riposo</ref>
+|Squadra 1 =
+|Squadra 2 =
+|Punteggio 1 =
+|Punteggio 2 =
+|Referto =
+|Città =
+|Stadio =
+|Spettatori =
+|Arbitro =
+|Cittarbitro =
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 settembre
+|Anno = 1975
+|Ora = 16:30
+|Turno = 5ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7576VicenzaRoma_CI_Unita_af.jpg
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 4.050
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Tradate]]
+}}
+
+=== Coppa UEFA ===
+{{vedi anche|Coppa UEFA 1975-1976}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1975
+|Ora = 20:30
+|Turno = Trentaduesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Dunav Ruse
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1975/matches/round=1073/match=64597/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 75.000
+|Arbitro = Reynolds
+|Nazarbitro = WAL
+|Marcatori 1 = [[Stefano Pellegrini (calciatore 1953)|Pellegrini]] {{goal|5}}<br />[[Carlo Petrini (calciatore)|Petrini]] {{goal|21}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1975
+|Ora = 14:30 [[Central European Time|CET]]
+|Turno = Trentaduesimi di finale - Ritorno
+|Squadra 1 = Dunav Ruse
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1975/matches/round=1073/match=64598/postmatch/lineups/index.html
+|Città = [[Ruse]]
+|Stadio = Gradski Stadion
+|Spettatori = circa 35.000
+|Arbitro = Afxensiu
+|Nazarbitro = CYP
+|Marcatori 1 = Ivanov {{goal|63}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 1975
+|Ora = 19:00 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Oster
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1975/matches/round=1074/match=64647/postmatch/lineups/index.html
+|Città = [[Växjö]]
+|Stadio = Värendsvallen
+|Spettatori = circa 10.000
+|Arbitro = Kuston
+|Nazarbitro = POL
+|Marcatori 1 = [[Tommy Evesson|Evesson]] {{goal|27}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 1975
+|Ora = 14:30 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Oster
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1975/matches/round=1074/match=64648/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = Bonnet
+|Nazarbitro = MLT
+|Marcatori 1 = [[Stefano Pellegrini (calciatore 1953)|Pellegrini]] {{goal|5}}<br />[[Loris Boni|Boni]] {{goal|49}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 novembre
+|Anno = 1975
+|Ora = 20:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Club Bruges
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1975/matches/round=1075/match=64659/postmatch/lineups/index.html
+|Città = [[Bruges]]
+|Stadio = [[Stadio Jan Breydel]]
+|Spettatori =
+|Arbitro = Gugulovic
+|Nazarbitro = YUG
+|Marcatori 1 = [[Julien Cools|Cools]] {{goal|42}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 1975
+|Ora = 14:30 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Club Bruges
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1975/matches/round=1075/match=64660/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Ferdinand Biwersi]]
+|Nazarbitro = FRG
+|Marcatori 1 =
+|Marcatori 2 = {{goal|69}} [[Raoul Lambert|Lambert]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor4/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1975-1976|Serie A]]
+|punti1=25
+|cv1=3
+|cn1=9
+|cp1=3
+|cgf1=14
+|cgs1=15
+|tv1=3
+|tn1=4
+|tp1=8
+|tgf1=11
+|tgs1=16
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1975-1976|Coppa Italia]]
+|punti2=-
+|cv2=2
+|cn2=0
+|cp2=0
+|cgf2=7
+|cgs2=2
+|tv2=0
+|tn2=1
+|tp2=1
+|tgf2=3
+|tgs2=5
+|comp3={{simbolo|Coppauefa.png|10}} [[Coppa UEFA 1975-1976|Coppa UEFA]]
+|punti3=-
+|cv3=2
+|cn3=0
+|cp3=1
+|cgf3=4
+|cgs3=1
+|tv3=0
+|tn3=0
+|tp3=3
+|tgf3=0
+|tgs3=3
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=T |m12=C |m13=T |m14=C |m15=T |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=C |m27=T |m28=C |m29=T |m30=C }}
+{{Andamento/Risultato |m1=N |m2=P |m3=V |m4=N |m5=N |m6=N |m7=N |m8=P |m9=V |m10=V |m11=P |m12=P |m13=P |m14=N |m15=N |m16=V |m17=N |m18=V |m19=V |m20=P |m21=N |m22=P |m23=N |m24=P |m25=P |m26=N |m27=N |m28=P |m29=P |m30=N }}
+{{Andamento/Posizione |r=14 |m1=6 |m2=12 |m3=6 |m4=5 |m5=6 |m6=7 |m7=7 |m8=11 |m9=6 |m10=6 |m11=8 |m12=9 |m13=9 |m14=10 |m15=10 |m16=9 |m17=10 |m18=8 |m19=7 |m20=8 |m21=9 |m22=9 |m23=9 |m24=9 |m25=9 |m26=9 |m27=9 |m28=10 |m29=10 |m30=10 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 1 autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa UEFA
+| Cartellini = no
+| {{Sortname|P.|Conti|Paolo Conti (calciatore 1950)}} {{Sommastat|C=no |25|-25|?|? |4|-7|?|? |6|-4|?|? }}
+| {{Sortname|M.|Meola|Massimo Meola}} {{Sommastat|C=no |4|-6|?|? |0|-0|?|? |0|-0|?|? }}
+| {{Sortname|F.|Quintini|Francesco Quintini}} {{Sommastat|C=no |2|-0|?|? |0|-0|?|? |0|-0|?|? }}
+| {{Sortname|A.|Batistoni|Alberto Batistoni}} {{Sommastat|C=no |17|0|?|? |4|0|?|? |5|0|?|? }}
+| {{Sortname|F.|Massimi|Fabio Massimi}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|P.|Negrisolo|Piergiorgio Negrisolo}} {{Sommastat|C=no |24|3|?|? |4|1|?|? |5|0|?|? }}
+| {{Sortname|F.|Peccenini|Franco Peccenini}} {{Sommastat|C=no |17|3|?|? |0|0|?|? |5|0|?|? }}
+| {{Sortname|F.|Rocca|Francesco Rocca (calciatore)}} {{Sommastat|C=no |29|0|?|? |1|0|?|? |6|0|?|? }}
+| {{Sortname|F.|Salvatori|Fabrizio Salvatori}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|M.|Sandreani|Mauro Sandreani}} {{Sommastat|C=no |17|0|?|? |2|0|?|? |0|0|?|? }}
+| {{Sortname|S.|Santarini|Sergio Santarini}} {{Sommastat|C=no |30|0|?|? |4|0|?|? |6|0|?|? }}
+| {{Sortname|G.|Bacci|Guglielmo Bacci}} {{Sommastat|C=no |5|0|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|L.|Boni|Loris Boni}} {{Sommastat|C=no |19|0|?|? |4|0|?|? |6|1|?|? }}
+| {{Sortname|P.|Borelli|Paolo Borelli}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|F.|Cordova|Franco Cordova}} {{Sommastat|C=no |27|2|?|? |4|3|?|? |6|0|?|? }}
+| {{Sortname|G.|De Sisti|Giancarlo De Sisti}} {{Sommastat|C=no |28|2|?|? |4|0|?|? |6|0|?|? }}
+| {{Sortname|G.|Morini|Giorgio Morini}} {{Sommastat|C=no |22|0|?|? |3|0|?|? |4|0|?|? }}
+| {{Sortname|M.|Persiani|Mauro Persiani|nolink=1}} {{Sommastat|C=no |3|0|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|V.|Spadoni|Valerio Spadoni}} {{Sommastat|C=no |10|2|?|? |2|0|?|? |3|0|?|? }}
+| {{Sortname|W.|Casaroli|Walter Casaroli}} {{Sommastat|C=no |11|3|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Orazi|Angelo Orazi}} {{Sommastat|C=no |3|0|?|? |0|0|?|? |0|0|?|? }}
+| {{Sortname|C.|Petrini|Carlo Petrini (calciatore)}} {{Sommastat|C=no |24|6|?|? |4|1|?|? |5|1|?|? }}
+| {{Sortname|S.|Pellegrini|Stefano Pellegrini (calciatore 1953)}} {{Sommastat|C=no |19|4|?|? |2|2|?|? |6|2|?|? }}
+| {{Sortname|P.|Prati|Pierino Prati}} {{Sommastat|C=no |10|2|?|? |3|3|?|? |4|0|?|? }}
+}}
+
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1975-1976|Campionato Primavera]]
+** [[Coppa Italia Primavera 1975-1976|Coppa Italia Primavera]]
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|url=http://www.asroma.it/|titolo=Sito ufficiale}}
+* {{cita web|url=http://www.rsssf.com/tablesi/ital76.html|titolo=Italy 1975/76|lingua=en}}
+* {{cita web|url=http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1975|titolo=AS Roma 75/76|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1975-1976}}
+{{Portale|calcio}}

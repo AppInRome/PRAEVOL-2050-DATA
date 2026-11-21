@@ -1,0 +1,1906 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|immagine =
+|didascalia = Una formazione della Roma nella stagione 2019-2020
+|stagione = 2019-2020
+|allenatore1 = {{Bandiera|PRT}} [[Paulo Fonseca]]
+|allenatore2 = {{Bandiera|PRT}} Nuno Campos
+|presidente = {{Bandiera|USA}} [[James Pallotta]]
+|campionato = [[Serie A 2019-2020|Serie A]]
+|campionato posizione = 5º (in Europa League)
+|coppa1 = [[Coppa Italia 2019-2020|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[UEFA Europa League 2019-2020|Europa League]]
+|coppa2 posizione = Ottavi di finale
+|presenze campionato = [[Edin Džeko|Džeko]] (35)
+|presenze totale = Džeko, [[Jordan Veretout|Veretout]] (43)
+|marcatore campionato = Džeko (16)
+|marcatore totale = Džeko (19)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]] ({{formatnum:70634}})
+|abbonati = {{formatnum:21796}}<ref name=stadia>{{cita web|url=https://www.stadiapostcards.com/A19-20.htm|titolo=Statistiche Spettatori Serie A 2019-2020}}</ref>
+|spettatori max = {{formatnum:60513}}<ref name=stadia/> vs {{Calcio Juventus|N}}<br/>(12 gennaio 2020)
+|spettatori min = {{formatnum:21348}} vs {{Calcio Istanbul Basaksehir|N}}<br/>(19 settembre 2019)<ref name="datiS">Non vengono considerate, ai fini statistici, le partite giocate a porte chiuse a causa della [[Pandemia di COVID-19 del 2020 in Italia|pandemia di COVID-19]]</ref>
+|spettatori media = {{formatnum:39397}}<ref name=stadia/><ref name="datiS"/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2018-2019|2018-2019]]
+|stagione dopo = [[Associazione Sportiva Roma 2020-2021|2020-2021]]
+|aggiornato = 6 agosto 2020
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2019-2020'''.
+== Stagione ==
+Per la stagione 2019-2020, il club giallorosso ingaggia [[Paulo Fonseca]] in veste di allenatore.<ref>{{cita web|url=https://www.gazzetta.it/Calcio/Serie-A/Roma/11-06-2019/roma-ufficiale-paulo-fonseca-nuovo-allenatore-3302385493442.shtml|titolo=Roma, è ufficiale: Fonseca è il nuovo allenatore. Pallotta: "Il suo calcio entusiasmerà i tifosi"|autore=Andrea Pugliese|data=11 giugno 2019}}</ref> Inizialmente ammessa ai preliminari di [[UEFA Europa League 2019-2020|Europa League]]<ref>{{cita web|url=https://www.repubblica.it/sport/calcio/serie-a/roma/2019/06/19/news/uefa_europa_league_sorteggio_sentenza-229170914/|titolo=Roma, Europa League: preliminari contro la vincente di Debrecen-Kukesi|autore=Francesco Morrone|data=19 giugno 2019}}</ref>, la squadra è «promossa» alla fase a gironi in seguito all'esclusione – per ragioni legate alla violazione del [[fair play finanziario]] – del [[Associazione Calcio Milan|Milan]] ed al conseguente ripescaggio del [[Torino Football Club|Torino]] in sostituzione dei lombardi.<ref>{{cita web|url=https://www.sportmediaset.mediaset.it/calcio/europa_league/europa-league-roma-ai-gironi-torino-al-posto-del-milan_1282905-201902a.shtml|titolo=Europa League: Roma ai gironi, Torino al posto del Milan|data=28 giugno 2019}}</ref>
+L'avvio di stagione, per certi versi scoppiettante ma per altri tentennante<ref>{{Cita web|url=https://www.sportmediaset.mediaset.it/calcio/roma/serie-a-roma-genoa-3-3-pari-e-rimpianti-per-fonseca_7485385-201902a.shtml|titolo=Serie A, Roma-Genoa 3-3: pari e rimpianti per Fonseca - Sportmediaset|sito=Sportmediaset.it|lingua=IT|accesso=1º agosto 2020}}</ref><ref>{{Cita web|url=https://www.corrieredellosport.it/news/calcio/serie-a/roma/2019/12/20-64746807/roma_fonseca_bella_partita_sta_cambiando_la_testa_dei_giocatori_/|titolo=Roma, Fonseca: "Bella partita. Sta cambiando la testa dei giocatori"|lingua=it|accesso=1º agosto 2020}}</ref><ref>{{Cita web|url=https://www.repubblica.it/sport/calcio/serie-a/roma/2019/10/06/news/roma_cagliari_pareggio-237844712/|titolo=Roma-Cagliari 1-1, giallorossi fermati tra le polemiche|sito=la Repubblica|data=6 ottobre 2019|lingua=it|accesso=1º agosto 2020}}</ref>, vede la Roma lottare attivamente per i primi quattro posti di campionato, al punto che la vittoria contro il {{Calcio Napoli|N}} all'undicesima giornata (2-1) porta momentaneamente i capitolini al terzo posto, dietro solamente all'Inter ed alla Juventus.<ref>{{Cita web|url=https://www.ilmessaggero.it/sport/calcio/la_mano_di_fonseca_sul_terzo_posto_della_roma-4839166.html|titolo=Roma, c'è la mano di Fonseca sul terzo posto|lingua=it|accesso=1º agosto 2020}}</ref> I giallorossi devono ben presto far fronte ad un cospicuo numero di infortunati nella rosa dei 25, fatto che costringe a ''tour de force'' dei pochi giocatori titolari rimasti, oltre a diversi adattamenti di ruolo.<ref>{{Cita web|url=https://www.corrieredellosport.it/news/calcio/serie-a/roma/2019/10/10-62110906/roma_dossier_infortuni_stravolta_la_media_uefa_/|titolo=Roma, dossier infortuni: stravolta la media Uefa!|lingua=it|accesso=1º agosto 2020}}</ref><ref>{{Cita web|url=https://www.eurosport.it/calcio/serie-a/2019-2020/roma-infermeria-sempre-piena-12-infortuni-in-3-mesi-emergenza-a-trigoria_sto7493256/story.shtml|titolo=Roma, infermeria sempre piena: 12 infortuni in 3 mesi, emergenza a Trigoria|sito=Eurosport|data=10 ottobre 2019|accesso=1º agosto 2020}}</ref><ref>{{Cita web|url=https://sport.sky.it/calcio/serie-a/2019/10/20/roma-infortunati-stagione-2019-2020|titolo=Tutti gli infortunati della Roma: FOTO|autore=Sky Sport|sito=sport.sky.it|lingua=it|accesso=1º agosto 2020}}</ref> A risentirne sono sia l'andamento in campionato, dove la Roma scivola al quarto posto in favore dei rivali della {{Calcio Lazio|N}}<ref>{{Cita web|url=https://www.corrieredellosport.it/news/on-air/2019/11/24-63752081/la_lazio_e_terza_la_roma_scavalca_l_atalanta/|titolo=La Lazio è terza. La Roma scavalca l'Atalanta|lingua=it|accesso=11 agosto 2020}}</ref>, sia quello in [[UEFA Europa League 2019-2020|Europa League]], nella quale competizione la Roma colleziona risultati deludenti dopo un esordio col botto contro il {{Calcio Istanbul Basaksehir|N}} (3-0).<ref>{{Cita web|url=https://www.sportmediaset.mediaset.it/calcio/europa-league/europa-league-wolfsberger-roma-1-1-i-giallorossi-frenano-in-austria_9302958-201902a.shtml|titolo=Europa League: Wolfsberger-Roma 1-1, i giallorossi frenano in Austria - Sportmediaset|sito=Sportmediaset.it|lingua=IT|accesso=11 agosto 2020}}</ref> Dopo una chiusura in positivo del 2019, con una vittoria sulla {{Calcio Fiorentina|N}} (1-4) che consolida il quarto posto<ref>{{Cita web|url=https://sport.sky.it/calcio/serie-a/2019/12/19/fiorentina-roma-risultato-gol|titolo=Fiorentina-Roma 1-4: gol e highlights. Fonseca blinda il quarto posto in classifica {{!}} Sky Sport|autore=Sky Sport|sito=sport.sky.it|lingua=it|accesso=11 agosto 2020}}</ref>, oltre ad un pareggio interno contro il {{Calcio Wolfsberger|N}} (2-2) che porta i capitolini alla fase finale di Europa League<ref>{{Cita web|url=https://www.repubblica.it/sport/calcio/coppe/2019/12/12/news/roma-wolfsberger_2-2_i_giallorossi_si_fanno_riprendere_ai_sedicesimi_da_secondi-243330253/|titolo=Roma-Wolfsberg 2-2, Perotti e Dzeko gol, i giallorossi vanno ai sedicesimi da secondi|sito=la Repubblica|data=12 dicembre 2019|lingua=it|accesso=11 agosto 2020}}</ref>, la Roma incappa in una serie di risultati negativi dalla 18ª alla 24ª giornata (ben cinque sconfitte e solamente quattro punti ottenuti), che la condannano al sorpasso ed all'allungo dell'{{Calcio Atalanta|N}}<ref>{{Cita web|url=https://www.corrieredellosport.it/news/calcio/serie-a/2020/02/07-66506549/roma-bologna_2-3_fonseca_ancora_ko_fischi_allolimpico/|titolo=Roma-Bologna 2-3: Fonseca ancora ko, fischi all'Olimpico|lingua=it|accesso=1º agosto 2020}}</ref><ref>{{Cita web|url=https://www.tuttosport.com/news/calcio/serie-a/2020/02/15-66801885/atalanta-roma_2-1_gasperini_da_champions_6_su_fonseca/|titolo=Atalanta-Roma 2-1, Gasperini da Champions: +6 su Fonseca|lingua=it|accesso=1º agosto 2020}}</ref>; parallelamente, la Roma, giunta ai quarti di finale di [[Coppa Italia 2019-2020|Coppa Italia]] grazie ad una vittoria sul {{Calcio Parma|N}} (0-2)<ref>{{Cita web|url=https://www.repubblica.it/sport/calcio/serie-a/2020/01/16/news/coppa_italia_parma-roma_0-2_pellegrini_regala_la_juventus_ai_giallorossi-245975766/|titolo=Coppa Italia, Parma-Roma 0-2: Pellegrini regala la Juventus ai giallorossi|sito=la Repubblica|data=16 gennaio 2020|lingua=it|accesso=1º agosto 2020}}</ref>, viene facilmente eliminata dalla Juventus (3-1).<ref>{{Cita web|url=https://www.repubblica.it/sport/calcio/serie-a/2020/01/22/news/coppa_italia_juventus-roma_3-1_ronaldo_bentancur_e_bonucci_stendono_i_giallorossi-246450168/|titolo=Coppa Italia, Juventus-Roma 3-1: Ronaldo, Bentancur e Bonucci stendono i giallorossi|sito=la Repubblica|data=22 gennaio 2020|lingua=it|accesso=1º agosto 2020}}</ref> Prima della sospensione delle competizioni, evento legato allo scoppio della [[Pandemia di COVID-19 del 2020 in Italia|pandemia di COVID-19]], i giallorossi riescono tuttavia a strappare un biglietto per gli ottavi di finale di Europa League, a scapito del {{Calcio Gent|N}}.
+[[File:Paulo Fonseca Treinador.png|miniatura|Il nuovo tecnico [[Paulo Fonseca]].]]
+Nella seconda porzione di stagione, la Roma piomba nuovamente in crisi, collezionando tre sconfitte consecutive in campionato<ref>{{Cita web|url=https://www.gazzetta.it/Calcio/Serie-A/02-07-2020/roma-udinese-0-2-lasagna-nestorovski-fonseca-precipita-38076801803.shtml|titolo=Roma-Udinese 0-2: Lasagna e Nestorovski, Fonseca precipita|sito=La Gazzetta dello Sport|lingua=it|accesso=1º agosto 2020}}</ref>: la definitiva resa nella lotta per un posto in Champions League e la necessità di difendere il quinto posto da un redivivo {{Calcio Milan|N}} inducono il tecnico Fonseca a un cambio radicale di modulo, con un passaggio dal [[4-2-3-1]] al [[3-4-2-1]].<ref>{{Cita web|url=https://www.gazzetta.it/Calcio/Serie-A/Roma/12-04-2020/roma-ora-fonseca-prepara-svolta-si-difesa-3-370152781521.shtml|titolo=Roma, ora Fonseca prepara la svolta: “Sì alla difesa a 3”|sito=La Gazzetta dello Sport|lingua=it|accesso=1º agosto 2020}}</ref> La scelta di optare per una difesa a tre si rivela azzeccata, e la Roma chiude il campionato con una striscia di otto partite da imbattuta<ref>{{Cita web|url=https://sport.sky.it/calcio/serie-a/2020/08/01/juventus-roma-risultato-gol|titolo=Juventus-Roma 1-3, gol e highlights: doppietta di Perotti, Sarri chiude con un ko|autore=Sky Sport|sito=sport.sky.it|lingua=it|accesso=1º agosto 2020}}</ref>: la vittoria sul {{Calcio Torino|N}} (2-3) sancisce inoltre il quinto posto dei capitolini.<ref>{{Cita web|url=https://www.corrieredellosport.it/news/calcio/serie-a/2020/07/29-72286973/torino-roma_2-3_4_sul_milan_quinto_posto_aritmetico/|titolo=Torino-Roma 2-3: +4 sul Milan, quinto posto aritmetico|lingua=it|accesso=1º agosto 2020}}</ref><ref>{{Cita web|url=http://www.rainews.it/dl/rainews/articoli/calcio-Serie-A-Successo-3-2-della-Roma-a-Torino-il-quinto-posto-e-matematico-ab3eca8d-fd50-49c1-8fef-0e08085781c0.html|titolo=Serie A. Successo 3-2 della Roma a Torino, il quinto posto è matematico|sito=rainews|lingua=it|accesso=1º agosto 2020}}</ref> La stagione si chiude definitivamente con l'eliminazione dall'Europa League agli ottavi di finale, in favore del {{Calcio Siviglia|N}} (2-0).<ref>{{Cita web|url=https://www.gazzetta.it/Calcio/Serie-A/Roma/06-08-2020/siviglia-roma-diretta-ottavi-europa-league-380958410337.shtml|titolo=Siviglia-Roma 2-0: giallorossi eliminati dall'Europa League|sito=La Gazzetta dello Sport|lingua=it|accesso=11 agosto 2020}}</ref>
+== Divise e sponsor ==
+Lo sponsor tecnico è [[Nike (azienda)|Nike]], il main sponsor [[Qatar Airways]] e il back sponsor [[Hyundai]]. La divisa primaria della Roma è costituita da maglia rossa con dettagli a forma di fulmine in giallo, calzoncini bianchi (in alternativa rossi<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/gallery-roma-rieti-7-0|titolo=Gallery: Roma-Rieti 7-0|data=27 luglio 2019|accesso=31 luglio 2019}}</ref>) e calzettoni rossi con dettagli in giallo,<ref name=divisa1920>{{cita web|url=https://www.asroma.com/it/notizie/2019/05/l-as-roma-presenta-la-nuova-maglia-nike-per-il-2019-20|titolo=L'AS Roma presenta la nuova maglia Nike per il 2019-20|data=23 maggio 2019|accesso=23 maggio 2019|dataarchivio=3 luglio 2019|urlarchivio=https://web.archive.org/web/20190703183652/https://www.asroma.com/it/notizie/2019/05/l-as-roma-presenta-la-nuova-maglia-nike-per-il-2019-20|urlmorto=sì}}</ref> mentre la ''away'' presenta maglia bianca decorata con un fulmine giallorosso obliquo, calzoncini rossi (in alternativa bianchi<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/gallery-vittoria-per-3-1-in-casa-del-perugia|titolo=Gallery: vittoria per 3-1 in casa del Perugia|data=1º agosto 2019|accesso=1º agosto 2019}}</ref>) e calzettoni bianchi con decorazioni giallorosse.<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/ecco-la-maglia-da-trasferta-della-roma-per-il-2019-20|titolo=Ecco la maglia da trasferta della Roma per il 2019-20|data=11 luglio 2019|accesso=11 luglio 2019|dataarchivio=11 luglio 2019|urlarchivio=https://web.archive.org/web/20190711073059/https://www.asroma.com/it/notizie/2019/07/ecco-la-maglia-da-trasferta-della-roma-per-il-2019-20|urlmorto=sì}}</ref> La terza divisa è blu decorata di giallorosso e presenta un pattern decorativo formato da Lupetti e dall'acronimo ASR.<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/09/as-roma-e-nike-presentano-la-terza-maglia-per-il-2019-20|titolo=AS Roma e Nike presentano la terza maglia per il 2019-20|data=18 settembre 2019|accesso=18 settembre 2019|dataarchivio=22 settembre 2019|urlarchivio=https://web.archive.org/web/20190922202324/https://www.asroma.com/it/notizie/2019/09/as-roma-e-nike-presentano-la-terza-maglia-per-il-2019-20|urlmorto=sì}}</ref> La prima divisa del portiere è completamente nera con inserti grigi,<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/gallery-pau-lopez-arrives-in-rome|titolo=Gallery: Pau Lopez a Roma|data=11 luglio 2019|accesso=11 luglio 2019}}</ref> la seconda gialla con dettagli arancio,<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/gallery-le-foto-del-12-0-al-tor-sapienza|titolo=Gallery: le foto del 12-0 al Tor sapienza|data=18 luglio 2019|accesso=18 luglio 2019}}</ref> la terza verde con dettagli verde scuro,<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/gallery-3-0-al-gubbio-a-trigoria|titolo=Gallery: 3-0 al Gubbio a Trigoria|data=24 luglio 2019|accesso=24 luglio 2019}}</ref> la quarta verde con decorazioni verdi e viola,<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/09/gallery-le-migliori-25-foto-di-roma-istanbul-basaksehir|titolo=Gallery: le migliori 25 foto di Roma-Istanbul Basaksehir|data=19 settembre 2019|accesso=20 settembre 2019}}</ref> la quinta arancione con dettagli gialli e neri.<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/10/gallery-20-scatti-del-pareggio-con-il-wolfsberg|titolo=Gallery: 20 scatti del pareggio con il Wolfsberg|data=3 ottobre 2019|accesso= ottobre 2019}}</ref> Il 26 luglio 2020, in occasione di Roma-{{Calcio Fiorentina|N}}, il 1º agosto 2020, durante {{Calcio Juventus|N}}-Roma, e il 6 agosto 2020, per {{Calcio Siviglia|N}}-Roma, viene utilizzata la divisa casalinga per la stagione successiva, costituita da maglia rossa con fasce orizzontali nella metà superiore rosso scuro, rosso, arancione e giallo, calzoncini e calzettoni rossi.<ref name=divisa2021>{{cita web|url=https://www.asroma.com/it/notizie/2020/07/as-roma-e-nike-presentano-la-divisa-home-per-il-2020-21|titolo=AS Roma e Nike presentano la divisa home per il 2020-21|data=22 luglio 2020|accesso=22 luglio 2020|dataarchivio=22 luglio 2020|urlarchivio=https://web.archive.org/web/20200722075956/https://www.asroma.com/it/notizie/2020/07/as-roma-e-nike-presentano-la-divisa-home-per-il-2020-21|urlmorto=sì}}</ref> Il 29 luglio 2020, in occasione di {{Calcio Torino|n}}-Roma, viene utilizzata la divisa away per la stagione seguente, costituita da maglia avorio con colletto a polo rosso con dettagli giallorossi, bordi manica rossi e strisce laterali rosse, calzoncini rossi (per la partita sono stati utilizzati in una variante color avorio con strisce laterali rosse) e calzettoni bianchi con decorazioni giallorosse.<ref name=away2021>{{cita web|url=https://www.asroma.com/it/notizie/2020/07/as-roma-e-nike-presentano-la-divisa-away-per-il-2020-21|titolo=AS Roma e Nike presentano la divisa away per il 2020-21|data=29 luglio 2019|accesso=29 luglio 2019|dataarchivio=12 agosto 2020|urlarchivio=https://web.archive.org/web/20200812040547/https://www.asroma.com/it/notizie/2020/07/as-roma-e-nike-presentano-la-divisa-away-per-il-2020-21|urlmorto=sì}}</ref> Nelle ultime quattro partite della stagione, la Roma dispone di due divise per i portieri, una verde e una arancione, entrambe con dettagli neri.<ref>{{cita news|url=https://www.corrieredellosport.it/foto/calcio/serie-a/2020/07/29-72291920/la_roma_blinda_il_quinto_posto_con_dzeko_smalling_e_diawara/#slide-7|pubblicazione=[[Corriere dello Sport]]|titolo=La Roma blinda il quinto posto con Dzeko, Smalling e Diawara|data=29 luglio 2020|accesso=29 luglio 2020}}</ref><ref>{{cita news|url=https://www.corrieredellosport.it/foto/calcio/serie-a/roma/2020/08/09-72636173/roma_con_friedkin_si_cambia_via_12_giocatori_/#slide-14|pubblicazione=[[Corriere dello Sport]]|titolo=Roma, con Friedkin si cambia: via 12 giocatori!|data=9 agosto 2020|accesso=9 agosto 2020}}</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920h
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920h
+|body = 7d0b1d
+|pattern_ra = _asroma1920h
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920h
+|pattern_sh = _asroma1920h
+|socks = 8f2732
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920h
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920h
+|body = 7d0b1d
+|pattern_ra = _asroma1920h
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920h
+|pattern_sh = _asroma1920a
+|socks = 8f2732
+|title = Casa (alternativa)
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma2021h
+|leftarm = 7d0b1d
+|pattern_b = _asroma2021h
+|body = 7d0b1d
+|pattern_ra = _asroma2021h
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma2021h
+|pattern_sh = _asroma2021h
+|socks = 8f2732
+|title = Casa<br/><small>(36ª, 38ª Serie A e ottavi di Europa League)</small>
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920a
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920a
+|body = 7d0b1d
+|pattern_ra = _asroma1920a
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920a
+|pattern_sh = _asroma1920a
+|socks =
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920a
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920a
+|body = 7d0b1d
+|pattern_ra = _asroma1920a
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920a
+|pattern_sh = _asroma1920h
+|socks =
+|title = Trasferta (alternativa)
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma2021a
+|leftarm = 7d0b1d
+|pattern_b = _asroma2021a
+|body = 7d0b1d
+|pattern_ra = _asroma2021a
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma2021a
+|pattern_sh = _asroma2021a2
+|socks =
+|title = Trasferta<br/><small>(37ª Serie A)</small>
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920t
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920t
+|body = 7d0b1d
+|pattern_ra = _asroma1920t
+|rightarm = 7d0b1d
+|shorts = 0e2149
+|pattern_so = _asroma1920t
+|pattern_sh = _asroma1920t
+|socks = 0e2149
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920gk1
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920gk1
+|body = 7d0b1d
+|pattern_ra = _asroma1920gk1
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920gk1
+|pattern_sh = _asroma1920gk1
+|socks = 8f2732
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920gk2
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920gk2
+|body = 7d0b1d
+|pattern_ra = _asroma1920gk2
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920gk2
+|pattern_sh = _asroma1920gk2
+|socks = 8f2732
+|title = 2ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1920gk3
+|leftarm = 7d0b1d
+|pattern_b = _asroma1920gk3
+|body = 7d0b1d
+|pattern_ra = _asroma1920gk3
+|rightarm = 7d0b1d
+|shorts =
+|pattern_so = _asroma1920gk3
+|pattern_sh = _asroma1920gk3
+|socks = 8f2732
+|title = 3ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 007b67
+|pattern_b = _asroma1920gk4
+|body = 7d0b1d
+|pattern_ra =
+|rightarm = 007b67
+|shorts =
+|pattern_so = _asroma1920gk4
+|pattern_sh = _asroma1920gk4
+|socks = 8f2732
+|title = 4ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = ff451d
+|pattern_b = _asroma1920gk5
+|body = 7d0b1d
+|pattern_ra =
+|rightarm = ff451d
+|shorts =
+|pattern_so = _asroma1920gk5
+|pattern_sh = _asroma1920gk5
+|socks = 8f2732
+|title = 5ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 64dc61
+|pattern_b = _asroma2021gk2
+|body = 7d0b1d
+|pattern_ra =
+|rightarm = 64dc61
+|shorts =
+|pattern_so = _asroma2021gk2
+|pattern_sh = _asroma2021gk2
+|socks = 8f2732
+|title = 1ª portiere<br />(26 luglio 2020,<br />1º agosto 2020,<br />6 agosto 2020)
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = f0331c
+|pattern_b = _asroma2021gk3
+|body = 7d0b1d
+|pattern_ra =
+|rightarm = f0331c
+|shorts =
+|pattern_so = _asroma2021gk3
+|pattern_sh = _asroma2021gk3
+|socks = 8f2732
+|title = 2ª portiere<br />(29 luglio 2020)
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''<ref>{{cita web|url=http://www.asroma.com/it/club/organigramma-societario|titolo=Organigramma societario|editore=asroma.com|accesso=7 luglio 2017}}</ref>
+* Presidente: [[James Pallotta]], poi [[Dan Friedkin]]<ref name=friedkin>{{cita web|url=https://asroma2-cloudinary.corebine.com/asroma2-production/image/upload/v1597679858/asroma2-prod/assets/2020-08-17_Joint_Press_Release_FINAL_pdf.pdf|titolo=Joint press release - Closing of the acquisition of the controlling stake of AS Roma S.p.A. board members appointment and resignation|lingua=en|data=17 agosto 2020|accesso=17 agosto 2020|editore=asroma.com|urlarchivio=https://web.archive.org/web/20200819053849/https://asroma2-cloudinary.corebine.com/asroma2-production/image/upload/v1597679858/asroma2-prod/assets/2020-08-17_Joint_Press_Release_FINAL_pdf.pdf|urlmorto=sì}}</ref>
+* Vicepresidente esecutivo: Mauro Baldissoni
+* Direttore Sportivo: [[Gianluca Petrachi]] (fino al 18 giugno 2020)<ref>{{cita web|url=https://www.asroma.com/it/notizie/2020/06/comunicato-del-club-gianluca-petrachi|titolo=Comunicato del Club: Gianluca Petrachi|data=18 giugno 2020|accesso=19 giugno 2020}}</ref>
+* Direttore Tecnico: [[Franco Baldini]] (fino al 17 agosto 2020)<ref name=friedkin/>
+* Amministratore Delegato: Guido Fienga
+* Consiglieri: [[Franco Baldini]],<ref name=friedkin1/> Charlotte Beers,<ref name=friedkin1>Fino al 17 agosto 2020.</ref> Gianluca Cambareri, Richard D'Amore,<ref name=friedkin1/> John Galantic, Stanley Gold, [[Mia Hamm]], Cristina Mazzamuro, Benedetta Navarra, Barry Sternlicht,<ref name=friedkin1/> Alba Tull,<ref name=friedkin2>Dal 17 agosto 2020.</ref> Ryan Friedkin,<ref name=friedkin2/> Marc Watts,<ref name=friedkin2/> Eric Williamson,<ref name=friedkin2/> Ana Dunkel.<ref name=friedkin2/>
+* Presidente del collegio sindacale: Claudia Cattani
+* Sindaci effettivi del collegio sindacale: Massimo Gambini, Pietro Mastrapasqua
+* Sindaci supplenti del collegio sindacale: Riccardo Gabrielli, Manuela Patrizi
+* Società di revisione: [[BDO (azienda)|BDO]]
+'''''Area tecnica'''''<ref name=Org>{{cita web|titolo=All players and staff|url=https://www.asroma.com/it/team/players-and-staff|accesso=2 luglio 2019}}</ref><ref name=staff>{{Cita web|url=http://www.legaseriea.it/it/serie-a/squadre/roma/staff|titolo=Staff tecnico - Roma|accesso=25 agosto 2019}}</ref>
+* Allenatore: [[Paulo Fonseca]]
+* Allenatore in seconda: Nuno Campos<ref>{{Cita web|url=https://www.ilromanista.eu/news/as-roma/20706/nuno-campos-ecco-lallenatore-che-sostituira-fonseca-contro-samp-e-milan|titolo=Nuno Campos, ecco l'allenatore che sostituirà Fonseca contro Samp e Milan|accesso=9 ottobre 2019}}</ref>
+* Preparatore portieri: [[Marco Savorani]]
+* Team Manager: [[Morgan De Sanctis]]
+{{Colonne spezza}}
+'''''Area sanitaria'''''<ref name=Org/><ref name=staff/>
+* Medici sociali: Andrea Causarano, Riccardo Del Vescovo
+* Fisioterapisti: Alessandro Cardini, Marco Esposito, Marco Ferrelli, Valerio Flammini, Damiano Stefanini
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa aggiornata al 5 agosto 2020.<ref>{{Cita web|url=http://www.legaseriea.it/it/serie-a/squadre/roma/squadra|titolo=Squadra - Roma|accesso=30 agosto 2019}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=SWE|nome=''[[Robin Olsen]]''|ruolo=P}}<ref name=prima/>
+{{Calciatore in rosa|n=2|nazione=ITA|nome=''[[Davide Zappacosta]]''|ruolo=D}}<ref name=rientroprestito>Rientrato dal prestito dopo il termine del campionato.</ref>
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Bryan Cristante]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=BRA|nome=[[Juan Jesus]]|ruolo=D}}
+{{Calciatore in rosa|n=6|nazione=ENG|nome=''[[Chris Smalling]]''|ruolo=D}}<ref name=rientroprestito/><ref name=primacamp>Acquistato dopo la prima giornata di campionato.</ref>
+{{Calciatore in rosa|n=7|nazione=ITA|nome=[[Lorenzo Pellegrini]]|ruolo=C}}
+{{Calciatore in rosa|n=8|nazione=ARG|nome=[[Diego Perotti]]|ruolo=A}}
+{{Calciatore in rosa|n=9|nazione=BIH|nome=[[Edin Džeko]]|ruolo=A|altro=C}}<ref>Vice capitano dal 1º luglio 2019 al 30 gennaio 2020, capitano dal 30 gennaio 2020.</ref>
+{{Calciatore in rosa|n=11|nazione=SRB|nome=[[Aleksandar Kolarov]]|ruolo=D}}
+{{Calciatore in rosa|n=13|nazione=ESP|nome=[[Pau López]]|ruolo=P}}
+{{Calciatore in rosa|n=14|nazione=CZE|nome=''[[Patrik Schick]]''|ruolo=A}}<ref>Ceduto dopo la seconda giornata di campionato.</ref>
+{{Calciatore in rosa|n=14|nazione=ESP|nome=[[Gonzalo Villar]]|ruolo=C}}<ref name=a.s.i.c./>
+{{Calciatore in rosa|n=15|nazione=TUR|nome=[[Mert Çetin]]|ruolo=D}}
+{{Calciatore in rosa|n=17|nazione=TUR|nome=[[Cengiz Ünder]]|ruolo=A}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Davide Santon]]|ruolo=D}}
+{{Calciatore in rosa|n=19|nazione=HRV|nome=''[[Ante Ćorić]]''|ruolo=C}}<ref name=prima>Ceduto dopo la prima giornata di campionato.</ref>
+{{Calciatore in rosa|n=19|nazione=HRV|nome=[[Nikola Kalinić]]|ruolo=A}}<ref name=secondacamp>Acquistato dopo la seconda giornata di campionato.</ref>
+{{Calciatore in rosa|n=20|nazione=ARG|nome=[[Federico Fazio]]|ruolo=D}}
+{{Calciatore in rosa|n=21|nazione=FRA|nome=[[Jordan Veretout]]|ruolo=C}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Nicolò Zaniolo]]|ruolo=C}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Gianluca Mancini]]|ruolo=D}}
+{{Calciatore in rosa|n=24|nazione=ITA|nome=''[[Alessandro Florenzi]]''|ruolo=C|altro=C}}<ref name="c.s.i.c."/><ref>Capitano dal 1º luglio 2019 al 30 gennaio 2020.</ref>
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=27|nazione=ARG|nome=[[Javier Pastore]]|ruolo=C}}
+{{Calciatore in rosa|n=28|nazione=FRA|nome=William Bianda|ruolo=D}}<ref name=seconda>Aggregato dalla Primavera.</ref>
+{{Calciatore in rosa|n=31|nazione=ESP|nome=[[Carles Pérez]]|ruolo=A}}<ref name=a.s.i.c./>
+{{Calciatore in rosa|n=33|nazione=BRA|nome=[[Bruno Peres]]|ruolo=D}}
+{{Calciatore in rosa|n=37|nazione=ITA|nome=[[Leonardo Spinazzola]]|ruolo=D}}
+{{Calciatore in rosa|n=41|nazione=BRA|nome=[[Roger Ibañez da Silva|Roger Ibañez]]<ref name="a.s.i.c.">Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=42|nazione=GIN|nome=[[Amadou Diawara]]|ruolo=C}}
+{{Calciatore in rosa|n=45|nazione=ITA|nome=Matteo Cardinali|ruolo=P}}<ref name=seconda/>
+{{Calciatore in rosa|n=47|nazione=FRA|nome=Ruben Providence|ruolo=A}}<ref name=seconda/>
+{{Calciatore in rosa|n=48|nazione=ITA|nome=''[[Mirko Antonucci]]''|ruolo=A}}<ref name="c.s.i.c.">Ceduto durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=52|nazione=ITA|nome=[[Edoardo Bove]]|ruolo=C}}<ref name=seconda/>
+{{Calciatore in rosa|n=53|nazione=ITA|nome=Alessio Riccardi|ruolo=C}}<ref name=seconda/>
+{{Calciatore in rosa|n=54|nazione=GMB|nome=[[Ebrima Darboe]]|ruolo=C}}<ref name=seconda/>
+{{Calciatore in rosa|n=55|nazione=ITA|nome=Ludovico D'Orazio|ruolo=D}}<ref name=seconda/>
+{{Calciatore in rosa|n=60|nazione=ITA|nome=[[Devid Bouah]]|ruolo=A}}<ref name=seconda/>
+{{Calciatore in rosa|n=61|nazione=ITA|nome=[[Riccardo Calafiori]]|ruolo=D}}<ref name=seconda/>
+{{Calciatore in rosa|n=63|nazione=BRA|nome=[[Daniel Fuzato]]|ruolo=P}}
+{{Calciatore in rosa|n=77|nazione=ARM|nome=[[Henrix Mxit'aryan|Henrix Mkhit'aryan]]|ruolo=C}}<ref name=secondacamp/>
+{{Calciatore in rosa|n=83|nazione=ITA|nome=[[Antonio Mirante]]|ruolo=P}}
+{{Calciatore in rosa|n=92|nazione=FRA|nome=''[[Grégoire Defrel]]''|ruolo=A}}<ref name=prima/>
+{{Calciatore in rosa|n=99|nazione=NLD|nome=[[Justin Kluivert]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+=== Sessione estiva (dall'1/7 al 2/9) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+|P
+|[[Pau López]]
+|[[Real Betis Balompié|Real Betis]]
+|''definitivo'' (23,5 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-pau-lopez|titolo=L’AS Roma perfeziona l’ingaggio di Pau Lopez|accesso=10 luglio 2019|dataarchivio=10 luglio 2019|urlarchivio=https://web.archive.org/web/20190710211422/https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-pau-lopez|urlmorto=sì}}</ref>
+|-
+| D ||[[Leonardo Spinazzola]]||{{Calcio Juventus|N}}||''definitivo'' (29,5 milioni €)<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/06/l-as-roma-perfeziona-l-ingaggio-di-leonardo-spinazzola|titolo=L’AS Roma perfeziona l’ingaggio di Leonardo Spinazzola|data=1º luglio 2019|accesso=1º luglio 2019}}</ref>
+|-
+|D
+|[[Gianluca Mancini]]
+|[[Atalanta Bergamasca Calcio|Atalanta]]
+|''prestito oneroso'' (2 milioni €) ''con obbligo di riscatto<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-gianluca-mancini|titolo=L’AS Roma perfeziona l’ingaggio di Gianluca Mancini|accesso=17 luglio 2019|dataarchivio=8 dicembre 2019|urlarchivio=https://web.archive.org/web/20191208024135/https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-gianluca-mancini|urlmorto=sì}}</ref>''
+|-
+|D
+|[[Mert Çetin]]
+|{{Calcio Genclerbirligi|N}}
+|''definitivo'' (3,5 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/l-as-roma-perfeziona-l-ingaggio-di-mert-cetin|titolo=L’AS Roma perfeziona l’ingaggio di Mert Cetin|accesso=16 agosto 2019|dataarchivio=16 agosto 2019|urlarchivio=https://web.archive.org/web/20190816154834/https://www.asroma.com/it/notizie/2019/08/l-as-roma-perfeziona-l-ingaggio-di-mert-cetin|urlmorto=sì}}</ref>
+|-
+|D
+|[[Davide Zappacosta]]
+|{{Calcio Chelsea|N}}
+|''prestito breve''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/la-roma-perfeziona-l-ingaggio-di-davide-zappacosta|titolo=La Roma perfeziona l’ingaggio di Davide Zappacosta|accesso=21 agosto 2019|dataarchivio=7 giugno 2022|urlarchivio=https://web.archive.org/web/20220607172947/https://www.asroma.com/it/notizie/2019/08/la-roma-perfeziona-l-ingaggio-di-davide-zappacosta|urlmorto=sì}}</ref>
+|-
+|D
+|[[Chris Smalling]]
+|{{Calcio Manchester United|N}}
+|''prestito oneroso'' (3 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/la-roma-acquista-a-titolo-temporaneo-christopher-smalling|titolo=La Roma acquista a titolo temporaneo Christopher Smalling|accesso=30 agosto 2019|dataarchivio=26 settembre 2020|urlarchivio=https://web.archive.org/web/20200926125941/https://www.asroma.com/it/notizie/2019/08/la-roma-acquista-a-titolo-temporaneo-christopher-smalling|urlmorto=sì}}</ref>
+|-
+|D
+|[[Luca Pellegrini (calciatore 1999)|Luca Pellegrini]]
+|{{Calcio Cagliari|N}}
+|''fine prestito''
+|-
+| C || [[Amadou Diawara]] || {{Calcio Napoli|N}} || ''definitivo'' (21 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-amadou-diawara|titolo=L’AS Roma perfeziona l’ingaggio di Amadou Diawara|data=1º luglio 2019|accesso=1º luglio 2019|dataarchivio=7 giugno 2022|urlarchivio=https://web.archive.org/web/20220607172946/https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-amadou-diawara|urlmorto=sì}}</ref>
+|-
+|C
+|[[Bryan Cristante]]
+|[[Atalanta Bergamasca Calcio|Atalanta]]
+|''riscatto'' (21 milioni €)<ref>{{Cita web|url=http://www.transfermarkt.it/jumplist/transfers/spieler/199248/transfer_id/2416643|titolo=Bryan Cristante - Carriera|accesso=13 luglio 2019}}</ref>
+|-
+|C
+|[[Jordan Veretout]]
+|{{Calcio Fiorentina|N}}
+|''prestito oneroso'' (1 milione €) ''con obbligo di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-jordan-veretout|titolo=L’AS Roma perfeziona l’ingaggio di Jordan Veretout|accesso=20 luglio 2019|dataarchivio=20 luglio 2019|urlarchivio=https://web.archive.org/web/20190720133618/https://www.asroma.com/it/notizie/2019/07/l-as-roma-perfeziona-l-ingaggio-di-jordan-veretout|urlmorto=sì}}</ref>
+|-
+|C
+|[[Henrix Mxit'aryan]]
+|{{Calcio Arsenal|N}}
+|''prestito oneroso'' (3 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/09/la-roma-acquista-a-titolo-temporaneo-henrikh-mkhitaryan|titolo=La Roma acquista a titolo temporaneo Henrikh Mkhitaryan|accesso=2 settembre 2019|dataarchivio=8 agosto 2020|urlarchivio=https://web.archive.org/web/20200808044806/https://www.asroma.com/it/notizie/2019/09/la-roma-acquista-a-titolo-temporaneo-henrikh-mkhitaryan|urlmorto=sì}}</ref>
+|-
+|C
+|[[Gerson (calciatore 1997)|Gerson]]
+|{{Calcio Fiorentina|N}}
+|''fine prestito''
+|-
+|C
+|[[Maxime Gonalons]]
+|{{Calcio Siviglia|N}}
+|''fine prestito''
+|-
+|A
+|[[Nikola Kalinić]]
+|{{Calcio Atletico Madrid|N}}
+|''prestito oneroso'' (2 milioni €) ''con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/09/la-roma-acquista-a-titolo-temporaneo-nikola-kalinic|titolo=La Roma acquista a titolo temporaneo Nikola Kalinic|accesso=2 settembre 2019|dataarchivio=12 agosto 2020|urlarchivio=https://web.archive.org/web/20200812030737/https://www.asroma.com/it/notizie/2019/09/la-roma-acquista-a-titolo-temporaneo-nikola-kalinic|urlmorto=sì}}</ref>
+|-
+|A
+|[[Grégoire Defrel]]
+|{{Calcio Sampdoria|N}}
+|''fine prestito''
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!da
+!Modalità
+|-
+|P
+|Andrea Romagnoli
+|[[Unione Sportiva Pistoiese 1921|Pistoiese]]
+|''fine prestito''
+|-
+|P
+|Lorenzo Crisanto
+|[[Società Sportiva Monopoli 1966|Monopoli]]
+|''fine prestito''
+|-
+|D
+|[[Elio Capradossi]]
+|{{Calcio Spezia|N}}
+|''fine prestito''
+|-
+|D
+|[[Moustapha Seck]]
+|[[Almere City Football Club|Almere City]]
+|''fine prestito''
+|-
+|D
+|[[Matías Nani]]
+|[[Club Atlético Belgrano|Belgrano]]
+|''fine prestito''
+|-
+|D
+|Emanuele Spinozzi
+|[[Società Sportiva Teramo Calcio|Teramo]]
+|''fine prestito''
+|-
+|D
+|Lorenzo Valeau
+|[[Calcio Catania|Catania]]
+|''fine prestito''
+|-
+|D
+|Alessandro Bordin
+|[[Associazione Calcistica Perugia Calcio|Perugia]]
+|''fine prestito''
+|-
+|D
+|Maissa Codou Ndiaye
+|Afro-Napoli United
+|''definitivo''<ref name="LegaserieaCalciomercato">{{Cita web|url=http://www.legaseriea.it/it/serie-a/calcio-mercato?squadra=roma|titolo=Calciomercato {{!}} Lega Serie A|accesso=2 settembre 2019}}</ref>
+|-
+|D
+|Wiktor Pleśnierowicz
+|{{Calcio Lech Poznan|N}}
+|''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.lechpoznan.pl/aktualnosci,2,wiktor-plesnierowicz-wypozyczony-do-as-roma,33887.html|titolo=Wiktor Pleśnierowicz wypożyczony do AS Roma|data=2 settembre 2019|lingua=pol|accesso=2 settembre 2019}}</ref>
+|-
+|C
+|[[Mirko Antonucci]]
+|{{Calcio Pescara|N}}
+|''fine prestito''
+|-
+|C
+|[[Christian D'Urso]]
+|[[Gymnastikos Syllogos Apollōn Smyrnīs|Apollon Smyrnis]]
+|''fine prestito''
+|-
+|C
+|Lorenzo Di Livio
+|[[Robur Siena|Siena]]
+|''fine prestito''
+|-
+|C
+|[[Daniele Verde]]
+|{{Calcio Real Valladolid|N}}
+|''fine prestito''
+|-
+|A
+|[[Ezequiel Ponce]]
+|{{Calcio AEK Atene|N}}
+|''fine prestito''
+|-
+|A
+|[[Sadiq Umar]]
+|{{Calcio Perugia|N}}
+|''fine prestito''
+|-
+|A
+|[[Edoardo Soleri]]
+|{{Calcio Braga B|N}}
+|''fine prestito''
+|-
+|A
+|Keba Coly
+|{{Calcio Ascoli|N}}
+|''fine prestito''
+|-
+|A
+|Ruben Providence
+|{{Calcio PSG|N}}
+|''definitivo'' ({{m|500000|u=€}})<ref>{{Cita web|url=http://www.transfermarkt.it/ruben-providence/profil/spieler/536520|titolo=Ruben Providence - Profilo giocatore 19/20|accesso=7 agosto 2019}}</ref>
+|-
+|A
+|Jacopo Tarantino
+|Tor Tre Teste
+|''definitivo''<ref name="LegaserieaCalciomercato" />
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+| P ||[[Robin Olsen]]||{{Calcio Cagliari|N}}||''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/robin-olsen-ceduto-in-prestito-al-cagliari|titolo=Robin Olsen ceduto in prestito al Cagliari|accesso=30 agosto 2019|urlmorto=sì}}</ref>
+|-
+| D ||[[Luca Pellegrini (calciatore 1999)|Luca Pellegrini]]||{{Calcio Juventus|N}}||''definitivo'' (22 milioni €)<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/06/luca-pellegrini-ceduto-a-titolo-definitivo-alla-juventus|titolo=Luca pellegrini ceduto a titolo definitivo alla Juventus|data=1º luglio 2019|accesso=1º luglio 2019}}</ref>
+|-
+| D ||[[Kōstas Manōlas]]||{{Calcio Napoli|N}} || ''definitivo'' (36 milioni €)<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/06/manolas-ceduto-a-titolo-definitivo-al-napoli|titolo=Manolas ceduto a titolo definitivo al Napoli|data=1º luglio 2019|accesso=1º luglio 2019|dataarchivio=7 giugno 2022|urlarchivio=https://web.archive.org/web/20220607172941/https://www.asroma.com/it/notizie/2019/06/manolas-ceduto-a-titolo-definitivo-al-napoli|urlmorto=sì}}</ref>
+|-
+| D ||[[Iván Marcano]]||{{Calcio Porto|N}}||''definitivo'' (3 milioni €)<ref>{{cita web|url=https://www.asroma.com/it/notizie/2019/07/marcano-ceduto-al-porto|titolo=Marcano ceduto al Porto|data=11 luglio 2019|accesso=11 luglio 2019|dataarchivio=11 luglio 2019|urlarchivio=https://web.archive.org/web/20190711104557/https://www.asroma.com/it/notizie/2019/07/marcano-ceduto-al-porto|urlmorto=sì}}</ref>
+|-
+|D
+|[[Rick Karsdorp]]
+|[[Feyenoord Rotterdam|Feyenoord]]
+|''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/rick-karsdorp-in-prestito-al-feyenoord|titolo=L’AS Roma comunica che Rick Karsdorp è stato ceduto in prestito al Feyenoord fino al 30 giugno 2020|accesso=7 agosto 2019|urlmorto=sì}}</ref>
+|-
+|C
+|[[Daniele De Rossi]]
+|
+|''svincolato''
+|-
+|C
+|[[Gerson (calciatore 1997)|Gerson]]
+|[[Clube de Regatas do Flamengo|Flamengo]]
+|''definitivo'' (11,8 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/07/gerson-ceduto-a-titolo-definitivo-al-flamengo|titolo=Gerson ceduto a titolo definitivo al Flamengo|accesso=12 luglio 2019|dataarchivio=12 luglio 2019|urlarchivio=https://web.archive.org/web/20190712221117/https://www.asroma.com/it/notizie/2019/07/gerson-ceduto-a-titolo-definitivo-al-flamengo|urlmorto=sì}}</ref>
+|-
+|C
+|[[Ante Ćorić]]
+|{{Calcio Almeria|N}}
+|''prestito oneroso'' (0,4 milioni €) ''con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/ante-coric-in-prestito-all-almeria|titolo=Ante Coric ceduto in prestito all’Almeria|accesso=28 agosto 2019}}</ref>
+|-
+|C
+|[[Maxime Gonalons]]
+|{{Calcio Granada|N}}
+|''prestito con obbligo di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/09/gonalons-a-titolo-temporaneo-al-granada|titolo=Gonalons ceduto a titolo temporaneo al Granada|accesso=2 settembre 2019|dataarchivio=2 settembre 2019|urlarchivio=https://web.archive.org/web/20190902213144/https://www.asroma.com/it/notizie/2019/09/gonalons-a-titolo-temporaneo-al-granada|urlmorto=sì}}</ref>
+|-
+|C
+|[[Steven Nzonzi]]
+|{{Calcio Galatasaray|N}}
+|''prestito oneroso'' (0,5 milioni €) ''con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/steven-nzonzi-in-prestito-al-galatasaray|titolo=Steven Nzonzi in prestito al Galatasaray|data=16 agosto 2019|accesso=19 agosto 2019|urlmorto=sì}}</ref>
+|-
+|A
+|[[Stephan El Shaarawy]]
+|{{Calcio Shanghai Shenhua|N}}
+|''definitivo'' (16 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/07/el-shaarawy-ceduto-allo-shanghai-shenhua|titolo=El Shaarawy ceduto allo Shangai Shenmua|data=8 luglio 2019|accesso=8 luglio 2019|urlmorto=sì}}</ref>
+|-
+|A
+|[[Grégoire Defrel]]
+|{{Calcio Sassuolo|N}}
+|''prestito oneroso'' (3 milioni €) ''con obbligo di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/08/gregoire-defrel-ceduto-in-prestito-al-sassuolo|titolo=Gregoire Defrel ceduto in prestito al Sassuolo|accesso=30 agosto 2019}}</ref>
+|-
+|A
+|[[Patrik Schick]]
+|{{Calcio RB Lipsia|N}}
+|''prestito oneroso'' (3,5 milioni €) ''con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2019/09/patrik-schick-in-prestito-al-lipsia|titolo=Patrik Schick in prestito al Lipsia|accesso=2 settembre 2019|dataarchivio=2 settembre 2019|urlarchivio=https://web.archive.org/web/20190902162447/https://www.asroma.com/it/notizie/2019/09/patrik-schick-in-prestito-al-lipsia|urlmorto=sì}}</ref>
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!a
+!Modalità
+|-
+|P
+|Andrea Romagnoli
+|{{Calcio Spartak Mosca|N}}
+|''definitivo'' (2,5 milioni €)<ref>{{Cita web|url=http://www.transfermarkt.it/andrea-romagnoli/transfers/spieler/391406/transfer_id/2525017|titolo=Andrea Romagnoli - Carriera|accesso=1º luglio 2019}}</ref>
+|-
+|P
+|Lorenzo Crisanto
+| -
+|''svincolato''
+|-
+|D
+|[[Matías Nani]]
+|[[Club Atlético Central Córdoba de Santiago del Estero|Central Córdoba]]
+|''prestito''<ref>{{Cita web|url=http://www.transfermarkt.it/matias-nani/transfers/spieler/486597/transfer_id/2558599|titolo=Matias Nani - Carriera|accesso=16 luglio 2019}}</ref>
+|-
+|D
+|Alessandro Bordin
+|[[Spezia Calcio|Spezia]]
+|''definitivo''<ref>{{Cita web|url=https://www.acspezia.com/news/mercato-arriva-bordin-va-in-prestito-alla-pistoiese.20382.html|titolo=Mercato: arriva Bordin, va in prestito alla Pistoiese|sito=Spezia Calcio - Sito ufficiale|accesso=11 agosto 2019}}</ref>
+|-
+|D
+|[[Elio Capradossi]]
+|[[Spezia Calcio|Spezia]]
+|''definitivo''<ref>{{Cita web|url=https://www.acspezia.com/news/mercato-elio-capradossi-torna-in-maglia-bianca.20372.html|titolo=Mercato: Elio Capradossi torna in maglia bianca|sito=Spezia Calcio - Sito ufficiale|accesso=1º agosto 2019}}</ref>
+|-
+|D
+|Emanuele Spinozzi
+|{{Calcio Pistoiese|N}}
+|''definitivo''<ref>{{Cita web|url=http://www.uspistoiese1921.it/arancione-titolo-definitivo-centrocampista-emanuele-spinozzi/|titolo=È arancione, a titolo definitivo, il centrocampista Emanuele Spinozzi|sito=US Pistoiese 1921|data=21 agosto 2019|accesso=21 agosto 2019|urlarchivio=https://web.archive.org/web/20190821233358/http://www.uspistoiese1921.it/arancione-titolo-definitivo-centrocampista-emanuele-spinozzi/|urlmorto=sì}}</ref>
+|-
+|C
+|Lorenzo Di Livio
+|[[Unione Sportiva Catanzaro 1929|Catanzaro]]
+|''definitivo''<ref>{{Cita web|url=https://www.uscatanzaro.net/martinelli-e-di-livio-a-disposizione-di-mister-auteri/|titolo=Martinelli e Di Livio a disposizione di mister Auteri|sito=UsCatanzaro.net|data=16 luglio 2019|accesso=17 luglio 2019}}</ref>
+|-
+|C
+|Salvatore Pezzella
+|[[Modena Football Club 2018|Modena]]
+|''prestito''<ref>{{Cita web|url=https://modenacalcio.com/preso-in-prestito-salvatore-pezzella/|titolo=Preso in prestito Salvatore Pezzella - Modena Calcio F.C. 2018|sito=modenacalcio.com|accesso=17 luglio 2019|urlarchivio=https://web.archive.org/web/20190717223427/https://modenacalcio.com/preso-in-prestito-salvatore-pezzella/|urlmorto=sì}}</ref>
+|-
+|C
+|[[Daniele Verde]]
+|[[Athlītikī Enōsis Kōnstantinoupoleōs|AEK Atene]]
+|''definitivo'' (1 milione €)<ref>{{Cita web|url=https://www.aekfc.gr/newsdetails/kitrinomavros-vernte-123091.htm?lang=el&path=80056828|titolo=«Κιτρινόμαυρος»... Βέρντε! < ΕΙΔΗΣΕΙΣ|sito=AEK F.C. Official Web Site|lingua=el|accesso=17 luglio 2019}}</ref>
+|-
+|C
+|Lorenzo Valeau
+|[[Imolese Calcio 1919|Imolese]]
+|''prestito''<ref>{{Cita web|url=http://www.imolesecalcio1919.it/2019/07/17/ufficiale-valeau-in-prestito-dalla-roma/|titolo=Ufficiale: Valeau all’Imolese in prestito dalla Roma|accesso=21 luglio 2019|urlarchivio=https://web.archive.org/web/20190717172624/http://www.imolesecalcio1919.it/2019/07/17/ufficiale-valeau-in-prestito-dalla-roma/|urlmorto=sì}}</ref>
+|-
+|C
+|[[Christian D'Urso]]
+|[[Associazione Sportiva Cittadella|Cittadella]]
+|''definitivo''<ref>{{Cita web|url=https://www.ascittadella.it/in-evidenza/durso-e-granata/|titolo=D’Urso è granata!}}</ref>
+|-
+|A
+|[[Ezequiel Ponce]]
+|{{Calcio Spartak Mosca|N}}
+|''definitivo'' (3 milioni €)<ref>{{Cita web|url=https://spartak.com/|titolo=Bienvenido, Ezequiel Ponce!|sito=FC «Spartak Moscow»|accesso=1º luglio 2019}}</ref>
+|-
+|A
+|[[Sadiq Umar]]
+|[[Fudbalski klub Partizan|Partizan Belgrado]]
+|''prestito oneroso'' (0,1 milioni €) ''con diritto di riscatto''<ref>{{Cita web|url=http://partizan.rs/213494-umar-sadikja-sam-partizan/|titolo=Umar Sadik : Ja sam Partizan!|sito=FK PARTIZAN|lingua=sr-RS|accesso=4 luglio 2019|urlarchivio=https://web.archive.org/web/20190704150413/http://partizan.rs/213494-umar-sadikja-sam-partizan|urlmorto=sì}}</ref>
+|-
+|A
+|[[Edoardo Soleri]]
+|[[Calcio Padova|Padova]]
+|''definitivo''<ref>{{Cita web|url=http://www.padovacalcio.it/edoardo-soleri-padova/|titolo=Edoardo Soleri è un giocatore del Calcio Padova|sito=Padova Calcio|data=10 luglio 2019|accesso=10 luglio 2019}}</ref>
+|-
+|A
+|[[Žan Celar]]
+|[[Associazione Sportiva Cittadella|Cittadella]]
+|''prestito''<ref>{{Cita web|url=https://www.ascittadella.it/in-evidenza/zan-celar-per-lattacco/|titolo=Zan Celar per l'attaccoǃ / A.S. Cittadella}}</ref>
+|-
+|A
+|Gianmarco Cangiano
+|{{Calcio Bologna|N}}
+|''definitivo'' (1,5 milioni €)<ref>{{Cita web|url=http://www.transfermarkt.it/gianmarco-cangiano/transfers/spieler/496270/transfer_id/2581835|titolo=Gianmarco Cangiano - Carriera|accesso=22 agosto 2019}}</ref>
+|-
+|A
+|Keba Coly
+|{{Calcio Rende|N}}
+|''prestito''<ref>{{Cita web|url=https://www.rendecalcio.it/prima-squadra/2019_08_31/dalla-roma-arriva-lattaccante-keba-coly_7036|titolo=Dalla Roma arriva l’attaccante Keba Coly. Saluta Leveque|sito=Rende Calcio 1968 - Casa Rende|data=31 agosto 2019|accesso=2 settembre 2019|dataarchivio=21 marzo 2023|urlarchivio=https://web.archive.org/web/20230321125857/https://www.rendecalcio.it/prima-squadra/2019_08_31/dalla-roma-arriva-lattaccante-keba-coly_7036|urlmorto=sì}}</ref>
+|}
+{{colonne fine}}
+===Sessione invernale (dall’1/1 al 31/1)===
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+|D
+|[[Bruno Peres]]
+|{{Calcio Sport Recife|N}}
+|''fine prestito''
+|-
+|D
+|[[Davide Zappacosta]]
+|{{Calcio Chelsea|N}}
+|''rinnovo prestito''
+|-
+|D
+|[[Roger Ibañez]]
+|{{Calcio Atalanta|N}}
+|''prestito con obbligo di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2020/01/ufficiale-la-roma-perfeziona-l-ingaggio-di-roger-ibanez|titolo=La Roma perfezione l'ingaggio di Roger Ibañez|sito=asroma.com|data=27 gennaio 2020|accesso=27 gennaio 2020|dataarchivio=27 gennaio 2020|urlarchivio=https://web.archive.org/web/20200127182649/https://www.asroma.com/it/notizie/2020/01/ufficiale-la-roma-perfeziona-l-ingaggio-di-roger-ibanez|urlmorto=sì}}</ref>
+|-
+|C
+|[[Gonzalo Villar]]
+|{{Calcio Elche|N}}
+|''definitivo'' (4 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2020/01/ufficiale-la-roma-perfeziona-l-ingaggio-di-gonzalo-villar|titolo=La Roma perfeziona l'ingaggio di Gonzalo Villar|sito=asroma.com|data=30 gennaio 2020|accesso=30 gennaio 2020|dataarchivio=30 gennaio 2020|urlarchivio=https://web.archive.org/web/20200130095736/https://www.asroma.com/it/notizie/2020/01/ufficiale-la-roma-perfeziona-l-ingaggio-di-gonzalo-villar|urlmorto=sì}}</ref>
+|-
+|C
+|[[Steven Nzonzi]]
+|{{Calcio Galatasaray|N}}
+|''fine prestito''
+|-
+|A
+|[[Carles Pérez]]
+|{{Calcio Barcellona|N}}
+|''prestito oneroso'' (1 milione €) ''con obbligo di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2020/01/ufficiale-carles-perez-e-un-calciatore-della-roma|titolo=La Roma perfeziona l'ingaggio di Carles Pérez|sito=asroma.com|data=30 gennaio 2020|accesso=30 gennaio 2020|dataarchivio=30 gennaio 2020|urlarchivio=https://web.archive.org/web/20200130111356/https://www.asroma.com/it/notizie/2020/01/ufficiale-carles-perez-e-un-calciatore-della-roma|urlmorto=sì}}</ref>
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!da
+!Modalità
+|-
+|P
+|Andrea Chiossi
+|{{Calcio Fiorentina|N}}
+|''definitivo''<ref name="LegaserieaCalciomercato" />
+|-
+|D
+|Francesco Semeraro
+|{{Calcio Ascoli|N}}
+|''prestito breve''<ref name="LegaserieaCalciomercato" />
+|-
+|C
+|Flavio Ciuferri
+|{{Calcio Lodigiani|N}}
+|''definitivo''<ref name="LegaserieaCalciomercato" />
+|-
+|C
+|Lorenzo Isaia
+|{{Calcio Lodigiani|N}}
+|''prestito breve''<ref name="LegaserieaCalciomercato" />
+|-
+|A
+|Oliver Jürgens
+|{{Calcio Verona|N}}
+|''prestito breve con diritto di riscatto''<ref name="LegaserieaCalciomercato" />
+|-
+|A
+|[[Žan Celar]]
+|{{Calcio Cittadella|N}}
+|''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+| D ||[[Mirko Antonucci]]||{{Calcio Vitoria Setubal|N}}||''prestito breve''<ref>{{Cita web|url=https://vfc.pt/2020/01/30/mirko-antonucci-e-reforco-do-vitoria-fc/|titolo=Mirko Antonucci è reforço do Vitória FC|sito=vfc.pt|lingua=pt|accesso=30 gennaio 2020|urlmorto=sì|dataarchivio=30 gennaio 2020|urlarchivio=https://web.archive.org/web/20200130153101/https://vfc.pt/2020/01/30/mirko-antonucci-e-reforco-do-vitoria-fc/}}</ref>
+|-
+| C ||[[Alessandro Florenzi]]||{{Calcio Valencia|N}}||''prestito breve''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2020/01/alessandro-florenzi-in-prestito-al-valencia|titolo=Alessandro Florenzi in prestito al Valencia|data=30 gennaio 2020|accesso=30 gennaio 2020|dataarchivio=30 gennaio 2020|urlarchivio=https://web.archive.org/web/20200130171514/https://www.asroma.com/it/notizie/2020/01/alessandro-florenzi-in-prestito-al-valencia|urlmorto=sì}}</ref>
+|-
+|C
+|[[Steven Nzonzi]]
+|{{Calcio Rennes|N}}
+|''prestito breve''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2020/01/nzonzi-passa-in-prestito-al-rennes|titolo=Nzonzi passa in prestito al Rennes|accesso=31 gennaio 2020|dataarchivio=31 gennaio 2020|urlarchivio=https://web.archive.org/web/20200131182611/https://www.asroma.com/it/notizie/2020/01/nzonzi-passa-in-prestito-al-rennes|urlmorto=sì}}</ref>
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!a
+!Modalità
+|-
+|C
+|Vittorio Agostinelli
+|{{Calcio Fiorentina|N}}
+|''definitivo''<ref>{{Cita web|url=http://www.legaseriea.it/it/serie-a/calcio-mercato?squadra=fiorentina|titolo=Lega Serie A Calciomercato|sito=legaseriea.it|accesso=31 gennaio 2020}}</ref>
+|-
+|A
+|[[Žan Celar]]
+|{{Calcio Cremonese|N}}
+|''prestito breve''<ref>{{Cita web|url=https://www.uscremonese.it/celar-nuovo-attaccante-grigiorosso/|titolo=Celar nuovo attaccante grigiorosso|sito=U.S. Cremonese|data=30 gennaio 2020|accesso=31 gennaio 2020|urlarchivio=https://web.archive.org/web/20210119185030/https://www.uscremonese.it/celar-nuovo-attaccante-grigiorosso/|urlmorto=sì}}</ref>
+|-
+|}
+{{colonne fine}}
+===Operazioni esterne alle sessioni===
+A causa della straordinarietà originata dalla [[Pandemia di COVID-19 del 2020 in Italia|emergenza COVID-19]], la quale ha spostato le ultime giornate di campionato ad una data successiva al naturale termine della stagione sportiva, la [[FIGC]] è intervenuta per dettare le linee guida sui legami in scadenza il 30 giugno [[2020]], stabilendo che l’estensione al 31 agosto 2020 della durata del tesseramento a titolo temporaneo della stagione [[Serie A 2019-2020|2019-2020]] deve essere pattuita fra le parti mediante sottoscrizione di apposito modulo federale con una trattativa privata.<ref>{{cita web|url=https://sport.sky.it/calcio/2020/06/20/contratti-scadenza-protocollo-figc|editore=[[Sky Sport]]|titolo=Contratti in scadenza, interviene la Figc: il protocollo con le linee guida|data=20 giugno 2020|accesso=16 settembre 2020}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+|D
+|[[Bruno Peres]]
+|{{Calcio San Paolo|N}}
+|''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+| D ||[[Bruno Peres]]||{{Calcio Sport Recife|N}}||''prestito breve''<ref>{{Cita web|url=https://twitter.com/sportrecife/status/1177187459169423361|titolo=Bruno Peres chega para o Sport até o final da Série B|sito=twitter.com|lingua=pt|accesso=28 settembre 2019}}</ref>
+|-
+| D ||[[Chris Smalling]]||{{Calcio Manchester United|N}}||''fine prestito''<ref name=smallingzappa>{{Cita web|url=https://www.asroma.com/it/notizie/2020/08/il-ringraziamento-della-roma-a-smalling-e-zappacosta-dopo-la-fine-del-prestito|titolo=Il ringraziamento della Roma a Smalling e Zappacosta dopo la fine del prestito|data=4 agosto 2020|accesso=5 agosto 2020|dataarchivio=26 settembre 2020|urlarchivio=https://web.archive.org/web/20200926114425/https://www.asroma.com/it/notizie/2020/08/il-ringraziamento-della-roma-a-smalling-e-zappacosta-dopo-la-fine-del-prestito|urlmorto=sì}}</ref>
+|-
+| D ||[[Davide Zappacosta]]||{{Calcio Chelsea|N}}||''fine prestito''<ref name=smallingzappa/>
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 2019-2020}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 agosto
+|Anno = 2019
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/1/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:38779}}
+|Arbitro = [[Gianpaolo Calvarese]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Cengiz Ünder|Ünder]] {{goal|6}}<br />[[Edin Džeko|Džeko]] {{goal|30}}<br />[[Aleksandar Kolarov|Kolarov]] {{goal|49}}
+|Marcatori 2 = {{goal|16}} [[Andrea Pinamonti|Pinamonti]]<br />{{goal|43|rig}} [[Domenico Criscito|Criscito]]<br />{{goal|70}} [[Christian Kouamé|Kouamé]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º settembre
+|Anno = 2019
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/2/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:48889}}
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Luis Alberto Romero Alconchel|Luis Alberto]] {{goal|59}}
+|Marcatori 2 = {{goal|17|rig}} [[Aleksandar Kolarov|Kolarov]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 2019
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sassuolo
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/3/ROMSAS
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:34407}}
+|Arbitro = [[Daniele Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Bryan Cristante|Cristante]] {{goal|12}}<br />[[Edin Džeko|Džeko]] {{goal|20}}<br />[[Henrix Mxit'aryan|Mxit'aryan]] {{goal|22}}<br />[[Justin Kluivert|Kluivert]] {{goal|33}}
+|Marcatori 2 = {{goal|52||72}} [[Domenico Berardi|Berardi]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 2019
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/4/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = {{formatnum:23153}}
+|Arbitro = [[Luca Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Nicola Sansone|Sansone]] {{goal|54|rig}}
+|Marcatori 2 = {{goal|49}} [[Aleksandar Kolarov|Kolarov]]<br />{{goal|90+3}} [[Edin Džeko|Džeko]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 2019
+|Ora = 19:00 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/5/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:31832}}
+|Arbitro = [[Massimiliano Irrati]]
+|Cittarbitro = [[Pistoia]]
+|Marcatori 2 = {{goal|71}} [[Duván Zapata|Zapata]]<br />{{goal|90}} [[Marten de Roon|De Roon]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 2019
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/6/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = {{formatnum:26044}}
+|Arbitro = [[Rosario Abisso]]
+|Cittarbitro = [[Palermo]]
+|Marcatori 2 = {{goal|56}} [[Edin Džeko|Džeko]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 ottobre
+|Anno = 2019
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/7/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34 358
+|Arbitro = [[Davide Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Luca Ceppitelli|Ceppitelli]] {{goal|31|aut.}}
+|Marcatori 2 = {{goal|26|rig}} [[João Pedro Geraldino dos Santos Galvão|João Pedro]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 ottobre
+|Anno = 2019
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/8/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:17031}}
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 2019
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/9/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:44000}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Edin Džeko|Džeko]] {{goal|38}}<br />[[Nicolò Zaniolo|Zaniolo]] {{goal|59}}
+|Marcatori 2 = {{goal|55}} [[Theo Hernández|Hernández]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 2019
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/10/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = {{formatnum:23854}}
+|Arbitro = [[Massimiliano Irrati]]
+|Cittarbitro = [[Pistoia]]
+|Marcatori 2 = {{goal|14}} [[Nicolò Zaniolo|Zaniolo]]<br />{{goal|51}} [[Chris Smalling|Smalling]]<br />{{goal|54}} [[Justin Kluivert|Kluivert]]<br />{{goal|66|rig}} [[Aleksandar Kolarov|Kolarov]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 novembre
+|Anno = 2019
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/11/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:34502}}
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Nicolò Zaniolo|Zaniolo]] {{goal|19}}<br />[[Jordan Veretout|Veretout]] {{goal|55|rig}}
+|Marcatori 2 = {{goal|72}} [[Arkadiusz Milik|Milik]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 novembre
+|Anno = 2019
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/12/PARROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = {{formatnum:18532}}
+|Arbitro = [[Michael Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Mattia Sprocati|Sprocati]] {{goal|68}}<br />[[Andreas Cornelius|Cornelius]] {{goal|90+3}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 novembre
+|Anno = 2019
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/13/ROMBRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:33695}}
+|Arbitro = [[Marco Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 = [[Chris Smalling|Smalling]] {{goal|49}}<br />[[Gianluca Mancini|Mancini]] {{goal|57}}<br />[[Edin Džeko|Džeko]] {{goal|66}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º dicembre
+|Anno = 2019
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Hellas Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/14/VERROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = {{formatnum:17405}}
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Davide Faraoni|Faraoni]] {{goal|21}}
+|Marcatori 2 = {{goal|17}} [[Justin Kluivert|Kluivert]]<br />{{goal|44|rig}} [[Diego Perotti|Perotti]]<br />{{goal|90+3}} [[Henrix Mxit'aryan|Mxit'aryan]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 2019
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/15/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:67008}}
+|Arbitro = [[Gianpaolo Calvarese]]
+|Cittarbitro = [[Teramo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 2019
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/16/ROMSPA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:34761}}
+|Arbitro = [[Antonio Giua]]
+|Cittarbitro = [[Olbia]]
+|Marcatori 1 = [[Nenad Tomović|Tomović]] {{goal|53|aut}}<br />[[Diego Perotti|Perotti]] {{goal|66|rig}}<br />[[Henrix Mxit'aryan|Mxit'aryan]] {{goal|83}}
+|Marcatori 2 = {{goal|44|rig}} [[Andrea Petagna|Petagna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 2019
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/17/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = {{formatnum:33055}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Milan Badelj|Badelj]] {{goal|34}}
+|Marcatori 2 = {{goal|19}} [[Edin Džeko|Džeko]]<br />{{goal|21}} [[Aleksandar Kolarov|Kolarov]]<br />{{goal|73}} [[Lorenzo Pellegrini|Pellegrini]]<br />{{goal|88}} [[Nicolò Zaniolo|Zaniolo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 gennaio
+|Anno = 2020
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto =http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/18/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:38954}}
+|Arbitro = [[Marco Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 2 = {{goal|45+2||86|rig.}} [[Andrea Belotti|Belotti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 2020
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/19/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60513}}
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Diego Perotti|Perotti]] {{goal|68|rig}}
+|Marcatori 2 = {{goal|3}} [[Merih Demiral|Demiral]]<br />{{goal|10|rig}} [[Cristiano Ronaldo|Ronaldo]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 gennaio
+|Anno = 2020
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/20/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:20951}}
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Goran Pandev|Pandev]] {{goal|45}}
+|Marcatori 2 = {{goal|6}} [[Cengiz Ünder|Ünder]]<br />{{goal|44|aut}} [[Davide Biraschi|Biraschi]]<br />{{goal|74}} [[Edin Džeko|Džeko]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 gennaio
+|Anno = 2020
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/21/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:59902}}
+|Arbitro = [[Gianpaolo Calvarese]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Edin Džeko|Džeko]] {{goal|26}}
+|Marcatori 2 = {{goal|34}} [[Francesco Acerbi|Acerbi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1 febbraio
+|Anno = 2020
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Sassuolo
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/22/SASROM
+|Città = [[Reggio Emilia]]
+|Stadio = [[Mapei Stadium]]
+|Spettatori = {{formatnum:13411}}
+|Arbitro = [[Luca Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Francesco Caputo (calciatore)|Caputo]] {{goal|7||16}}<br />[[Filip Đuričić|Đuričić]] {{goal|26}}<br />[[Jeremie Boga|Boga]] {{goal|74}}
+|Marcatori 2 = {{goal|51}} [[Edin Džeko|Džeko]]<br/>{{goal|73|rig}} [[Jordan Veretout|Veretout]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 2020
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/23/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:31808}}
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Stefano Denswil|Denswil]] {{goal|22|aut}}<br />[[Henrix Mxit'aryan|Mxit'aryan]] {{goal|72}}
+|Marcatori 2 = {{goal|16}} [[Riccardo Orsolini|Orsolini]]<br />{{goal|26||51}} [[Musa Barrow|Barrow]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 2020
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/24/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Gewiss Stadium]]
+|Spettatori = {{formatnum:19830}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[José Luis Palomino|Palomino]] {{goal|50}}<br />[[Mario Pašalić|Pašalić]] {{goal|59}}
+|Marcatori 2 = {{goal|45}} [[Edin Džeko|Džeko]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 2020
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/25/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:34293}}
+|Arbitro = [[Piero Giacomelli]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Cengiz Ünder|Ünder]] {{goal|13}}<br/>[[Henrix Mxit'aryan|Mxit'aryan]] {{goal|37}}<br/>[[Edin Džeko|Džeko]] {{goal|69}}<br/>[[Aleksandar Kolarov|Kolarov]] {{goal|80}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 2020
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/26/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Sardegna Arena]]
+|Spettatori = {{formatnum:14848}}
+|Arbitro = [[Marco Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 = [[João Pedro Geraldino dos Santos Galvão|João Pedro]] {{goal|28||89}}<br />[[Gastón Pereiro|Pereiro]] {{goal|75}}
+|Marcatori 2 = {{goal|29||42}} [[Nikola Kalinić|Kalinić]]<br />{{goal|64}} [[Justin Kluivert|Kluivert]]<br />{{goal|81}} [[Henrix Mxit'aryan|Mxit'aryan]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 giugno<ref name="rinv1">Partita rinviata a tale data per ragioni di pubblica sicurezza.</ref>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/27/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse">Incontro disputatosi a porte chiuse a causa della [[pandemia di COVID-19 del 2020 in Italia]], cfr. {{cita pubblicazione|url=https://www.figc.it/media/120294/173-competizioni-calcistiche-lega-nazionale-professionisti-serie-a-a-porte-chiuse.pdf|titolo=Comunicato ufficiale n. 173/A del 4 marzo 2020|data=4 marzo 2020}} Cfr. {{cita pubblicazione|url=https://www.figc.it/media/121703/218-autorizzazione-svolgimento-competizioni-sportive-calcistiche-in-ambito-professionistico-sotto-legida-della-figc.pdf|titolo=Comunicato ufficiale n. 218/A del 12 giugno 2020|data=12 giugno 2020}}</ref>
+|Arbitro = [[Gianpaolo Calvarese]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Edin Džeko|Džeko]] {{goal|64||85}}
+|Marcatori 2 = {{goal|11}} [[Manolo Gabbiadini|Gabbiadini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 giugno<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 17:15 [[Central European Summer Time|CEST]]
+|Turno = 28ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/28/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Piero Giacomelli]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Ante Rebić|Rebić]] {{goal|76}}<br/>[[Hakan Çalhanoğlu|Çalhanoğlu]] {{goal|89|rig}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/29/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 0<ref name="portechiuse"/>
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 2 = {{goal|12}} [[Kevin Lasagna|Lasagna]]<br />{{goal|78}} [[Ilija Nestorovski|Nestorovski]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 30ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/30/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[José María Callejón|Callejón]] {{goal|55}}<br/>[[Lorenzo Insigne|Insigne]] {{goal|82}}
+|Marcatori 2 = {{goal|60}} [[Henrikh Mkhitaryan|Mkhitaryan]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/31/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Michael Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Henrikh Mkhitaryan|Mkhitaryan]] {{goal|43}}<br/>[[Jordan Veretout|Veretout]] {{goal|57}}
+|Marcatori 2 = {{goal|9|rig}} [[Juraj Kucka|Kucka]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 19:30 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/32/BREROM
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Gianpaolo Calvarese]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 2 = {{goal|48}} [[Federico Fazio|Fazio]]<br/>{{goal|62}} [[Nikola Kalinić|Kalinić]]<br/>{{goal|74}} [[Nicolò Zaniolo|Zaniolo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Hellas Verona
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/33/ROMVER
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Jordan Veretout|Veretout]] {{goal|10|rig}}<br/>[[Edin Džeko|Džeko]] {{goal|45+4}}
+|Marcatori 2 = {{goal|47}} [[Matteo Pessina|Pessina]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/34/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Marco Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 = [[Leonardo Spinazzola|Spinazzola]] {{goal|45+1}}<br/>[[Henrix Mxit'aryan|Mxit'aryan]] {{goal|57}}
+|Marcatori 2 = {{goal|15}} [[Stefan de Vrij|de Vrij]]<br/>{{goal|88|rig}} [[Romelu Lukaku|Lukaku]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 6
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/35/SPAROM
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Gianluca Manganiello]]
+|Cittarbitro = [[Pinerolo]]
+|Marcatori 1 = [[Alberto Cerri|Cerri]] {{goal|24}}
+|Marcatori 2 = {{goal|12}} [[Nikola Kalinić|Kalinić]]<br/>{{goal|38}} [[Carles Pérez|Pérez]]<br/>{{goal|47}} [[Aleksandar Kolarov|Kolarov]]<br/>{{goal|52||75}} [[Bruno Peres]]<br/>{{goal|90}} [[Nicolò Zaniolo|Zaniolo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 19:30 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/36/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Daniele Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Jordan Veretout|Veretout]] {{goal|45|rig|86|rig}}
+|Marcatori 2 = {{goal|54}} [[Nikola Milenković|Milenković]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 luglio<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 21:45 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/37/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Marco Piccinini (arbitro)|Marco Piccinini]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Alex Berenguer|Berenguer]] {{goal|14}}<br/>[[Wilfried Singo|Singo]] {{goal|65}}
+|Marcatori 2 = {{goal|16}} [[Edin Džeko|Džeko]]<br/>{{goal|23}} [[Chris Smalling|Smalling]]<br/>{{goal|61|rig}} [[Amadou Diawara|Diawara]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º agosto<ref name="rinv1"/>
+|Anno = 2020
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2019-20/UNICO/UNI/38/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Allianz Stadium (Torino)|Allianz Stadium]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Gonzalo Higuaín|Higuaín]] {{goal|5}}
+|Marcatori 2 = {{goal|23}} [[Nikola Kalinić|Kalinić]]<br/>{{goal|44|rig|53}} [[Diego Perotti|Perotti]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2019-2020}}
+==== Fase finale ====
+{{Vedi anche|Coppa Italia 2019-2020 (fase finale)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2020
+|Ora = 21:15 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/coppa-italia/match-report/2019-20/OTTAV/UNI/1/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = {{formatnum:17997}}
+|Arbitro = [[Luca Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|50||76|rig||}} [[Lorenzo Pellegrini|Pellegrini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 2020
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Quarti di finale
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/coppa-italia/match-report/2019-20/QUART/UNI/1/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Allianz Stadium (Torino)|Allianz Stadium]]
+|Spettatori = {{formatnum:40791}}
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Cristiano Ronaldo|Ronaldo]] {{goal|26}}<br />[[Rodrigo Bentancur|Bentancur]] {{goal|38}}<br />[[Leonardo Bonucci|Bonucci]] {{goal|47}}
+|Marcatori 2 = {{goal|50|aut}} [[Gianluigi Buffon|Buffon]]
+|Sfondo = on
+}}
+
+=== UEFA Europa League ===
+{{vedi anche|UEFA Europa League 2019-2020}}
+==== Fase a gironi ====
+{{vedi anche|UEFA Europa League 2019-2020 (fase a gironi)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 2019
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Istanbul Basaksehir
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/season=2020/matches/round=2001150/match=2027795/?iv=true
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:21348}}
+|Arbitro = [[Javier Estrada Fernández]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Júnior Caiçara|Caiçara]] {{goal|42|aut}}<br />[[Edin Džeko|Džeko]] {{goal|58}}<br />[[Nicolò Zaniolo|Zaniolo]] {{goal|70}}<br />[[Justin Kluivert|Kluivert]] {{goal|90+3}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 2019
+|Ora = 18:55 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Wolfsberger
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001150/match=2027807/?iv=true
+|Città = [[Graz]]
+|Stadio = [[Stadion Graz-Liebenau]]
+|Spettatori = {{formatnum:11169}}
+|Arbitro = [[Tiago Martins]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Michael Liendl|Liendl]] {{goal|51}}
+|Marcatori 2 = {{goal|27}} [[Leonardo Spinazzola|Spinazzola]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 2019
+|Ora = 18:55 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Borussia Monchengladbach
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001150/match=2027832/?iv=true
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:29037}}
+|Arbitro = [[William Collum]]
+|Nazarbitro = SCO
+|Marcatori 1 = [[Nicolò Zaniolo|Zaniolo]] {{goal|32}}
+|Marcatori 2 = {{goal|90+5|rig}} [[Lars Stindl|Stindl]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 2019
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 4ª giornata
+|Squadra 1 = Borussia Monchengladbach
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001150/match=2027868/?iv=true
+|Città =[[Mönchengladbach]]
+|Stadio = [[Stadion im Borussia-Park]]
+|Spettatori = {{formatnum:44500}}
+|Arbitro = [[Jesús Gil Manzano]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Federico Fazio|Fazio]] {{goal|35|aut}}<br />[[Marcus Thuram|Thuram]] {{goal|90+5}}
+|Marcatori 2 = {{goal|64}} [[Federico Fazio|Fazio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 2019
+|Ora = 18:55 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Istanbul Basaksehir
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001150/match=2027879/?iv=true
+|Città = [[Istanbul]]
+|Stadio = [[Stadio Başakşehir Fatih Terim]]
+|Spettatori = {{formatnum:12879}}
+|Arbitro = [[Ovidiu Hațegan]]
+|Nazarbitro = ROU
+|Marcatori 1 =
+|Marcatori 2 = {{goal|30|rig}} [[Jordan Veretout|Veretout]]<br />{{goal|41}} [[Justin Kluivert|Kluivert]]<br  />{{goal|45+1}} [[Edin Džeko|Džeko]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 2019
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Wolfsberger
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001150/match=2027915/?iv=true
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:21672}}
+|Arbitro = [[Craig Pawson]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Diego Perotti|Perotti]] {{goal|7|rig}}<br />[[Edin Džeko|Džeko]] {{goal|19}}
+|Marcatori 2 = {{goal|10|aut}} [[Alessandro Florenzi|Florenzi]]<br />{{goal|64}} [[Shon Weissman|Weissman]]
+|Sfondo = on
+}}
+
+==== Fase a eliminazione diretta ====
+{{vedi anche|UEFA Europa League 2019-2020 (fase a eliminazione diretta)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 2020
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Gent
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001151/match=2028198/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:28248}}
+|Arbitro = [[Georgi Kabakov]]
+|Nazarbitro = BGR
+|Marcatori 1 = [[Carles Pérez|Pérez]] {{goal|13}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 2020
+|Ora = 18:55 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Gent
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefaeuropaleague/season=2020/matches/round=2001151/match=2028214/?iv=true
+|Città = [[Gand]]
+|Stadio = [[Ghelamco Arena]]
+|Spettatori = {{formatnum:17557}}
+|Arbitro = [[José María Sánchez Martínez]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Jonathan David|David]] {{goal|25}}
+|Marcatori 2 = {{goal|29}} [[Justin Kluivert|Kluivert]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 agosto
+|Anno = 2020
+|Ora = 18:55 [[Central European Summer Time|CEST]]<ref>Il turno, che prevedeva la gara di andata il 12 marzo 2020 allo [[Stadio Ramón Sánchez-Pizjuán]] ([[Siviglia]]) e quella di ritorno il 19 marzo allo [[Stadio Olimpico (Roma)|Stadio Olimpico]] ([[Roma]]), è stato rinviato al 6 agosto alla [[Schauinsland-Reisen-Arena]] ([[Duisburg]]) in gara unica, cfr. {{cita web|url=https://it.uefa.com/uefaeuropaleague/news/025e-0f9a46d2fdb9-91e0ca7fc7fb-1000--l-europa-league-riparte-il-5-agosto-finale-il-21-agosto/|titolo=L'Europa League riparte il 5 agosto, finale il 21 agosto|data=17 giugno 2020}}</ref>
+|Turno = Ottavi di finale - Gara Unica
+|Squadra 1 = Siviglia
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.uefa.com/uefaeuropaleague/match/2028229--sevilla-vs-roma/
+|Città = [[Duisburg]]
+|Stadio = [[Schauinsland-Reisen-Arena]]
+|Spettatori = {{formatnum:0}}<ref name="portechiuse"/>
+|Arbitro = [[Björn Kuipers]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Sergio Reguilón|Reguilón]] {{goal|22}}<br/>[[Youssef En-Nesyri|En-Nesyri]] {{goal|44}}
+|Marcatori 2 =
+|Sfondo =
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+''Statistiche aggiornate al 6 agosto 2020.''
+<div style="font-size:90%">
+{{Statistiche_squadra
+|comp1=[[Serie A 2019-2020|Serie A]]
+|punti1=70
+|cv1=10
+|cn1=4
+|cp1=5
+|cgf1=36
+|cgs1=27
+|tv1=11
+|tn1=3
+|tp1=5
+|tgf1=41
+|tgs1=24
+|nv1=0
+|nn1=0
+|np1=0
+|ngf1=0
+|ngs1=0
+|comp2=[[Coppa Italia 2019-2020|Coppa Italia]]
+|punti2=-
+|cv2=0
+|cn2=0
+|cp2=0
+|cgf2=0
+|cgs2=0
+|tv2=1
+|tn2=0
+|tp2=1
+|tgf2=3
+|tgs2=3
+|nv2=0
+|nn2=0
+|np2=0
+|ngf2=0
+|ngs2=0
+|comp3=[[UEFA Europa League 2019-2020|Europa League]]
+|punti3=9
+|cv3=2
+|cn3=2
+|cp3=0
+|cgf3=8
+|cgs3=3
+|tv3=1
+|tn3=2
+|tp3=1
+|tgf3=6
+|tgs3=4
+|nv3=0
+|nn3=0
+|np3=1
+|ngf3=0
+|ngs3=2
+}}
+{{colonne fine}}
+
+=== Andamento in campionato ===
+{{Andamento |nr=38}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=T |m16=C |m17=T |m18=C |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T |m31=C |m32=T |m33=C |m34=C |m35=T |m36=C |m37=T |m38=T}}
+{{Andamento/Risultato |m1=N| m2=N |m3=V |m4=V |m5=P |m6=V |m7=N |m8=N |m9=V |m10=V |m11=V |m12=P |m13=V |m14=V |m15=N |m16=V |m17=V |m18=P |m19=P |m20=V |m21=N |m22=P |m23=P |m24=P |m25=V |m26=V |m27=V  |m28=P |m29=P |m30=P |m31=V |m32=V |m33=V |m34=N |m35=V |m36=V |m37=V |m38=V}}
+{{Andamento/Posizione |m1=9 |m2=15 |m3=8 |m4=4 |m5=7 |m6=5 |m7=5 |m8=6 |m9=5 |m10=4 |m11=3 |m12=5 |m13=4 |m14=4 |m15=4 |m16=4 |m17=4 |m18=4 |m19=4 |m20=4 |m21=4 |m22=4 |m23=5 |m24=5 |m25=5 |m26=5 |m27=5 |m28=5 |m29=5 |m30=5 |m31=5 |m32=5 |m33=5 |m34=5 |m35=5 |m36=5 |m37=5 |m38=5}}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Europa League
+| {{Sortname|M.|Antonucci|Mirko Antonucci}}<ref name=c.s.i.c./> {{Sommastat|2|0|1|0|0|0|0|0|2|0|1|0}}
+| {{Sortname||Bruno Peres}} {{Sommastat|16|2|3|0|2|0|0|0|1|0|0|0}}
+| {{Sortname|R.|Calafiori|Riccardo Calafiori}}<ref name=seconda/> {{Sommastat|1|0|0|0|0|0|0|0|0|0|0|0}}
+| {{Sortname|A.|Ćorić|Ante Ćorić}}<ref name=prima/> {{Sommastat|0|0|0|0|0|0|0|0|0|0|0|0}}
+| {{Sortname|B.|Cristante|Bryan Cristante}} {{Sommastat|26|1|7|1|2|0|1|0|5|0|1|0}}
+| {{Sortname|G.|Defrel|Grégoire Defrel}}<ref name=prima/> {{Sommastat|0|0|0|0|0|0|0|0|0|0|0|0}}
+| {{Sortname|A.|Diawara|Amadou Diawara}} {{Sommastat|22|1|4|0|2|0|0|0|6|0|3|0}}
+| {{Sortname|E.|Džeko|Edin Džeko}} {{Sommastat|35|16|4|0|0|0|0|0|8|3|0|0}}
+| {{Sortname|F.|Fazio|Federico Fazio}} {{Sommastat|16|1|2|1|0|0|0|0|7|1|0|0}}
+| {{Sortname|A.|Florenzi|Alessandro Florenzi}}<ref name=c.s.i.c./> {{Sommastat|14|0|5|0|2|0|0|0|2|0|0|0}}
+| {{Sortname|D.|Fuzato|Daniel Fuzato}} {{Sommastat|1|-1|0|0|0|-0|0|0|0|-0|0|0}}
+| {{Sortname|R.|Ibañez|Roger Ibañez}}<ref name=a.s.i.c./> {{Sommastat|9|0|1|0|0|0|0|0|1|0|0|0}}
+| {{Sortname||Juan Jesus}} {{Sommastat|4|0|2|0|0|0|0|0|1|0|1|0}}
+| {{Sortname|N.|Kalinić|Nikola Kalinić}} {{Sommastat|15|5|1|0|2|0|0|0|2|0|0|0}}
+| {{Sortname|J.|Kluivert|Justin Kluivert}} {{Sommastat|22|4|6|1|2|0|0|0|7|3|1|0}}
+| {{Sortname|A.|Kolarov|Aleksandar Kolarov}} {{Sommastat|32|7|6|0|2|0|0|0|8|0|2|0}}
+| {{Sortname||Pau López}} {{Sommastat|32|-45|3|0|2|-3|0|0|8|-6|0|0}}
+| {{Sortname|G.|Mancini|Gianluca Mancini}} {{Sommastat|32|1|15|1|2|0|0|0|7|0|1|1}}
+| {{Sortname|M.|Çetin|Mert Çetin}} {{Sommastat|6|0|4|1|0|0|0|0|0|0|0|0}}
+| {{Sortname|A.|Mirante|Antonio Mirante}} {{Sommastat|5|-5|0|0|0|-0|0|0|2|-2|0|0}}
+| {{Sortname|H.|Mxit'aryan|Henrix Mxit'aryan}} {{Sommastat|22|9|5|0|0|0|0|0|5|0|0|0}}
+| {{Sortname|R.|Olsen|Robin Olsen}}<ref name=prima/> {{Sommastat|0|-0|0|0|0|-0|0|0|0|-0|0|0}}
+| {{Sortname|J.|Pastore|Javier Pastore}} {{Sommastat|11|0|0|0|0|0|0|0|4|0|0|0}}
+| {{Sortname|L.|Pellegrini|Lorenzo Pellegrini}} {{Sommastat|27|1|8|1|2|2|1|0|5|0|1|0}}
+| {{Sortname|C.|Pérez|Carles Pérez}}<ref name=a.s.i.c./> {{Sommastat|14|1|2|0|0|0|0|0|3|1|0|0}}
+| {{Sortname|D.|Perotti|Diego Perotti}} {{Sommastat|21|5|2|1|1|0|0|0|4|1|0|0}}
+| {{Sortname|D.|Santon|Davide Santon}} {{Sommastat|15|0|4|0|1|0|0|0|5|0|1|0}}
+| {{Sortname|P.|Schick|Patrik Schick}}<ref name=prima/> {{Sommastat|0|0|0|0|0|0|0|0|0|0|0|0}}
+| {{Sortname|C.|Smalling|Chris Smalling}} {{Sommastat|30|3|3|0|2|0|0|0|5|0|2|0}}
+| {{Sortname|L.|Spinazzola|Leonardo Spinazzola}} {{Sommastat|24|1|2|0|0|0|0|0|8|1|1|0}}
+| {{Sortname|C.|Ünder|Cengiz Ünder}} {{Sommastat|18|3|2|0|2|0|1|0|3|0|0|0}}
+| {{Sortname|J.|Veretout|Jordan Veretout}} {{Sommastat|33|6|6|0|2|0|0|0|8|1|3|0}}
+| {{Sortname|G.|Villar|Gonzalo Villar}}<ref name=a.s.i.c./> {{Sommastat|9|0|3|0|0|0|0|0|2|0|0|0}}
+| {{Sortname|N.|Zaniolo|Nicolò Zaniolo}} {{Sommastat|26|6|8|0|0|0|0|0|7|2|1|0}}
+| {{Sortname|D.|Zappacosta|Davide Zappacosta}} {{Sommastat|9|0|0|0|0|0|0|0|0|0|0|0}}
+}}
+== Giovanili ==
+=== Organigramma societario ===
+<ref>{{cita web|url= https://www.asroma.com/it/squadra/giovanili|titolo=Giovanili|accesso=17 dicembre 2019}}</ref>
+{{colonne}}
+Responsabile Settore Giovanile: [[Bruno Conti|B. Conti]]<br />
+{{Colonne spezza}}
+'''''Primavera'''''<br />
+Allenatore: A. De Rossi<br />
+{{Colonne spezza}}
+'''''Under 17'''''<br />
+Allenatore: [[Fabrizio Piccareta|F. Piccareta]]<br />
+{{Colonne spezza}}
+'''''Under 16'''''<br />
+Allenatore: A. Parisi<br />
+{{Colonne spezza}}
+'''''Under 15'''''<br />
+Allenatore: T. Tanrivermis<br />
+{{Colonne spezza}}
+'''''Pulcini'''''<br />
+Allenatore: G. Caragiuli<br />
+{{colonne fine}}
+=== Piazzamenti ===
+==== Primavera ====
+* [[Campionato Primavera 1 2019-2020|Campionato]]: 6º posto
+* [[Coppa Italia Primavera 2019-2020|Coppa Italia]]: Semifinalista
+== Note ==
+<references />
+{{Calcio Roma storico}}
+{{Calcio in Italia 2019-2020}}
+{{Portale|calcio}}

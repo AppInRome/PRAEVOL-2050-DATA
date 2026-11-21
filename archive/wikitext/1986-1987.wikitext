@@ -1,0 +1,1098 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1986-1987
+|immagine = Associazione Sportiva Roma 1986-87.jpg
+|allenatore1 = {{Bandiera|SWE}} [[Sven-Göran Eriksson]]<ref>Fino alla 28ª giornata.</ref>
+|titolo allenatore1 = Direttore tecnico
+|allenatore2 = {{Bandiera|BRA 1968-1992}} [[Angelo Sormani]]
+|titolo allenatore2 = Allenatore
+|presidente = {{Bandiera|ITA}} [[Dino Viola]]
+|campionato = [[Serie A 1986-1987|Serie A]]
+|campionato posizione = 7º
+|coppa1 = [[Coppa Italia 1986-1987|Coppa Italia]]
+|coppa1 posizione = Ottavi di finale
+|coppa2 = [[Coppa delle Coppe 1986-1987|Coppa delle Coppe]]
+|coppa2 posizione = Sedicesimi di finale
+|presenze campionato = [[Franco Tancredi|Tancredi]] (30)
+|presenze totale = Tancredi (39)
+|marcatore campionato = [[Klaus Berggreen|Berggreen]], [[Stefano Desideri|Desideri]] (5)
+|marcatore totale = Berggreen, Desideri, [[Massimo Agostini|Agostini]] (5)
+|spettatori max = {{formatnum:64515}} vs {{Calcio Napoli|N}}<br/>(26 ottobre 1986)<ref name=stadiapost/>
+|spettatori min = {{formatnum:37175}} vs {{Calcio Ascoli|N}}<br/>(26 aprile 1987)<ref name=stadiapost/>
+|spettatori media = {{formatnum:50826}}<ref name=stadiapost>{{cita web|lingua=en|url=https://www.stadiapostcards.com/A86-87.htm|titolo=Attendance Statistics of Serie A 1986-1987|sito=stadiapostcards.com}}</ref>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:22479}}<ref name=stadiapost/>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1985-1986|1985-1986]]
+|stagione dopo = [[Associazione Sportiva Roma 1987-1988|1987-1988]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1986-1987'''.
+== Stagione ==
+Questa è l'ultima stagione per lo svedese [[Sven-Göran Eriksson]] sulla panchina della Roma, dimessosi a due giornate dalla fine del campionato e sostituito dal suo collaboratore [[Angelo Sormani]]. La squadra termina il campionato al settimo posto; dopo un inizio deludente e avendo recuperato posizioni fino a portarsi al secondo posto a inizio marzo, la Roma sciupa però tutto nel finale, in cui, a secco di vittorie nelle ultime partite, perde posizioni, restando fuori dalle coppe: a poche giornate dalla fine pesò tremendamente sull’economia della squadra la rottura del crociato del leader tecnico giallorosso [[Sebastiano Nela]].<ref name=cor6>{{cita|Romano|titolo=1984-1991 La Roma formato Coppa Italia}}.</ref> Al di sotto delle aspettative anche i cammini nelle coppe, prematuramente interrotti da avversari sfavoriti dai pronostici.
+
+== Divise e sponsor ==
+[[File:Roma 1986-87, Bruno Conti e Roberto Pruzzo.jpg|thumb|[[Bruno Conti]] e [[Roberto Pruzzo]] posano con la maglia [[NR (Ennerre)|NR]], nella variante invernale]]
+Cessato il contratto con Kappa, a partire da questa stagione e per i successivi cinque anni, lo sponsor tecnico è [[NR (Ennerre)|NR]]; lo sponsor ufficiale è [[Barilla]]. La prima divisa è costituita da maglia rossa con colletto a polo giallo, pantaloncini rossi e calzettoni rossi bordati di giallo. In trasferta i Lupi usano una maglia bianca con colletto a polo rosso, pantaloncini bianchi, calzettoni bianchi bordati di giallorosso. I portieri usano una divisa costituita pantaloncini e calzettoni neri abbinati a maglie con colletto a polo azzurre con decorazioni nere. Tutte le divise presentano la coccarda della [[Coppa Italia]] cucita sul petto.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 160-163}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma8687h2
+|leftarm = 810b19
+|pattern_b = _asroma8687h2
+|body = 6a0c27
+|pattern_ra =_asroma8687h2
+|rightarm = 810b19
+|shorts = 810b19
+|pattern_so =_asroma8491h
+|socks = 6a0c27
+|title = Casa<br/><small>(estiva)</small>
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma80s90s
+|leftarm = 810b19
+|pattern_b = _asroma8687h
+|body = 6a0c27
+|pattern_ra =_asroma80s90s
+|rightarm = 810b19
+|shorts = 810b19
+|pattern_so =_asroma8491h
+|socks = 6a0c27
+|title = Casa<br/><small>(invernale)</small>
+}}
+|
+{{Divisa Calcio
+| pattern_la = _asroma8691a
+| pattern_b  =_asroma8687a
+| pattern_ra = _asroma8691a
+| leftarm    = FFFFFF
+| body       = 900010
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| pattern_so = _asroma8687a
+| socks      = FFFFFF
+|title      = Trasferta<br/><small>(estiva)</small>
+}}
+|
+{{Divisa Calcio
+| pattern_la = _asroma8691a
+| pattern_b  =_asroma8687a
+| pattern_ra = _asroma8691a
+| leftarm    = FFFFFF
+| body       = 900010
+| rightarm   = FFFFFF
+| shorts     = FFFFFF
+| pattern_so = _asroma8691a
+| socks      = FFFFFF
+|title      = Trasferta<br/><small>(invernale)</small>
+}}
+|
+{{Divisa Calcio
+|pattern_la =_blackborder
+|leftarm = 91b8c7
+|pattern_b =_asroma8687gk
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = 91b8c7
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor6/>
+{{Colonne}}
+'''''Area direttiva'''''
+:Presidente: [[Dino Viola]]
+:Direttore generale: Dario Borgogno
+{{Colonne spezza}}
+'''''Area tecnica'''''
+:Segretario sportivo: [[Giorgio Perinetti]]
+:Direttore tecnico: [[Sven-Göran Eriksson]], da aprile carica vacante
+:Allenatore: [[Angelo Sormani]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 86/87">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1986|titolo=Rosa AS Roma - Saison 86/87|accesso=11 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Attilio Gregori]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Paolo Onorati<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Tancredi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Marco Baroni (allenatore)|Marco Baroni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Settimio Lucci]]''|ruolo=D}}<ref name="Cessione autunno">Ceduto durante la sessione autunnale di calciomercato.</ref>
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Mastrantonio]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sebastiano Nela]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Emidio Oddi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ubaldo Righetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Carlo Ancelotti]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=DNK|nome=[[Klaus Berggreen]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Bianchi (calciatore 1970)|Andrea Bianchi]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bruno Conti]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Desideri]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Di Carlo]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Impallomeni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Manuel Gerolin]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''Antonio Gespi''<ref name="Cessione autunno"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Elio Pecoraro<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Massimo Agostini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Baldieri]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=POL|nome=[[Zbigniew Boniek]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Nicola Palermo<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Marcello Porciatti<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Pruzzo]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 86/87"/>
+=== Sessione estiva ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| D || [[Marco Baroni (allenatore)|Marco Baroni]] || {{Calcio Udinese|N}} || ''definitivo''
+|-
+| C || [[Klaus Berggreen]] || {{Calcio Pisa|N}} || ''definitivo'' (4 Mld. £)<ref>{{cita web|url=http://www.sestaporta.com/klaus-berggreen-grazie-pisa-se-non-avessi-iniziato-qui-non-sare-stato-cosi-famoso/|titolo=Klaus Berggreen: “Grazie Pisa, se non avessi iniziato qui non sarei stato così famoso”|sito=sestaporta.com|data=30 maggio 2017}}</ref>
+|-
+| C || [[Angelo Di Livio]] || {{Calcio Reggiana|N}} || ''fine prestito''
+|-
+| A || [[Massimo Agostini]] || {{Calcio Cesena|N}} || ''fine prestito''
+|-
+| A || [[Paolo Baldieri]] || {{Calcio Pisa|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| P || Pietro Santinelli || {{Calcio Reggiana|N}} || ''definitivo''
+|-
+| D || Guido Belardinelli || {{Calcio Carrarese|N}} || ''definitivo''
+|-
+| D || [[Dario Bonetti]] || {{Calcio Milan|N}} || ''definitivo'' (2 Mld. £)<ref>{{cita libro|titolo=Calciatori - La raccolta completa Panini 1961-2012|editore=Panini|data=21 maggio 2012|p=10|volume=Vol. 3 (1986-1987)}}</ref>
+|-
+| C || Vincenzo Bencivenga || {{Calcio Udinese|N}} || ''definitivo''
+|-
+| C || [[Toninho Cerezo]] || {{Calcio Sampdoria|N}} || ''definitivo''
+|-
+| C || [[Angelo Di Livio]] || {{Calcio Nocerina|N}} || ''prestito''
+|-
+| C || Fabio Petiti || ? ||
+|-
+| A || [[Francesco Graziani]] || {{Calcio Udinese|N}} || ''definitivo''
+|-
+| A || Stefano Papa || {{Calcio Lanciano|N}} || ''definitivo''
+|-
+| A || [[Sandro Tovalieri]] || {{Calcio Avellino|N}} || ''definitivo''
+|}
+{{colonne fine}}
+=== Sessione autunnale ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Settimio Lucci]] || {{Calcio Empoli|N}} || ''definitivo''
+|-
+| C || Antonio Gespi || {{Calcio Civitanovese|N}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1986-1987}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Turno = 1ª giornata
+|Giornomese = 14 settembre
+|Anno = 1986
+|Ora = 16:00
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/1/ROMCOM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 53.456
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 2ª giornata
+|Giornomese = 21 settembre
+|Anno = 1986
+|Ora = 16:00
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/2/ATAROM
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|44}} [[Carlo Ancelotti|Ancelotti]]
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = circa 35.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 3ª giornata
+|Giornomese = 28 settembre
+|Anno = 1986
+|Ora = 15:00
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/3/ROMVER
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 4ª giornata
+|Giornomese = 5 ottobre
+|Anno = 1986
+|Ora = 15:00
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/4/INTROM
+|Marcatori 1 = [[Oliviero Garlini|Garlini]] {{Goal|5}}<br />[[Alessandro Altobelli|Altobelli]] {{Goal|58||68||76}}
+|Marcatori 2 = {{Goal|70}} [[Roberto Pruzzo|Pruzzo]]
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 52.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 5ª giornata
+|Giornomese = 12 ottobre
+|Anno = 1986
+|Ora = 15:00
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/5/ROMBRE
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|47|rig.}}<br />[[Marco Baroni (allenatore)|Baroni]] {{Goal|68}}
+|Marcatori 2 = {{Goal|54|aut.}} [[Marco Baroni (allenatore)|Baroni]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 6ª giornata
+|Giornomese = 19 ottobre
+|Anno = 1986
+|Ora = 14:30
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/6/TORROM
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|74}} [[Klaus Berggreen|Berggreen]]<br />{{Goal|83}} [[Massimo Agostini|Agostini]]
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale Vittorio Pozzo]]
+|Spettatori = circa 30.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 7ª giornata
+|Giornomese = 26 ottobre
+|Anno = 1986
+|Ora = 14:30
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/7/ROMNAP
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|46}} [[Diego Armando Maradona|Maradona]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Giancarlo Redini]]
+|Cittarbitro = [[Pisa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 8ª giornata
+|Giornomese = 2 novembre
+|Anno = 1986
+|Ora = 14:30
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/8/EMPROM
+|Marcatori 1 = [[Francesco Della Monica|Della Monica]] {{Goal|24}}
+|Marcatori 2 = {{Goal|55||59}} [[Paolo Baldieri|Baldieri]]<br />{{Goal|90}} [[Stefano Desideri|Desideri]]
+|Città = [[Empoli]]
+|Stadio = [[Stadio Carlo Castellani]]
+|Spettatori = 10.393
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 9ª giornata
+|Giornomese = 9 novembre
+|Anno = 1986
+|Ora = 14:30
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/9/ROMUDI
+|Marcatori 1 = [[Klaus Berggreen|Berggreen]] {{Goal|24}}<br />[[Carlo Ancelotti|Ancelotti]] {{Goal|28}}<br />[[Stefano Desideri|Desideri]] {{Goal|66}}<br />[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|80}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 10ª giornata
+|Giornomese = 23 novembre
+|Anno = 1986
+|Ora = 14:30
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/10/FIOROM
+|Marcatori 1 = [[Ramón Díaz|Díaz]] {{Goal|21}}<br />[[Nicola Berti|Berti]] {{Goal|68}}
+|Marcatori 2 = {{Goal|26}} [[Roberto Pruzzo|Pruzzo]]
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 30.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 11ª giornata
+|Giornomese = 30 novembre
+|Anno = 1986
+|Ora = 14:30
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/11/ROMJUV
+|Marcatori 1 = [[Klaus Berggreen|Berggreen]] {{Goal|40}}<br />[[Stefano Desideri|Desideri]] {{Goal|41}}<br />[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|75}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 12ª giornata
+|Anno = 1986
+|Giornomese = 14 dicembre
+|Ora = 14:30
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/12/ASCROM
+|Marcatori 1 = [[Francesco Vincenzi|Vincenzi]] {{Goal|75}}
+|Marcatori 2 = {{Goal|76}} [[Sebastiano Nela|Nela]]
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori = circa 20.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 13ª giornata
+|Anno = 1986
+|Giornomese = 21 dicembre
+|Ora = 14:30
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/13/ROMMIL
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|45|rig.}}
+|Marcatori 2 = {{Goal|29|rig.|54}} [[Pietro Paolo Virdis|Virdis]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 56.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 14ª giornata
+|Giornomese = 4 gennaio
+|Anno = 1987
+|Ora = 14:30
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/14/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 35.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 15ª giornata
+|Anno = 1987
+|Giornomese = 11 gennaio
+|Ora = 14:30
+|Squadra 1 = Roma
+|Squadra 2 = Avellino
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/15/ROMAVE
+|Marcatori 1 = [[Zbigniew Boniek|Boniek]] {{Goal|36}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|48}}<br />[[Massimo Agostini|Agostini]] {{Goal|51}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Turno = 16ª giornata
+|Giornomese = 18 gennaio
+|Anno = 1987
+|Ora = 14:30
+|Squadra 1 = Como
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/16/COMROM
+|Città = [[Como]]
+|Stadio = [[Stadio Giuseppe Sinigaglia]]
+|Spettatori = circa 15.000
+|Arbitro = [[Giancarlo Redini]]
+|Cittarbitro = [[Pisa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 17ª giornata
+|Giornomese = 1º febbraio
+|Anno = 1987
+|Ora = 14:30
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/17/ROMATA
+|Marcatori 1 = [[Klaus Berggreen|Berggreen]] {{Goal|15}}<br />[[Antonio Di Carlo|Di Carlo]] {{Goal|56}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|70}}<br />[[Massimo Agostini|Agostini]] {{Goal|90}}
+|Marcatori 2 = {{Goal|28|aut.}} [[Zbigniew Boniek|Boniek]]<br />{{Goal|38}} [[Glenn Strömberg|Strömberg]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 18ª giornata
+|Giornomese = 8 febbraio
+|Anno = 1987
+|Ora = 15:00
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/18/VERROM
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|15}} [[Sebastiano Nela|Nela]]
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 40.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 19ª giornata
+|Giornomese = 22 febbraio
+|Anno = 1987
+|Ora = 15:00
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/19/ROMINT
+|Marcatori 1 = [[Klaus Berggreen|Berggreen]] {{Goal|30}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 62.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 20ª giornata
+|Giornomese = 1º marzo
+|Anno = 1987
+|Ora = 15:00
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/20/BREROM
+|Marcatori 1 = [[Tullio Gritti|Gritti]] {{Goal|66}}
+|Marcatori 2 = {{Goal|61}} [[Zbigniew Boniek|Boniek]]
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = circa 25.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 21ª giornata
+|Giornomese = 8 marzo
+|Anno = 1987
+|Ora = 15:00
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/21/ROMTOR
+|Marcatori 1 = [[Massimo Agostini|Agostini]] {{Goal|53}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Giancarlo Redini]]
+|Cittarbitro = [[Pisa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 22ª giornata
+|Giornomese = 15 marzo
+|Anno = 1987
+|Ora = 15:00
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/22/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 82.000
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 23ª giornata
+|Giornomese = 22 marzo
+|Anno = 1987
+|Ora = 15:00
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/23/ROMEMP
+|Marcatori 1 = [[Marco Baroni (allenatore)|Baroni]] {{Goal|47}}<br />[[Paolo Baldieri|Baldieri]] {{Goal|58}}
+|Marcatori 2 = {{Goal|51}} [[Andrea Salvadori (calciatore)|Salvadori]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 49.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 24ª giornata
+|Giornomese = 29 marzo
+|Anno = 1987
+|Ora = 15:30
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/24/UDIROM
+|Marcatori 1 = [[Francesco Graziani|Graziani]] {{Goal|51}}<br />[[Massimo Storgato|Storgato]] {{Goal|83}}
+|Marcatori 2 = {{Goal|10}} [[Sebastiano Nela|Nela]]
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = circa 19.000
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 25ª giornata
+|Giornomese = 5 aprile
+|Anno = 1987
+|Ora = 15:30
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/25/ROMFIO
+|Marcatori 1 = [[Zbigniew Boniek|Boniek]] {{Goal|76|rig.}}
+|Marcatori 2 = {{Goal|6}} [[Ramón Díaz|Díaz]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 26ª giornata
+|Giornomese = 12 aprile
+|Anno = 1987
+|Ora = 15:30
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/26/JUVROM
+|Marcatori 1 = [[Aldo Serena|Serena]] {{Goal|6}}<br />[[Massimo Briaschi|Briaschi]] {{Goal|57}}
+|Marcatori 2 =
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale Vittorio Pozzo]]
+|Spettatori = circa 33.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 27ª giornata
+|Giornomese = 26 aprile
+|Anno = 1987
+|Ora = 15:30
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/27/ROMASC
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|49|rig.}}
+|Marcatori 2 = {{Goal|38}} [[Giuseppe Iachini|Iachini]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 37.000
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 28ª giornata
+|Giornomese = 3 maggio
+|Anno = 1987
+|Ora = 16:00
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/28/MILROM
+|Marcatori 1 = [[Pietro Paolo Virdis|Virdis]] {{Goal|26||52||54}}<br />[[Roberto Donadoni|Donadoni]] {{Goal|68}}
+|Marcatori 2 = {{Goal|9}} [[Zbigniew Boniek|Boniek]]
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 62.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 29ª giornata
+|Giornomese = 10 maggio
+|Anno = 1987
+|Ora = 16:00
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/29/ROMSAM
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|22}} [[Pietro Vierchowod|Vierchowod]]<br />{{Goal|44||52}} [[Gianluca Vialli|Vialli]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Turno = 30ª giornata
+|Giornomese = 17 maggio
+|Anno = 1987
+|Ora = 16:00
+|Squadra 1 = Avellino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1986-87/UNICO/UNI/30/AVEROM
+|Marcatori 1 = [[Sandro Tovalieri|Tovalieri]] {{Goal|78}}<br />[[Giacomo Murelli|Murelli]] {{Goal|82}}
+|Marcatori 2 = {{Goal|3}} [[Bruno Conti|Conti]]
+|Città = [[Avellino]]
+|Stadio = [[Stadio Partenio]]
+|Spettatori = circa 20.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1986-1987}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 agosto
+|Anno = 1986
+|Ora = 20:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Campobasso
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8687RomaCampobasso_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Bruno Conti|Conti]] {{Goal|9}}<br />[[Carlo Ancelotti|Ancelotti]] {{Goal|43}}<br />[[Zbigniew Boniek|Boniek]] {{Goal|78|rig.}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 agosto
+|Anno = 1986
+|Ora = 20:45
+|Turno = 2ª giornata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 4
+|Referto =
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli|Stadio Galleana]]
+|Spettatori =
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Armando Madonna|Madonna]] {{Goal|51||75}}
+|Marcatori 2 = {{Goal|18}} [[Massimo Agostini|Agostini]]<br/>{{Goal|33|rig.|43|rig.}} [[Zbigniew Boniek|Boniek]]<br/>{{Goal|76}} [[Emidio Oddi|Oddi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 1986
+|Ora = 20:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8687RomaPerugia_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Zbigniew Boniek|Boniek]] {{Goal|3|rig.}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1986
+|Ora = 20:20
+|Turno = 4ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8687BariRoma_CI_La_Stampa_01_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 settembre
+|Anno = 1986
+|Ora = 20:30
+|Turno = 5ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8687VeronaRoma_CI_La_Stampa_01_af.JPG
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori =
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Domenico Volpati|Volpati]] {{Goal|32}}
+}}
+
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 febbraio
+|Anno = 1987
+|Ora = 15:00
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/8687RomaBologna_CI_La_Stampa_26-2-87_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 12.000
+|Arbitro = Leni
+|Cittarbitro = Perugia
+|Marcatori 1 = [[Antonio Di Carlo|Di Carlo]] {{Goal|2}}<br />[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|66}}
+|Marcatori 2 = {{Goal|29}} [[Paolo Stringara|Stringara]]<br />{{Goal|32}} [[Lorenzo Marronaro|Marronaro]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 1987
+|Ora = 20:45
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/8687BolognaRoma_CI_La_Stampa_8-4-87_af.JPG
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 20.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = Nichelino
+|Marcatori 1 = [[Loris Pradella|Pradella]] {{Goal|78}}
+|Marcatori 2 = {{Goal|87}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo = on
+}}
+
+=== Coppa delle Coppe ===
+{{vedi anche|Coppa delle Coppe 1986-1987}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1986
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Real Saragozza
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8687RomaRealZaragoza_La_Stampa_17-9-86_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Siegfried Kirschen]]
+|Nazarbitro = DDR
+|Marcatori 1 = [[Antonio Di Carlo|Di Carlo]] {{Goal|23}}<br/>[[Manuel Gerolin|Gerolin]] {{Goal|57}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1986
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Real Saragozza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Supplementari = X
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 4
+|PuntiTiriExtra 2 = 3
+|Referto = http://www.asromaultras.org/8687RealZaragozaRoma_La_Stampa_02_af.JPG
+|Città = [[Saragozza]]
+|Stadio = [[Estadio de La Romareda]]
+|Spettatori =
+|Arbitro = [[George Courtney]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Juan Antonio Señor|Señor]] {{Goal|44|rig.|47|rig.}}
+|TiriExtra 1 = [[Rafael García Cortés|Cortés]] {{penmiss|parato}}<br />[[José Manuel Mejías|Mejías]] {{pengoal}}<br />[[Patricio Yáñez|Yáñez]] {{pengoal}}<br />[[Mariano Ayneto|Ayneto]] {{pengoal}}<br />[[Juan Antonio Señor|Señor]] {{pengoal}}
+|TiriExtra 2 = {{pengoal}} [[Stefano Desideri|Desideri]]<br />{{pengoal}} [[Giuseppe Giannini (calciatore)|Giannini]]<br />{{pengoal}} [[Marco Baroni (allenatore)|Baroni]]<br />{{penmiss|parato}} [[Zbigniew Boniek|Boniek]]<br />{{penmiss|parato}} [[Carlo Ancelotti|Ancelotti]]
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor6/>
+<div style="font-size:90%">
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1986-1987|Serie A]]
+|punti1=33
+|cv1=8
+|cn1=4
+|cp1=3
+|cgf1=23
+|cgs1=12
+|tv1=4
+|tn1=5
+|tp1=6
+|tgf1=14
+|tgs1=19
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1986-1987|Coppa Italia]]
+|punti2=-
+|cv2=2
+|cn2=1
+|cp2=0
+|cgf2=6
+|cgs2=2
+|tv2=1
+|tn2=2
+|tp2=1
+|tgf2=5
+|tgs2=4
+|comp3={{simbolo|Coppa delle Coppe.svg|15}} [[Coppa delle Coppe 1986-1987|Coppa delle Coppe]]
+|punti3=-
+|cv3=1
+|cn3=0
+|cp3=0
+|cgf3=2
+|cgs3=0
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=0
+|tgs3=2
+}}
+{{colonne fine}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T }}
+{{Andamento/Risultato |m1=N |m2=V |m3=N |m4=P |m5=V |m6=V |m7=P |m8=V |m9=V |m10=P |m11=V |m12=N |m13=P |m14=N |m15=V |m16=N |m17=V |m18=V |m19=V |m20=N |m21=V |m22=N |m23=V |m24=P |m25=N |m26=P |m27=N |m28=P |m29=P |m30=P }}
+{{Andamento/Posizione |r=14 |m1=8 |m2=3 |m3=2 |m4=6 |m5=4 |m6=3 |m7=5 |m8=3 |m9=2 |m10=4 |m11=2 |m12=4 |m13=6 |m14=5 |m15=5 |m16=5 |m17=4 |m18=4 |m19=3 |m20=3 |m21=2 |m22=2 |m23=2 |m24=2 |m25=3 |m26=4 |m27=4 |m28=5 |m29=6 |m30=7 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Di seguito le statistiche dei giocatori.<ref>{{cita web|url=http://www.legaseriea.it/it/serie-a-tim/archivio/1986-87|titolo=Serie A 1986/87|accesso=5 giugno 2017|dataarchivio=8 agosto 2017|urlarchivio=https://web.archive.org/web/20170808064251/http://www.legaseriea.it/it/serie-a-tim/archivio/1986-87|urlmorto=sì}}</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa<br />delle Coppe
+| {{Sortname|A.|Gregori|Attilio Gregori}} {{Sommastat|0|-0|0|0 |1|-0|0|0 |0|-0|0|0}}
+| {{Sortname|P.|Onorati|Paolo Onorati|nolink=1}} {{Sommastat|0|0|0|0 |0|-0|0|0 |-|-|-|-}}
+| {{Sortname|F.|Tancredi|Franco Tancredi}} {{Sommastat|30|-31|0|0 |7|-6|0|0 |2|-2|0|0}}
+| {{Sortname|M.|Baroni|Marco Baroni (allenatore)}} {{Sommastat|19|2|1|0 |6|0|1+|0 |2|0|0|0}}
+| ''{{Sortname|S.|Lucci|Settimio Lucci}}'' {{Sommastat|0|0|0|0 |0|0|0|0 |1|0|0|0}}
+| {{Sortname|P.|Mastrantonio|Paolo Mastrantonio}} {{Sommastat|1|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname|S.|Nela|Sebastiano Nela}} {{Sommastat|25|3|0|0 |7|0|1+|0 |2|0|0|0}}
+| {{Sortname|E.|Oddi|Emidio Oddi}} {{Sommastat|26|0|4|1 |3|1|1+|0 |-|-|-|-}}
+| {{Sortname|U.|Righetti|Ubaldo Righetti}} {{Sommastat|16|0|2|0 |5|0|0|0 |2|0|0|0}}
+| {{Sortname|C.|Ancelotti|Carlo Ancelotti}} {{Sommastat|27|2|5|1 |7|1|1+|0 |2|0|0|0}}
+| {{Sortname|K.|Berggreen|Klaus Berggreen}} {{Sommastat|24|5|2|0 |6|0|0|0 |2|0|0|0}}
+| {{Sortname|A.|Bianchi|Andrea Bianchi (calciatore 1970)}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname|B.|Conti|Bruno Conti}} {{Sommastat|23|1|2|0 |5|1|0|0 |-|-|-|-}}
+| {{Sortname|S.|Desideri|Stefano Desideri}} {{Sommastat|25|5|3|0 |5|0|0|0 |2|0|0|0}}
+| {{Sortname|A.|Di Carlo|Antonio Di Carlo}} {{Sommastat|15|1|1|0 |2|1|0|0 |2|1|0|0}}
+| {{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}} {{Sommastat|25|3|7|0 |7|0|0|0 |2|0|0|0}}
+| {{Sortname|S.|Impallomeni|Stefano Impallomeni}} {{Sommastat|5|0|0|0 |4|0|0|0 |-|-|-|-}}
+| {{Sortname|M.|Gerolin|Manuel Gerolin}} {{Sommastat|25|0|2|0 |6|0|0|0 |2|1|0|0}}
+| ''{{Sortname|A.|Gespi|Antonio Gespi|nolink=1}}'' {{Sommastat|-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|E.|Pecoraro|Elio Pecoraro|nolink=1}} {{Sommastat|1|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname|M.|Agostini|Massimo Agostini}} {{Sommastat|22|4|1|0 |5|1|0|0 |1|0|0|0}}
+| {{Sortname|P.|Baldieri|Paolo Baldieri}} {{Sommastat|14|3|0|0 |6|0|0|0 |-|-|-|-}}
+| {{Sortname|Z.|Boniek|Zbigniew Boniek}} {{Sommastat|26|4|6|1 |6|0|0|0 |2|0|0|0}}
+| {{Sortname|N.|Palermo|Nicola Palermo|nolink=1}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname|M.|Porciatti|Marcello Porciatti|nolink=1}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname|R.|Pruzzo|Roberto Pruzzo}} {{Sommastat|19|4|7|1 |3|0|2+|1 |2|0|0|0}}
+}}
+== Giovanili ==
+[[File:Associazione Sportiva Roma (Primavera) 1986-87.jpg|thumb|La rosa della squadra Primavera allenata da [[Luciano Spinosi]]: tra i giovani giallorossi, futuri elementi della prima squadra quali [[Massimiliano Cappioli]] e [[Francesco Statuto]].]]
+=== Organigramma ===
+'''''Area tecnica'''''
+* ''Primavera''<ref>{{cita news|autore=Carlo Ventura|titolo=Non c'è «rosa» senza Spinosi|pubblicazione=Guerin Sportivo|numero=nº 25 (647)|città=Bologna|editore=Conti Editore|data=17-23 giugno 1987|p=26}}</ref>
+** Allenatore: [[Luciano Spinosi]]
+** Preparatore atletico: Infusi
+** Massaggiatore: Cardoni
+** Dirigente accompagnatore: Tracanelli
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1986-1987|Campionato Primavera]]: ?
+** [[Coppa Italia Primavera 1986-1987|Coppa Italia Primavera]]: ?
+** [[Torneo di Viareggio 1987|Torneo di Viareggio]]: fase a gironi
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital87.html|Serie A 1986-1987|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1986|AS Roma 86/87|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1986-1987}}
+{{Portale|calcio}}

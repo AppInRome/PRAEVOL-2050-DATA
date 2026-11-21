@@ -1,0 +1,1466 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{in corso|calcio}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|stagione = 2026-2027
+|immagine = 
+|didascalia = 
+|allenatore1 = {{Bandiera|ITA}} [[Gian Piero Gasperini]]
+|allenatore2 = {{Bandiera|ITA}} [[Tullio Gritti]]
+|presidente = {{Bandiera|USA}} [[Dan Friedkin]]
+|campionato = [[Serie A 2026-2027|Serie A]]
+|campionato posizione = 3º (''in corso'')
+|coppa1 = [[Coppa Italia 2026-2027|Coppa Italia]]
+|coppa1 posizione = Ottavi di finale (''da disputare'')
+|coppa2 = [[UEFA Champions League 2026-2027|Champions League]]
+|coppa2 posizione = Fase campionato (''in corso'')
+|presenze campionato = 
+|presenze totale = 
+|marcatore campionato = [[Donyell Malen|Malen]] (12)
+|marcatore totale = Malen (16)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]] ({{formatnum:70634}})
+|spettatori max = 
+|spettatori min = 
+|spettatori media = {{formatnum:}}
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2025-2026|2025-2026]]
+|stagione dopo = [[Associazione Sportiva Roma 2027-2028|2027-2028]]
+|aggiornato = 5 novembre 2026
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2026-2027'''.
+
+== Stagione ==
+[[File:A.S. Roma - 99 Anni (1927—2026).png|miniatura|[[Murale]] realizzato in occasione del 99º anniversario della Roma]]
+Quella del 2026-2027 è la 98ª stagione disputata dai capitolini nella [[Serie A|massima serie]] del campionato italiano, la 75ª consecutiva in Serie A e segna il ritorno in [[UEFA Champions League 2026-2027|Champions League]] dopo 7 stagioni di assenza (l'ultima partecipazione alla competizione risale al [[UEFA Champions League 2018-2019|2018-2019]]).
+
+== Divise e sponsor ==
+Lo sponsor tecnico è [[Adidas]], il ''main sponsor'' è [[Eurobet]]<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75023/las-roma-e-lieta-di-accogliere-eurobet.live-come-nuovo-main-sponsor|titolo=L’AS Roma è lieta di accogliere Eurobet.live come nuovo Main Sponsor|data=13 marzo 2026}}</ref>, lo ''sponsor di manica'' è [[Wizz Air]]<ref>{{Cita web|url=https://www.asroma.com/it/notizie/74461/las-roma-annuncia-una-nuova-partnership-strategica-con-wizz-air|titolo=L'AS Roma annuncia una nuova partnership strategica con Wizz Air|data=13 dicembre 2025}}</ref>, mentre il ''back sponsor'' è Auberge Resorts. In occasione della gara Fenerbahçe-Roma di [[UEFA Champions League 2026-2027|Champions League]] del 10 settembre 2026, il logo del [[Programma alimentare mondiale|World Food Programme]] compare sul fronte della maglia al posto di quello del ''main sponsor'' Eurobet.<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75907/as-roma-e-world-food-programme-insieme-per-il-nepal|titolo=AS Roma e World Food Programme insieme per il Nepal|data=9 settembre 2026}}</ref>
+{|
+|-
+|
+{{Divisa calcio
+|pattern_la = _roma2627h
+|pattern_b = _roma2627h
+|pattern_ra = _roma2627h
+|pattern_sh = _roma2627h
+|pattern_so = _roma2627h
+|leftarm    =
+|body       =
+|rightarm   =
+|shorts     =
+|socks      =
+|title = Casa
+}}
+|
+{{Divisa calcio
+|pattern_la = _roma2627a
+|pattern_b = _roma2627a
+|pattern_ra = _roma2627a
+|pattern_sh = _roma2627a
+|pattern_so = _roma2627a
+|leftarm =
+|body =
+|rightarm =
+|shorts =
+|socks =
+|title = Trasferta
+}}
+|
+{{Divisa calcio
+|pattern_la = _roma2627t
+|pattern_b = _roma2627t
+|pattern_ra = _roma2627t
+|pattern_sh = _roma2627t
+|pattern_so = _blacktop
+|leftarm =
+|body =
+|rightarm =
+|shorts =
+|socks = 46474b
+|title = Terza divisa
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''<ref>{{cita web|url=http://www.asroma.com/it/club/organigramma-societario|titolo=Organigramma societario|editore=asroma.com|accesso=7 luglio 2017}}</ref>
+* Presidente: [[Dan Friedkin]]
+* Vicepresidente esecutivo: Ryan Friedkin
+* Chief Executive Officer: John Galantic
+* Chief Financial Officer: Jason Morrow
+* Chief Business Officer: Michael Gandler
+* Chief Football Operating Officer: Maurizio Lombardo
+* Consiglieri: Marc Watts, Eric Williamson
+* Direttore Sportivo: Tony D'Amico
+* Loan Manager: [[Alessandro Frara]]
+* Team Manager: Vincenzo Todaro
+'''''Area tecnica'''''<ref name=Org>{{cita web|titolo=All players and staff|url=https://www.asroma.com/it/team/players-and-staff|accesso=2 luglio 2019}}</ref>
+* Allenatore: [[Gian Piero Gasperini]]
+* Allenatore in seconda: [[Tullio Gritti]]
+* Collaboratore tecnico: Mauro Fumagalli, Sergio Spalla
+* Match analyst: Simone Beccaccioli
+* Preparatore dei portieri: Simone Farelli, Luigi Salineri
+* Preparatore atletico: Domenico Borelli, Gabriele Boccolini, Carlo Spignoli, Massimo Catalano
+{{Colonne fine}}
+
+== Rosa ==
+Di seguito la rosa (numerazione aggiornata al 14 settembre 2026).
+
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=2|nazione=NED|nome=[[Devyne Rensch]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=GRE|nome=[[Kōnstantinos Koulierakīs]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Bryan Cristante]]|ruolo=C|altro=c}}
+{{Calciatore in rosa|n=5|nazione=CIV|nome=[[Evan Ndicka]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=ITA|nome=[[Lorenzo Pellegrini]]|ruolo=C}}
+{{Calciatore in rosa|n=''8''|nazione=MAR|nome=''[[Neil El Aynaoui]]''<ref name=cedest>Ceduto durante la sessione estiva di calciomercato, a stagione in corso.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=ARG|nome=[[Santiago Castro (calciatore 2004)|Santiago Castro]]|ruolo=A}}
+{{Calciatore in rosa|n=14|nazione=NED|nome=[[Donyell Malen]]|ruolo=A}}
+{{Calciatore in rosa|n=15|nazione=NED|nome=[[Marten de Roon]]<ref name=acqest>Acquistato durante la sessione estiva di calciomercato, a stagione in corso.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=17|nazione=FRA|nome=[[Manu Koné]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ARG|nome=[[Matías Soulé]]|ruolo=A}}
+{{Calciatore in rosa|n=20|nazione=ARG|nome=[[Nahuel Molina]]|ruolo=D}}
+{{Calciatore in rosa|n=21|nazione=ARG|nome=[[Paulo Dybala]]|ruolo=A}}
+{{Calciatore in rosa|n=22|nazione=ESP|nome=[[Mario Hermoso]]|ruolo=D}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Gianluca Mancini]]|ruolo=D|altro=V}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=''24''|nazione=POL|nome=''[[Jan Ziółkowski]]''<ref name=cedest/>|ruolo=D}}
+{{Calciatore in rosa|n=26|nazione=ARG|nome=[[Leonardo Balerdi]]<ref name=acqest/>|ruolo=D}}
+{{Calciatore in rosa|n=32|nazione=COL|nome=[[Devis Vásquez]]|ruolo=P}}
+{{Calciatore in rosa|n=43|nazione=BRA|nome=[[Wesley França]]|ruolo=D}}
+{{Calciatore in rosa|n=61|nazione=ITA|nome=[[Niccolò Pisilli]]|ruolo=C}}
+{{Calciatore in rosa|n=63|nazione=ITA|nome=Alessandro Di Nunzio<ref name=p>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=68|nazione=ITA|nome=Antonio Arena|ruolo=A}}
+{{Calciatore in rosa|n=70|nazione=USA|nome=Giorgio De Marzi|ruolo=P}}
+{{Calciatore in rosa|n=77|nazione=ITA|nome=[[Emanuele Lulli]]|ruolo=D}}
+{{Calciatore in rosa|n=''78''|nazione=FRA|nome=''[[Robinio Vaz]]''<ref name=cedest/>|ruolo=A}}
+{{Calciatore in rosa|n=86|nazione=PRT|nome=[[Rodrigo Mora (calciatore 2007)|Rodrigo Mora]]|ruolo=C}}
+{{Calciatore in rosa|n=87|nazione=ITA|nome=[[Daniele Ghilardi]]|ruolo=D}}
+{{Calciatore in rosa|n=95|nazione=ITA|nome=[[Pierluigi Gollini]]|ruolo=P}}
+{{Calciatore in rosa|n=99|nazione=SRB|nome=[[Mile Svilar]]|ruolo=P}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+=== Sessione estiva ''(dal 29/6 al 1/9)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" | R.
+! width="32%" | Nome
+! width="30%" | da
+! width="35%" | Modalità
+|-
+| D || [[Leonardo Balerdi]] || {{Calcio Olympique Marsiglia|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75798/leonardo-balerdi-e-un-nuovo-calciatore-giallorosso|titolo=Leonardo Balerdi è un nuovo calciatore giallorosso|sito=AS Roma|data=30 agosto 2026|accesso=30 agosto 2026}}</ref>
+|-
+| D || [[Kōnstantinos Koulierakīs]] || {{Calcio Wolfsburg|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75719/konstantinos-koulierakis-e-un-nuovo-calciatore-giallorosso|titolo=Konstantinos Koulierakis è un nuovo calciatore giallorosso|sito=AS Roma|data=1º agosto 2026|accesso=1º agosto 2026}}</ref>
+|-
+| D || [[Nahuel Molina]] || {{Calcio Atletico Madrid|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75755/nahuel-molina-e-un-nuovo-calciatore-giallorosso|titolo=Nahuel Molina è un nuovo calciatore giallorosso|sito=AS Roma|data=12 agosto 2026|accesso=18 agosto 2026}}</ref>
+|-
+| C || [[Marten de Roon]] || {{Calcio Atalanta|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75821/marten-de-roon-e-un-nuovo-calciatore-giallorosso|titolo=Marten De Roon è un nuovo calciatore giallorosso|sito=AS Roma|data=30 agosto 2026|accesso=30 agosto 2026}}</ref>
+|-
+| C || [[Rodrigo Mora (calciatore 2007)|Rodrigo Mora]] || {{Calcio Porto|N}} || ''definitivo'' (25 milioni € + 2 milioni € di bonus per il 50% dei diritti economici)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75772/rodrigo-mora-e-un-nuovo-calciatore-giallorosso|titolo=Rodrigo Mora è un nuovo calciatore giallorosso|sito=AS Roma|data=19 agosto 2026|accesso=19 agosto 2026}}</ref><ref>{{Cita web|url=https://www.fcporto.pt/pt/noticias/20260819-pt-rodrigo-mora-transferido-para-a-as-roma|titolo=Rodrigo Mora transferido para a AS Roma|sito=FC Porto|lingua=pt|data=19 agosto 2026|accesso=19 agosto 2026}}</ref>
+|-
+| A || [[Santiago Castro (calciatore 2004)|Santiago Castro]] || {{Calcio Bologna|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75703/santiago-castro-e-un-nuovo-calciatore-giallorosso|titolo=Santiago Castro è un nuovo calciatore giallorosso|sito=AS Roma|data=30 luglio 2026|accesso=30 luglio 2026}}</ref>
+|-
+! colspan="4" | Altre operazioni
+|-
+! R.
+! Nome
+! da
+! Modalità
+|-
+| P || [[Devis Vásquez]] || {{Calcio Besiktas|N}} || ''fine prestito''<ref>{{Cita web|url=https://bjk.com.tr/en/news/93578/devis-vasquez-moves-to-besiktas.html|titolo=Devis Vasquez moves to Beşiktaş|sito=Beşiktaş JK|lingua=en|data=6 febbraio 2026|accesso=29 agosto 2026}}</ref>
+|-
+| D || [[Daniele Ghilardi]] || {{Calcio Verona|N}} || ''obbligo di riscatto esercitato''<ref>{{Cita web|url=https://www.hellasverona.it/news/daniele-ghilardi-si-trasferisce-alla-roma|titolo=Daniele Ghilardi si trasferisce alla Roma|sito=Hellas Verona FC|data=2 agosto 2025|accesso=29 agosto 2026}}</ref><ref>{{Cita web|url=https://sport.sky.it/calciomercato/calciomercato-serie-a-estate-2026-acquisti-ufficiali|titolo=Calciomercato Serie A, gli acquisti ufficiali dell'estate 2026|sito=Sky Sport|accesso=29 agosto 2026}}</ref>
+|-
+| D || [[Marash Kumbulla]] || {{Calcio Maiorca|N}} || ''fine prestito''<ref>{{Cita web|url=https://www.rcdmallorca.es/noticias/finalizan-los-periodos-de-cesion-de-joseph-kumbulla-y-luvumbo|titolo=Finalizan los periodos de cesión de Joseph, Kumbulla y Luvumbo|sito=RCD Mallorca|lingua=es|accesso=29 agosto 2026}}</ref>
+|-
+| D || Mattia Mannini || {{Calcio Juve Stabia|N}} || ''fine prestito''
+|-
+| D || Filippo Reale || {{Calcio Avellino|N}} || ''fine prestito''
+|-
+| D || [[Anass Salah-Eddine]] || {{Calcio PSV|N}} || ''fine prestito''<ref>{{Cita web|url=https://www.psv.nl/en/media/article/news-rental-period-anass-salah-eddine-at-an-end|titolo=Anass Salah-Eddine’s loan period comes to an end|sito=PSV|lingua=en|data=1º luglio 2026|accesso=29 agosto 2026}}</ref>
+|-
+| C || [[Riccardo Pagano]] || {{Calcio Bari|N}} || ''fine prestito''
+|-
+| C || [[Alessandro Romano (calciatore 2006)|Alessandro Romano]] || {{Calcio Spezia|N}} || ''fine prestito''
+|-
+| A || [[Tommaso Baldanzi]] || {{Calcio Genoa|N}} || ''fine prestito''
+|-
+| A || [[Luigi Cherubini (calciatore)|Luigi Cherubini]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width="3%" | R.
+! width="32%" | Nome
+! width="30%" | a
+! width="35%" | Modalità
+|-
+| D || [[Angeliño]] || {{Calcio Deportivo La Coruna|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75725/angelino-ceduto-al-deportivo-la-coruna|titolo=Angelino ceduto al Deportivo La Coruna|sito=AS Roma|data=5 agosto 2026|accesso=5 agosto 2026}}</ref>
+|-
+| D || [[Zeki Çelik]] || || ''svincolato''
+|-
+| D || [[Kōstas Tsimikas]] || {{Calcio Liverpool|N}} || ''fine prestito''
+|-
+| D || [[Jan Ziółkowski]] || {{Calcio Monza|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75807/jan-ziolkowski-ceduto-al-monza|titolo=Jan Ziolkowski ceduto al Monza|sito=AS Roma|data=31 agosto 2026|accesso=31 agosto 2026}}</ref>
+|-
+| C || [[Neil El Aynaoui]] || {{Calcio RB Lipsia|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75822/neil-el-aynaoui-ceduto-al-lipsia|titolo=Neil El Aynaoui ceduto al Lipsia|sito=AS Roma|data=1º settembre 2026|accesso=1º settembre 2026}}</ref>
+|-
+| A || [[Artem Dovbyk]] || {{Calcio Bologna|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75701/artem-dovbyk-ceduto-al-bologna-fc|titolo=Artem Dovbyk ceduto al Bologna FC|sito=AS Roma|data=30 luglio 2026|accesso=30 luglio 2026}}</ref>
+|-
+| A || [[Stephan El Shaarawy]] || || ''svincolato''
+|-
+| A || [[Evan Ferguson]] || {{Calcio Brighton|N}} || ''fine prestito''
+|-
+| A || [[Robinio Vaz]] || {{Calcio Hull City|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75805/robinio-vaz-ceduto-allhull-city|titolo=Robinio Vaz ceduto all'Hull City|sito=AS Roma|data=1º settembre 2026|accesso=1º settembre 2026}}</ref>
+|-
+| A || [[Lorenzo Venturino]] || {{Calcio Genoa|N}} || ''fine prestito''
+|-
+| A || [[Bryan Zaragoza]] || {{Calcio Bayern Monaco|N}} || ''fine prestito''
+|-
+! colspan="4" | Altre operazioni
+|-
+! R.
+! Nome
+! a
+! Modalità
+|-
+| D || [[Marash Kumbulla]] || {{Calcio Rayo Vallecano|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75727/marash-kumbulla-ceduto-al-rayo-vallecano|titolo=Marash Kumbulla ceduto al Rayo Vallecano|sito=AS Roma|data=7 agosto 2026|accesso=7 agosto 2026}}</ref>
+|-
+| D || Mattia Mannini || {{Calcio Benevento|N}} || ''prestito con diritto di opzione''<ref>{{Cita web|url=https://www.beneventocalcio.club/news/comunicatistampa/7562/mattia-mannini-e-un-nuovo-calciatore-del-benevento.shtml|titolo=Mattia Mannini è un nuovo calciatore del Benevento|sito=Benevento Calcio|data=1º settembre 2026|accesso=1º settembre 2026}}</ref>
+|-
+| D || Filippo Reale || {{Calcio Carrarese|N}} || ''prestito con opzione di riscatto e controriscatto''<ref>{{Cita web|url=https://carraresecalcio1908.it/filippo-reale-a-carrara/|titolo=Filippo Reale a Carrara|sito=Carrarese Calcio 1908|data=19 agosto 2026|accesso=19 agosto 2026}}</ref>
+|-
+| C || [[Riccardo Pagano]] || {{Calcio Cesena|N}} || ''definitivo''<ref>{{Cita web|url=https://www.cesenafc.com/it/teams/prima-squadra/news/riccardo-pagano-e-un-nuovo-calciatore-del-cesena-fc-2026-07-29|titolo=Riccardo Pagano è un nuovo calciatore del Cesena FC|sito=Cesena FC|data=29 luglio 2026|accesso=18 agosto 2026}}</ref>
+|-
+| C || [[Alessandro Romano (calciatore 2006)|Alessandro Romano]] || {{Calcio Cagliari|N}} || ''prestito con obbligo di riscatto condizionato''<ref>{{Cita web|url=https://app.cagliaricalcio.com/contents/alessandro-romano-e-del-cagliari-pt9tbsd8z8p|titolo=Alessandro Romano è del Cagliari|sito=Cagliari Calcio|data=1º luglio 2026|accesso=29 agosto 2026}}</ref>
+|-
+| A || [[Luigi Cherubini (calciatore)|Luigi Cherubini]] || {{Calcio Benevento|N}} || ''prestito con diritto di opzione e obbligo di riscatto''<ref>{{Cita web|url=https://www.beneventocalcio.club/news/comunicatistampa/7518/luigi-cherubini-e-un-nuovo-calciatore-del-benevento.shtml|titolo=Luigi Cherubini è un nuovo calciatore del Benevento|sito=Benevento Calcio|data=18 agosto 2026|accesso=18 agosto 2026}}</ref>
+|-
+| A || Mattia Della Rocca || || ''svincolato''
+|-
+| A || [[Eldor Shomurodov]] || {{Calcio Istanbul Basaksehir|N}} || ''obbligo di riscatto esercitato''
+|}
+{{colonne fine}}
+
+=== Sessione invernale ''(dal 2/1 al 1/2)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" | R.
+! width="32%" | Nome
+! width="30%" | da
+! width="35%" | Modalità
+|-
+! colspan="4" | Altre operazioni
+|-
+! width="3%" | R.
+! width="33%" | Nome
+! width="28%" | da
+! width="36%" | Modalità
+|-
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width="3%" | R.
+! width="32%" | Nome
+! width="30%" | a
+! width="35%" | Modalità
+|-
+! colspan="4" | Altre operazioni
+|-
+! width="3%" | R.
+! width="33%" | Nome
+! width="28%" | a
+! width="36%" | Modalità
+|-
+|}
+{{colonne fine}}
+
+=== Operazioni esterne alle sessioni ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" | R.
+! width="32%" | Nome
+! width="30%" | da
+! width="35%" | Modalità
+|-
+! colspan="4" | Altre operazioni
+|-
+! R.
+! Nome
+! da
+! Modalità
+|-
+| A || [[Donyell Malen]] || {{Calcio Aston Villa|N}} || ''diritto di riscatto esercitato''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75418/il-comunicato-su-donyell-malen|titolo=Il comunicato su Donyell Malen|sito=AS Roma|data=26 maggio 2026|accesso=26 maggio 2026}}</ref>
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width="3%" | R.
+! width="32%" | Nome
+! width="30%" | a
+! width="35%" | Modalità
+|-
+| D || [[Anass Salah-Eddine]] || {{Calcio Panathinaikos|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75860/anass-salah-eddine-ceduto-al-panathinaikos|titolo=Anass Salah-Eddine ceduto al Panathinaikos|sito=AS Roma|data=14 settembre 2026|accesso=14 settembre 2026}}</ref>
+|-
+! colspan="4" | Altre operazioni
+|-
+! R.
+! Nome
+! a
+! Modalità
+|-
+| D || [[Saud Abdulhamid]] || {{Calcio Lens|N}} || ''diritto di riscatto esercitato''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75436/saud-abdulhamid-a-titolo-definitivo-al-lens|titolo=Saud Abdulhamid a titolo definitivo al Lens|sito=AS Roma|data=4 giugno 2026|accesso=4 giugno 2026}}</ref>
+|-
+| D || [[Buba Sangaré]] || {{Calcio Elche|N}} || ''diritto di riscatto esercitato''<ref>{{Cita web|url=https://www.elchecf.es/noticias/el-elche-cf-ejecuta-la-opcion-de-compra-de-buba-sangare-y-firma-hasta-2031|titolo=El Elche CF ejecuta la opción de compra de Buba Sangare y firma hasta 2031|sito=Elche CF|lingua=es|data=3 giugno 2026|accesso=18 agosto 2026}}</ref>
+|-
+| A || [[Tommaso Baldanzi]] || {{Calcio Genoa|N}} || ''prestito con obbligo di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/75515/tommaso-baldanzi-ceduto-al-genoa-cfc|titolo=Tommaso Baldanzi ceduto al Genoa CFC|sito=AS Roma|data=19 giugno 2026|accesso=19 giugno 2026}}</ref>
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 2026-2027}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 agosto
+|Anno = 2026
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/serie-a/match/8555be7ed28343a196cce24873f245e2/roma-vs-fiorentina/events#events
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:67598}}
+|Arbitro = [[Matteo Marcenaro|Marcenaro]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Donyell Malen|Malen]] {{goal|27||52||60}}<br />[[Niccolò Pisilli|Pisilli]] {{goal|86}}
+|Marcatori 2 =
+|Sfondo =
+|id = 1
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 2026
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = https://www.legaseriea.it/serie-a/match/1ea05880c7a9419fb44d428b0b26e3cf/lecce-vs-roma
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = {{formatnum:27031}}
+|Arbitro = [[Daniele Chiffi|Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = 
+|Marcatori 2 = {{goal|4||23}} [[Donyell Malen|Malen]]<br/>{{goal|25}} [[Matías Soulé|Soulé]]<br/>{{goal|65}} [[Rodrigo Mora (calciatore 2007)|Mora]]
+|Sfondo = on
+|id = 2
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 settembre
+|Anno = 2026
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/serie-a/match/9541a0be3a734a4cb2b3979280da7f3f/roma-vs-atalanta
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:67279}}
+|Arbitro = [[Andrea Colombo (arbitro)|Colombo]]
+|Cittarbitro = [[Como]]
+|Marcatori 1 = [[Mario Hermoso|Hermoso]] {{goal|89}}<br/>[[Matías Soulé|Soulé]] {{goal|90+3}}
+|Marcatori 2 = {{goal|47}} [[Éderson José dos Santos Lourenço da Silva|Éderson]]
+|Sfondo = 
+|id = 3
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Anno = 2026
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0 
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/serie-a/match/ca1647d15eea4124a020a3796bc9a700/torino-vs-roma
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino]]
+|Spettatori = {{formatnum:21294}}
+|Arbitro = [[Fabio Maresca|Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = 
+|Marcatori 2 = {{goal|40}} [[Donyell Malen|Malen]] <br/> {{goal|90+3}} [[Niccolò Pisilli|Pisilli]] 
+|Sfondo = on
+|id = 4
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 2026
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/serie-a/match/1fa6b87a405e48298591a6cec6e5afc6/roma-vs-inter
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:66241}}
+|Arbitro = [[Davide Massa|Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Manu Koné|Koné]] {{goal|6||37}}
+|Marcatori 2 = {{goal|46||79}} [[Lautaro Martínez|Martínez]]
+|Sfondo = 
+|id = 5
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 ottobre
+|Anno = 2026
+|Ora = 12:30 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Como
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/serie-a/match/676dbc452fc9425589a666e21bad2171/como-vs-roma
+|Città = [[Como]]
+|Stadio = [[Stadio Giuseppe Sinigaglia]]
+|Spettatori = {{formatnum:12415}}
+|Arbitro = [[Michael Fabbri|Fabbri]]<ref> Sostituito per infortunio al 67' dal [[quarto uomo]] [[Simone Sozza|Sozza]] ([[Seregno]]), cfr. <br>{{cita web|url=https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/11-151804623/incredibile_a_como_l_arbitro_fabbri_si_fa_male_dopo_l_espulsione_di_malen_e_viene_sostituito_|titolo=Incredibile a Como, l'arbitro Fabbri si fa male dopo l'espulsione di Malen e viene sostituito!|data=11 ottobre 2026}}</ref>
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 6
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 ottobre
+|Anno = 2026
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/serie-a/match/ae94166842304dae82c113a505a3d30c/roma-vs-genoa
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:66797}}
+|Arbitro = [[Rosario Abisso|Abisso]]
+|Cittarbitro = [[Palermo]]
+|Marcatori 1 = [[Santiago Castro (calciatore 2004)|Castro]] {{goal|50}} <br/> [[Emanuele Lulli|Lulli]] {{goal|68}}
+|Marcatori 2 = 
+|Sfondo = 
+|id = 7
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 2026
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = https://www.legaseriea.it/serie-a/match/ef7cc090318843f2914077356e603bae/napoli-vs-roma
+|Città = [[Napoli]]
+|Stadio = [[Stadio Diego Armando Maradona (Napoli)|Stadio Diego Armando Maradona]]
+|Spettatori = {{formatnum:50000}}
+|Arbitro = [[Andrea Colombo (arbitro)|Colombo]]
+|Cittarbitro = [[Como]]
+|Marcatori 1 = [[André-Frank Anguissa|Anguissa]] {{goal|28}}<br/>[[Scott McTominay|McTominay]] {{goal|48||83}}
+|Marcatori 2 = {{goal|69}} [[Matías Soulé|Soulé]]<br/>{{goal|74||89}} [[Leonardo Balerdi|Balerdi]]
+|Sfondo = on
+|id = 8
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 2026
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/serie-a/match/9cd8bac676fb4d0bb195f8336c35d5a1/roma-vs-cagliari
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61780}}
+|Arbitro = [[Ermanno Feliciani|Feliciani]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Emanuele Lulli|Lulli]] {{goal|15}} <br> [[Niccolò Pisilli|Pisilli]] {{goal|21}} <br> [[Rodrigo Mora (calciatore 2007)|Mora]] {{goal|85}} <br> [[Donyell Malen|Malen]] {{goal|87}}
+|Marcatori 2 = {{goal|10|rig}} [[M'Bala Nzola|Nzola]] <br> {{goal|81}} [[Daniel Maldini|Maldini]]
+|Sfondo = 
+|id = 9
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 2026
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 5
+|Referto = https://www.legaseriea.it/serie-a/match/fa22e9f9a00543338af1998f82d9b6bf/udinese-vs-roma
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli|Bluenergy Stadium]]
+|Spettatori = {{formatnum:24824}}
+|Arbitro = [[Fabio Maresca|Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Nicolò Zaniolo|Zaniolo]] {{goal|50}} <br> [[Matteo Palma|Palma]] {{goal|78}}
+|Marcatori 2 = {{goal|10}} [[Bryan Cristante|Cristante]] <br> {{goal|31}}  [[Rodrigo Mora (calciatore 2007)|Mora]] <br>{{goal|33}} [[Donyell Malen|Malen]] <br>{{goal|37}} [[Evan Ndicka|Ndicka]] <br> {{goal|90+2}} [[Daniele Ghilardi|Ghilardi]]
+|Sfondo = on
+|id = 10
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 2026
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sassuolo
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/serie-a/match/77528f387ef442ce82bf5f5de73fb66b/roma-vs-sassuolo
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64674}}
+|Arbitro = [[Marco Di Bello|Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 = [[Mario Hermoso|Hermoso]] {{goal|27}} <br> [[Sebastian Walukiewicz|Walukiewicz]] {{goal|30|aut}} <br> [[Rodrigo Mora (calciatore 2007)|Mora]] {{goal|58}}
+|Marcatori 2 = 
+|Sfondo = 
+|id = 11
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 novembre
+|Anno = 2026
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/97ef80e0aff84867ae6f6c53b2be31e5/parma-vs-roma
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 12
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 novembre
+|Anno = 2026
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Monza
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/0d7c2a0c89274cf791481266c5f62600/roma-vs-monza
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 =
+|Sfondo = 
+|id = 13
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 2026
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/839fd8be82ae470d8d25b46a98ccdd22/bologna-vs-roma
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 14
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 dicembre
+|Anno = 2026
+|Ora = 12:30 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/b757c329a6bb47319de857d568dcc2d3/lazio-vs-roma
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 15
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 2026
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/995288c4368848b4b65bbb863d313b79/roma-vs-juventus
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro =
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 16
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 gennaio
+|Anno = 2027
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Frosinone
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/133592ea27854f8eb9f45019dadef6ea/roma-vs-frosinone
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro =
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 17
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 gennaio
+|Anno = 2027
+|Ora = 18:30 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Venezia
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/2f287dc61dda471a8cbf45c0f6b0a9a6/venezia-vs-roma
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pier Luigi Penzo]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 18
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 2027
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = https://www.legaseriea.it/serie-a/match/d6a5383d4a7b494fb39bac941d82f2ff/roma-vs-milan
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro =
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 19
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Bergamo]]
+|Stadio = [[Stadio di Bergamo|New Balance Stadium]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro =
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 20
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro =
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 21
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Monza
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Monza]]
+|Stadio = [[Stadio Brianteo]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 22
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 23
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 febbraio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 24
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Sassuolo
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Reggio Emilia]]
+|Stadio = [[Mapei Stadium - Città del Tricolore]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 25
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro =
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 26
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Torino]]
+|Stadio = [[Juventus Stadium]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 27
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 28ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 28
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+|id = 29
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 aprile
+|Anno = 2027
+|Ora = --:-- [[Central European Time|CET]]
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 30
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro =
+|Marcatori 1 =
+|Marcatori 2 = 
+|Sfondo = 
+|id = 31
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 32
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 aprile
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Frosinone
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Frosinone]]
+|Stadio = [[Stadio Benito Stirpe]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 =
+|Sfondo = 
+|id = 33
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º maggio
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 34
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 maggio
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|id = 35
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 maggio
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 36
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 maggio
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro =
+|Cittarbitro =
+|Marcatori 1 = 
+|Marcatori 2 = 
+|id = 37
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 maggio
+|Anno = 2027
+|Ora = --:-- [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Cagliari]]
+|Stadio = [[Unipol Domus]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+|id = 38
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2026-2027}}
+==== Fase finale ====
+{{Vedi anche|Coppa Italia 2026-2027 (fase finale)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 2027
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Cittarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+}}
+
+=== UEFA Champions League ===
+{{vedi anche|UEFA Champions League 2026-2027}}
+==== Fase campionato ====
+{{vedi anche|UEFA Champions League 2026-2027 (fase campionato)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 settembre
+|Anno = 2026
+|Ora = 18:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Fenerbahce 
+|Squadra 2 = Roma 
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/2049568/
+|Città = [[Istanbul]]
+|Stadio = [[Stadio Şükrü Saraçoğlu]]
+|Spettatori = {{formatnum:40577}}
+|Arbitro = [[Jesús Gil Manzano|Gil Manzano]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Archie Brown|Brown]] {{goal|48}}
+|Marcatori 2 = {{goal|39}} [[Bryan Cristante|Cristante]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 ottobre
+|Anno = 2026
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Real Madrid 
+|Punteggio 1 = 3
+|Punteggio 2 = 4
+|Referto = https://it.uefa.com/uefachampionsleague/match/2049581/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64256}}
+|Arbitro = [[François Letexier|Letexier]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Marten de Roon|De Roon]] {{goal|20}}<br />[[Donyell Malen|Malen]] {{goal|51||57}} 
+|Marcatori 2 = {{goal|25}} [[Kylian Mbappé|Mbappé]]<br/>{{goal|82}} [[Carlos Espí|Espí]]<br/>{{goal|85}} [[Endrick]]<br/>{{goal|90}} [[Antonio Rüdiger|Rüdiger]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 ottobre
+|Anno = 2026
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Slovan Bratislava
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefachampionsleague/match/2049592/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64399}}
+|Arbitro = [[Sandro Schärer|Schärer]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Mario Hermoso|Hermoso]] {{goal|21}} <br> [[Nahuel Molina|Molina]] {{goal|39}} <br> [[Niccolò Pisilli|Pisilli]] {{goal|52}} <br> [[Donyell Malen|Malen]] {{goal|58|rig}}
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 2026
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 4ª giornata
+|Squadra 1 = Manchester United 
+|Squadra 2 = Roma 
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefachampionsleague/match/2049609/
+|Città = [[Manchester]]
+|Stadio = [[Old Trafford]]
+|Spettatori = {{formatnum:73747}}
+|Arbitro = [[Jesús Gil Manzano|Gil Manzano]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Bruno Fernandes|Fernandes]] {{goal|58|rig}}<br>[[Matheus Cunha|Cunha]] {{goal|83||86}}
+|Marcatori 2 = {{goal|11}} [[Matías Soulé|Soulé]]<br>{{goal|18|rig}} [[Donyell Malen|Malen]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 2026
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Paris Saint-Germain
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Parigi]]
+|Stadio = [[Parc des Princes]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Nazarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 2026
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sporting Lisbona
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Nazarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 gennaio
+|Anno = 2027
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 7ª giornata
+|Squadra 1 = AEK Atene
+|Squadra 2 = Roma
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Atene]]
+|Stadio = [[Stadio Agia Sophia]]
+|Spettatori = {{formatnum:}}
+|Arbitro = 
+|Nazarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 2027
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lille
+|Punteggio 1 = 
+|Punteggio 2 = 
+|Referto = 
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:}}
+|Arbitro =
+|Nazarbitro = 
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+''Statistiche aggiornate al 7 novembre 2026''.
+
+{{Statistiche_squadra
+|comp1=[[File:scudetto.svg|12px]] [[Serie A 2026-2027|Serie A]]
+|punti1=27
+|cv1=5
+|cn1=1
+|cp1=0
+|cgf1=17
+|cgs1=5
+|tv1=3
+|tn1=2
+|tp1=0
+|tgf1=14
+|tgs1=5
+|comp2=[[File:Coccarda Coppa Italia.svg|12px]] [[Coppa Italia 2026-2027|Coppa Italia]]
+|punti2=-
+|cv2=0
+|cn2=0
+|cp2=0
+|cgf2=0
+|cgs2=0
+|tv2=0
+|tn2=0
+|tp2=0
+|tgf2=0
+|tgs2=0
+|comp3=[[File:Coppa Campioni.svg|12px]] [[UEFA Champions League 2026-2027|Champions League]]
+|punti3=4
+|cv3=1
+|cn3=0
+|cp3=1
+|cgf3=7
+|cgs3=4
+|tv3=0
+|tn3=1
+|tp3=1
+|tgf3=3
+|tgs3=4
+}}
+</div>
+
+=== Andamento in campionato ===
+{{Andamento |nr=38|link=X}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12= |m13= |m14= |m15= |m16= |m17= |m18= |m19= |m20= |m21= |m22= |m23= |m24= |m25= |m26= |m27= |m28= |m29= |m30= |m31= |m32= |m33= |m34= |m35= |m36= |m37= |m38=}}
+{{Andamento/Risultato |m1=V |m2=V |m3=V |m4=V |m5=N |m6=N |m7=V |m8=N |m9=V |m10=V |m11=V |m12= |m13= |m14= |m15= |m16= |m17= |m18= |m19= |m20= |m21= |m22= |m23= |m24= |m25= |m26= |m27= |m28= |m29= |m30= |m31= |m32= |m33= |m34= |m35= |m36= |m37= |m38=}}
+{{Andamento/Posizione |m1=1 |m2=1 |m3=1 |m4=1 |m5=1 |m6=3 |m7=3 |m8=3 |m9=3 |m10=3 |m11=3 |m12= |m13= |m14= |m15= |m16= |m17= |m18= |m19= |m20= |m21= |m22= |m23= |m24= |m25= |m26= |m27= |m28= |m29= |m30= |m31= |m32= |m33= |m34= |m35= |m36= |m37= |m38=}}
+{{Andamento/Fine |fonte={{cita web |url=http://www.legaseriea.it/it/serie-a/classifica|titolo=Serie A – Classifica}}}}
+
+=== Statistiche dei giocatori ===
+Sono in ''corsivo'' i calciatori che hanno lasciato la società a stagione in corso.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Champions League
+| {{Sortname|A.|Arena |Antonio Arena|nolink=1}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|L.|Balerdi|Leonardo Balerdi}} {{Sommastat|7|2|1|0 |0|0|0|0 |4|0|0|0}}
+| {{Sortname|S.|Castro|Santiago Castro (calciatore 2004)}} {{Sommastat|9|1|0|0 |0|0|0|0 |2|0|0|0}}
+| {{Sortname|B.|Cristante|Bryan Cristante}} {{Sommastat|9|1|2|0 |0|0|0|0 |2|1|1|0}}
+| {{Sortname|G.|De Marzi|Giorgio De Marzi|nolink=1}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|M.|de Roon|Marten de Roon}} {{Sommastat|8|0|2|0 |0|0|0|0 |4|1|0|0}}
+| {{Sortname|A.|Di Nunzio|Alessandro Di Nunzio|nolink=1}} {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|P.|Dybala|Paulo Dybala}} {{Sommastat|6|0|0|0 |0|0|0|0 |2|0|0|0}}
+| ''{{Sortname|N.|El Aynaoui|Neil El Aynaoui}}'' {{Sommastat|1|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname|D.|Ghilardi|Daniele Ghilardi}} {{Sommastat|8|1|1|0 |0|0|0|0 |2|0|0|0}}
+| {{Sortname|P.|Gollini|Pierluigi Gollini}} {{Sommastat|5|-7|0|0 |0|-0|0|0 |2|-4|0|0}}
+| {{Sortname|M.|Hermoso|Mario Hermoso}} {{Sommastat|10|2|2|0 |0|0|0|0 |4|1|0|0}}
+| {{Sortname|M.|Koné|Manu Koné}} {{Sommastat|7|2|2|0 |0|0|0|0 |2|0|0|0}}
+| {{Sortname|K.|Koulierakīs|Kōnstantinos Koulierakīs}} {{Sommastat|6|0|1|0 |0|0|0|0 |2|0|0|0}}
+| {{Sortname|E.|Lulli|Emanuele Lulli}} {{Sommastat|7|2|0|0 |0|0|0|0 |1|0|1|0}}
+| {{Sortname|D.|Malen|Donyell Malen}} {{Sommastat|10|8|1|1 |0|0|0|0 |4|4|1|0}}
+| {{Sortname|G.|Mancini|Gianluca Mancini}} {{Sommastat|9|0|0|0 |0|0|0|0 |4|0|1|0}}
+| {{Sortname|N.|Molina|Nahuel Molina}} {{Sommastat|9|0|0|0 |0|0|0|0 |3|1|0|0}}
+| {{Sortname|R.|Mora|Rodrigo Mora (calciatore 2007)}} {{Sommastat|9|4|0|0 |0|0|0|0 |4|0|0|0}}
+| {{Sortname|E.|Ndicka|Evan Ndicka}} {{Sommastat|9|1|1|0 |0|0|0|0 |3|0|0|0}}
+| {{Sortname|L.|Pellegrini|Lorenzo Pellegrini}} {{Sommastat|2|0|0|0 |0|0|0|0 |2|0|1|0}}
+| {{Sortname|N.|Pisilli|Niccolò Pisilli}} {{Sommastat|10|3|2|0 |0|0|0|0 |4|1|0|0}}
+| {{Sortname|D.|Rensch|Devyne Rensch}} {{Sommastat|7|0|1|0 |0|0|0|0 |3|0|1|0}}
+| {{Sortname|M.|Soulé|Matías Soulé}} {{Sommastat|11|3|2|0 |0|0|0|0 |4|1|1|0}}
+| {{Sortname|M.|Svilar|Mile Svilar}} {{Sommastat|5|-3|0|0 |0|0|0|0 |1|-1|0|0}}
+| {{Sortname|D.|Vásquez|Devis Vásquez}} {{Sommastat|1|-0|0|0 |0|-0|0|0 |1|-3|0|0}}
+| ''{{Sortname|R.|Vaz|Robinio Vaz}}'' {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|-}}
+| {{Sortname||Wesley|Wesley França}} {{Sommastat|10|0|0|0 |0|0|0|0 |4|0|1|0}}
+| ''{{Sortname|J.|Ziółkowski|Jan Ziółkowski}}'' {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|-}}
+}}
+
+== Giovanili ==
+
+=== Organigramma ===
+{{colonne}}
+* '''Responsabile del settore giovanile''': [[Massimo Margiotta]]
+{{Colonne spezza}}
+'''''Primavera'''''
+* Allenatore: Mattia Scala
+{{colonne fine}}
+
+=== Altre squadre ===
+{{colonne}}
+'''''Under 18'''''
+* Allenatore: [[Christian Terlizzi]]
+
+'''''Under 17'''''
+* Allenatore: Dario Alberto Polverini
+{{Colonne spezza}}
+'''''Under 16'''''
+* Allenatore: Mirko Trombetti
+
+'''''Under 15'''''
+* Allenatore: [[Stefano Lorenzi]]
+{{colonne fine}}
+
+=== Piazzamenti ===
+{{colonne}}
+'''''Primavera'''''
+* [[Campionato Primavera 1 2026-2027|Campionato]]:
+* [[Coppa Italia Primavera 2026-2027|Coppa Italia]]:
+* [[UEFA Youth League 2026-2027|Youth League]]:
+
+'''''Under 18'''''
+* Campionato:
+
+'''''Under 17'''''
+* Campionato:
+{{Colonne spezza}}
+'''''Under 16'''''
+* Campionato:
+
+'''''Under 15'''''
+* Campionato:
+
+'''''Under 14'''''
+* Élite Regionali:
+{{colonne fine}}
+
+== Note ==
+<references/>
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 2026-2027}}
+{{Portale|calcio}}

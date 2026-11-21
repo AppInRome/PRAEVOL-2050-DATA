@@ -1,0 +1,1064 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1997-1998
+|immagine = Associazione Sportiva Roma 1997-1998.jpeg
+|allenatore1 = {{Bandiera|CZE}} {{Bandiera|ITA}} [[Zdeněk Zeman]]
+|allenatore2 = {{Bandiera|ITA}} [[Ezio Sella]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 1997-1998|Serie A]]
+|campionato posizione = 4º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 1997-1998|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|presenze campionato = [[Paulo Sérgio]] (34)
+|presenze totale = Paulo Sérgio (40)
+|marcatore campionato = [[Abel Balbo|Balbo]] (14)
+|marcatore totale = Balbo (16)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|spettatori max = {{formatnum:73121}}<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A97-98.htm|titolo=Statistiche Spettatori Serie A 1997-1998|autore=Andrea Bovone|autore2=Lorenzo Calvelli|lingua=inglese}}</ref> vs {{Calcio Lazio|N}}<br/>(1º novembre 1997)
+|spettatori min = {{formatnum:42064}}<ref name=stadiapost/> vs {{Calcio Empoli|N}}<br/>(1º febbraio 1998)
+|spettatori media = {{formatnum:54833}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:34702}}<ref name=stadiapost/>
+|stagione prima = [[Associazione Sportiva Roma 1996-1997|1996-1997]]
+|stagione dopo = [[Associazione Sportiva Roma 1998-1999|1998-1999]]
+|aggiornato = 16 maggio 1998
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1997-1998'''.
+== Stagione ==
+[[File:Zdenek Zeman Roma.jpg|thumb|upright|Il nuovo allenatore giallorosso [[Zdeněk Zeman]]]]
+{{citazione|[...] Zeman è stato traviato dagli zonisti all'amatriciana che hanno preteso da lui un rigore tattico in netto contrasto con la sua intelligenza che gli avrebbe facilmente suggerito il compromesso fra la Profezia e la Sostanza. I momenti migliori della Roma Novantotto recano infatti il segno dell'ibrido, un occhio al sogno, uno alla realtà. I derby perduti sono solo il segno macroscopico delle certezze smarrite nel trascorrere dalla Provincia alla Capitale con un bagaglio culturale non completato.|[[Italo Cucci]], marzo 1998<ref>{{cita news|autore=Italo Cucci|titolo=Sbagliare è umano, perseverare è boemo|pubblicazione=Guerin Sportivo|numero=n. 11 (1187)|città=Bologna|editore=Conti Editore|data=11-17 marzo 1998|pp=26-31}}</ref>}}
+
+In questa stagione la società giallorossa affida la propria panchina al boemo [[Zdeněk Zeman]].<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1997/07/18/dieci-chilometri-al-giorno-come-suda-la.html|titolo=Dieci chilometri al giorno, come suda la Roma di Zeman|autore=Emilio Piervincenzi|pubblicazione=[[la Repubblica (quotidiano)|la Repubblica]]|data=18 luglio 1997|p=10}}</ref><ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}.</ref> Senza operare grossi stravolgimenti sul mercato<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1997/07/21/le-certezze-di-zeman-per-ora-cafu.html|titolo=Le certezze di Zeman "Per ora Cafù e Vagner"|autore=Emilio Piervincenzi|pubblicazione=la Repubblica|data=21 luglio 1997|p=38}}</ref>, il gioco viene costruito attorno all'astro nascente [[Francesco Totti]]<ref>{{cita news|url=http://archiviostorico.gazzetta.it/1997/agosto/24/Totti_futuro_finalmente_arrivato_ga_0_9708246897.shtml|titolo=Totti, il futuro è finalmente arrivato|autore=Gaetano Imparato|pubblicazione=[[La Gazzetta dello Sport]]|data=24 agosto 1997}}</ref>, con l’allenatore che imposta il ventunenne nel ruolo di mezza punta<ref>{{cita news|url=http://archiviostorico.gazzetta.it/1997/dicembre/02/Totti_estate_all_altra_ga_0_9712028442.shtml|titolo=Totti da un'estate all'altra|autore=Valerio Piccioni|pubblicazione=La Gazzetta dello Sport|data=2 dicembre 1997}}</ref>, con risultati apprezzabili dal punto di vista realizzativo.<ref>{{cita news|url=http://archiviostorico.gazzetta.it/1997/dicembre/31/Totti_saluta_suo_1997_Nell_ga_0_9712316301.shtml|titolo=Totti saluta il suo 1997 "Nell'album metto Zeman e la maglia numero 10"|autore=Gaetano Imparato|pubblicazione=La Gazzetta dello Sport|data=31 dicembre 1997}}</ref>
+
+Sotto il profilo agonistico, i capitolini riescono a far meglio dell'anno precedente, malgrado le quattro sconfitte in altrettante [[Derby di Roma|stracittadine]], tra [[Serie A 1997-1998|campionato]] e [[Coppa Italia 1997-1998|coppa]], con la [[Società Sportiva Lazio|Lazio]];<ref name=cor7/> la squadra giallorossa si classifica quarta in campionato con 59 punti, ottenendo la qualificazione in [[Coppa UEFA]].<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1998/05/17/roma-trionfo-zeman-adesso-montella.html|titolo=Roma, trionfo Zeman E adesso Montella|autore=Stefano Zaino|pubblicazione=la Repubblica|data=17 maggio 1998|p=44}}</ref> In [[Coppa Italia 1997-1998|Coppa Italia]] i giallorossi vengono eliminati dalla Lazio nei quarti di finale, dopo aver superato il {{Calcio Verona|N}} nei sedicesimi e l'{{Calcio Udinese|N}} negli ottavi.
+
+== Divise e sponsor ==
+Lo sponsor tecnico era [[Diadora]], mentre lo sponsor ufficiale [[INA Assitalia]].
+La prima divisa era costituita da maglia rossa, pantaloncini rossi e calzettoni rossi, tutti e tre presentanti decorazioni arancioni. In trasferta i Lupi usarono un kit costituito da una maglia bianca con colletto a polo arancione, pantaloncini bianchi, calzettoni bianchi, tutti e tre con decorazioni arancioni. Come terza divisa venne usato un kit costituito dallo stesso ''template'' della away, con il nero al posto del bianco.<ref name="maglie">{{cita|Castellani, Ceci, de Conciliis|pp. 198-201}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_b = _asroma9798h
+|body = 8f0505
+|pattern_la =
+|leftarm = 8f0505
+|pattern_ra =
+|rightarm = 8f0505
+|pattern_sh =_orangesides
+|shorts = 8f0505
+|pattern_so =_asroma9798h
+|socks = 8f0505
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_b = _asroma9798a
+|body = FFFFFF
+|pattern_la = _orange_border
+|leftarm = FFFFFF
+|pattern_ra = _orange_border
+|rightarm = FFFFFF
+|pattern_sh =_orangesides
+|shorts = FFFFFF
+|pattern_so =_asroma9798a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_b = _asroma9798t
+|body = 000000
+|pattern_la = _asroma9798t
+|leftarm = 000000
+|pattern_ra = _asroma9798t
+|rightarm = 000000
+|pattern_sh =_asroma9798t
+|shorts = 000000
+|pattern_so =_asroma9798t
+|socks = 000000
+|title = Terza divisa
+}}
+|}
+I portieri usano due divise: la prima simile alla ''third'' con anche decorazioni rosse, la seconda da maglia grigia, pantaloncini neri e calzettoni bianchi, tutti e tre presentanti decorazioni arancioni e nere.<ref name="maglie"/>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma9798gk1
+|body = 858585
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma9798t
+|socks = ffffff
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_blackborder
+|leftarm = b4b4b4
+|pattern_b =_asroma9798gk2
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = b4b4b4
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma9798a
+|socks = ffffff
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor7/>
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente: [[Franco Sensi]]
+* Vicepresidente e amministratore delegato: [[Ciro Di Martino]]
+* Consigliere tecnico: [[Nils Liedholm]]
+* Direttore sportivo: [[Giorgio Perinetti]]
+* Team Manager: [[Antonio Tempestilli]]
+* Responsabile ufficio stampa: Dario Brugnoli
+{{Colonne spezza}}
+'''''Area sanitaria'''''
+* Medico sociale: Ernesto Alicicco
+* Massaggiatore: Giorgio Rossi
+{{Colonne spezza}}
+'''''Area tecnica'''''
+* Allenatore: [[Zdeněk Zeman]]
+* Allenatore in seconda: [[Ezio Sella]]
+* Preparatore dei portieri: Vincenzo Cangelosi
+* Allenatore Primavera: [[Aldo Maldera]]
+* Preparatore atletico: Vito Scala
+{{Colonne fine}}
+== Rosa ==
+[[File:Michael Konsel - AS Roma 1998-99.jpg|thumb|upright|L'austriaco [[Michael Konsel]], neoacquisto e primo portiere straniero nella storia della Roma.<ref>{{cita web|url=https://www.ilromanista.eu/news/as-roma/7055/olsen-e-i-suoi-fratelli-lelenco-di-tutti-i-portieri-stranieri-della-roma|titolo=Olsen e i suoi fratelli: l'elenco di tutti i portieri stranieri della Roma|data=2018-07-23}}</ref>]]
+''Rosa aggiornata al termine della stagione''.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1997|titolo=AS Roma - Rosa 1997/98}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=AUT|nome=[[Michael Konsel]]|ruolo=P}}
+{{Calciatore in rosa|n=2|nazione=BRA|nome=[[Cafu]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=ITA|nome=[[Filippo Dal Moro]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Luigi Di Biagio]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Vincent Candela]]|ruolo=D}}
+{{Calciatore in rosa|n=6|nazione=BRA|nome=[[Aldair]]|ruolo=D|altro=V}}
+{{Calciatore in rosa|n=7|nazione=BRA|nome=[[Paulo Sérgio]]|ruolo=A}}
+{{Calciatore in rosa|n=8|nazione=ITA|nome=[[Cristiano Scapolo]]|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=ARG|nome=[[Abel Balbo]]|ruolo=A|altro=C}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A}}
+{{Calciatore in rosa|n=11|nazione=ITA|nome=[[Eusebio Di Francesco]]|ruolo=C}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=[[Antonio Chimenti]]|ruolo=P}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=13|nazione=BRA|nome=[[Vágner Rogério Nunes|Vágner]]|ruolo=C}}
+{{Calciatore in rosa|n=14|nazione=GRC|nome=[[Lampros Choutos]]|ruolo=A}}
+{{Calciatore in rosa|n=15|nazione=ITA|nome=[[Cristian Servidei]]|ruolo=D}}
+{{Calciatore in rosa|n=16|nazione=ITA|nome=[[Matteo Pivotto]]|ruolo=D}}
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Damiano Tommasi]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ESP|nome=[[Iván Helguera]]|ruolo=C}}
+{{Calciatore in rosa|n=19|nazione=ITA|nome=[[Carmine Gautieri]]|ruolo=C}}
+{{Calciatore in rosa|n=21|nazione=RUS|nome=[[Omari Tetradze]]|ruolo=D}}
+{{Calciatore in rosa|n=22|nazione=ESP|nome=[[César Gómez]]|ruolo=D}}
+{{Calciatore in rosa|n=24|nazione=ITA|nome=[[Marco Delvecchio]]|ruolo=A}}
+{{Calciatore in rosa|n=25|nazione=ITA|nome=[[Fabio Petruzzi]]|ruolo=D}}
+{{Calciatore in rosa|n=30|nazione=BRA|nome=[[Antônio Carlos Zago]]|ruolo=D}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+''Fonte'':<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/transfers/verein/12/plus/0?saison_id=1997&pos=&detailpos=&w_s=|titolo=Trasferimenti}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Antonio Chimenti]]|| {{Calcio Salernitana|N}} || ''definitivo (3 mld)''
+|-
+| P ||[[Michael Konsel]]|| {{Calcio Rapid Vienna|N}} || ''definitivo (1 mld)''
+|-
+| P ||[[Andrea Campagnolo]]|| {{Calcio Cittadella|N}} || ''definitivo (1 mld)''
+|-
+| D ||[[Cafu]]|| {{Calcio Palmeiras|N}} || ''definitivo (13 mld)''
+|-
+| D ||[[César Gómez]]|| {{Calcio Tenerife|N}} || ''definitivo (6 mld)''
+|-
+| D ||[[Giorgio Lucenti]]|| {{Calcio Palermo|N}} || ''definitivo (1.5 mld)''
+|-
+| D ||[[Iván Helguera]]|| {{Calcio Albacete|N}} ||''definitivo (5 mld)''
+|-
+| D ||[[Cristian Servidei]]|| {{Calcio Lecce|N}} || ''definitivo (2 mld)''
+|-
+| D ||[[Antônio Carlos Zago]]|| {{Calcio Corinthians|N}} ||''definitivo (7.2 mld)''
+|-
+| D ||[[Filippo Dal Moro]]|| {{Calcio Empoli|N}} || ''definitivo (3 mld)''
+|-
+| C ||[[Vágner Rogério Nunes|Vágner]]|| {{Calcio Santos|N}} || ''definitivo (8 mld)''
+|-
+| C ||[[Cristiano Scapolo]]|| {{Calcio Bologna|N}} ||''definitivo''
+|-
+| C ||[[Eusebio Di Francesco]]|| {{Calcio Piacenza|N}} || ''definitivo''
+|-
+| A ||[[Paulo Sérgio]]|| {{Calcio Bayer Leverkusen|N}} || ''definitivo (6 mld)''
+|-
+| A ||[[Carmine Gautieri]]|| {{Calcio Perugia|N}} ||''definitivo (4 mld)''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Gianluca Berti]]|| {{Calcio Reggiana|N}} || ''definitivo''
+|-
+| P ||[[Giampaolo Di Magno]]|| {{Calcio Carpi|N}} || ''definitivo''
+|-
+| P ||[[Giovanni Cervone]]|| {{Calcio Brescia|N}} || ''definitivo''
+|-
+| P ||[[Giorgio Sterchele]]|| {{Calcio Bologna|N}} || ''definitivo''
+|-
+| D ||[[Amedeo Carboni]]|| {{Calcio Valencia|N}} || ''definitivo (8 mld)''
+|-
+| D ||[[Francesco Colonnese]]|| {{Calcio Inter|N}} || ''definitivo''
+|-
+| D ||[[Giorgio Lucenti]]|| {{Calcio Empoli|N}} ||''prestito''
+|-
+| D ||[[Marco Lanna]]|| {{Calcio Salamanca|N}} || ''svincolato''
+|-
+| D ||[[Enrico Annoni]]|| {{Calcio Celtic|N}} ||''definitivo (1 mld)''
+|-
+| D ||[[Lorenzo Stovini]]|| {{Calcio Vicenza|N|1991}} ||''definitivo''
+|-
+| C ||[[Jonas Thern]]|| {{Calcio Rangers|N}} || ''svincolato''
+|-
+| C ||[[Antonino Bernardini]]|| {{Calcio Perugia|N}} || ''definitivo''
+|-
+| C ||[[Francesco Statuto]]|| {{Calcio Udinese|N}} ||''definitivo''
+|-
+| A ||[[Francesco Moriero]]|| {{Calcio Inter|N}} || ''svincolato''
+|-
+| A ||[[Daniel Fonseca]]|| {{Calcio Juventus|N}} || ''definitivo (9 mld)''
+|-
+| A ||[[Andrea Conti (calciatore 1977)|Andrea Conti]]|| {{Calcio Carpi|N}} ||''definitivo''
+|-
+| A ||[[Martin Dahlin]]|| {{Calcio Blackburn|N}} || ''definitivo (7 mld)''
+|}
+{{colonne fine}}
+
+==Risultati==
+===Serie A===
+{{Vedi anche|Serie A 1997-1998}}
+====Girone di andata====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 1997
+|Turno = 1ª giornata
+|Ora =
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798EmpoliRoma.html
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]<ref>Giocata a Firenze per i lavori di ristrutturazione dello [[stadio Carlo Castellani]] di Empoli.</ref>
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Massimiliano Cappellini|Cappellini]] {{Goal|16|rig.}}
+|Marcatori 2 = {{Goal|3}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|46||61}} [[Abel Balbo|Balbo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Anno = 1997
+|Turno = 2ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798RomaJuventus.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 settembre
+|Anno = 1997
+|Turno = 3ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798RomaLecce.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|48}}<br/>[[Luigi Di Biagio|Di Biagio]] {{Goal|62}}<br/>[[Abel Balbo|Balbo]] {{Goal|68}}
+|Marcatori 2 = {{Goal|55}} [[Francesco Palmieri|Palmieri]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 1997
+|Turno = 4ª giornata
+|Ora =
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798BolognaRoma.html
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 1997
+|Turno = 5ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 6
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798RomaNapoli.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Vincent Candela|Candela]] {{Goal|16}}<br/>[[Carmine Gautieri|Gautieri]] {{Goal|34}}<br/>[[Abel Balbo|Balbo]] {{Goal|51||60||89}}<br/>[[Eusebio Di Francesco|Di Francesco]] {{Goal|53}}
+|Marcatori 2 = {{Goal|71}} [[Luca Altomare|Altomare]]<br/>{{Goal|87|rig.}} [[Claudio Bellucci|Bellucci]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 1997
+|Turno = 6ª giornata
+|Ora =
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798FiorentinaRoma.html
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1997
+|Turno = 7ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798RomaLazio.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|90+1}}
+|Marcatori 2 = {{Goal|47}} [[Roberto Mancini|Mancini]]<br/>{{Goal|57}} [[Pierluigi Casiraghi|Casiraghi]]<br/>{{Goal|84}} [[Pavel Nedvěd|Nedvěd]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 1997
+|Turno = 8ª giornata
+|Ora =
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798BariRoma.html
+|Città = [[Bari]]
+|Stadio = [[Stadio San Nicola]]
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Sergio Volpi|Volpi]] {{Goal|36}}
+|Marcatori 2 = {{Goal|10||58}} [[Francesco Totti|Totti]]<br/>{{Goal|34}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 novembre
+|Anno = 1997
+|Turno = 9ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798RomaVicenza.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|28}}<br/>[[Paulo Sérgio]] {{Goal|44}}
+|Marcatori 2 = {{Goal|1}} [[Pasquale Luiso|Luiso]]<br/>{{Goal|45}} [[Gabriele Ambrosetti|Ambrosetti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 novembre
+|Anno = 1997
+|Turno = 10ª giornata
+|Ora =
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798ParmaRoma.html
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Marcatori 2 = {{Goal|9}} [[Francesco Totti|Totti]]<br/>{{Goal|22}} [[Paulo Sérgio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Anno = 1997
+|Turno = 11ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798RomaAtalanta.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Massimo Carrera|Carrera]] {{Goal|23|aut.}}<br/>[[Francesco Totti|Totti]] {{Goal|27}}<br/>[[Paulo Sérgio]] {{Goal|32}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 dicembre
+|Anno = 1997
+|Turno = 12ª giornata
+|Ora =
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798interroma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Youri Djorkaeff|Djorkaeff]] {{Goal|40}}<br/>[[Marco Branca|Branca]] {{Goal|49}}<br/>[[Fabio Petruzzi|Petruzzi]] {{Goal|71|aut.}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 dicembre
+|Anno = 1997
+|Turno = 13ª giornata
+|Ora =
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798BresciaRoma.html
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Dario Hübner|Hübner]] {{Goal|15}}
+|Marcatori 2 = {{Goal|90+5}} [[Paulo Sérgio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 gennaio
+|Anno = 1998
+|Turno = 14ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798RomaUdinese.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|59|rig.}}
+|Marcatori 2 = {{Goal|49||56}} [[Oliver Bierhoff|Bierhoff]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 1998
+|Turno = 15ª giornata
+|Ora =
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798MilanRoma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 gennaio
+|Anno = 1998
+|Turno = 16ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798Roma%20Piacenza.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Aldair]] {{Goal|6}}
+|Marcatori 2 = {{Goal|85}} [[Massimo Rastelli|Rastelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 1998
+|Turno = 17ª giornata
+|Ora =
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798SampdoriaRoma.html
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Siniša Mihajlović|Mihajlović]] {{Goal|33}}
+|Marcatori 2 = {{Goal|26|aut.}} [[Moreno Mannini|Mannini]]
+}}
+
+====Girone di ritorno====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 1998
+|Turno = 18ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798RomaEmpoli.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|22||74||87|rig.}}<br/>[[Aldair]] {{Goal|73}}
+|Marcatori 2 = {{Goal|60}} [[Claudio Bonomi|Bonomi]]<br/>{{Goal|85||88}} [[Massimiliano Cappellini|Cappellini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 1998
+|Turno = 19ª giornata
+|Ora =
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798JuventusRoma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Zinédine Zidane|Zidane]] {{Goal|47}}<br/>[[Alessandro Del Piero|Del Piero]] {{Goal|49}}<br/>[[Edgar Davids|Davids]] {{Goal|65}}
+|Marcatori 2 = {{Goal|57}} [[Paulo Sérgio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 1998
+|Turno = 20ª giornata
+|Ora =
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798LecceRoma.html
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Marcatori 1 = [[Serhij Atel'kin|Atel'kin]] {{Goal|77}}
+|Marcatori 2 = {{Goal|42|rig.}} [[Abel Balbo|Balbo]]<br/>{{Goal|48}} [[Luigi Di Biagio|Di Biagio]]<br/>{{Goal|86}} [[Carmine Gautieri|Gautieri]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 1998
+|Turno = 21ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798Roma%20Bologna.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Eusebio Di Francesco|Di Francesco]] {{Goal|5}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|87}}
+|Marcatori 2 = {{Goal|9}} [[Igor' Kolyvanov|Kolyvanov]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 febbraio
+|Anno = 1998
+|Turno = 22ª giornata
+|Ora =
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798NapoliRoma.html
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 2 = {{Goal|54}} [[Francesco Totti|Totti]]<br/>{{Goal|62}} [[Luigi Di Biagio|Di Biagio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 1998
+|Turno = 23ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798RomaFiorentina.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|12}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|32||41}}<br/>[[Francesco Totti|Totti]] {{Goal|56}}
+|Marcatori 2 = {{Goal|71}} [[Gabriel Batistuta|Batistuta]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 1998
+|Turno = 24ª giornata
+|Ora =
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798lazieroma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Alen Bokšić|Bokšić]] {{Goal|50}}<br/>[[Pavel Nedvěd|Nedvěd]] {{Goal|62}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 marzo
+|Anno = 1998
+|Turno = 25ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798RomaBari.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Tarcisio Serena]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|2}}<br/>[[Aldair]] {{Goal|78}}
+|Marcatori 2 = {{Goal|51}} [[Gianluca Zambrotta|Zambrotta]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 marzo
+|Anno = 1998
+|Turno = 26ª giornata
+|Ora =
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798VicenzaRoma.html
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Pasquale Luiso|Luiso]] {{Goal|24}}
+|Marcatori 2 = {{Goal|12}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 marzo
+|Anno = 1998
+|Turno = 27ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798RomaParma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|10}}<br/>[[Paulo Sérgio]] {{Goal|25}}
+|Marcatori 2 = {{Goal|26||53}} [[Enrico Chiesa|Chiesa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 aprile
+|Anno = 1998
+|Turno = 28ª giornata
+|Ora =
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798AtalantaRoma.html
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 2 = {{Goal|3}} [[Eusebio Di Francesco|Di Francesco]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 1998
+|Turno = 29ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798RomaInter.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Cafu]] {{Goal|63}}
+|Marcatori 2 = {{Goal|50||75}} [[Ronaldo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 aprile
+|Anno = 1998
+|Turno = 30ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798RomaBrescia.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Luigi Di Biagio|Di Biagio]] {{Goal|25|rig.|69}}<br/>[[Paulo Sérgio]] {{Goal|33||66}}<br/>[[Francesco Totti|Totti]] {{Goal|55}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1998
+|Turno = 31ª giornata
+|Ora =
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798UdineseRoma.html
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Oliver Bierhoff|Bierhoff]] {{Goal|23||89}}<br/>[[Alessandro Calori|Calori]] {{Goal|59}}<br/>[[Paolo Poggi|Poggi]] {{Goal|74}}
+|Marcatori 2 = {{Goal|45||73}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 1998
+|Turno = 32ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798RomaMilan.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Vincent Candela|Candela]] {{Goal|16}}<br/>[[Luigi Di Biagio|Di Biagio]] {{Goal|20|rig.|28}}<br/>[[Paulo Sérgio]] {{Goal|39}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|82}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 maggio
+|Anno = 1998
+|Turno = 33ª giornata
+|Ora =
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798PiacenzaRoma.html
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Marcatori 1 = [[Giampietro Piovani|Piovani]] {{Goal|44|rig.}}<br/>[[Roberto Murgita|Murgita]] {{Goal|57}}<br/>[[Fabian Valtolina|Valtolina]] {{Goal|90+4}}
+|Marcatori 2 = {{Goal|45}} [[Eusebio Di Francesco|Di Francesco]]<br/>{{Goal|52|rig.}} [[Francesco Totti|Totti]]<br/>{{Goal|86}} [[Paulo Sérgio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio
+|Anno = 1998
+|Turno = 34ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9798RomaSampdoria.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|24}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|90+1}}
+|Sfondo = on
+}}
+
+===Coppa Italia===
+{{Vedi anche|Coppa Italia 1997-1998}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1997
+|Ora = 20:45
+|Turno= Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 5
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9798RomaVerona_CI.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|24|rig.}}<br />[[Aldair]] {{Goal|40}}<br />[[Luigi Di Biagio|Di Biagio]] {{Goal|52}}<br />[[Eusebio Di Francesco|Di Francesco]] {{Goal|64}}<br />[[Natale Gonnella|Gonnella]] {{Goal|84|aut.}}
+|Marcatori 2 = {{Goal|25||43}} [[Alfredo Aglietti|Aglietti]]<br />{{Goal|62}} [[Paolo Vanoli|Vanoli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 1997
+|Ora =
+|Turno= Sedicesimi di finale - Ritorno
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798VeronaRoma_CI.html
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Sebastiano Siviglia|Siviglia]] {{Goal|76}}
+|Marcatori 2 = {{Goal|8}} [[Aldair]]<br />{{Goal|59}} [[Luigi Di Biagio|Di Biagio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 ottobre
+|Anno = 1997
+|Ora =
+|Turno= Ottavi di finale - Andata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798UdineseRoma_CI.html
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Tomas Locatelli|Locatelli]] {{Goal|28}}<br />[[Oliver Bierhoff|Bierhoff]] {{Goal|79}}
+|Marcatori 2 = {{Goal|65}} [[Francesco Totti|Totti]]<br />{{Goal|82}} [[Carmine Gautieri|Gautieri]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 1997
+|Ora =
+|Turno= Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798RomaUdinese_CI.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|23}}<br />[[Marco Delvecchio|Delvecchio]] {{Goal|51}}
+|Marcatori 2 = {{Goal|46}} [[Paolo Poggi|Poggi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1998
+|Ora =
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9798LazioRoma_Coppa_Italia.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pasquale Rodomonti]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Alen Bokšić|Bokšić]] {{Goal|3}}<br/>[[Vladimir Jugović|Jugović]] {{Goal|33|rig.}}<br/>[[Roberto Mancini|Mancini]] {{Goal|75}}<br/>[[Diego Fuser|Fuser]] {{Goal|81}}
+|Marcatori 2 = {{Goal|39|rig.}} [[Abel Balbo|Balbo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1998
+|Ora =
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9798RomaLazio_Coppa_Italia.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|54}}
+|Marcatori 2 = {{Goal|45|rig.}} [[Vladimir Jugović|Jugović]]<br />{{Goal|90+4}} [[Guerino Gottardi|Gottardi]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+''Statistiche aggiornate al 16 maggio 1998''.<ref>{{cita libro|titolo=Almanacco Illustrato del Calcio 1999|editore=[[Panini (azienda)|Panini Editore]]|anno=1998|pagine=712|città=Modena|ISBN=8883430999}}</ref>
+=== Statistiche di squadra<ref>{{cita|Beltrami, 1998|pp. 166, 323-327}}.</ref> ===
+{{Statistiche_squadra
+|comp1=[[Serie A 1997-1998|Serie A]]
+|punti1=59
+|cv1=10
+|cn1=4
+|cp1=3
+|cgf1=44
+|cgs1=21
+|tv1=6
+|tn1=7
+|tp1=4
+|tgf1=23
+|tgs1=21
+|comp2=[[Coppa Italia 1997-1998|Coppa Italia]]
+|punti2=
+|cv2=2
+|cn2=0
+|cp2=1
+|cgf2=8
+|cgs2=6
+|tv2=1
+|tn2=1
+|tp2=1
+|tgf2=5
+|tgs2=7
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=C |m31=T |m32=C |m33=T |m34=C}}
+{{Andamento/Risultato |m1=V |m2=N |m3=V |m4=N |m5=V |m6=N |m7=P |m8=V |m9=N |m10=V |m11=V |m12=P |m13=N |m14=P |m15=N |m16=N |m17=N |m18=V |m19=P |m20=V |m21=V |m22=V |m23=V |m24=P |m25=V |m26=N |m27=N |m28=V |m29=P |m30=V |m31=P |m32=V |m33=N |m34=V}}
+{{Andamento/Posizione |m1=2 |m2=5 |m3=4 |m4=4 |m5=2 |m6=4 |m7=4 |m8=4 |m9=4 |m10=3 |m11=3 |m12=5 |m13=5 |m14=5 |m15=7 |m16=7 |m17=8 |m18=7 |m19=8 |m20=8 |m21=7 |m22=7 |m23=5 |m24=6 |m25=5 |m26=5 |m27=5 |m28=4 |m29=5 |m30=4 |m31=6 |m32=6 |m33=6 |m34=4}}
+{{Andamento/Fine |fonte={{cita web |url=https://www.worldfootball.net/schedule/ita-serie-a-1997-1998-spieltag/1/ |titolo=Italy » Serie A 1997/1998 » Results & Tables |editore=worldfootball.net}}}}
+=== Statistiche dei giocatori<ref>{{cita|Beltrami, 1998|pp. 210, 323-327}}.</ref> ===
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| {{Sortname||Aldair}} {{Sommastat|28|3|?|? |6|2|?|?}}
+| {{Sortname|A.|Balbo|Abel Balbo}} {{Sommastat|28|14|?|? |3|2|?|?}}
+| {{Sortname||Cafu}} {{Sommastat|31|1|?|? |5|0|?|?}}
+| {{Sortname|V.|Candela|Vincent Candela}} {{Sommastat|32|2|?|? |6|0|?|?}}
+| {{Sortname|A.|Chimenti|Antonio Chimenti}} {{Sommastat|8|-4|?|? |1|-3|?|?}}
+| {{Sortname|F.|Dal Moro|Filippo Dal Moro}} {{Sommastat|7|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Delvecchio|Marco Delvecchio}} {{Sommastat|27|7|?|? |5|1|?|?}}
+| {{Sortname|L.|Di Biagio|Luigi Di Biagio}} {{Sommastat|30|7|?|? |6|2|?|?}}
+| {{Sortname|E.|Di Francesco|Eusebio Di Francesco}} {{Sommastat|33|4|?|? |5|1|?|?}}
+| {{Sortname|C.|Gautieri|Carmine Gautieri}} {{Sommastat|17|2|?|? |4|1|?|?}}
+| {{Sortname|C.|Gómez|César Gómez}} {{Sommastat|3|0|?|? |-|-|-|-}}
+| {{Sortname|I.|Helguera|Iván Helguera}} {{Sommastat|8|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Konsel|Michael Konsel}} {{Sommastat|29|-38|?|? |5|-10|?|?}}
+| {{Sortname||Paulo Sérgio}} {{Sommastat|34|12|?|? |6|2|?|?}}
+| {{Sortname|F.|Petruzzi|Fabio Petruzzi}} {{Sommastat|25|0|?|? |5|0|?|?}}
+| {{Sortname|M.|Pivotto|Matteo Pivotto}} {{Sommastat|7|0|?|? |-|-|-|-}}
+| {{Sortname|C.|Scapolo|Cristiano Scapolo}} {{Sommastat|7|0|?|? |1|0|?|?}}
+| {{Sortname|C.|Servidei|Cristian Servidei}} {{Sommastat|6|0|?|? |3|0|?|?}}
+| {{Sortname|O.|Tetradze|Omari Tetradze}} {{Sommastat|7|0|?|? |-|-|-|-}}
+| {{Sortname|D.|Tommasi|Damiano Tommasi}} {{Sommastat|33|0|?|? |6|0|?|?}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|30|13|?|? |6|1|?|?}}
+| {{Sortname||Vágner|Vágner Rogério Nunes}} {{Sommastat|11|0|?|? |5|0|?|?}}
+| {{Sortname|A.C.|Zago|Antônio Carlos Zago}} {{Sommastat|12|0|?|? |-|-|-|-}}
+}}
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|cid=Beltrami, 1997|autore=Arrigo Beltrami (a cura di)|titolo=Almanacco illustrato del calcio 1998|città=Modena|editore=Panini|anno=1997}}
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital98.html|Serie A 1997-1998|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1997|Profilo e statistiche|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1997-1998}}
+{{Portale|calcio}}

@@ -1,0 +1,1017 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = Asroma 1936.jpg
+|didascalia = Una formazione della Roma nel 1936-1937
+|stagione = 1936-1937
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Luigi Barbesino]]
+|presidente = {{Bandiera|ITA 1861-1946}} Igino Betti
+|campionato = [[Serie A 1936-1937|Serie A]]
+|campionato posizione = 10º
+|coppa1 = [[Coppa Italia 1936-1937|Coppa Italia]]
+|coppa1 posizione = Finalista
+|coppa2 = [[Coppa dell'Europa Centrale 1936|Coppa dell'Europa Centrale]]
+|coppa2 posizione = Quarti di finale
+|presenze campionato = [[Eraldo Monzeglio|Monzeglio]] (30)
+|presenze totale = Monzeglio (39)
+|marcatore campionato = [[Domenico D'Alberto|D'Alberto]] (7)
+|marcatore totale = [[Dante Di Benedetti|Di Benedetti]] (12)
+|stadio = [[Campo Testaccio]]
+|stagione prima = [[Associazione Sportiva Roma 1935-1936|1935-1936]]
+|stagione dopo = [[Associazione Sportiva Roma 1937-1938|1937-1938]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1936-1937'''.
+==Stagione==
+Durante la campagna acquisti estiva giunge nella capitale, fra gli altri, il centrocampista della [[Nazionale di calcio dell'Italia|Nazionale]] [[Pietro Serantoni]]. La squadra romanista, allenata da [[Luigi Barbesino]], accusa gli infortuni di [[Guido Masetti]] e di [[Dante Di Benedetti]], attaccante rivelazione del precedente campionato. Durante l'annata esordisce il giovane talento [[Amedeo Amadei]] che, andando a segno nella partita contro la {{Calcio Lucchese|N}}, diventa il [[Statistiche della Serie A#Marcatori più giovani|marcatore più giovane della Serie A]] a 15 anni, 9 mesi e 14 giorni, record ancora oggi imbattuto. In campionato la Roma termina al decimo posto con 27 punti. In [[Coppa Italia 1936-1937|Coppa Italia]] i giallorossi giungono in finale, dove vengono sconfitti 1-0 dal {{Calcio Genoa|N|1937}}. Nella [[Coppa dell'Europa Centrale]] la compagine capitolina supera il [[Rapid Vienna]] negli ottavi di finale, ma non non va oltre i quarti, dove viene eliminata dallo {{Calcio Sparta Praga|N}}.<ref name=cor1>{{cita|Romano|1927-1942 Dalla fondazione al primo scudetto}}.</ref>
+
+== Divise ==
+La divisa primaria della Roma è costituita da maglia rossa con collo a V giallo e bordo manica giallo, pantaloncini bianchi e calzettoni neri con banda giallorossa orizzontale; la seconda divisa presenta una maglia bianca, pantaloncini bianchi e calzettoni neri, questi con una banda giallorossa orizzontale. Nelle partite casalinghe viene usata anche una divisa completamente nera con maglia con colletto a polo, in onore del governo [[Fascismo|fascista]].  I portieri hanno due divise: la prima costituita da maglia nera, colletto a polo e bordo manica giallorosso, la seconda grigia con colletto a polo; calzettoni e calzoncini sono neri, questi ultimi con bande giallorosse orizzontali.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 33-34}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma2728h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma3233h2
+|body = 000000
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = Casa (alternativa)
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b = _vneck
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = ff
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma3334gk
+|body = 858585
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = 1ª div. portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma3031gk
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = 2ª div. portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor1/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Igino Betti]]
+;Area tecnica
+* Allenatore: [[Luigi Barbesino]]
+{{Colonne fine}}
+==Rosa==
+Di seguito la rosa.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1936|titolo=Rosa AS Roma - Saison 36/37}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Guido Masetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Francalancia]]<ref name="P">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Archimede Nardi]]<ref name="P"/>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Valinasso]]<ref>Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=''[[Giovanni Zucca]]''<ref>Ceduto a stagione iniziata</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Allemandi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Roberto Allemandi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Nazzareno Celestini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Cipriani]]|ruolo=D|altro=}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Andrea Gadaldi]]|ruolo=D|altro=}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Alfredo Marini]]|ruolo=D|altro=}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Eraldo Monzeglio]]|ruolo=D|altro=}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fulvio Bernardini]]|ruolo=C|altro=c}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Cattaneo (1903)|Renato Cattaneo]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ugo Cerroni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Evaristo Frisoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Alfredo Mazzoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Fusco (calciatore)|Antonio Fusco]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Gastone Prendato]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Franco Scaramelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Pietro Serantoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Glauco Signorini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ernesto Tomasi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Amedeo Amadei]]<ref name="P"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Dante Di Benedetti]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Domenico D'Alberto]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Marchegiani]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Otello Subinaghi]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/saison_id/1936/plus/1|titolo=Rosa AS Roma - Saison 36/37}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%; width:99%;"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+| P || [[Cesare Valinasso]] || {{Calcio Juventus|NB}} ||''definitivo''
+|-
+| D || [[Renato Cipriani]] || - ||''svincolato''
+|-
+| C || [[Alfredo Mazzoni]] || {{Calcio Modena|NB}} ||''definitivo''
+|-
+| C || [[Gastone Prendato]] || {{Calcio Juventus|NB}} ||''definitivo''
+|-
+| C || [[Pietro Serantoni]] || {{Calcio Juventus|NB}} ||''definitivo''
+|-
+| A || [[Glauco Signorini]] || {{Calcio Roman|NB}} ||''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%; width:99%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+| P || [[Giovanni Zucca]] || - || ''svincolato''
+|-
+| D || [[Giorgio Carpi]] || - || ''svincolato''
+|-
+| C || [[Armando Preti]] ||{{Calcio MATER|NB}}|| ''definitivo''
+|-
+| C || [[Otello Trombetta]] || {{Calcio L'Aquila|NB}} || ''definitivo''
+|-
+| C || [[Giacomo Valentini]] || {{Calcio L'Aquila|NB}} ||''definitivo''
+|-
+| A || [[Pietro Pastore]] || - || ''svincolato''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1936-1937}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 settembre
+|Anno = 1936
+|Ora =
+|Turno = 1ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto=http://www.asromaultras.org/3637NapoliRoma.html
+|Città = [[Napoli]]
+|Stadio = [[Stadio Partenopeo]]
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 settembre
+|Anno = 1936
+|Ora =
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampierdarenese
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto=http://www.asromaultras.org/3637RomaSampierdanerese.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Gialma Bevilacqua]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Domenico D'Alberto|D'Alberto]] {{Goal|26}}<br/>[[Dante Di Benedetti|Di Benedetti]] {{Goal|78||83}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 1936
+|Ora =
+|Turno = 3ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Torino]]
+|Referto=http://www.asromaultras.org/3637TorinoRoma.html
+|Stadio = [[Stadio Filadelfia]]
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Onesto Silano|Silano]] {{Goal|14}}<br/>[[Federico Allasio|Allasio]] {{Goal|55}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 ottobre
+|Anno = 1936
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Alessandria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto=http://www.asromaultras.org/3637RomaAlessandria.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Pompeo Casati]]
+|Cittarbitro = [[Como]]
+|Marcatori 1 = [[Fulvio Bernardini|Bernardini]] {{Goal|61}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 ottobre
+|Anno = 1936
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Ambrosiana-Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Milano]]
+|Referto=http://www.asromaultras.org/3637InterRoma.html
+|Stadio = [[Arena Civica]]
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Giuseppe Meazza|Meazza]] {{Goal|43}}<br/>[[Annibale Frossi|Frossi]] {{Goal|67}}
+|Marcatori 2 = {{Goal|9}} [[Dante Di Benedetti|Di Benedetti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 ottobre
+|Anno = 1936
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto=http://www.asromaultras.org/3637RomaLazie.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Dante Di Benedetti|Di Benedetti]]  {{Goal|22||89}}<br/>[[Pietro Serantoni|Serantoni]] {{Goal|62}}
+|Marcatori 2 = {{Goal|10}} [[Umberto Busani|Busani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1936
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Trieste]]
+|Stadio = [[Stadio Giuseppe Grezar|Stadio del Littorio]]
+|Spettatori = 10.000 circa
+|Referto = http://www.asromaultras.org/3637TriestinaRoma_Il_Littoriale_01_af.JPG
+|Arbitro = [[Raffaele Mastellari]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Nereo Rocco|Rocco]] {{Goal|30|rig.}}<br/>[[Piero Castello|Castello]] {{Goal|89}}
+|Marcatori 2 = {{Goal|22}} [[Domenico D'Alberto|D'Alberto]]<br/>{{Goal|83}} [[Fulvio Bernardini|Bernardini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 1936
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 5
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Referto = http://www.asromaultras.org/3637RomaBari_Il_Littoriale_05_af.JPG
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 7.000 circa
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Otello Subinaghi|Subinaghi]] {{Goal|13||36}}<br/>[[Domenico D'Alberto|D'Alberto]] {{Goal|46||70}}<br/>[[Luigi Caldarulo|Caldarulo]] {{Goal|77|aut.}}
+|Marcatori 2 = {{Goal|18||65}} [[Elio Grolli|Grolli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 novembre
+|Anno = 1936
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637JuventusRoma_Il_Littoriale_03_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Municipale Benito Mussolini]]
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Felice Borel|Borel]] {{Goal|5}}<br/>[[Guglielmo Gabetto|Gabetto]] {{Goal|18||30||48}}<br/>[[Cinzio Scagliotti|Scagliotti]] {{Goal|80}}
+|Marcatori 2 = {{Goal|38|rig.}} [[Fulvio Bernardini|Bernardini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 novembre
+|Anno = 1936
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto=http://www.asromaultras.org/3637RomaGenoa.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 1936
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto=http://www.asromaultras.org/3637RomaBologna.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 2 = {{Goal|22}} [[Carlo Reguzzoni|Reguzzoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 1936
+|Ora =
+|Turno = 12ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/milan%20roma%2036-37%20d.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Giovanni Moretti|Moretti]] {{Goal|90}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 dicembre
+|Anno = 1936
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Firenze]]
+|Referto = http://www.asromaultras.org/3637FiorentinaRoma_Il_Littoriale_05_af.JPG
+|Stadio = [[Stadio Giovanni Berta]]
+|Spettatori = 13.000
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Alfonso Negro|Negro]] {{Goal|1}}<br/>[[Vinicio Viani|Viani]] {{Goal|10}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 gennaio
+|Anno = 1937
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lucchese
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto=http://www.asromaultras.org/193637RomaLucchese.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Emiliano Saracini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Otello Subinaghi|Subinaghi]] {{Goal|25}}<br/>[[Gastone Prendato|Prendato]] {{Goal|74}}<br/>[[Domenico D'Alberto|D'Alberto]] {{Goal|81}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1937
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Novara
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto=http://www.asromaultras.org/3637NovaraRoma.html
+|Città = [[Novara]]
+|Stadio = [[Stadio Enrico Patti|Stadio del Littorio]]
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Otello Torri|Torri]] {{Goal|24||40||83}}<br/>[[Savino Bellini|Bellini]] {{Goal|34}}<br/>[[Ezio Rizzotti|Rizzotti]] {{Goal|71}}
+|Marcatori 2 = {{Goal|85}} [[Luigi Allemandi|Allemandi]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1937
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3637RomaNapoli_Il_Littoriale_04_af.JPG
+|Spettatori = 13.000 circa
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Domenico D'Alberto|D'Alberto]] {{Goal|56}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1937
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Sampierdarenese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto=http://www.asromaultras.org/3637SampierdareneseRoma.html
+|Città = [[Cornigliano]]
+|Stadio = [[Stadio del Littorio]]
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 2 = {{Goal|9}} [[Alfredo Mazzoni|Mazzoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1937
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Gialma Bevilacqua]]
+|Referto=http://www.asromaultras.org/3637RomaTorino.html
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Gastone Prendato|Prendato]] {{Goal|50}}
+|Marcatori 2 = {{Goal|26}} [[Fioravante Baldi|Baldi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 1937
+|Ora =
+|Turno = 19ª giornata
+|Squadra 1 = Alessandria
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/3637alessandriaroma-art0006.jpg
+|Città = [[Alessandria (Italia)|Alessandria]]
+|Stadio = [[Stadio Giuseppe Moccagatta|Campo del Littorio]]
+|Spettatori = 3.000 circa
+|Arbitro = [[Giuseppe Turbiani]]
+|Cittarbitro = [[Ferrara]]
+|Marcatori 1 = [[Luigi Casalino|Casalino]] {{Goal|28||51}}<br/>[[Eligio Vecchi|Vecchi]] {{Goal|57}}<br/>[[Aldo Croce|Croce]] {{Goal|69}}<br/>[[Giuseppe Turino|Turino]] {{Goal|88}}
+|Marcatori 2 = {{Goal|13||90}} [[Otello Subinaghi|Subinaghi]]<br/>{{Goal|53}} [[Domenico D'Alberto|D'Alberto]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1937
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ambrosiana-Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3637RomaInter_Il_Littoriale_07_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 14.000 circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 febbraio
+|Anno = 1937
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637romalazio-coll.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 27.000 circa
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 2 = {{Goal|9}} [[Alfredo Mazzoni|Mazzoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 1937
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/3637RomaTriestina_Il_Littoriale_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Andrea Gadaldi|Gadaldi]] {{Goal|12}}
+|Marcatori 2 = {{Goal|5||41||55}} [[Luigi Busidoni|Busidoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1937
+|Ora =
+|Turno = 23ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3637bariroma-art.jpg
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Giorgio Moretti]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Raffaele Rossini|Rossini]] {{Goal|8}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 marzo
+|Anno = 1937
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637romajuventus3-1tab0002.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Gialma Bevilacqua]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Otello Subinaghi|Subinaghi]] {{Goal|68}}<br/>[[Alfredo Mazzoni|Mazzoni]] {{Goal|70}}<br/>[[Pietro Serantoni|Serantoni]] {{Goal|90}}
+|Marcatori 2 = {{Goal|26}} [[Guglielmo Gabetto|Gabetto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 marzo
+|Anno = 1937
+|Ora =
+|Turno = 25ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637genoaroma3-10004.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Luigi Scarabello|Scarabello]] {{Goal|39|rig.}}<br/>[[Alfredo Marchionneschi|Marchionneschi]] {{Goal|76}}<br/>[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|81}}
+|Marcatori 2 = {{Goal|82}} [[Andrea Gadaldi|Gadaldi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile
+|Anno = 1937
+|Ora =
+|Turno = 26ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3637boognaromaa0002.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Littoriale]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Raffaele Sansone|Sansone]] {{Goal|83}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1937
+|Ora =
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/roma%20milan%2036-37%20c.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 maggio
+|Anno = 1937
+|Ora =
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3637romafiorentina2-2.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 7.000 circa
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Ernesto Tomasi|Tomasi]] {{Goal|9}}<br/>[[Dante Di Benedetti|Di Benedetti]] {{Goal|54}}
+|Marcatori 2 = {{Goal|3}} [[Vinicio Viani|Viani]]<br/>{{Goal|69|rig.}} [[Benedetto Stella|Stella]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 1937
+|Ora =
+|Turno = 29ª giornata
+|Squadra 1 = Lucchese
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637luccheseroma_5-1_littoriale.jpg
+|Città = [[Lucca]]
+|Stadio = [[Stadio Porta Elisa]]
+|Spettatori = 4.000 circa
+|Arbitro = [[Marcello Salvagno]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Carlos Gringa|Gringa]] {{Goal|3}}<br/>[[Danilo Michelini|Michelini]] {{Goal|38||49||83}}<br/>[[Bruno Scher|Scher]] {{Goal|51}}
+|Marcatori 2 = {{Goal|30}} [[Amedeo Amadei|Amadei]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1937
+|Ora = 14:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Novara
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3637RomaNovara_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Pietro Serantoni|Serantoni]] {{Goal|81}}
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1936-1937}}
+====Fase finale====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1937
+|Ora =
+|Turno = Sedicesimi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637romatriestina-ci.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 3.000 circa
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Domenico D'Alberto|D'Alberto]] {{Goal|36}}<br/>[[Pietro Serantoni|Serantoni]] {{Goal|56|rig.}}
+|Marcatori 2 = {{Goal|5}} [[Nereo Rocco|Rocco]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 1937
+|Ora =
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637romatorino-ci-0002.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Dante Di Benedetti|Di Benedetti]] {{Goal|13||71||90}}
+|Marcatori 2 = {{Goal|78}} [[Federico Allasio|Allasio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 maggio
+|Anno = 1937
+|Ora =
+|Turno = Quarti di finale
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3637napoliroma-ci-.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio Partenopeo]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Gialma Bevilacqua]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 2 = {{Goal|8}} [[Alfredo Mazzoni|Mazzoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 maggio
+|Anno = 1937
+|Ora = 15:15
+|Turno = Semifinale
+|Squadra 1 = Ambrosiana-Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3637ambrosianaroma-ci-0002.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori =
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 2 = {{Goal|18}} [[Alfredo Mazzoni|Mazzoni]]<br/>{{Goal|33}} [[Dante Di Benedetti|Di Benedetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 giugno
+|Anno = 1937
+|Ora = 16:45
+|Turno = Finale
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3637RomaGenoa_CI_6-6-37_Il_Littoriale_03_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Giovanni Berta]]
+|Spettatori = 7.000 circa
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Luigi Torti| Torti]] {{Goal|78}}
+}}
+
+=== Coppa dell'Europa Centrale ===
+{{Vedi anche|Coppa dell'Europa Centrale 1936}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Vienna]]
+|Giornomese = 21 giugno
+|Anno = 1936
+|Ora =
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Rapid Vienna
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3536RapidViennaRoma_Il_Littoriale_05_af.JPG
+|Squadra 2 = Roma
+|Stadio = [[Pfarrwiese]]
+|Spettatori = 35.000
+|Arbitro = [[Ferenc Majorszky]]
+|Nazarbitro = HUN 1918-1940
+|Marcatori 1 = [[Lukas Aurednik|Aurednik]] {{Goal|21}}<br />[[Franz Binder|Binder]] {{Goal|23||63}}
+|Marcatori 2 = {{Goal|60}} [[Dante Di Benedetti|Di Benedetti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 28 giugno
+|Anno = 1936
+|Ora =
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3536RomaRapidVienna_28-6-36_Il_Littoriale_01_af.JPG
+|Squadra 2 = Rapid Vienna
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = Bangerter
+|Nazarbitro = CHE
+|Marcatori 1 = [[Pietro Serantoni|Serantoni]] {{Goal|6||35}}<br/>Tauschek {{Goal|21|aut.}}<br/>[[Domenico D'Alberto|D'Alberto]] {{Goal|43}}<br />[[Otello Subinaghi|Subinaghi]] {{Goal|50}}
+|Marcatori 2 = {{Goal|83}} [[Franz Binder|Binder]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Praga]]
+|Giornomese = 4 luglio
+|Anno = 1936
+|Ora = 18:15
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Sparta Praga
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/sparta%20praga%20roma%2035-36_la_stampa_af.JPG
+|Squadra 2 = Roma
+|Stadio = [[Stadion Letná]]
+|Spettatori = 22.000
+|Arbitro = Ivancsics
+|Nazarbitro = HUN 1918-1940
+|Marcatori 1 = Zajícek {{Goal|20}}<br />[[Ferdinand Faczinek|Faczinek]] {{Goal|44}}<br />[[Oldřich Nejedlý|Nejedlý]] {{Goal|69}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 12 luglio
+|Anno = 1936
+|Ora =
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/roma%20sparta%20praga%2035-36_la_stampa_af.JPG
+|Squadra 2 = Sparta Praga
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Adolf Miesz]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Dante Di Benedetti|Di Benedetti]] {{Goal|1}}
+|Marcatori 2 = {{Goal|2}} [[Ferdinand Faczinek|Faczinek]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor1/>
+<div style="font-size:90%">
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1936-1937|Serie A]]
+|punti1=27
+|cv1=8
+|cn1=5
+|cp1=2
+|cgf1=24
+|cgs1=11
+|tv1=2
+|tn1=2
+|tp1=11
+|tgf1=12
+|tgs1=34
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1936-1937|Coppa Italia]]
+|punti2=
+|cv2=2
+|cn2=0
+|cp2=0
+|cgf2=5
+|cgs2=2
+|tv2=2
+|tn2=0
+|tp2=1
+|tgf2=3
+|tgs2=1
+|comp3=[[Coppa dell'Europa Centrale 1936|Coppa dell'Europa Centrale]]
+|punti3=
+|cv3=1
+|cn3=1
+|cp3=0
+|cgf3=6
+|cgs3=2
+|tv3=0
+|tn3=0
+|tp3=2
+|tgf3=1
+|tgs3=6
+}}
+{{colonne fine}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo    |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=C |m12=T |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=T |m27=C |m28=C |m29=T |m30=C }}
+{{Andamento/Risultato|m1=N |m2=V |m3=P |m4=V |m5=P |m6=V |m7=N |m8=V |m9=P |m10=N |m11=P |m12=P |m13=P |m14=V |m15=P |m16=V |m17=V |m18=N |m19=P |m20=N |m21=V |m22=P |m23=P |m24=V |m25=P |m26=P |m27=N |m28=N |m29=P |m30=V }}
+{{Andamento/Posizione |r=15 |m1=6 |m2=2 |m3=7 |m4=3 |m5=7 |m6=3 |m7=4 |m8=4 |m9=4 |m10=5 |m11=7 |m12=9 |m13=11 |m14=9 |m15=11 |m16=9 |m17=6 |m18=7 |m19=9 |m20=9 |m21=8 |m22=9 |m23=10 |m24=10 |m25=10 |m26=10 |m27=10 |m28=10 |m29=12 |m30=10 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.<ref>A completamento dei dati vanno considerati due autogol, uno in campionato e uno in Coppa dell'Europa Centrale.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa dell'Europa<br />Centrale
+| Cartellini = no
+| {{Sortname|G.|Masetti|Guido Masetti}} {{Sommastat|C=no|21|-30|?|? |1|-1|?|? |1|-1|?|?}}
+| {{Sortname|C.|Francalancia|Cesare Francalancia}} {{Sommastat|C=no|2|-1|?|? |0|-0|?|? |0|-0|?|?}}
+| {{Sortname|A.|Nardi|Archimede Nardi}} {{Sommastat|C=no|3|-9|?|? |0|-0|?|? |2|-4|?|?}}
+| {{Sortname|C.|Valinasso|Cesare Valinasso}} {{Sommastat|C=no|4|-5|?|? |4|-2|?|? |0|-0|?|?}}
+| {{Sortname|G.|Zucca|Giovanni Zucca}} {{Sommastat|C=no|0|-0|?|? |0|-0|?|? |1|-3|?|?}}
+| {{Sortname|L.|Allemandi|Luigi Allemandi}} {{Sommastat|C=no|21|1|?|? |4|0|?|? |2|0|?|?}}
+| {{Sortname|R.|Allemandi|Roberto Allemandi}} {{Sommastat|C=no|2|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|R.|Cipriani|Renato Cipriani}} {{Sommastat|C=no|1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|N.|Celestini|Nazzareno Celestini}} {{Sommastat|C=no|0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Gadaldi|Andrea Gadaldi}} {{Sommastat|C=no|29|2|?|? |5|0|?|? |3|0|?|?}}
+| {{Sortname|A.|Marini|Alfredo Marini}} {{Sommastat|C=no|2|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|E.|Monzeglio|Eraldo Monzeglio}} {{Sommastat|C=no|30|0|?|? |5|0|?|? |4|0|?|?}}
+| {{Sortname|F.|Bernardini|Fulvio Bernardini}} {{Sommastat|C=no|28|3|?|? |4|0|?|? |4|0|?|?}}
+| {{Sortname|R.|Cattaneo |Renato Cattaneo (1903)}} {{Sommastat|C=no|7|0|?|? |0|0|?|? |4|0|?|?}}
+| {{Sortname|U.|Cerroni|Ugo Cerroni}} {{Sommastat|C=no|0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|E.|Frisoni|Evaristo Frisoni}} {{Sommastat|C=no|19|0|?|? |4|0|?|? |3|0|?|?}}
+| {{Sortname|A.|Mazzoni|Alfredo Mazzoni}} {{Sommastat|C=no |15|3|?|? |5|2|?|? |0|0|?|? }}
+| {{Sortname|A.|Fusco |Antonio Fusco (calciatore)}} {{Sommastat|C=no |21|0|?|? |2|0|?|? |0|0|?|? }}
+| {{Sortname|G.|Prendato|Gastone Prendato}} {{Sommastat|C=no|10|2|?|? |1|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Scaramelli|Franco Scaramelli}} {{Sommastat|C=no|2|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|P.|Serantoni|Pietro Serantoni}} {{Sommastat|C=no|23|3|?|? |5|1|?|? |4|2|?|?}}
+| {{Sortname|G.|Signorini|Glauco Signorini}} {{Sommastat|C=no|1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|E.|Tomasi|Ernesto Tomasi}} {{Sommastat|C=no|19|1|?|? |4|0|?|? |4|0|?|?}}
+| {{Sortname|A.|Amadei|Amedeo Amadei}} {{Sommastat|C=no |3|1|?|? |4|0|?|? |0|0|?|?}}
+| {{Sortname|D.|Di Benedetti|Dante Di Benedetti}} {{Sommastat|C=no|18|6|?|? |4|4|?|? |4|2|?|?}}
+| {{Sortname|D.|D'Alberto|Domenico D'Alberto}} {{Sommastat|C=no|29|7|?|? |2|1|?|? |4|1|?|?}}
+| {{Sortname|M.|Marchegiani|Mario Marchegiani}} {{Sommastat|C=no|2|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|O.|Subinaghi|Otello Subinaghi}} {{Sommastat|C=no|18|6|?|? |1|0|?|? |4|1|?|?}}
+}}
+==Note==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Carlo Fontanelli|titolo=I campionati della stagione 1936-1937|editore=GEO Edizioni|anno=2003|pp=3-41}}
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital37.html|Serie A 1936-1937 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1936|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1936-1937}}
+{{Portale|calcio}}

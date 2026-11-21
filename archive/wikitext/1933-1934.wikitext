@@ -1,0 +1,895 @@
+{{torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1933-1934
+|immagine = Roma 1933-34.jpg
+|didascalia = Una formazione della Roma 1933-1934
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Luigi Barbesino]]
+|presidente = {{Bandiera|ITA 1861-1946}} [[Renato Sacerdoti]]
+|campionato = [[Serie A 1933-1934|Serie A]]
+|campionato posizione = 5º
+|stadio = [[Campo Testaccio]]
+|marcatore campionato = [[Enrico Guaita|Guaita]] (15)
+|presenze campionato = [[Guido Masetti|Masetti]], [[Alejandro Scopelli Casanova|Scopelli]] (34)
+|stagione prima = [[Associazione Sportiva Roma 1932-1933|1932-1933]]
+|stagione dopo = [[Associazione Sportiva Roma 1934-1935|1934-1935]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1933-1934'''.
+==Stagione==
+[[File:Asroma 1933.jpg|thumb|right|upright=1.6|Una formazione della Roma 1933-1934]]
+In questa stagione la squadra giallorossa viene stravolta completamente durante il mercato estivo: dopo la discussa cessione di [[Rodolfo Volk|Volk]], che negli ultimi anni aveva perso molto del suo smalto, vengono ingaggiati i "tre moschettieri" argentini: l'attaccante [[Enrico Guaita]], il mediano [[Andrés Stagnaro|Andrea Stagnaro]] e la mezzala [[Alejandro Scopelli]]. Viene acquistato inoltre un altro interno dal gol facile, che ben presto si rivela come il nuovo idolo dei tifosi, [[Ernesto Tomasi]] detto "centopolmoni". Sulla panchina viene effettuato un nuovo cambio: le nuove regole federali imponevano infatti che gli allenatori dovessero esser italiani e diplomati ad un corso speciale, quindi è posto alla guida della squadra [[Luigi Barbesino]]. La stagione per la Roma si conclude con un quinto posto.<ref name=cor1>{{cita|Romano|1927-1942 Dalla fondazione al primo scudetto}}.</ref>
+
+== Divise ==
+La divisa primaria della Roma è costituita da maglia rossa con collo a V giallo e bordo manica giallo, pantaloncini bianchi e calzettoni neri con banda giallorossa orizzontale; la seconda divisa presenta una maglia bianca, pantaloncini bianchi e calzettoni neri, questi con una banda giallorossa orizzontale. Nelle partite casalinghe viene usata anche una divisa completamente nera con maglia con colletto a polo, in onore del governo [[Fascismo|fascista]].  I portieri hanno due divise: la prima costituita da maglia nera, colletto a polo e bordo manica giallorosso, la seconda grigia con colletto a polo; calzettoni e calzoncini sono neri, questi ultimi con bande giallorosse orizzontali.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 31-33}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma2728h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma3233h2
+|body = 000000
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = Casa (alternativa)
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b = _vneck
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = ff
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma3334gk
+|body = 858585
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = 1ª div. portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma3031gk
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = 2ª div. portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor1/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Renato Sacerdoti]]
+;Area tecnica
+* Allenatore: [[Luigi Barbesino]]
+{{Colonne fine}}
+==Rosa==
+Di seguito la rosa.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1933|titolo=Rosa AS Roma - Saison 33/34}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Guido Masetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giovanni Zucca]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Roberto Allemandi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Bodini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giorgio Carpi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Andrea Gadaldi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giulio Liberati]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Angelo Pasolini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fulvio Bernardini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Gino Callegari]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Nazzareno Celestini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Bruno Dugoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Attilio Ferraris]]|ruolo=C|altro=c}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Fusco (calciatore)|Antonio Fusco]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Balilla Lombardi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Franco Scaramelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Alejandro Scopelli|Alejandro Scopelli ]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Andrés Stagnaro]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ernesto Tomasi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Elvio Banchero]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=Fernando Belladonna<ref>Alcune fonti lo riportano come Marco Belladonna.</ref>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Arturo Chini Ludueña]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Raffaele Costantino (1907)|Raffaele Costantino]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fernando Eusebio]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Enrique Guaita]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/saison_id/1933/plus/1|titolo=Rosa AS Roma - Saison 33/34}}</ref>
+=== Sessione estiva ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%; width:99%;"
+! colspan="4" | Acquisti
+|-
+!width=3%| R.
+!width=33%| Nome
+!width=28%| da
+!width=36%| Modalità
+|-
+| D || [[Andrea Gadaldi]] || {{Calcio Brescia|NB}} ||''definitivo''
+|-
+| D || [[Gino Callegari]] || {{Calcio Padova|NB}} ||''definitivo''
+|-
+| C || [[Alejandro Scopelli|Alejandro Scopelli]]  || {{Calcio Estudiantes|NB}} || ''definitivo''
+|-
+| C || [[Andrés Stagnaro]] || {{Calcio Atlanta|NB}} ||''definitivo''
+|-
+| C || [[Ernesto Tomasi]] || {{Calcio Nizza|NB}} ||''definitivo''
+|-
+| A || [[Enrique Lucas Gonzales Guaita|Enrique Guaita]] || {{Calcio Estudiantes|NB}}||''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+!width=3%| R.
+!width=33%| Nome
+!width=28%| da
+!width=36%| Modalità
+|-
+| P || [[Leonida Pallotta]] || {{Calcio Cagliari|NB}} ||''definitivo''
+|-
+| D || [[Attilio Mattei]] || {{Calcio Bari|NB}} ||''definitivo''
+|-
+| C || [[Raffaele D'Aquino]] || {{Calcio Pisa|NB}} ||''definitivo''
+|-
+| C || [[Cesare Augusto Fasanelli]] || {{Calcio Pisa|NB}} ||''definitivo''
+|-
+| C || [[Nicola Italo Lombardo]] || {{Calcio Pisa|NB}} ||''definitivo''
+|-
+| A || [[Rodolfo Volk]] || {{Calcio Pisa|NB}} ||''definitivo''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1933-1934}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 settembre
+|Anno = 1933
+|Ora =
+|Turno = 1ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334BresciaRoma.html
+|Città = [[Brescia]]
+|Stadio = [[Stadium di viale Piave]]
+|Spettatori =
+|Arbitro = [[Umberto Pasinati]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Erminio Reggiani|Reggiani]] {{Goal|63}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1933
+|Ora = 15:30 [[CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334RomaTriestina.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Umberto Levrero]]
+|Cittarbitro = [[Genova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 settembre
+|Anno = 1933
+|Ora =15:00 [[CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto =http://www.asromaultras.org/3334FiorentinaRoma.html
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Giovanni Berta]]
+|Spettatori =
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Gastone Prendato|Prendato]] {{Goal|30}}
+|Marcatori 2 = {{Goal|8|rig.}} [[Attilio Ferraris|Ferraris]]<br/>{{Goal|20||22}} [[Enrico Guaita|Guaita]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1933
+|Ora =15:00 [[CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/3334RomaJuventus.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Enrico Guaita|Guaita]] {{Goal|8}}<br />[[Alejandro Scopelli Casanova|Scopelli]] {{Goal|41}}
+|Marcatori 2 = {{Goal|35||46||85}} [[Felice Borel|Borel]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 ottobre
+|Anno = 1933
+|Ora =15:00 [[CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Casale
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3334CasaleRoma.html
+|Città = [[Casale Monferrato]]
+|Stadio = [[Stadio Natale Palli]]
+|Spettatori =
+|Arbitro = [[Umberto Levrero]]
+|Cittarbitro = [[Genova]]
+|Marcatori 2 = {{Goal|22}} [[Ernesto Tomasi|Tomasi]]<br/>{{Goal|61}} [[Fernando Eusebio|Eusebio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 ottobre
+|Anno = 1933
+|Ora = 15:00 [[CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Vercelli
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3334RomaProVercelli.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Umberto Gama]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Bruno Dugoni|Dugoni]] {{Goal|44}}<br/>[[Fernando Eusebio|Eusebio]] {{Goal|72}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 ottobre
+|Anno = 1933
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334BolognaRoma.html
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Littoriale]]
+|Spettatori =
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Angelo Schiavio|Schiavio]] {{Goal|88}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1933
+|Ora = 14:30 [[CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334RomaLazie.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Ermenegildo Melandri]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Ernesto Tomasi|Tomasi]] {{Goal|17||29||56}}<br/>[[Fulvio Bernardini|Bernardini]] {{Goal|47||89}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 1933
+|Ora =14:30 [[CET]]
+|Turno = 9ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334MilanRoma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Pietro Arcari|Arcari]] {{Goal|58}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 1933
+|Ora =14:30 [[CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334RomaLivorno.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 1933
+|Ora = 14:30 [[CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3334NapoliRoma.html
+|Città = [[Napoli]]
+|Stadio = [[Stadio Arturo Collana|Stadio XXVIII Ottobre]]
+|Spettatori =
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Enrico Colombari|Colombari]] {{Goal|66}}
+|Marcatori 2 = {{Goal|8|aut.}} [[Giovanni Vincenzi|Vincenzi]]<br/>{{Goal|61}} [[Enrico Guaita|Guaita]]
+}}
+{{Incontro di club
+|Sport =calcio
+|Giornomese =26 novembre
+|Anno = 1933
+|Ora = 14:30 [[CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334GenovaRoma.html
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori =
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Dario Savio|Savio]] {{Goal|22}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 1933
+|Ora =14:30 [[CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ambrosiana-Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3334RomaAmbrosiana.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Luigi Mazza (arbitro)|Luigi Mazza]]
+|Cittarbitro = [[Genova]]
+|Marcatori 2 = {{Goal|88}} [[Atilio Demaría|Demaría]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 1934 <ref>https://www.asromaultras.org/3334PadovaRoma_Rinviata.html</ref>
+|Ora =
+|Turno = 14ª giornata - recupero<ref>Partita in programma il 17 dicembre 1933, ma rinviata per impraticabilità di campo causa neve.</ref>
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/3334PadovaRoma_rec.html
+|Città = [[Padova]]
+|Stadio = [[Stadio Silvio Appiani]]
+|Spettatori =
+|Arbitro = [[Gialma Bevilacqua]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Aldo Spivach|Spivach]] {{Goal|61}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 dicembre
+|Anno = 1933
+|Ora = 14:30 [[CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Alessandria
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3334RomaAlessandria.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Raffaele Costantino (1907)|Costantino]] {{Goal|10||35}}<br />[[Ernesto Tomasi|Tomasi]] {{Goal|26}}<br />[[Alejandro Scopelli Casanova|Scopelli]] {{Goal|32}}<br />[[Elvio Banchero|Banchero]] {{Goal|77}}
+|Marcatori 2 = {{Goal|13}} [[Giovanni Riccardi|Riccardi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Anno = 1933
+|Ora =14:30 [[CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3334PalermoRoma.html
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio del Littorio]]
+|Spettatori =
+|Arbitro = [[Gialma Bevilacqua]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 gennaio
+|Anno = 1934
+|Ora = 14:30 [[CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334RomaTorino.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Renato Gianni]]
+|Cittarbitro = [[Pisa]]
+|Marcatori 1 = [[Ernesto Tomasi|Tomasi]] {{Goal|9}}<br />[[Alejandro Scopelli Casanova|Scopelli]] {{Goal|24||84}}<br />[[Enrico Guaita|Guaita]] {{Goal|53}}
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 1934
+|Ora = 13:15 [[CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3334RomaBrescia.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Ferruccio Bonivento]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Raffaele Costantino (1907)|Costantino]] {{Goal|16}}<br />[[Enrico Guaita|Guaita]] {{Goal|43}}
+|Marcatori 2 = {{Goal|75}} [[Giovanni Braga|Braga]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1934
+|Ora = 14:30 [[CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3334TriestinaRoma.html
+|Città = [[Trieste]]
+|Stadio = [[Stadio Giuseppe Grezar|Stadio del Littorio]]
+|Spettatori =
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Coriolano Palumbo|Palumbo]] {{Goal|66|rig}}
+|Marcatori 2 = {{Goal|19}} [[Bruno Dugoni|Dugoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 1934
+|Ora = 14:30 [[CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3334RomaFiorentina.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Natale Beretta]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Ernesto Tomasi|Tomasi]] {{Goal|62}}<br/>[[Enrico Guaita|Guaita]] {{Goal|70|rig.}}
+|Marcatori 2 = {{Goal|87}} [[Vinicio Viani|Viani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 febbraio
+|Anno = 1934
+|Ora =14:30 [[CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3334juventusroma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Benito Mussolini]]
+|Spettatori =
+|Arbitro = [[Ermenegildo Melandri]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Felice Borel|Borel]] {{Goal|14}}<br />[[Giovanni Varglien|Varglien]] {{Goal|27}}<br />[[Giovanni Ferrari|Ferrari]] {{Goal|83}}
+|Marcatori 2 = {{Goal|47}} [[Alejandro Scopelli Casanova|Scopelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Anno = 1934
+|Ora =14:30 [[CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Casale
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334RomaCasale.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Luigi Mazza (arbitro)|Luigi Mazza]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Alejandro Scopelli Casanova|Scopelli]] {{Goal|59}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 febbraio
+|Anno = 1934
+|Ora = 14:30 [[CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Pro Vercelli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto =http://www.asromaultras.org/3334ProVercelliRoma.html
+|Città = [[Vercelli]]
+|Stadio = [[Stadio Silvio Piola (Vercelli)|Stadio Leonida Robbiano]]
+|Spettatori =
+|Arbitro = [[Ermenegildo Melandri]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Ermes Borsetti|Borsetti]] {{Goal|72}}
+|Marcatori 2 = {{Goal|16||82}} [[Alejandro Scopelli Casanova|Scopelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1934
+|Ora =14:30 [[CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3334RomaBologna.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Gialma Bevilacqua]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 2 = {{Goal|88}} [[Carlo Reguzzoni|Reguzzoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 1934
+|Ora = 14:30 [[CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto =http://www.asromaultras.org/3334LazieRoma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = [[Renato Gianni]]
+|Cittarbitro = [[Pisa]]
+|Marcatori 1 = {{Goal|28}} [[Anfilogino Guarisi|Guarisi]]<br />{{Goal|41||73}} [[Alejandro Demaría|Demaría]]
+|Marcatori 2 = {{Goal|8}} [[Fulvio Bernardini|Bernardini]]<br />{{Goal|11}} [[Raffaele Costantino (1907)|Costantino]]<br />{{Goal|14}} [[Enrico Guaita|Guaita]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1934
+|Ora = 15:00 [[CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3334RomaMilan.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Giuseppe Turbiani]]
+|Cittarbitro = [[Ferrara]]
+|Marcatori 1 = [[Raffaele Costantino (1907)|Costantino]] {{Goal|51}}
+|Marcatori 2 = {{Goal|70|rig}} [[Pietro Arcari|Arcari]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1934
+|Ora =
+|Turno = 27ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/3334LivornoRoma.html
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Edda Ciano Mussolini]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giulio Cappelli|Cappelli]] {{Goal|30}}
+|Marcatori 2 = {{Goal|15||82|rig}} [[Alejandro Scopelli Casanova|Scopelli]]<br />{{Goal|47}} [[Antonio Fusco (calciatore)|Fusco]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 1934
+|Ora = 15:00 [[CEST]]
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto =http://www.asromaultras.org/3334RomaNapoli.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Giuseppe Turbiani]]
+|Cittarbitro = [[Ferrara]]
+|Marcatori 1 = [[Alejandro Scopelli Casanova|Scopelli]] {{Goal|5}}
+|Marcatori 2 = {{Goal|28}} [[Antonio Vojak|Vojak]]<br/>{{Goal|40}} [[Gino Rossetti|Rossetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1934
+|Ora =15:00 [[CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334RomaGenoa.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Enrico Guaita|Guaita]] {{Goal|53||70||79|rig.}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 1934
+|Ora =
+|Turno = 30ª giornata
+|Squadra 1 = Ambrosiana-Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3334InterRoma.html
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori =
+|Arbitro = [[Giuseppe Turbiani]]
+|Cittarbitro = [[Ferrara]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 marzo
+|Anno = 1934
+|Ora = 14:30 [[CET]]
+|Turno = 31ª giornata<ref>Giornata in programma il 29 aprile 1934, ma interamente anticipata su disposizione del [[Direttorio Divisioni Superiori]] al fine di accelerare la chiusura del torneo in vista del {{WC|1934}} in [[Italia]]</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3334RomaPadova.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Raffaele Costantino (1907)|Costantino]] {{Goal|35}}<br />[[Alejandro Scopelli Casanova|Scopelli]] {{Goal|41}}
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 1934
+|Ora =
+|Turno = 32ª giornata<ref>Giornata in programma il 6 maggio 1934, ma interamente anticipata su disposizione del [[Direttorio Divisioni Superiori]] al fine di accelerare la chiusura del torneo in vista del {{WC|1934}} in [[Italia]]</ref>
+|Squadra 1 = Alessandria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3334AlessandriaRoma.html
+|Città = [[Alessandria (Italia)|Alessandria]]
+|Stadio = [[Stadio Giuseppe Moccagatta|Campo del Littorio]]
+|Spettatori =
+|Arbitro = [[Nereo Bertoli]]
+|Cittarbitro = [[Vicenza]]
+|Marcatori 1 = [[Renato Cattaneo (1903)|Cattaneo]] {{Goal|27}}
+|Marcatori 2 = {{Goal|48|aut.}} [[Giuseppe Fenoglio (calciatore)|Fenoglio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 marzo
+|Anno = 1934
+|Ora = 15:00 [[CET]]
+|Turno = 33ª giornata<ref>Giornata in programma il 13 maggio 1934, ma interamente anticipata su disposizione del [[Direttorio Divisioni Superiori]] al fine di accelerare la chiusura del torneo in vista del {{WC|1934}} in [[Italia]]. Roma-Palermo fu un ulteriore anticipo della giornata prevista il 12 aprile 1934.</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3334RomaPalermo.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Ernesto Tomasi|Tomasi]] {{Goal|19}}<br />[[Fernando Eusebio|Eusebio]] {{Goal|89}}
+|Marcatori 2 = {{Goal|51}} [[Américo Ruffino|Ruffino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1934
+|Ora =17:45 [[CEST]]
+|Turno = 34ª giornata<ref>Giornata in programma il 20 maggio 1934, ma interamente anticipata su disposizione del [[Direttorio Divisioni Superiori]] al fine di accelerare la chiusura del torneo in vista del {{WC|1934}} in [[Italia]]</ref>
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 6
+|Referto =http://www.asromaultras.org/3334TorinoRoma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori =
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Onesto Silano|Silano]] {{Goal|61||88|rig}}<br />[[Mario Bo|Bo]] {{Goal|62}}
+|Marcatori 2 = {{Goal|18}} [[Franco Scaramelli|Scaramelli]]<br />{{Goal|55}} [[Alejandro Scopelli Casanova|Scopelli]]<br />{{Goal|59||70||73||75}} [[Enrico Guaita|Guaita]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor1/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1933-1934|Serie A]]
+|punti1=40
+|cv1=10
+|cn1=3
+|cp1=4
+|cgf1=32
+|cgs1=12
+|tv1=6
+|tn1=5
+|tp1=6
+|tgf1=24
+|tgs1=20
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=T |m13=C |m14=T |m15=C |m16=T |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=C |m30=T |m31=C |m32=T |m33=C |m34=T }}
+{{Andamento/Risultato |m1=P |m2=N |m3=V |m4=P |m5=V |m6=V |m7=P |m8=V |m9=P |m10=N |m11=V |m12=P |m13=P |m14=P |m15=V |m16=N |m17=V |m18=V |m19=N |m20=V |m21=P |m22=V |m23=V |m24=P |m25=N |m26=N |m27=V |m28=P |m29=V |m30=N |m31=V |m32=N |m33=V |m34=V }}
+{{Andamento/Posizione |r=16 |m1=10 |m2=15 |m3=8 |m4=12 |m5=5 |m6=4 |m7=7 |m8=4 |m9=7 |m10=7 |m11=6 |m12=8 |m13=9 |m14=9 |m15=10 |m16=10 |m17=9 |m18=7 |m19=6 |m20=6 |m21=6 |m22=6 |m23=5 |m24=5 |m25=5 |m26=6 |m27=5 |m28=5 |m29=5 |m30=5 |m31=5 |m32=5 |m33=5 |m34=5 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.<ref>A completamento va conteggiato un autogol.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Cartellini = no
+| Totale = no
+| {{Sortname|R.|Allemandi|Roberto Allemandi}} {{Sommastat|C=no |0|0|?|?  }}
+| {{Sortname|E.|Banchero|Elvio Banchero}} {{Sommastat|C=no |8|1|?|?  }}
+| {{Sortname|F.|Belladonna|Fernando Belladonna|nolink=1}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|F.|Bernardini|Fulvio Bernardini}} {{Sommastat|C=no |16|3|?|? }}
+| {{Sortname|R.|Bodini|Renato Bodini}} {{Sommastat|C=no |24|0|?|?  }}
+| {{Sortname|G.|Callegari|Gino Callegari}} {{Sommastat|C=no |19|0|?|?  }}
+| {{Sortname|G.|Carpi|Giorgio Carpi}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|N.|Celestini|Nazzareno Celestini}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|A.|Chini|Arturo Chini Ludueña}} {{Sommastat|C=no |3|0|?|? }}
+| {{Sortname|R.|Costantino|Raffaele Costantino (1907)}} {{Sommastat|C=no |28|6|?|? }}
+| {{Sortname|B.|Dugoni|Bruno Dugoni}} {{Sommastat|C=no |15|2|?|?  }}
+| {{Sortname|F.|Eusebio|Fernando Eusebio}} {{Sommastat|C=no |12|3|?|?  }}
+| {{Sortname|A.|Ferraris|Attilio Ferraris}} {{Sommastat|C=no |21|1|?|?  }}
+| {{Sortname|A.|Fusco|Antonio Fusco (calciatore)}} {{Sommastat|C=no |20|1|?|?  }}
+| {{Sortname|A.|Gadaldi|Andrea Gadaldi}} {{Sommastat|C=no |14|0|?|? }}
+| {{Sortname|E.|Guaita|Enrique Lucas Gonzales Guaita}} {{Sommastat|C=no |32|15|?|? }}
+| {{Sortname|G.|Liberati|Giulio Liberati}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|B.|Lombardi|Balilla Lombardi}} {{Sommastat|C=no |4|0|?|?  }}
+| {{Sortname|G.|Masetti|Guido Masetti}} {{Sommastat|C=no |34|-32|?|?  }}
+| {{Sortname|A.|Pasolini|Angelo Pasolini}} {{Sommastat|C=no |23|0|?|? }}
+| {{Sortname|F.|Scaramelli|Franco Scaramelli}} {{Sommastat|C=no |9|1|?|?  }}
+| {{Sortname|A.|Scopelli|Alejandro Scopelli}} {{Sommastat|C=no |34|13|?|?  }}
+| {{Sortname|A.|Stagnaro|Andrés Stagnaro}} {{Sommastat|C=no |25|0|?|?  }}
+| {{Sortname|E.|Tomasi|Ernesto Tomasi}} {{Sommastat|C=no |29|8|?|?  }}
+| {{Sortname|G.|Zucca|Giovanni Zucca}} {{Sommastat|C=no |0|-0|?|?  }}
+}}
+
+==Note==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital34.html|Serie A 1933-1934 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1933|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1933-1934}}
+{{Portale|calcio}}

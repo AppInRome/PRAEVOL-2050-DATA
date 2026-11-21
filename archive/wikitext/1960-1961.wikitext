@@ -1,0 +1,1223 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1960-1961
+|immagine = Associazione Sportiva Roma 1960-61.jpg
+|allenatore1 = {{Bandiera|ITA}} [[Alfredo Foni]]
+|presidente = {{Bandiera|ITA}} Anacleto Gianni
+|campionato = [[Serie A 1960-1961|Serie A]]
+|campionato posizione = 5º
+|coppa1 = [[Coppa Italia 1960-1961|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[Coppa delle Fiere 1960-1961|Coppa delle Fiere]]
+|coppa2 posizione = '''Vincitore'''
+|presenze campionato = [[Giacomo Losi|Losi]], [[Paolo Pestrin|Pestrin]] (32)
+|presenze totale = Losi (44)<ref name="due"/>
+|marcatore campionato = [[Pedro Manfredini|Manfredini]] (20)
+|marcatore totale = Manfredini (34)<ref name="due"/>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1959-1960|1959-1960]]
+|stagione dopo = [[Associazione Sportiva Roma 1961-1962|1961-1962]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1960-1961'''.
+
+== Stagione ==
+[[File:AS Roma's Orlando, Manfredini, Selmosson and Ghiggia.jpg|thumb|left|I giallorossi Orlando, Manfredini, Selmosson e Ghiggia]]
+
+In questa stagione la società capitolina ha a disposizione un'ottima squadra che esprime le proprie potenzialità soprattutto nel gioco d'attacco. [[Pedro Manfredini|Manfredini]] finisce la stagione a suon di triplette, siglando 20 reti in campionato e 12 reti in [[Coppa delle Fiere]].
+
+In campionato la Roma non riesce ad andare oltre il quinto posto in classifica. In campo europeo la squadra riesce a conquistare la [[Coppa delle Fiere 1960-1961|Coppa delle Fiere]], competizione riservata alle squadre appartenenti alle città europee in grado di ospitare fiere internazionali di commercio. La Coppa delle Fiere è una competizione molto lunga, che dura circa un anno solare. La Roma, che disputa la competizione nell'arco del 1961, gioca le [[Finale della Coppa delle Fiere 1960-1961|finali]] contro il {{Calcio Birmingham City|N}} solo nell'autunno dello stesso anno sotto la guida del nuovo tecnico [[Luis Carniglia]], a stagione successiva già iniziata: la gara di andata viene giocata in [[Inghilterra]] il 27 settembre e finisce 2-2 con doppietta di [[Pedro Manfredini|Manfredini]], il quale si laurea capocannoniere della Coppa, mentre nel ritorno, disputatosi a Roma l'11 ottobre, i capitolini vincono per 2-0 con un autogol degli inglesi e una marcatura di [[Paolo Pestrin]].<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a polo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con banda giallorossa orizzontale, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. I portieri hanno tre divise, una costituita da maglia nera con bordi manica e colletto giallorossi, pantaloncini neri e calze rosse bordate di giallo, un'altra con maglia bianca con colletto a polo giallorosso, pantaloncini neri e calzettoni rossi bordati di giallo, l'ultima con maglia grigia con colletto a polo abbinata agli stessi calzettoni e pantaloncini.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 84-87}}.</ref>
+
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = d00b26
+|pattern_b = _asroma6061h
+|body = d00b26
+|pattern_ra =
+|rightarm = d00b26
+|shorts = ffffff
+|pattern_so =_orangehorizontal
+|socks = d00b26
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_AS Roma 1939a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asromaa
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma6061gk
+|body = 858585
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma5960gk1
+|leftarm = 858585
+|pattern_b =_asroma5960gk1
+|body = 858585
+|pattern_ra =_asroma5960gk1
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 2ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma3031gk
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: Anacleto Gianni
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Alfredo Foni]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 60/61">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1960|titolo=Rosa AS Roma - Saison 60/61|accesso=9 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Cudicini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Panetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giulio Corsini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alfio Fontana]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|altro=c|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Marcellini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Leopoldo Raimondi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giosuè Stucchi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giancarlo De Sisti]]<ref>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Giuliano (calciatore)|Luigi Giuliano]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Egidio Guarnacci]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francisco Lojacono]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Franco Marmiroli]]''<ref>Ceduto a stagione iniziata.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giampaolo Menichelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Orlando]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Pestrin]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Juan Alberto Schiaffino]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alcides Ghiggia]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Pedro Manfredini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Arne Selmosson]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+Acquisti nella sessione estiva del 1961 utilizzati nelle finali di settembre e ottobre di Coppa delle Fiere.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Carpanesi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Dino da Costa]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Valentín Angelillo]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 60/61"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D || [[Alfio Fontana]] || {{Calcio Milan|NB}} || ''definitivo''
+|-
+| D || [[Leopoldo Raimondi]] || {{Calcio Alessandria|NB}}|| ''definitivo''
+|-
+| C || [[Francisco Lojacono]] || {{Calcio Fiorentina|NB}}|| ''definitivo''
+|-
+| C || [[Franco Marmiroli]] || {{Calcio Parma|NB}} || ''definitivo''
+|-
+| C || [[Giampaolo Menichelli]] || {{Calcio Parma|NB}} || ''fine prestito''
+|-
+| C || [[Juan Alberto Schiaffino]] || {{Calcio Milan|NB}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| D || [[Giorgio Bernardin]] || - || ''fine carriera''
+|-
+| D || [[Romano Di Bari]] || {{Calcio Brescia|NB}} || ''definitivo''
+|-
+| D || [[Giovanni Griffith]] || {{Calcio Atalanta|NB}} || ''definitivo''
+|-
+| C || [[Mario David]] || {{Calcio Milan|NB}} || ''definitivo''
+|-
+| C || [[Franco Marmiroli]] || {{Calcio Genoa|NB}} || ''definitivo''
+|-
+| C || [[Franco Zaglio]] || {{Calcio Inter|NB}} || ''definitivo''
+|-
+| A || [[Mario Castellazzi]] || {{Calcio Catania|NB}} || ''definitivo''
+|-
+| A || [[Dino da Costa]] || {{Calcio Fiorentina|NB}} || ''comproprietà''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1960-1961}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 1960
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6061BariRoma_CorrSport_02_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|22||59||72}} [[Pedro Manfredini|Manfredini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 1960
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 6
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaUdinese_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000 circa
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|31||39||63}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|38}}<br />[[Alberto Orlando|Orlando]] {{Goal|75}}<br />[[Arne Selmosson|Selmosson]] {{Goal|86}}
+|Marcatori 2 = {{Goal|14}} [[Giorgio Tinazzi (calciatore)|Tinazzi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 ottobre
+|Anno = 1960
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6061TorinoRoma_CorrSport_01_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = 28.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Giancarlo Danova|Danova]] {{Goal|10}}
+|Marcatori 2 = {{Goal|29}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|60}} [[Francisco Lojacono|Lojacono]]<br />{{Goal|65}} [[Alberto Orlando|Orlando]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 1960
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaSpal_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|70}}<br />[[Alberto Orlando|Orlando]] {{Goal|75}}
+|Marcatori 2 = {{Goal|78}} [[Carlo Novelli|Novelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Anno = 1960
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061NapoliRoma_CorrSport_02_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 100.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Beniamino Di Giacomo|Di Giacomo]] {{Goal|11}}<br />[[Emanuele Del Vecchio|Del Vecchio]] {{Goal|37}}<br />[[Gino Pivatelli|Pivatelli]] {{Goal|74}}
+|Marcatori 2 = {{Goal|4}} [[Francisco Lojacono|Lojacono]]<br />{{Goal|29}} [[Pedro Manfredini|Manfredini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaAtalanta_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Antonio Di Tonno]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 novembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = https://www.asromaultras.org/6061LazieRoma_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|22||25||37}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|83}} [[Alberto Orlando|Orlando]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaPadova_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|16||64||86}}
+|Marcatori 2 = {{Goal|36|aut.}} [[Fabio Cudicini|Cudicini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaJuventus_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 67.250
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|62}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|73}}
+|Marcatori 2 = {{Goal|79|rig.}} [[Sergio Cervato|Cervato]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061CataniaRoma_CorrSport_01_af.jpg
+|Città = [[Catania]]
+|Stadio = [[Stadio Cibali]]
+|Spettatori = 36.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Adelmo Prenna|Prenna]] {{Goal|3}}
+|Marcatori 2 = {{Goal|47}} [[Francisco Lojacono|Lojacono]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061RomaMilan_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 75.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Juan Alberto Schiaffino|Schiaffino]] {{Goal|23}}<br />[[Alfio Fontana|Fontana]] {{Goal|25}}
+|Marcatori 2 = {{Goal|10}} [[Santiago Vernazza|Vernazza]]<br />{{Goal|28}} [[José Altafini|Altafini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 dicembre
+|Anno = 1960
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Lecco
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061LeccoRoma_CorrSport_01_af.jpg
+|Città = [[Lecco]]
+|Stadio = [[Stadio Rigamonti-Ceppi|Stadio Mario Rigamonti]]
+|Spettatori =
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º gennaio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061BolognaRoma_CorrSport_02_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Luís Vinício|Vinício]] {{Goal|22||85}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061RomaSampdoria_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|46}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|77}}<br />[[Giacomo Losi|Losi]] {{Goal|80}}
+|Marcatori 2 = {{Goal|52}} [[Ernesto Cucchiaroni|Cucchiaroni]]<br />{{Goal|75}} [[Sergio Brighenti|Brighenti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061InterRoma_CorrSport_01_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 90.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Paolo Pestrin|Pestrin]] {{Goal|46|aut.}}<br />[[Mario Corso|Corso]] {{Goal|51}}<br />[[Edwing Firmani|Firmani]] {{Goal|65}}
+|Marcatori 2 = {{Goal|37}} [[Juan Alberto Schiaffino|Schiaffino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 6
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6061RomaVicenza_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|5}}<br />[[Giulio Corsini|Corsini]] {{Goal|5}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|15||40||67}}<br />[[Alcides Ghiggia|Ghiggia]] {{Goal|76}}
+|Marcatori 2 = {{Goal|28}} [[Giorgio De Marchi|De Marchi]]<br />{{Goal|62||86}} [[Dimitri Pinti|Pinti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6061RomaFiorentina_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 65.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Juan Alberto Schiaffino|Schiaffino]] {{Goal|71}}
+|Marcatori 2 = {{Goal|23}} [[Kurt Hamrin|Hamrin]]<br />{{Goal|53||67}} [[Gianfranco Petris|Petris]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 febbraio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaBari_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|18|rig.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 1961
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061UdineseRoma_CorrSport_01_af.JPG
+|Città = [[Udine]]
+|Stadio = [[Stadio Moretti]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Francesco Canella|Canella]] {{Goal|7}}<br />[[Lorenzo Bettini|Bettini]] {{Goal|80}}
+|Marcatori 2 = {{Goal|70}} [[Giampaolo Menichelli|Menichelli]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 1961
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaTorino_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Giampaolo Menichelli|Menichelli]] {{Goal|21}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|72}}
+|Marcatori 2 = {{Goal|16}} [[Italo Mazzero|Mazzero]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 1961
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061SpalRoma_CorrSport_01_af.JPG
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Angelo Montenovo|Montenovo]] {{Goal|5}}<br />[[Oscar Massei|Massei]] {{Goal|22}}
+|Marcatori 2 = {{Goal|4|aut.}} [[Battista Rota|Rota]]<br />{{Goal|34}} [[Paolo Pestrin|Pestrin]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 marzo
+|Anno = 1961
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaNapoli_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 75.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|48}}<br />[[Paolo Pestrin|Pestrin]] {{Goal|77}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 marzo
+|Anno = 1961
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061AtalantaRoma_CorrSport_01_af.JPG
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 1961
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061RomaLazie_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|17}}
+|Marcatori 2 = {{Goal|22||26}} [[Orlando Rozzoni|Rozzoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 marzo
+|Anno = 1961
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061PadovaRoma_CorrSport_01_af.JPG
+|Città = [[Padova]]
+|Stadio = [[Stadio Silvio Appiani]]
+|Spettatori =
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 aprile
+|Anno = 1961
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061JuventusRoma_CorrSport_01_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[John Charles|Charles]] {{Goal|27}}<br />[[Giampiero Boniperti|Boniperti]] {{Goal|62}}<br />[[Omar Sívori|Sívori]] {{Goal|76}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 aprile
+|Anno = 1961
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaCatania_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Giorgio Michelotti|Michelotti]] {{Goal|52|aut.}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|66}}<br />[[Alberto Orlando|Orlando]] {{Goal|71||85}}
+|Marcatori 2 = {{Goal|58}} [[Mario Castellazzi|Castellazzi]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 aprile
+|Anno = 1961
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061MilanRoma_CorrSport_01_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Giovanni Trapattoni|Trapattoni]] {{Goal|48}}<br />[[José Altafini|Altafini]] {{Goal|85}}
+|Marcatori 2 = {{Goal|45|rig.}} [[Francisco Lojacono|Lojacono]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 aprile
+|Anno = 1961
+|Ora = 15:30
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecco
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaLecco_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Alberto Orlando|Orlando]] {{Goal|66}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Anno = 1961
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaBologna_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|4}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 maggio
+|Anno = 1961
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061SampdoriaRoma_CorrSport_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Ernesto Cucchiaroni|Cucchiaroni]] {{Goal|16||80}}<br />[[Ernst Ocwirk|Ocwirk]] {{Goal|35}}
+|Marcatori 2 = {{Goal|6}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|52}} [[Leopoldo Raimondi|Raimondi]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 maggio
+|Anno = 1961
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061RomaInter_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 60.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|13}} [[Bruno Bolchi|Bolchi]]<br />{{Goal|56}} [[Egidio Morbello|Morbello]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 maggio
+|Anno = 1961
+|Ora = 17:30
+|Turno = 33ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061VicenzaRoma_CorrSport_01_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Oliviero Conti|Conti]] {{Goal|15}}<br />[[Giulio Savoini|Savoini]] {{Goal|18}}<br />[[Giancarlo Fusato|Fusato]] {{Goal|27}}<br />[[Dimitri Pinti|Pinti]] {{Goal|42}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 giugno
+|Anno = 1961
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061FiorentinaRoma_CorrSport_01_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 =
+|Marcatori 2 = [[Giampaolo Menichelli|Menichelli]] {{Goal|80}}
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1960-1961}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 settembre
+|Anno = 1960
+|Ora = 15:30
+|Turno = Secondo turno
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Supplementari = X
+|Referto = https://www.asromaultras.org/6061NapoliRoma_CI_CorrSport_01_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Juan Carlos Tacchi|Tacchi]] {{Goal|36}}
+|Marcatori 2 = {{Goal|37|aut.}} [[Celso Posio|Posio]]<br />{{Goal|93}} [[Francisco Lojacono|Lojacono]]
+}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 1961
+|Ora = 15:30
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaBologna_CI_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|4||77}}<br />[[Giancarlo De Sisti|De Sisti]] {{Goal|85}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 1961
+|Ora = 20:45
+|Turno = Quarti di finale
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 6
+|Referto = https://www.asromaultras.org/6061RomaFiorentina_CI_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Paolo Pestrin|Pestrin]] {{Goal|23}}<br />[[Arne Selmosson|Selmosson]] {{Goal|44}}<br />[[Giampaolo Menichelli|Menichelli]] {{Goal|74}}<br />[[Alberto Orlando|Orlando]] {{Goal|86}}
+|Marcatori 2 = {{Goal|31}} [[Dino da Costa|Da Costa]]<br />{{Goal|33||42||84}} [[Gianfranco Petris|Petris]]<br />{{Goal|71||85}} [[Luigi Milan|Milan]]
+}}
+
+=== Coppa delle Fiere ===
+{{vedi anche|Coppa delle Fiere 1960-1961|Finale della Coppa delle Fiere 1960-1961}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 ottobre
+|Anno = 1960
+|Ora =
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Union Saint-Gilloise
+|Punteggio 1 = 0
+|Squadra 2 = Roma
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061GilloiseRoma_La_Stampa_af.JPG
+|Città = [[Bruxelles]]
+|Stadio = [[Stade Joseph Marien]]
+|Spettatori =
+|Arbitro = Treichel
+|Nazarbitro = FRG
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1960
+|Ora = 10:45
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 4
+|Squadra 2 = Union Saint-Gilloise
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaUSGilloise_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 20.000 circa
+|Arbitro = Mollet
+|Nazarbitro = CHE
+|Marcatori 1 = [[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|6}}<br />[[Giampaolo Menichelli|Menichelli]] {{Goal|21}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|39}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|76}}
+|Marcatori 2 = {{Goal|81|rig}} [[Henri Dirickx|Dirickx]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 gennaio
+|Anno = 1961
+|Ora =
+|Turno = Quarti di finale - Andata
+|Squadra 1 = [[1. FC Köln|Colonia XI]]
+|Bandiera 1 = Rosso e Bianco.svg|20px
+|Punteggio 1 = 0
+|Squadra 2 = Roma
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061ColoniaRoma_CorrSport_01_af.jpg
+|Città = [[Colonia (Germania)|Colonia]]
+|Stadio = [[Müngersdorfer Stadion]]
+|Spettatori =
+|Arbitro = [[George McCabe]]
+|Nazarbitro = ENG
+|Marcatori 1 =
+|Marcatori 2 ={{Goal|51}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|70|aut.}} [[Georg Stollenwerk|Stollenwerk]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 1961
+|Ora = 15:00
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 0
+|Squadra 2 = [[1. FC Köln|Colonia XI]]
+|Bandiera 2 = Rosso e Bianco.svg|20px
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061RomaColonia_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Trajan Ivanovski]]
+|Nazarbitro = YUG
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|58}} [[Willibert Kremer|Kremer]]<br />{{Goal|82}} [[Karl-Heinz Schnellinger|Schnellinger]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 1961
+|Ora = 15:00
+|Turno = Quarti di finale - Ripetizione
+|Squadra 1 = Roma
+|Punteggio 1 = 4
+|Squadra 2 = [[1. FC Köln|Colonia XI]]
+|Bandiera 2 = Rosso e Bianco.svg|20px
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6061RomaColonia_Spareggio_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = Schicker
+|Nazarbitro = CHE
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|39||70}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|60}}<br />[[Paolo Pestrin|Pestrin]] {{Goal|71}}
+|Marcatori 2 = {{Goal|84}} [[Christian Müller (1938)|Müller]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 aprile
+|Anno = 1961
+|Ora = 20:45
+|Turno = Semifinale - Andata
+|Squadra 1 = Hibernian
+|Punteggio 1 = 2
+|Squadra 2 = Roma
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061HibernianRoma_CorrSport_01_af.JPG
+|Città = [[Edimburgo]]
+|Stadio = [[Easter Road]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Daniel Mellet]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Joe Baker|Baker]] {{Goal|47}}<br />[[Johnny MacLeod|MacLeod]] {{Goal|51}}
+|Marcatori 2 ={{Goal|14||63}} [[Francisco Lojacono|Lojacono]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1961
+|Ora = 20:45
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 3
+|Squadra 2 = Hibernian
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6061RomaHibernian_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Marcel Lequesne]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|23||67}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|72}}
+|Marcatori 2 = {{Goal|31||64}} [[Bobby Kinloch|Kinloch]]<br />{{Goal|81}} [[Joe Baker|Baker]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 maggio
+|Anno = 1961
+|Ora = 21:15
+|Turno = Semifinale - Ripetizione
+|Squadra 1 = Roma
+|Punteggio 1 = 6
+|Squadra 2 = Hibernian
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaHibernian_La_Stampa_spareggio_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Othmar Huber]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|1||9||35||57}}<br />[[Giampaolo Menichelli|Menichelli]] {{Goal|69}}<br />[[Arne Selmosson|Selmosson]] {{Goal|72}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 1961
+|Ora = 20:15 [[Central European Time|CET]]
+|Turno = Finale - Andata
+|Squadra 1 = Birmingham City
+|Punteggio 1 = 2
+|Squadra 2 = Roma
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6061BirminghamRoma_CorrSport_01_af.JPG
+|Città = [[Birmingham]]
+|Stadio = [[St Andrew's]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Bobby Davidson]]
+|Nazarbitro = SCO
+|Marcatori 1 = [[Mike Hellawell|Hellawell]] {{gol|78}}<br />[[Bryan Orritt|Orritt]] {{gol|85}}
+|Marcatori 2 = {{Goal|30||56}} [[Pedro Manfredini|Manfredini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 ottobre
+|Anno = 1961
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = Finale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 2
+|Squadra 2 = Birmingham City
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6061RomaBirmingham_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000 circa
+|Arbitro = [[Pierre Schwinte]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Brian Farmer|Farmer]] {{gol|56|aut.}}<br />[[Paolo Pestrin|Pestrin]] {{gol|90}}
+|Marcatori 2 =
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1960-1961|Serie A]]
+|punti1=39
+|cv1=12
+|cn1=2
+|cp1=3
+|cgf1=37
+|cgs1=20
+|tv1=4
+|tn1=5
+|tp1=8
+|tgf1=21
+|tgs1=26
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1960-1961|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=7
+|cgs2=6
+|tv2=1
+|tn2=0
+|tp2=0
+|tgf2=2
+|tgs2=1
+|comp3=[[Coppa delle Fiere 1960-1961|Coppa delle Fiere]]
+|punti3=-
+|cv3=4
+|cn3=1
+|cp3=1
+|cgf3=19
+|cgs3=7
+|tv3=1
+|tn3=3
+|tp3=0
+|tgf3=6
+|tgs3=4
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=C |m10=T |m11=C |m12=T |m13=T |m14=C |m15=T |m16=C |m17=C |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=T |m27=C |m28=T |m29=C |m30=C |m31=T |m32=C |m33=T |m34=T }}
+{{Andamento/Risultato |m1=V |m2=V |m3=V |m4=V |m5=P |m6=N |m7=V |m8=V |m9=V |m10=N |m11=N |m12=N |m13=P |m14=V |m15=P |m16=V |m17=P |m18=V |m19=P |m20=V |m21=N |m22=V |m23=N |m24=P |m25=N |m26=P |m27=V |m28=P |m29=V |m30=V |m31=P |m32=P |m33=P |m34=V }}
+{{Andamento/Posizione |r=16 |m1=1 |m2=1 |m3=1 |m4=1 |m5=2 |m6=2 |m7=1 |m8=1 |m9=1 |m10=1 |m11=1 |m12=1 |m13=2 |m14=2 |m15=4 |m16=3 |m17=3 |m18=2 |m19=5 |m20=4 |m21=4 |m22=3 |m23=4 |m24=4 |m25=4 |m26=5 |m27=4 |m28=5 |m29=5 |m30=4 |m31=5 |m32=5 |m33=5 |m34=5 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]].<ref>A completamento dei dati vanno conteggiati due autogol in campionato, un autogol in Coppa Italia e due in Coppa delle Fiere.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa delle<br />Fiere
+| Cartellini = no
+| {{Sortname|F.|Cudicini|Fabio Cudicini}} {{Sommastat|C=no |26|-35|?|? |1|-6|?|? |7<ref name="due">Di cui 2 nelle finali di Coppa delle Fiere, disputate a settembre/ottobre 1961.</ref>|-9<ref name="due"/>|?|?}}
+| {{Sortname|L.|Panetti|Luciano Panetti}} {{Sommastat|C=no |8|-11|?|? |2|-1|?|? |4|-2|?|?}}
+| {{Sortname|G.|Corsini|Giulio Corsini}} {{Sommastat|C=no |23|1|?|? |0|0|?|? |8<ref name="due"/>|0|?|?}}
+| {{Sortname|A.|Fontana|Alfio Fontana}} {{Sommastat|C=no |31|1|?|? |3|0|?|? |9<ref name="due"/>|0|?|?}}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |32|1|?|? |3|0|?|? |9<ref name="due"/>|0|?|?}}
+| {{Sortname|A.|Marcellini|Antonio Marcellini}} {{Sommastat|C=no |1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|L.|Raimondi|Leopoldo Raimondi}} {{Sommastat|C=no |10|1|?|? |1|0|?|? |3|0|?|?}}
+| {{Sortname|G.|Stucchi|Giosuè Stucchi}} {{Sommastat|C=no |11|0|?|? |3|0|?|? |5|0|?|?}}
+| {{Sortname|G.|De Sisti|Giancarlo De Sisti}} {{Sommastat|C=no |2|0|?|? |1|1|?|? |1|0|?|?}}
+| {{Sortname|L.|Giuliano|Luigi Giuliano (calciatore)}} {{Sommastat|C=no |28|2|?|? |3|0|?|? |9<ref name="uno">Di cui 1 nelle finali di Coppa delle Fiere, disputate a settembre/ottobre 1961.</ref>|1|?|?}}
+| {{Sortname|E.|Guarnacci|Egidio Guarnacci}} {{Sommastat|C=no |10|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Lojacono|Francisco Lojacono}} {{Sommastat|C=no |27|13|?|? |2|1|?|? |8<ref name="uno"/>|5|?|?}}
+| {{Sortname|F.|Marmiroli|Franco Marmiroli}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Menichelli|Giampaolo Menichelli}} {{Sommastat|C=no |19|3|?|? |2|1|?|? |8<ref name="due"/>|2|?|?}}
+| {{Sortname|A.|Orlando|Alberto Orlando}} {{Sommastat|C=no |20|7|?|? |1|1|?|? |6<ref name="due"/>|0|?|?}}
+| {{Sortname|P.|Pestrin|Paolo Pestrin}} {{Sommastat|C=no |32|2|?|? |3|1|?|? |8<ref name="uno"/>|2<ref name="uno"/>|?|?}}
+| {{Sortname|J.|Schiaffino|Juan Alberto Schiaffino}} {{Sommastat|C=no |29|3|?|? |1|0|?|? |7|0|?|?}}
+| {{Sortname|A.|Ghiggia|Alcides Ghiggia}} {{Sommastat|C=no |11|1|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|P.|Manfredini|Pedro Manfredini}} {{Sommastat|C=no |31|20|?|? |3|2|?|? |8<ref name="due"/>|12<ref name="due"/>|?|?}}
+| {{Sortname|A.|Selmosson|Arne Selmosson}} {{Sommastat|C=no |23|1|?|? |3|1|?|? |4|1|?|?}}
+| {{Sortname|S.|Carpanesi|Sergio Carpanesi}}<ref name="cdf">Giocatore acquistato nella sessione estiva del 1961 per la stagione 1961-1962 e utilizzato nelle finali di Coppa delle Fiere che statisticamente appartengono alla stagione 1960-1961.</ref> {{Sommastat|C=no |-|-|?|? |-|-|?|? |2|0|?|?}}
+| {{Sortname|D.|da Costa|Dino da Costa}}<ref name="cdf"/> {{Sommastat|C=no |-|-|?|? |-|-|?|? |1|0|?|?}}
+| {{Sortname|A.|Angelillo|Antonio Valentín Angelillo}}<ref name="cdf"/> {{Sommastat|C=no |-|-|?|? |-|-|?|? |2|0|?|?}}
+}}
+== Note ==
+<references/>
+== Bibliografia ==
+*{{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+*{{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+*{{cita web|http://www.asroma.it/|Sito ufficiale}}
+*{{cita web|http://www.rsssf.com/tablesi/ital61.html|Serie A 1960-1961 su Rssf.com|lingua=en}}
+*{{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1960|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1960-1961}}
+{{Portale|calcio}}

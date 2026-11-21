@@ -1,0 +1,1313 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = Associazione Sportiva Roma 1988-89.jpg
+|stagione = 1988-1989
+|presidente = {{Bandiera|ITA}} [[Dino Viola]]
+|allenatore1 = {{Bandiera|SWE}} [[Nils Liedholm]]<ref name="finoalla18">Fino alla 18ª giornata.</ref>, poi<br />{{Bandiera|ITA}} [[Luciano Lupi]]<ref name="dalla19">Dalla 19ª alla 22ª.</ref>, poi<br />{{Bandiera|SWE}} Nils Liedholm<ref name="dalla23">Dalla 23ª in poi.</ref>
+|titolo allenatore1 = Direttore Tecnico
+|allenatore2 = {{Bandiera|BRA 1968-1992}} [[Angelo Sormani]]<ref name="finoalla18" /> , poi<br />{{Bandiera|ITA}} [[Luciano Spinosi]]<ref name="dalla19" />, poi<br />{{Bandiera|BRA 1968-1992}} Angelo Sormani<ref name="dalla23" />
+|titolo allenatore2 = Allenatore
+|campionato = [[Serie A 1988-1989|Serie A]]
+|campionato posizione = 8º
+|coppa1 = [[Coppa Italia 1988-1989|Coppa Italia]]
+|coppa1 posizione = Secondo turno
+|coppa2 = [[Coppa UEFA 1988-1989|Coppa UEFA]]
+|coppa2 posizione = Ottavi di finale
+|presenze campionato = [[Sebastiano Nela|Nela]], [[Giuseppe Giannini (calciatore)|Giannini]] (32)
+|presenze totale = Nela (45)
+|marcatore campionato = [[Rudi Völler|Völler]] (10)
+|marcatore totale = Völler (15)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]<br/>[[Stadio Flaminio|Flaminio]]<ref>32ª e 34ª giornata.</ref>
+|spettatori max = {{formatnum:60288}} vs {{Calcio Lazio|N}}<br/>(28 maggio 1989)<ref name=stadiapost/>
+|spettatori min = {{formatnum:24375}} vs {{Calcio Fiorentina|N}}<br/>(11 giugno 1989)<ref name=stadiapost/><ref>Giocata allo [[Stadio Flaminio]].</ref>
+|spettatori media = {{formatnum:36847}}<ref name=stadiapost>{{cita web|lingua=en|url=https://www.stadiapostcards.com/A88-89.htm|titolo=Attendance Statistics of Serie A 1988-1989|sito=stadiapostcards.com}}</ref>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:18655}}<ref name=stadiapost/>
+|stagione prima = [[Associazione Sportiva Roma 1987-1988|1987-1988]]
+|stagione dopo = [[Associazione Sportiva Roma 1989-1990|1989-1990]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1988-1989'''.
+
+== Stagione ==
+[[File:Serie A 1988-89 - Cesena vs Roma - Agatino Cuttone e Rudi Völler.jpg|thumb|left|[[Rudi Völler]], migliore marcatore stagionale in campionato della Roma, alle prese col cesenate [[Agatino Cuttone|Cuttone]] nella trasferta del 20 novembre 1988]]
+
+In questa stagione, dopo aver ottenuto il terzo posto nella stagione precedente, il presidente [[Dino Viola]] investe grosse somme per acquistare l'attaccante [[Ruggiero Rizzitelli]] dal Cesena e i due brasiliani [[Renato Portaluppi|Renato]] e [[Jorge Luís Andrade da Silva|Andrade]] dal Flamengo, nel tentativo di rendere più competitiva la squadra. Tuttavia la Roma, condizionata anche dal pessimo rendimento dei due stranieri, disputa una stagione per nulla positiva in cui [[Nils Liedholm]] viene esonerato e sostituito dal duo costituito da [[Luciano Lupi]] e [[Luciano Spinosi]], per poi essere richiamato dopo quattro giornate, nelle quali la coppia ha ottenuto due pareggi e due sconfitte.<ref name=cor6>{{cita|Romano|titolo=1984-1991 La Roma formato Coppa Italia}}.</ref>
+
+In questo contesto la Roma naviga nella metà inferiore della classifica, raggiungendo tuttavia l'ultima posizione utile per l'accesso in [[Coppa UEFA]] all'ultimo turno, in coabitazione con la {{Calcio Fiorentina|N}}. Date le disposizioni del regolamento, le due squadre devono affrontarsi in uno spareggio in campo neutro che vede prevalere i viola con un gol, per ironia della sorte, di [[Roberto Pruzzo]], ceduto dalla Roma durante il mercato estivo. Sottotono sono anche le prestazioni nelle Coppe: mentre in [[Coppa Italia 1988-1989|Coppa Italia]] i giallorossi superano il primo turno vincendo il quinto girone, ma poi vengono eliminati al secondo turno, in [[Coppa UEFA 1988-1989|Coppa UEFA]] la squadra raggiunge a fatica gli ottavi di finale dove è eliminata dalla {{Calcio Dinamo Dresda|N}} con un doppio 2-0, dopo aver superato i primi due turni<ref name=cor6/>
+
+== Divise e sponsor ==
+Lo sponsor tecnico è [[NR (Ennerre)|NR]], lo sponsor ufficiale è [[Barilla]]. La prima divisa è costituita da maglia rossa con colletto a polo giallo, pantaloncini rossi e calzettoni rossi bordati di giallo. In trasferta i Lupi usano una maglia bianca con colletto a polo rosso, pantaloncini bianchi, calzettoni bianchi bordati di rosso. I portieri usano una divisa costituita pantaloncini e calzettoni neri abbinati a maglie con colletto a polo gialle e verdi con decorazioni nere.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 168-170}}.</ref>
+{|
+|{{Divisa calcio
+|pattern_la =_asroma80s90s
+|leftarm = 810b19
+|pattern_b = _asroma8491h
+|body = 6a0c27
+|pattern_ra =_asroma80s90s
+|rightarm = 810b19
+|shorts = 810b19
+|pattern_so =_asroma8491h
+|socks = 6a0c27
+|title = Casa
+}}
+|{{Divisa calcio
+|pattern_la =_asroma80s90s
+|leftarm = 810b19
+|pattern_b = _asroma9091h
+|body = 810b19
+|pattern_ra =_asroma80s90s
+|rightarm = 810b19
+|shorts = 810b19
+|pattern_so =_asroma8491h
+|socks = 810b19
+|title = Casa (alternativa)
+}}
+|{{Divisa calcio
+|pattern_la = _asroma8691a
+|pattern_b =_asroma8691a
+|pattern_ra = _asroma8691a
+|leftarm = FFFFFF
+|body = 900010
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so = _asroma8691a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa calcio
+|pattern_la =_asroma8889gk1
+|leftarm = 000000
+|pattern_b =_asroma8889gk1
+|body = 858585
+|pattern_ra =_asroma8889gk1
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa calcio
+|pattern_la =_blackborder
+|leftarm = 64b79b
+|pattern_b =_asroma8889gk2
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = 64b79b
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 2ª portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor6/>
+'''''Area direttiva'''''
+:Presidente: [[Dino Viola]]
+'''''Area tecnica'''''
+:Direttore tecnico: [[Nils Liedholm]], da febbraio [[Luciano Lupi]], da aprile di nuovo Liedholm.
+:Allenatore: [[Angelo Sormani]],da febbraio [[Luciano Spinosi]], da aprile di nuovo Sormani.
+'''''Area sanitaria'''''
+:Medico sociale: Ernesto Alicicco
+
+== Rosa ==
+[[File:Renato Portaluppi - AS Roma 1988-89.jpg|thumb|upright|Il neoacquisto [[Renato Portaluppi]]: a dispetto delle premesse al suo arrivo, il brasiliano sarà uno dei maggiori ''bidoni'' della storia romanista<ref>{{cita web|url=http://www.calciobidoni.it/bidoni/renato.html|titolo=Renato Portaluppi - Il mandrillo brasiliano amante della dolce vita romana|accesso=15 dicembre 2018}}</ref>]]
+
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 88/89">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1988|titolo=Rosa AS Roma - Saison 88/89|accesso=11 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Luca Alidori<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Alberto Menotti<ref name="p"/>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Peruzzi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Tancredi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Ugo Cipelli<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fulvio Collovati]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gabriele Grossi]]<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Moreno Ferrario]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sebastiano Nela]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Emidio Oddi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Tempestilli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=BRA 1968-1992|nome=[[Jorge Luís Andrade da Silva]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Daniele Berretta]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bruno Conti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alessandro Cucciari]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Di Mauro]]<ref name=aut>Acquistato durante la sessione autunnale.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Desideri]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Manuel Gerolin]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lionello Manfredonia]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Policano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alessio Scarchilli]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Gianluca Signorini]]''<ref name="Cessione autunno">Ceduto durante la sessione autunnale.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Statuto]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Leonardo Aiello|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Paolo Baldieri]]''<ref name="Cessione autunno"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Daniele Massaro]]<ref name=aut/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=BRA 1968-1992|nome=[[Renato Portaluppi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ruggiero Rizzitelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=FRG|nome=[[Rudi Völler]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 88/89"/>
+=== Sessione estiva ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |da
+! width=36% |Modalità
+|-
+|D ||[[Moreno Ferrario]] ||{{Calcio Napoli|N}}||''definitivo''<ref>{{Cita web|https://ricerca.repubblica.it/repubblica/archivio/repubblica/1988/09/27/ferrario-alla-roma-ma-saro-titolare.html|FERRARIO&#x20;ALLA&#x20;ROMA&#x20;&#x27;MA&#x20;SARO&#x27;&#x20;TITOLARE?&#x27; - la Repubblica.it}}</ref>
+|-
+|C ||[[Jorge Luís Andrade da Silva|Andrade]] ||{{Calcio Flamengo|N}} ||''definitivo'' (1,5 Mld. £)
+|-
+|C ||[[Angelo Di Livio]] ||{{Calcio Perugia|N}} ||''fine prestito''
+|-
+|C ||[[Stefano Impallomeni]] ||{{Calcio Cesena|N}} ||''fine prestito''
+|-
+|A ||[[Paolo Baldieri]] ||{{Calcio Empoli|N}} ||''definitivo''
+|-
+|A ||[[Renato Portaluppi|Renato]] ||{{Calcio Flamengo|N}} ||''definitivo'' (3 Mld. £)<ref name="Panini">{{cita libro|titolo=Calciatori - La raccolta completa Panini 1961-2012|editore=Panini|data=4 giugno 2012|p=10|volume=Vol. 5 (1988-1989)}}</ref>
+|-
+|A ||[[Ruggiero Rizzitelli]] ||{{Calcio Cesena|N}} ||''definitivo'' (5.7 Mld. £ + contropartite tecniche<ref>[[Massimo Agostini|Agostini]] e [[Sergio Domini|Domini]].</ref>)<ref name="Panini"/>
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|P ||Paolo Onorati ||{{Calcio Pro Livorno|N}} ||''definitivo''
+|-
+|C ||[[Massimiliano Cappioli]] ||{{Calcio Cagliari|N}} ||''definitivo''
+|-
+|C ||[[Gianni Cavezzi]] ||{{Calcio Latina|N}} ||''definitivo''
+|-
+|C ||[[Angelo Di Livio]] ||{{Calcio Perugia|N}} ||''definitivo''
+|-
+|C ||[[Stefano Impallomeni]] ||{{Calcio Parma|N}} ||''prestito''
+|-
+|C ||[[Sergio Domini]] ||{{Calcio Cesena|N}} ||''definitivo''<ref name="Panini"/><ref name="riz">Come parziale contropartita tecnica per l'acquisto di [[Ruggiero Rizzitelli|Rizzitelli]].</ref>
+|-
+|A ||[[Massimo Agostini]] ||{{Calcio Cesena|N}} ||''definitivo''<ref name="Panini"/><ref name="riz"/>
+|-
+|A ||[[Edoardo Artistico]] ||{{Calcio Vicenza|N|1954}} ||''fine prestito''
+|-
+|A ||[[Zbigniew Boniek]] ||- ||''fine carriera''
+|-
+|A ||[[Roberto Pruzzo]] ||{{Calcio Fiorentina|N}} ||''definitivo''
+|}
+{{colonne fine}}
+=== Sessione autunnale ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|C ||[[Fabrizio Di Mauro]] ||{{Calcio Avellino|N}} ||''definitivo''
+|-
+|A ||[[Daniele Massaro]] ||{{Calcio Milan|N}} ||''prestito''
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|C ||[[Gianluca Signorini]] ||{{Calcio Genoa|N}} ||''definitivo''
+|-
+|A ||[[Paolo Baldieri]] ||{{Calcio Avellino|N}} ||''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1988-1989}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 ottobre
+|Ora = 15:00
+|Anno = 1988
+|Turno = 1ª giornata
+|Squadra 1 = Pescara
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/1/PESROM
+|Città = [[Pescara]]
+|Stadio = [[Stadio Adriatico]]
+|Spettatori =
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 2ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/2/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = circa 22.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = Siracusa
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|79}} [[Stefano Desideri|Desideri]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/3/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 22.000
+|Arbitro = [[Werther Cornieti]]
+|Cittarbitro = Forlì
+|Marcatori 1 = [[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|70}}
+|Marcatori 2 = {{Goal|87}} [[Pedro Pablo Pasculli|Pasculli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 4ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/4/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 55.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Nicola Berti|Berti]] {{Goal|19}}<br/>[[Aldo Serena|Serena]] {{Goal|84}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pisa
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/5/ROMPIS
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 38.000
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|25}}<br/>[[Antonio Tempestilli|Tempestilli]] {{Goal|68}}
+|Marcatori 2 = {{Goal|41}} [[Mario Faccenda|Faccenda]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 6ª giornata
+|Squadra 1 = Cesena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/6/CESROM
+|Città = [[Cesena]]
+|Stadio = [[Stadio Dino Manuzzi]]
+|Spettatori = circa 20.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Massimo Agostini|Agostini]] {{Goal|87}}
+|Marcatori 2 = {{Goal|65}} [[Sebastiano Nela|Nela]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/7/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 32.000
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Roberto Policano|Policano]] {{Goal|75}}
+|Marcatori 2 = {{Goal|25}} [[Edu Marangon|Edu]]<br/>{{Goal|71||83}} [[Diego Fuser|Fuser]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 8ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/8/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 18.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 2 = {{Goal|36}} [[Rudi Völler|Völler]]<br/>{{Goal|78}} [[Daniele Massaro|Massaro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/9/ROMCOM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 27.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|22}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 10ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/10/ASCROM
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori = circa 9.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 2 = {{Goal|52}} [[Sebastiano Nela|Nela]]<br/>{{Goal|81}} [[Daniele Massaro|Massaro]]<br/>{{Goal|90}} [[Roberto Policano|Policano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Ora = 14:30
+|Anno = 1988
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/11/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 39.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|87}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Ora = 14:30
+|Anno = 1989
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/12/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 49.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|83|rig.}}
+|Marcatori 2 = {{Goal|12}} [[Alessandro Altobelli|Altobelli]]<br/>{{Goal|78}} [[Rui Barros]]<br/>{{Goal|90+1|rig.}} [[Antonio Cabrini|Cabrini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Ora = 14:30
+|Anno = 1989
+|Turno = 13ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/13/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Paolo Di Canio|Di Canio]] {{Goal|25}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Ora = 14:30
+|Anno = 1989
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/14/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 41.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|11}}
+|Marcatori 2 = {{Goal|7}} [[Mauro Tassotti|Tassotti]]<br/>{{Goal|31}} [[Marco van Basten|Van Basten]]<br/>{{Goal|78}} [[Pietro Paolo Virdis|Virdis]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Ora = 14:30
+|Anno = 1989
+|Turno = 15ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/15/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = circa 22.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Stefano Borgonovo|Borgonovo]] {{Goal|41||71}}
+|Marcatori 2 = {{Goal|3}} [[Daniele Massaro|Massaro]]<br/>{{Goal|31}} [[Bruno Conti|Conti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 febbraio
+|Ora = 15:00
+|Anno = 1989
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/16/ROMVER
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 30.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Ora = 15:00
+|Anno = 1989
+|Turno = 17ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/17/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = circa 23.000
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Evair]] {{Goal|45}}<br/>[[Armando Madonna|Madonna]] {{Goal|87}}
+|Marcatori 2 = {{Goal|3}} [[Daniele Massaro|Massaro]]<br/>{{Goal|20}} [[Rudi Völler|Völler]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Ora = 15:00
+|Anno = 1989
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pescara
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/18/ROMPES
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 41.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|61|rig.}}
+|Marcatori 2 = {{Goal|45||52||70}} [[Tita]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Ora = 15:00
+|Anno = 1989
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/19/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 29.000
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|9}}
+|Marcatori 2 = {{Goal|68}} [[Marco Antonio De Marchi|De Marchi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 marzo
+|Ora = 15:00
+|Anno = 1989
+|Turno = 20ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/20/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = circa 18.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 marzo
+|Ora = 15:00
+|Anno = 1989
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/21/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 58.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Marcatori 2 = {{Goal|12}} [[Lothar Matthäus|Matthäus]]<br/>{{Goal|22}} [[Aldo Serena|Serena]]<br/>{{Goal|75}} [[Ramón Díaz|Díaz]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Ora = 15:00
+|Anno = 1989
+|Turno = 22ª giornata
+|Squadra 1 = Pisa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/22/PISROM
+|Città = [[Pisa]]
+|Stadio = [[Stadio Arena Garibaldi - Romeo Anconetani|Arena Garibaldi]]
+|Spettatori = circa 18.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Mauro Boccafresca|Boccafresca]] {{Goal|3}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 aprile
+|Ora = 15:30
+|Anno = 1989
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cesena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/23/ROMCES
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|55}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 aprile
+|Ora = 15:30
+|Anno = 1989
+|Turno = 24ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/24/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Comunale di Torino|Stadio Comunale Vittorio Pozzo]]
+|Spettatori = circa 27.000
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Luiz Antônio da Costa|Müller]] {{Goal|31||83}}<br/>[[Diego Fuser|Fuser]] {{Goal|69}}
+|Marcatori 2 = {{Goal|60}} [[Rudi Völler|Völler]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 aprile
+|Ora = 15:30
+|Anno = 1989
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/25/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|59}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 aprile
+|Ora = 16:00
+|Anno = 1989
+|Turno = 26ª giornata
+|Squadra 1 = Como
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/26/COMROM
+|Città = [[Como]]
+|Stadio = [[Stadio Giuseppe Sinigaglia]]
+|Spettatori = circa 8.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 2 = {{Goal|2}} [[Lionello Manfredonia|Manfredonia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Ora = 16:00
+|Anno = 1989
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/27/ROMASC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Roberto Policano|Policano]] {{Goal|39}}
+|Marcatori 2 = {{Goal|59}} [[Bruno Giordano (calciatore)|Giordano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 maggio
+|Ora = 18:45
+|Anno = 1989
+|Turno = 28ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/28/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Careca]] {{Goal|58}}
+|Marcatori 2 = {{Goal|75}} [[Rudi Völler|Völler]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 maggio
+|Ora = 16:00
+|Anno = 1989
+|Turno = 29ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/29/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Comunale di Torino|Stadio Comunale Vittorio Pozzo]]
+|Spettatori = circa 23.000
+|Arbitro = [[Werther Cornieti]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Lionello Manfredonia|Manfredonia]] {{Goal|23|aut.}}<br/>[[Marino Magrin|Magrin]] {{Goal|85|rig.}}
+|Marcatori 2 = {{Goal|29|rig.}} [[Giuseppe Giannini (calciatore)|Giannini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 maggio
+|Ora = 16:30
+|Anno = 1989
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/30/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 giugno
+|Ora = 16:30
+|Anno = 1989
+|Turno = 31ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/31/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 60.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Mauro Tassotti|Tassotti]] {{Goal|3}}<br/>[[Antonio Tempestilli|Tempestilli]] {{Goal|52|aut.}}<br/>[[Marco van Basten|Van Basten]] {{Goal|56}}<br/>[[Franco Baresi|Baresi]] {{Goal|82}}
+|Marcatori 2 = {{Goal|40}} [[Daniele Massaro|Massaro]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 giugno
+|Ora = 16:30
+|Anno = 1989
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/32/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 24.000
+|Arbitro = [[Moreno Frigerio]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|35}}<br/>[[Rudi Völler|Völler]] {{Goal|86}}
+|Marcatori 2 = {{Goal|32}} [[Stefano Borgonovo|Borgonovo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 giugno
+|Ora = 17:00
+|Anno = 1989
+|Turno = 33ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/33/VERROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 18.000
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 giugno
+|Ora = 17:00
+|Anno = 1989
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1988-89/UNICO/UNI/34/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 27.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|43}}<br/>[[Rudi Völler|Völler]] {{Goal|66}}
+|Marcatori 2 = {{Goal|7|rig.}} [[Armando Madonna|Madonna]]
+|Sfondo = on
+}}
+
+==== Spareggio per l'ammissione in Coppa UEFA ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 giugno
+|Ora = 17:00
+|Anno = 1989
+|Turno = Spareggio
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8889RomaFiorentina_Spareggio_La_Stampa_af.JPG
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi]]
+|Spettatori = circa 15.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = Frattamaggiore
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|11}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo =
+}}
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1988-1989}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 agosto
+|Ora = 20:45
+|Anno = 1988
+|Turno = 1ª giornata
+|Squadra 1 = Prato
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/8889PratoRoma_CI_Unita_af.jpg
+|Città = [[Prato (Italia)|Prato]]
+|Stadio = [[Stadio Lungobisenzio]]
+|Spettatori = circa 5.000
+|Arbitro = [[Moreno Frigerio]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = Labadini {{Goal|41|rig.}}
+|Marcatori 2 = {{Goal|27}} [[Rudi Völler|Völler]]<br/>{{Goal|38}} [[Renato Portaluppi|Renato]]<br/>{{Goal|57}} [[Bruno Conti|Conti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 agosto
+|Ora = 20:45
+|Anno = 1988
+|Turno = 2ª giornata
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto =
+|Città = [[Empoli]]
+|Stadio = [[Stadio Carlo Castellani]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Francesco Baiano|Baiano]] {{Goal|46}}<br/>[[Gianni Cristiani|Cristiani]] {{Goal|83}}
+|Marcatori 2 = {{Goal|7}} [[Rudi Völler|Völler]]<br/>{{Goal|53}} [[Bruno Conti|Conti]]<br/>{{Goal|60}} [[Renato Portaluppi|Renato]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 agosto
+|Ora = 17:30
+|Anno = 1988
+|Turno = 3ª giornata
+|Squadra 1 = Monza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8889MonzaRoma_CI_La_Stampa_af.JPG
+|Città = [[Monza]]
+|Stadio = [[Stadio Brianteo]]
+|Spettatori = circa 15.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Pierluigi Casiraghi|Casiraghi]] {{Goal|22}}<br/>[[Carmelo Mancuso|Mancuso]] {{Goal|60}}
+|Marcatori 2 = {{Goal|40|rig.}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Ora = 18:15
+|Anno = 1988
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8889RomaComo_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 16.176
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|44|rig.}}<br/>[[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|62}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Ora = 16:45
+|Anno = 1988
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 5
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/8889RomaPiacenza_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 15.592
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Bruno Conti|Conti]] {{Goal|50}}<br/>[[Ruggero Rizzitelli|Rizzitelli]] {{Goal|54||58||68}}<br/>[[Renato Portaluppi|Renato]] {{Goal|88}}
+|Marcatori 2 = {{Goal|25}} [[Armando Madonna|Madonna]]<br/>{{Goal|79}} [[Giampiero Scaglia|Scaglia]]
+|Sfondo = on
+}}
+
+==== Secondo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Ora = 20:30
+|Anno = 1988
+|Turno = 1ª giornata
+|Squadra 1 = Pisa
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8889PisaRoma_CI_Unita_af.jpg
+|Città = [[Pisa]]
+|Stadio = [[Stadio Arena Garibaldi - Romeo Anconetani|Stadio Arena Garibaldi]]
+|Spettatori = circa 10.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Francis Severeyns|Severeyns]] {{Goal|50}}<br/>[[Lamberto Piovanelli|Piovanelli]] {{Goal|57}}<br/>[[Mario Been|Been]] {{Goal|85|rig.}}
+|Marcatori 2 = {{Goal|73|rig.}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 settembre
+|Ora = 20:30
+|Anno = 1988
+|Turno = 2ª giornata
+|Squadra 1 = Ancona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8889AnconaRoma_CI_Unita_af.jpg
+|Città = [[Ancona]]
+|Stadio = [[Stadio Del Conero|Stadio Dorico]]
+|Spettatori =
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = Spigarelli {{Goal|78}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Ora = 20:30
+|Anno = 1988
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pescara
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8889RomaPescara_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 11.423
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Roberto Policano|Policano]] {{Goal|13}}<br/>[[Rudi Völler|Völler]] {{Goal|27}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|55}}<br/>[[Antonio Tempestilli|Tempestilli]] {{Goal|66}}
+|Marcatori 2 = {{Goal|29}} [[Júnior (calciatore 1954)|Júnior]]
+|Sfondo = 
+}}
+
+=== Coppa UEFA ===
+{{Vedi anche|Coppa UEFA 1988-1989}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 settembre
+|Ora = 16:45 [[Central European Time|CET]]
+|Anno = 1988
+|Turno = Trentaduesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Norimberga
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1988/matches/round=611/match=146/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori =
+|Arbitro = [[José Rosa dos Santos]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|48|rig.}}
+|Marcatori 2 = {{Goal|44}} [[Souleyman Sané|Sané]]<br />{{Goal|57}} [[Dieter Eckstein|Eckstein]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 ottobre
+|Ora = 20:00 [[Central European Time|CET]]
+|Anno = 1988
+|Turno = Trentaduesimi di finale - Ritorno
+|Squadra 1 = Norimberga
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Supplementari = X
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1988/matches/round=611/match=147/postmatch/lineups/index.html
+|Città = [[Norimberga]]
+|Stadio = [[Frankenstadion]]
+|Spettatori =
+|Arbitro = Butenko
+|Nazarbitro = SUN 1980-1991
+|Marcatori 1 = [[Dieter Eckstein|Eckstein]] {{Goal|20|rig.}}
+|Marcatori 2 = {{Goal|9}} [[Rudi Völler|Völler]]<br />{{Goal|34}} [[Roberto Policano|Policano]]<br />{{Goal|93}} [[Renato Portaluppi|Renato]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 ottobre
+|Ora = 17:00 [[Central European Time|CET]]
+|Anno = 1988
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Partizan
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1988/matches/round=612/match=367/postmatch/lineups/index.html
+|Città = [[Belgrado]]
+|Stadio = [[Stadio Partizan]]
+|Spettatori =
+|Arbitro = Hartman
+|Nazarbitro = HUN
+|Marcatori 1 = [[Vladislav Đukić|Đukić]] {{Goal|17||77}}<br />[[Vladimir Vermezović|Vermezović]] {{Goal|31}}<br />[[Goran Milojević|Milojević]] {{Goal|54}}
+|Marcatori 2 = {{Goal|10||68}} [[Bruno Conti|Conti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Ora = 14:30 [[Central European Time|CET]]
+|Anno = 1988
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Partizan
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1988/matches/round=612/match=368/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = Sanchez Arminio
+|Nazarbitro = ESP
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|20}}<br />[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|71|rig.}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 novembre
+|Ora = 17:00 [[Central European Time|CET]]
+|Anno = 1988
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Dinamo Dresda
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1988/matches/round=613/match=369/postmatch/lineups/index.html
+|Città = [[Dresda]]
+|Stadio = [[DDV-Stadion|Rudolf-Harbig-Stadion]]
+|Spettatori =
+|Arbitro = Biguet
+|Nazarbitro = FRA
+|Marcatori 1 = [[Torsten Gütschow|Gütschow]] {{Goal|15|rig.}}<br />[[Ralf Minge|Minge]] {{Goal|81}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Ora = 13:00 [[Central European Time|CET]]
+|Anno = 1988
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Dinamo Dresda
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1988/matches/round=613/match=370/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Helmut Kohl (arbitro)|Helmut Kohl]]
+|Nazarbitro = AUT
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|69}} [[Torsten Gütschow|Gütschow]]<br />{{Goal|80}} [[Ulf Kirsten|Kirsten]]
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor6/>
+{{Statistiche_squadra
+|comp1=[[Serie A 1988-1989|Serie A]]
+|punti1=34
+|cv1=7
+|cn1=5
+|cp1=5
+|cgf1=17
+|cgs1=21
+|tv1=4
+|tn1=7
+|tp1=6
+|tgf1=16
+|tgs1=19
+|comp2=Spareggio
+|punti2=-
+|cv2=0
+|cn2=0
+|cp2=1
+|cgf2=0
+|cgs2=1
+|tv2=-
+|tn2=-
+|tp2=-
+|tgf2=-
+|tgs2=-
+|comp3=[[Coppa Italia 1988-1989|Coppa Italia]]
+|punti3=-
+|cv3=3
+|cn3=0
+|cp3=0
+|cgf3=11
+|cgs3=3
+|tv3=2
+|tn3=0
+|tp3=3
+|tgf3=8
+|tgs3=9
+|comp4=[[Coppa UEFA 1988-1989|Coppa UEFA]]
+|punti4=-
+|cv4=1
+|cn4=0
+|cp4=2
+|cgf4=3
+|cgs4=4
+|tv4=1
+|tn4=0
+|tp4=2
+|tgf4=5
+|tgs4=7
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=T |m3=C |m4=T |m5=C |m6=T |m7=T |m8=T |m9=C |m10=T |m11=C |m12=C |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=T |m30=C |m31=T |m32=C |m33=T |m34=C }}
+{{Andamento/Risultato |m1=N |m2=V |m3=N |m4=P |m5=V |m6=N |m7=P |m8=V |m9=V |m10=V |m11=V |m12=P |m13=P |m14=P |m15=N |m16=N |m17=N |m18=P |m19=N |m20=N |m21=P |m22=P |m23=V |m24=P |m25=V |m26=V |m27=N |m28=N |m29=P |m30=N |m31=P |m32=V |m33=N |m34=V }}
+{{Andamento/Posizione |r=15 |m1=8 |m2=4 |m3=4 |m4=9 |m5=7 |m6=6 |m7=9 |m8=7 |m9=6 |m10=4 |m11=3 |m12=5 |m13=6 |m14=7 |m15=7 |m16=7 |m17=7 |m18=7 |m19=7 |m20=8 |m21=8 |m22=8 |m23=8 |m24=8 |m25=8 |m26=8 |m27=8 |m28=8 |m29=8 |m30=8 |m31=8 |m32=8 |m33=8 |m34=8 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Di seguito le statistiche dei giocatori.<ref name=cor6/>
+{{Statistiche dei giocatori
+|Competizione1 = Serie A
+|Competizione2 = Spareggio<br />UEFA
+|Competizione3 = Coppa Italia
+|Competizione4 = Coppa UEFA
+|Cartellini = no
+|{{Sortname|L.|Alidori|Luca Alidori|nolink=1}} {{Sommastat|C=no|0|-0|-|- |-|-|-|- |-|-|-|- |-|-|-|-}}
+|{{Sortname|A.|Menotti|Alberto Menotti|nolink=1}} {{Sommastat|C=no|-|-|-|- |0|-0|-|- |-|-|-|- |-|-|-|-}}
+|{{Sortname|A.|Peruzzi|Angelo Peruzzi}} {{Sommastat|C=no|12|-16|-|- |-|-|-|- |7|-11|-|- |1|-2|-|-}}
+|{{Sortname|F.|Tancredi|Franco Tancredi}} {{Sommastat|C=no|22|-24|-|- |1|-1|-|- |1|-1|-|- |5|-9|-|-}}
+|{{Sortname|U.|Cipelli|Ugo Cipelli|nolink=1}} {{Sommastat|C=no|-|-|-|- |-|-|-|- |-|-|-|- |0|0|-|-}}
+|{{Sortname|F.|Collovati|Fulvio Collovati}} {{Sommastat|C=no|19|0|-|- |1|0|-|- |8|0|-|- |5|0|-|-}}
+|{{Sortname|M.|Ferrario|Moreno Ferrario}} {{Sommastat|C=no|12|0|-|- |0|0|-|- |-|-|-|- |-|-|-|-}}
+|{{Sortname|G.|Grossi|Gabriele Grossi}} {{Sommastat|C=no|0|0|-|- |-|-|-|- |-|-|-|- |-|-|-|-}}
+|{{Sortname|S.|Nela|Sebastiano Nela}} {{Sommastat|C=no|32|2|-|- |1|0|-|- |6|0|-|- |6|0|-|-}}
+|{{Sortname|E.|Oddi|Emidio Oddi}} {{Sommastat|C=no|27|0|-|- |0|0|-|- |4|0|-|- |4|0|-|-}}
+|{{Sortname|A.|Tempestilli|Antonio Tempestilli}} {{Sommastat|C=no|25|1|-|- |1|0|-|- |5|1|-|- |5|0|-|-}}
+|{{Sortname||Andrade|Jorge Luís Andrade da Silva}} {{Sommastat|C=no|9|0|-|- |-|-|-|- |3|0|-|- |5|0|-|-}}
+|{{Sortname|D.|Berretta|Daniele Berretta}} {{Sommastat|C=no|0|0|-|- |-|-|-|- |-|-|-|- |-|-|-|-}}
+|{{Sortname|B.|Conti|Bruno Conti}} {{Sommastat|C=no|14|1|-|- |-|-|-|- |7|2|-|- |6|2|-|-}}
+|{{Sortname|A.|Cucciari|Alessandro Cucciari}} {{Sommastat|C=no|-|-|-|- |-|-|-|- |-|-|-|- |-|-|-|-}}
+|{{Sortname|F.|Di Mauro|Fabrizio Di Mauro}} {{Sommastat|C=no|14|0|-|- |1|0|-|- |3|0|-|- |-|-|-|-}}
+|{{Sortname|S.|Desideri|Stefano Desideri}} {{Sommastat|C=no|27|2|-|- |1|0|-|- |5|0|-|- |5|1|-|-}}
+|{{Sortname|M.|Gerolin|Manuel Gerolin}} {{Sommastat|C=no|19|0|-|- |1|0|-|- |7|0|-|- |6|0|-|-}}
+|{{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)|Giuseppe Giannini}} {{Sommastat|C=no|32|6|-|- |1|0|-|- |6|4|-|- |5|1|-|-}}
+|{{Sortname|L.|Manfredonia|Lionello Manfredonia}} {{Sommastat|C=no|29|1|-|- |1|0|-|- |8|0|-|- |4|0|-|-}}
+|{{Sortname|R.|Policano|Roberto Policano}} {{Sommastat|C=no|18|3|-|- |-|-|-|- |7|1|-|- |5|1|-|-}}
+|{{Sortname|A.|Scarchilli|Alessio Scarchilli}} {{Sommastat|C=no|0|0|-|- |-|-|-|- |-|-|-|- |-|-|-|-}}
+|''{{Sortname|G.|Signorini|Gianluca Signorini}}'' {{Sommastat|C=no|-|-|-|- |-|-|-|- |2|0|-|- |1|0|-|-}}
+|{{Sortname|F.|Statuto|Francesco Statuto}} {{Sommastat|C=no|0|0|-|- |-|-|-|- |-|-|-|- |0|0|-|-}}
+|{{Sortname|L.|Aiello|Leonardo Aiello|nolink=1}} {{Sommastat|C=no|-|-|-|- |-|-|-|- |-|-|-|- |0|0|-|-}}
+|''{{Sortname|P.|Baldieri|Paolo Baldieri}} '' {{Sommastat|C=no|-|-|-|- |-|-|-|- |4|0|-|- |-|-|-|-}}
+|{{Sortname|D.|Massaro|Daniele Massaro}} {{Sommastat|C=no|30|5|-|- |1|0|-|- |1|0|-|- |-|-|-|-}}
+|{{Sortname||Renato|Renato Portaluppi|Renato}} {{Sommastat|C=no|23|0|-|- |1|0|-|- |6|2|-|- |3|1|-|-}}
+|{{Sortname|R.|Rizzitelli|Ruggero Rizzitelli}} {{Sommastat|C=no|20|2|-|- |0|0|-|- |5|1|-|- |2|0|-|-}}
+|{{Sortname|R.|Völler|Rudi Völler}} {{Sommastat|C=no|29|10|-|- |1|0|-|- |7|3|-|- |6|2|-|-}}
+}}
+
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1988-1989|Campionato Primavera]]
+** [[Coppa Italia Primavera 1988-1989|Coppa Italia Primavera]]
+** [[Torneo di Viareggio 1989|Torneo di Viareggio]]: Finalista
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|url=http://www.rsssf.com/tablesi/ital89.html|titolo=Serie A 1988-1989 su Rsssf.com|lingua=en}}
+* {{cita web|url=https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1988|titolo=Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1988-1989}}
+{{Portale|calcio}}

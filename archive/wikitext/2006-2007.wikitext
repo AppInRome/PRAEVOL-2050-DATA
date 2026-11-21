@@ -1,0 +1,1574 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|immagine =
+|didascalia = La Roma vincitrice della Coppa Italia
+|stagione = 2006-2007
+|allenatore1 = {{Bandiera|ITA}} [[Luciano Spalletti]]
+|allenatore2 = {{Bandiera|ITA}} [[Marco Domenichini]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 2006-2007|Serie A]]
+|campionato posizione = 2º (in Champions League)
+|coppa1 = [[Coppa Italia 2006-2007|Coppa Italia]]
+|coppa1 posizione = '''Vincitore'''
+|coppa2 = [[Supercoppa italiana 2006|Supercoppa italiana]]
+|coppa2 posizione = Finalista
+|coppa3 = [[UEFA Champions League 2006-2007|Champions League]]
+|coppa3 posizione = Quarti di finale
+|marcatore campionato = [[Francesco Totti|Totti]] (26)
+|marcatore totale = Totti (32)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|presenze campionato = [[Daniele De Rossi|De Rossi]] (36)
+|presenze totale = De Rossi (54)
+|abbonati = {{formatnum:25681}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A06-07.htm|titolo=Statistiche Spettatori Serie A 2006-2007}}</ref>
+|spettatori max = {{formatnum:61292}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(29 aprile 2007)
+|spettatori min = {{formatnum:28897}}<ref name=stadiapost/> vs {{Calcio Parma|N}}<br/>(11 febbraio 2007)
+|spettatori media = {{formatnum:38719}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2005-2006|2005-2006]]
+|stagione dopo = [[Associazione Sportiva Roma 2007-2008|2007-2008]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2006-2007'''.
+
+== Stagione ==
+Qualificata direttamente per la [[UEFA Champions League 2006-2007|Champions League]] in seguito alle sentenze di [[Calciopoli]], la Roma inizia questa stagione contendendo all'{{Calcio Inter|N}} la [[Supercoppa italiana 2006|Supercoppa italiana]].<ref name="supercoppa">{{cita web|url=http://www.repubblica.it/2006/08/sezioni/sport/calcio/supercoppa-inter-roma/supercoppa-inter-roma/supercoppa-inter-roma.html|titolo=Supercoppa all'Inter, che rimonta Roma a due facce, ha meno ricambi|sito=repubblica.it|data=26 agosto 2006}}</ref> In 34' i capitolini vanno sul 3-0, con rete di [[Alessandro Faiolhe Amantino|Amantino Mancini]] e doppietta di [[Alberto Aquilani|Aquilani]]:<ref name="supercoppa"/> a pochi secondi dall'intervallo, [[Patrick Vieira|Vieira]] accorcia le distanze segnando di testa sugli sviluppi di una punizione.<ref name="supercoppa"/> La ripresa è tutta dei nerazzurri, che trovano 2 gol grazie all'ex laziale [[Hernán Crespo|Crespo]] e ancora al francese:<ref name="supercoppa"/> il 3-3 porta la sfida ai supplementari.<ref name="supercoppa"/> [[Luís Figo|Figo]] segnò su punizione, completando la rimonta dei milanesi:<ref name="supercoppa"/> l'espulsione di [[Cristian Chivu|Chivu]] cala il sipario sulla gara.<ref name="supercoppa"/>
+
+In [[Serie A 2006-2007|campionato]] gli stessi lombardi sono protagonisti, vincendo anche all'Olimpico in occasione della terza giornata.<ref>{{cita web|url=http://www.repubblica.it/2006/09/sezioni/sport/calcio/serie_a/giornata-3/roma-inter/roma-inter.html|titolo=L'Inter conquista l'Olimpico Per la Roma un passo indietro|sito=repubblica.it|data=20 settembre 2006}}</ref> Già dal girone di andata, gli uomini di [[Luciano Spalletti|Spalletti]] si ritrovano distanziati dai rivali.<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2006/dicembre/03/Totti_che_risposta_tornato_grande_ga_10_061203065.shtml|titolo=Totti, che risposta È tornato grande anche nei rigori|autore=Ruggiero Palombo|pubblicazione=La Gazzetta dello Sport|data=3 dicembre 2006}}</ref> In Europa superano la fase a gironi, con 8 punti.<ref>{{cita web|url=http://www.repubblica.it/2006/12/sezioni/sport/calcio/champions_league/roma-valencia-ottavi/roma-valencia-ottavi/roma-valencia-ottavi.html|titolo=Champions, Panucci fa il Totti E la Roma vola agli ottavi|sito=repubblica.it|data=5 dicembre 2006}}</ref> L'ultimo incontro del gruppo è seguito dal [[Derby di Roma|derby]], vinto per 3-0 dalla {{Calcio Lazio|N}}.<ref>{{cita web|url=http://www.repubblica.it/2006/12/sezioni/sport/calcio/serie_a/giornata-15/lazio-roma/lazio-roma.html|titolo=La Lazio stravince il derby E l'Inter stacca la Roma|sito=repubblica.it|data=10 dicembre 2006}}</ref> Negli ottavi di coppa, la Roma pesca il [[Olympique Lyonnais|Lione]]: pareggiando 0-0 all'andata, per poi vincere 2-0 al ritorno, si qualifica per i quarti.<ref>{{cita web|url=http://www.repubblica.it/2007/02/sezioni/sport/calcio/champions_league/roma-lione/roma-lione/roma-lione.html|titolo=Fra Roma e Lione pari senza reti si deciderà tutto al ritorno|sito=repubblica.it|data=21 febbraio 2007}}</ref><ref>{{cita web|url=http://www.repubblica.it/2007/03/sezioni/sport/calcio/champions_league/roma-trionfo-lione/roma-trionfo-lione/roma-trionfo-lione.html|titolo=Roma, a Lione la partita perfetta Totti e Mancini gelano i francesi: 2-0|sito=repubblica.it|data=6 marzo 2007}}</ref> In questo turno viene eliminata dal {{Calcio Manchester United|N}}, già affrontato nel girone: il 2-1 casalingo è inutile, a fronte del pesante 7-1 subìto in trasferta.<ref>{{cita web|url=http://www.gazzetta.it/Calcio/Primo_Piano/2007/04_Aprile/04/roma-man.shtml|titolo=La Roma surclassa il Manchester|autore=Riccardo Pratesi|sito=gazzetta.it|data=4 aprile 2007}}</ref><ref>{{cita web|url=http://www.gazzetta.it/Calcio/Primo_Piano/2007/04_Aprile/10/ManchesterRoma.shtml|titolo=Roma, incubo inglese Il Manchester vince 7-1|autore=Riccardo Pratesi|sito=gazzetta.it|data=10 aprile 2007}}</ref> I giallorossi sconfiggono poi l'Inter a Milano, nel recupero della 22ª giornata, nell'unica disfatta nerazzurra nelle 38 giornate.<ref>{{cita web|url=http://www.repubblica.it/2007/02/sezioni/sport/calcio/serie_a/giornata-22/inter-roma/inter-roma.html|titolo=L'Inter deve rinviare la festa con la Roma arriva il primo ko|sito=repubblica.it|data=18 aprile 2007}}</ref> Il torneo termina con un secondo posto, a 22 punti dai meneghini: ciò costituisce un record per la [[Serie A]].<ref>{{cita web|url=http://www.repubblica.it/2007/04/sezioni/sport/calcio/serie_a/giornata-34/roma-lazio/roma-lazio.html|titolo=Tanto agonismo e poca concretezza Il derby della capitale finisce 0-0|sito=repubblica.it|data=29 aprile 2007}}</ref>
+La rivincita sui rivali giunge dalla [[Coppa Italia 2006-2007|Coppa Italia]], vinta per l'ottava volta dai capitolini ai danni della squadra di [[Roberto Mancini|Mancini]]: il 6-2 dell'andata ipoteca, di fatto, la vittoria finale.<ref>{{cita web|url=http://www.repubblica.it/2007/05/sezioni/sport/calcio/roma-inter-andata/roma-inter-andata/roma-inter-andata.html|titolo=Roma spettacolo, l'Inter travolta Finisce 6-2 la finale di andata|sito=repubblica.it|data=9 maggio 2007}}</ref> L'Inter, nel ritorno, vince soltanto 2-1.<ref>{{cita web|url=http://www.repubblica.it/2007/05/sezioni/sport/calcio/inter-roma-ritorno/inter-roma-ritorno/inter-roma-ritorno.html|titolo=Milano, la Roma alza la coppa Italia All'Inter non basta la vittoria|sito=repubblica.it|data=17 maggio 2007}}</ref> Il capitano [[Francesco Totti|Totti]] si laurea, per la prima volta, capocannoniere del campionato con 26 centri.<ref>{{cita news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2007/05/28/totti-due-gol-per-la-scarpa.html?ref=search|titolo=Totti, due gol per la Scarpa d'Oro Una stagione da incorniciare|autore=Mattia Chiusano|pubblicazione=la Repubblica|data=28 maggio 2007|pagina=54}}</ref>
+
+== Divise e sponsor ==
+In questa stagione la Roma presenta come fornitore tecnico [[Diadora]]; non c'è un main sponsor ma in {{Calcio Reggina|N}}-Roma e Roma-{{Calcio Milan|N}} sono presenti nelle maglie come sponsor rispettivamente [[Festival Internazionale del Film di Roma|Festa del Cinema di Roma]] e [[Pepsi Cola|Pepsi Collection]]. La prima divisa è costituita da maglia rossa con bordi manica e colletto gialli, pantaloncini bianchi e calzettoni neri. In trasferta i Lupi usano una costituita da maglia bianca con bordi manica gialli e colletto rosso, pantaloncini bianchi, calzettoni bianchi. Come terza divisa viene usato un kit costituito da maglia color bronzo, pantaloncini e calzettoni rossi. I portieri usano quattro divise: una nera, una grigia, una bianca e una gialla, tutte con colletto rosso e bordi manica gialli (ad eccezione dell'ultima che presenta anche i bordi manica rossi).<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 229-231}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la = _roma0607h
+|pattern_b = _roma0607h
+|pattern_ra = _roma0607h
+|pattern_sh = _roma0607h
+|pattern_so = _asroma0607h
+|leftarm = 990000
+|body = FFFFFF
+|rightarm = 990000
+|shorts = FFFFFF
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0607a
+|pattern_b = _roma0607a
+|pattern_ra = _roma0607a
+|pattern_sh = _roma0607h
+|pattern_so = _asroma0607a
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0607t
+|pattern_b = _roma0607t
+|pattern_ra = _roma0607t
+|pattern_sh = _roma0607t
+|pattern_so = _asroma0607t
+|leftarm = 990000
+|body = FFFFFF
+|rightarm = 990000
+|shorts = a00000
+|socks = a00000
+|title = Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma0607gk1
+|pattern_b = _asroma0607gk1
+|pattern_ra = _asroma0607gk1
+|pattern_sh =
+|pattern_so = _asroma0607h
+|leftarm = 000000
+|body = 000000
+|rightarm = 000000
+|shorts = 000000
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma0607gk2
+|pattern_b = _asroma0607gk2
+|pattern_ra = _asroma0607gk2
+|pattern_sh =
+|pattern_so = _asroma0607a
+|leftarm = d7d7d7
+|body = d7d7d7
+|rightarm = d7d7d7
+|shorts = f
+|socks = d7d7d7
+|title = 2ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma0607gk3
+|pattern_b = _asroma0607gk3
+|pattern_ra = _asroma0607gk3
+|pattern_sh =
+|pattern_so = _asroma0607gk3
+|leftarm = c7c7b8
+|body = c7c7b8
+|rightarm = c7c7b8
+|shorts = c7c7b8
+|socks = c7c7b8
+|title = 3ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma0607gk4
+|pattern_b = _asroma0607gk4
+|pattern_ra = _asroma0607gk4
+|pattern_sh =
+|pattern_so = _asroma0607gk4
+|leftarm = edb000
+|body = edb000
+|rightarm = edb000
+|shorts = 000000
+|socks = edb000
+|title = 4ª Portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente: [[Franco Sensi]]
+* Amministratore delegato: [[Rosella Sensi]]
+* Vice Presidenti: [[Ciro Di Martino]], Giovanni Ferreri
+'''''Area organizzativa'''''
+* Coordinatore e ottimizzatore delle risorse umane dell'area sportiva: [[Gian Paolo Montali]]
+* Responsabile organizzativo e logistica: [[Antonio Tempestilli]]
+* Responsabile organizzazione e stadio: Maurizio Cenci
+* Team manager: Salvatore Scaglia
+* Dirigente addetto agli arbitri: Vittorio Benedetti
+'''''Area comunicazione'''''
+* Responsabile comunicazione: Elena Turra
+{{Colonne spezza}}
+'''''Area tecnica'''''
+* Direttore sportivo: [[Daniele Pradè]]
+* Direttore tecnico: [[Bruno Conti]]
+* Allenatore: [[Luciano Spalletti]]
+* Allenatore in seconda: [[Marco Domenichini]]
+* Collaboratori tecnici: Aurelio Andreazzoli
+* Preparatori atletici: Paolo Bertelli
+* Allenatore dei portieri: [[Adriano Bonaiuti]]
+'''''Area sanitaria'''''
+* Responsabile sanitario: Vincenzo Affinito
+* Massaggiatore: Giorgio Rossi
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 06/07">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2006|titolo=Rosa AS Roma - Saison 06/07|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=ITA|nome=[[Gianluca Curci]]|ruolo=P}}
+{{Calciatore in rosa|n=2|nazione=ITA|nome=[[Christian Panucci]]|ruolo=D|altro=v}}
+{{Calciatore in rosa|n=3|nazione=CRI|nome=[[Gilberto Martínez]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=SWE|nome=[[Christian Wilhelmsson]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Philippe Mexès]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=CHL|nome=[[David Pizarro]]|ruolo=C}}
+{{Calciatore in rosa|n=8|nazione=ITA|nome=[[Alberto Aquilani]]|ruolo=C}}
+{{Calciatore in rosa|n=''9''|nazione=ITA|nome=''[[Vincenzo Montella]]''|ruolo=A}}<ref name="ReferenceA">Ceduto nella sessione invernale di calciomercato</ref>
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A|altro=c}}
+{{Calciatore in rosa|n=11|nazione=BRA|nome=[[Rodrigo Taddei]]|ruolo=C}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=Pietro Pipolo|ruolo=P}}
+{{Calciatore in rosa|n=13|nazione=ROU|nome=[[Cristian Chivu]]|ruolo=D}}
+{{Calciatore in rosa|n=14|nazione=FRA|nome=[[Ricardo Faty]]|ruolo=C}}
+{{Calciatore in rosa|n=''15''|nazione=EGY|nome=''[[Mido]]''|ruolo=A}}<ref name=e>Ceduto nella sessione estiva di calciomercato dopo la prima partita ufficiale.</ref>
+{{Calciatore in rosa|n=16|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C}}
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Francesco Tavano]]|ruolo=A}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Valerio Virga]]|ruolo=C}}
+{{Calciatore in rosa|n=19|nazione=BRA|nome=[[Rodrigo Defendi]]|ruolo=D}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Simone Perrotta]]|ruolo=C}}
+{{Calciatore in rosa|n=21|nazione=ITA|nome=[[Matteo Ferrari]]|ruolo=D}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Max Tonetto]]|ruolo=D}}
+{{Calciatore in rosa|n=23|nazione=MNE|nome=[[Mirko Vučinić]]|ruolo=A}}
+{{Calciatore in rosa|n=''24''|nazione=ITA|nome=''[[Carlo Zotti]]''|ruolo=P}}<ref name="ReferenceA"/>
+{{Calciatore in rosa|n=25|nazione=ARG|nome=[[Leandro Cufré]]|ruolo=D}}<ref name=e/>
+{{Calciatore in rosa|n=27|nazione=BRA|nome=[[Júlio Sérgio]]|ruolo=P}}
+{{Calciatore in rosa|n=28|nazione=ITA|nome=[[Aleandro Rosi]]|ruolo=C}}
+{{Calciatore in rosa|n=30|nazione=BRA|nome=[[Alessandro Faiolhe Amantino|Mancini]]|ruolo=C}}
+{{Calciatore in rosa|n=31|nazione=ITA|nome=[[Fabrizio Grillo]]|ruolo=D}}
+{{Calciatore in rosa|n=32|nazione=BRA|nome=[[Doniéber Alexander Marangon|Doni]]|ruolo=P}}
+{{Calciatore in rosa|n=33|nazione=ITA|nome=[[Gianluca Freddi]]|ruolo=D}}
+{{Calciatore in rosa|n=34|nazione=ITA|nome=Massimiliano Marsili|ruolo=C}}
+{{Calciatore in rosa|n=35|nazione=ITA|nome=[[Stefano Okaka]]|ruolo=A}}
+{{Calciatore in rosa|n=36|nazione=ITA|nome=[[Simone Palermo]]|ruolo=C}}
+{{Calciatore in rosa|n=37|nazione=ITA|nome=Andrea Giacomini|ruolo=C}}
+{{Calciatore in rosa|n=77|nazione=ITA|nome=[[Marco Cassetti]]|ruolo=D}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 06/07"/>
+=== Sessione estiva (dal 1/7 al 31/8) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | dal
+! width=36% | Modalità
+|-
+| P || [[Júlio Sérgio]] || -  || ''svincolato''
+|-
+| D || [[Gilberto Martínez]] || {{Calcio Brescia|N}} || ''prestito'' (0.25 milioni €)
+|-
+| D || [[Rodrigo Defendi]] || {{Calcio Tottenham|N}} || ''prestito'' (0.375 milioni €)
+|-
+| D || [[Marco Cassetti]] || {{Calcio Lecce|N}} || ''prestito'' (3 milioni €)
+|-
+| C || [[Max Tonetto]] || {{Calcio Sampdoria|N}} || ''definitivo''
+|-
+| C || [[David Pizarro]] || {{Calcio Inter|N}} || ''compartecipazione'' (13 milioni €)
+|-
+| C || [[Ricardo Faty]] || {{Calcio Strasburgo|N}} || ''definitivo'' (0.360 milioni €)
+|-
+| A || [[Skelley Adu Tutu]] || {{Calcio King Faisals Babies|N}} || ''definitivo''
+|-
+| A || [[Mirko Vučinić]] || {{Calcio Lecce|N}} || ''prestito'' (3.25 milioni €)
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | dal
+! width=36% | Modalità
+|-
+| P || [[Dīmītrios Eleutheropoulos]] || {{Calcio Ascoli|N}} || ''svincolato''
+|-
+| D || [[Samuel Kuffour]] || {{Calcio Livorno|N}} || ''prestito'' (0.55 milioni €)
+|-
+| D || [[Leandro Cufré]] || {{Calcio Monaco|N}} || ''definitivo'' (2.1 milioni €)
+|-
+| D || [[Gianluca Comotto]] || {{Calcio Torino|N}} || ''prestito''
+|-
+| C || [[Edgar Álvarez]] || {{Calcio Messina|N}} || ''prestito''
+|-
+| C || [[Damiano Tommasi]] || {{Calcio Levante|N}} || ''svincolato''
+|-
+| C || [[Olivier Dacourt]] || {{Calcio Inter|N}} || ''svincolato''
+|-
+| A || [[Shabani Nonda]] || {{Calcio Blackburn|N}} || ''prestito''
+|-
+| A || [[Mido]] || {{Calcio Tottenham|N}} || ''definitivo'' (6.75 milioni €)
+|}
+{{colonne fine}}
+=== Sessione invernale (dal 7/1 al 2/2) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | dal
+! width=36% | Modalità
+|-
+| C || [[Christian Wilhelmsson]] || {{Calcio Nantes|N}} || ''prestito con diritto di riscatto'' (0.5 milioni €)
+|-
+| C || [[Gianluca Comotto]] || {{Calcio Torino|N}} || ''rientro prestito''
+|-
+| A || [[Francesco Tavano]] || {{Calcio Valencia|N}} || ''prestito con diritto di riscatto'' (0.58 milioni €)
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | dal
+! width=36% | Modalità
+|-
+| P || [[Carlo Zotti]] || {{Calcio Sampdoria|N}} || ''prestito'' (0.165 milioni €)
+|-
+| C || [[Gianluca Comotto]] || {{Calcio Torino|N}} || ''compartecipazione'' (2.2 milioni €)
+|-
+| A || [[Vincenzo Montella]] || {{Calcio Fulham|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Supercoppa italiana ===
+{{vedi anche|Supercoppa italiana 2006}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 agosto
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = Finale
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Supplementari = X
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/SupercoppaItalia/Inter-Roma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Patrick Vieira|Vieira]] {{Goal|44||74}}<br />[[Hernán Crespo|Crespo]] {{Goal|65}}<br />[[Luís Figo|Figo]] {{Goal|93}}
+|Marcatori 2 = {{Goal|13}} [[Alessandro Faiolhe Amantino|Mancini]]<br />{{Goal|25||34}} [[Alberto Aquilani|Aquilani]]
+}}
+
+=== Serie A ===
+{{vedi anche|Serie A 2006-2007}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 settembre
+|Anno = 2006
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/1/ROMLIV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Daniele De Rossi|De Rossi]] {{Goal|45}}<br />[[Alessandro Faiolhe Amantino|Mancini]] {{Goal|56}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Siena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/2/SIEROM
+|Città = [[Siena]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori =
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Mario Frick (calciatore)|Frick]] {{Goal|87}}
+|Marcatori 2 = {{Goal|2}} [[Rodrigo Taddei|Taddei]]<br />{{Goal|25}} [[David Pizarro|Pizarro]]<br />{{Goal|90}} [[Stefano Okaka|Okaka]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 settembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/3/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|44}} [[Hernán Crespo|Crespo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 settembre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/4/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori =
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|5}} [[Vincenzo Montella|Montella]]<br />{{Goal|45+1}} [[Simone Perrotta|Perrotta]]<br />{{Goal|54}} [[Aleandro Rosi|Rosi]]<br />{{Goal|90+3}} [[Alberto Aquilani|Aquilani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/5/ROMEMP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|23}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 ottobre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Reggina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/6/RGIROM
+|Città = [[Reggio Calabria]]
+|Stadio = [[Stadio Oreste Granillo]]
+|Spettatori =
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Nicola Amoruso|Amoruso]] {{Goal|49}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/7/ROMCHI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|66}}
+|Marcatori 2 = {{Goal|40}} [[Sergio Pellissier|Pellissier]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 ottobre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/8/ROMASC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|50}}<br />[[Philippe Mexès|Mexès]] {{Goal|90+1}}
+|Marcatori 2 = {{Goal|23}} [[Marco Delvecchio|Delvecchio]]<br />{{Goal|63}} [[Saša Bjelanović|Bjelanović]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 2006
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 9ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/9/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori =
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|66}} [[Matteo Ferrari|Ferrari]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/10/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Daniele De Rossi|De Rossi]] {{Goal|38}}<br />[[Rodrigo Taddei|Taddei]] {{Goal|49||66}}
+|Marcatori 2 = {{Goal|15}} [[Tomáš Ujfaluši|Ujfaluši]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 novembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 11ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/11/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Cristian Brocchi|Brocchi]] {{Goal|56}}
+|Marcatori 2 = {{Goal|7||83}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 7
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/12/ROMCAT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|12||48}}<br />[[Alessandro Faiolhe Amantino|Mancini]] {{Goal|19}}<br />[[Simone Perrotta|Perrotta]] {{Goal|24||40}}<br />[[Vincenzo Montella|Montella]] {{Goal|59}}<br />[[Francesco Totti|Totti]] {{Goal|70}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 novembre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 13ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/13/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori =
+|Arbitro = [[Nicola Ayroldi]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Sergio Volpi|Volpi]] {{Goal|14}}<br />[[Francesco Flachi|Flachi]] {{Goal|90+2|rig.}}
+|Marcatori 2 = {{Goal|13||74}} [[Francesco Totti|Totti]]<br />{{Goal|33}} [[Simone Perrotta|Perrotta]]<br />{{Goal|44}} [[Christian Panucci|Panucci]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/14/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Oberdan Pantana]]
+|Cittarbitro = [[Roma]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|52|rig.|64|rig.}}
+|Marcatori 2 = {{Goal|19}} [[Riccardo Zampagna|Zampagna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 15ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/15/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Cristian Daniel Ledesma|Ledesma]] {{Goal|44}}<br />[[Massimo Oddo|Oddo]] {{Goal|52|rig.}}<br />[[Massimo Mutarelli|Mutarelli]] {{Goal|73}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/16/ROMPAL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Alessandro Faiolhe Amantino|Mancini]] {{Goal|44||83}}<br />[[Francesco Totti|Totti]] {{Goal|56|rig.|90}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 17ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/17/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Alessandro Rosina|Rosina]] {{Goal|88}}
+|Marcatori 2 = {{Goal|44}} [[Francesco Totti|Totti]]<br />{{Goal|85}} [[Alessandro Faiolhe Amantino|Mancini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 dicembre
+|Anno = 2006
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/18/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Rodrigo Taddei|Taddei]] {{Goal|5}}<br />[[Alessandro Faiolhe Amantino|Mancini]] {{Goal|56}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 19ª giornata
+|Squadra 1 = Messina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/19/MESROM
+|Città = [[Messina]]
+|Stadio = [[Stadio San Filippo]]
+|Spettatori =
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Alessandro Parisi|Parisi]] {{Goal|90+2|rig.}}
+|Marcatori 2 = {{Goal|39}} [[Alessandro Faiolhe Amantino|Mancini]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 20ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/20/LIVROM
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi]]
+|Spettatori =
+|Arbitro = [[Nicola Ayroldi]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Cristiano Lucarelli|Lucarelli]] {{Goal|22}}
+|Marcatori 2 = {{Goal|74}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Siena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/21/ROMSIE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Antonio Giannoccaro]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Mirko Vučinić|Vučinić]] {{Goal|62}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 2007
+|Ora = 17:30 [[Central European Summer Time|CEST]]
+|Turno = 22ª giornata<ref>In calendario per il 4 febbraio 2007, la giornata di campionato è stata rinviata per gli [[scontri di Catania]].</ref>
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/22/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Marco Materazzi|Materazzi]] {{Goal|52|rig.}}
+|Marcatori 2 = {{Goal|44}} [[Simone Perrotta|Perrotta]]<br />{{Goal|89}} [[Francesco Totti|Totti]]<br />{{Goal|90+3}} [[Marco Cassetti|Cassetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/23/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|50}}<br />[[Simone Perrotta|Perrotta]] {{Goal|66}}<br />[[Rodrigo Taddei|Taddei]] {{Goal|90+5}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 febbraio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 24ª giornata
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/24/EMPROM
+|Città = [[Empoli]]
+|Stadio = [[Stadio Carlo Castellani]]
+|Spettatori =
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Nicola Pozzi|Pozzi]] {{Goal|5}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 febbraio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggina
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/25/ROMRGI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Francesco Tavano|Tavano]]{{Goal|55}}<br />[[Philippe Mexès|Mexès]] {{Goal|65}}<br />[[Christian Panucci|Panucci]] {{Goal|90}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 26ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/26/CHIROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori =
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Erjon Bogdani|Bogdani]] {{Goal|17}}<br />[[Franco Semioli|Semioli]] {{Goal|33}}
+|Marcatori 2 = {{Goal|34||48}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 27ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/27/ASCROM
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori =
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Andrea Soncin|Soncin]] {{Goal|17}}
+|Marcatori 2 = {{Goal|85}} [[Christian Wilhelmsson|Wilhelmsson]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 2007
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/28/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|33|rig.|60}}<br />[[Simone Perrotta|Perrotta]] {{Goal|39}}
+|Marcatori 2 = {{Goal|69}} [[Asamoah Gyan|Asamoah]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/29/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori =
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 marzo
+|Anno = 2007
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/30/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Philippe Mexès|Mexès]] {{Goal|5}}
+|Marcatori 2 = {{Goal|61}} [[Alberto Gilardino|Gilardino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 aprile
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/31/CATROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori =
+|Arbitro = [[Tiziano Pieri]]
+|Cittarbitro = [[Lucca]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|37}} [[Francesco Tavano|Tavano]]<br />{{Goal|83}} [[Mirko Vučinić|Vučinić]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/32/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|21||66}}<br />[[Matteo Ferrari|Ferrari]] {{Goal|71}}<br />[[Christian Panucci|Panucci]] {{Goal|87}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/33/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Spettatori =
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Cristiano Doni|Doni]] {{Goal|37}}<br />[[Riccardo Zampagna|Zampagna]] {{Goal|44}}
+|Marcatori 2 = {{Goal|65}} [[Simone Perrotta|Perrotta]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/34/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/35/PALROM
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera]]
+|Spettatori =
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Giovanni Tedesco|Tedesco]] {{Goal|86}}
+|Marcatori 2 = {{Goal|17}} [[Francesco Totti|Totti]]<br />{{Goal|36}} [[Marco Cassetti|Cassetti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 maggio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/36/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|14}} [[Roberto Muzzi|Muzzi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 maggio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/37/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori =
+|Arbitro = [[Christian Brighi]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 1 = [[David Suazo|Suazo]] {{Goal|13}}<br />[[Davide Marchini|Marchini]] {{Goal|40||68}}
+|Marcatori 2 = {{Goal|29|rig.|85}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 maggio
+|Anno = 2007
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Messina
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2006-07/UNICO/UNI/38/ROMMES
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Nicola Pierpaoli]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|10||73}}<br />[[Alessandro Faiolhe Amantino|Mancini]] {{Goal|19}}<br />[[Aleandro Rosi|Rosi]] {{Goal|84}}
+|Marcatori 2 = {{Goal|9||58}} [[Christian Riganò|Riganò]]<br />{{Goal|75}} [[Nicolás Córdova|Córdova]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2006-2007}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 2006
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Ottavi-Andata/Triestina-Roma.html
+|Città = [[Trieste]]
+|Stadio = [[Stadio Nereo Rocco]]
+|Spettatori =
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Lorenzo Rossetti|Rossetti]] {{Goal|77}}
+|Marcatori 2 = {{Goal|44||49}} [[Vincenzo Montella|Montella]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 novembre
+|Anno = 2006
+|Ora = 17:00 [[Central European Summer Time|CEST]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Ottavi-Ritorno/Roma-Triestina.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Roland Herberg]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Valerio Virga|Virga]] {{Goal|22}}<br />[[Vincenzo Montella|Montella]] {{Goal|27}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 2007
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Quarti-Andata/Roma-Parma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Alessandro Faiolhe Amantino|Mancini]] {{Goal|19}}<br />[[Francesco Totti|Totti]] {{Goal|67}}
+|Marcatori 2 = {{Goal|87}} [[Zlatko Dedič|Dedič]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 2007
+|Ora = 17:30 [[Central European Summer Time|CEST]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Quarti-Ritorno/Parma-Roma.html
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori =
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Zlatan Muslimović|Muslimović]] {{Goal|11||43}}
+|Marcatori 2 = {{Goal|30}} [[Daniele De Rossi|De Rossi]]<br />{{Goal|85}} [[David Pizarro|Pizarro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 2007
+|Ora = 21:15 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Andata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Semifinale-Andata/Milan-Roma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Ricardo Oliveira|Oliveira]] {{Goal|4}}<br />[[Filippo Inzaghi|Inzaghi]] {{Goal|23}}
+|Marcatori 2 = {{Goal|28}} [[Simone Perrotta|Perrotta]]<br />{{Goal|39}} [[David Pizarro|Pizarro]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 2007
+|Ora = 21:15 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Semifinale-Ritorno/Roma-Milan.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Alessandro Faiolhe Amantino|Mancini]] {{Goal|8}}<br />[[Simone Perrotta|Perrotta]] {{Goal|23}}<br />[[David Pizarro|Pizarro]] {{Goal|46}}
+|Marcatori 2 = {{Goal|18}} [[Alberto Gilardino|Gilardino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 maggio
+|Anno = 2007
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = Finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 6
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Finale-Andata/Roma-Inter.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|1}}<br />[[Daniele De Rossi|De Rossi]] {{Goal|5}}<br />[[Simone Perrotta|Perrotta]] {{Goal|16}}<br />[[Alessandro Faiolhe Amantino|Mancini]] {{Goal|30}}<br />[[Christian Panucci|Panucci]] {{Goal|54||89}}
+|Marcatori 2 = {{Goal|20||56}} [[Hernán Crespo|Crespo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio
+|Anno = 2007
+|Ora = 17:30 [[Central European Summer Time|CEST]]
+|Turno = Finale - Ritorno
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2006-2007/CoppaItalia/Finale-Ritorno/Inter-Roma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Hernán Crespo|Crespo]] {{Goal|51}}<br />[[Julio Cruz|Cruz]] {{Goal|57}}
+|Marcatori 2 = {{Goal|84}} [[Simone Perrotta|Perrotta]]
+|Sfondo = on
+}}
+
+=== Champions League ===
+{{vedi anche|UEFA Champions League 2006-2007}}
+==== Fase a gironi ====
+{{vedi anche|UEFA Champions League 2006-2007 (fase a gironi)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Shakhtar
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116321/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Bertrand Layec]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Rodrigo Taddei|Taddei]] {{Goal|67}}<br />[[Francesco Totti|Totti]] {{Goal|76}}<br />[[Daniele De Rossi|De Rossi]] {{Goal|79}}<br />[[David Pizarro|Pizarro]] {{Goal|89}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Valencia
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116337/postmatch/lineups/index.html
+|Città = [[Valencia]]
+|Stadio = [[Stadio Mestalla]]
+|Spettatori =
+|Arbitro = [[Herbert Fandel]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Miguel Ángel Angulo|Angulo]] {{Goal|12}}<br />[[David Villa|Villa]] {{Goal|29}}
+|Marcatori 2 = {{Goal|19|rig.}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 ottobre
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Olympiakos
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116353/postmatch/lineups/index.html
+|Città = [[Pireo]]
+|Stadio = [[Stadio Karaiskákis]]
+|Spettatori =
+|Arbitro = [[Graham Poll]]
+|Nazarbitro = ENG
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|76}} [[Simone Perrotta|Perrotta]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Olympiakos
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116369/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Olegário Benquerença]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|66}}
+|Marcatori 2 = {{Goal|19}} [[Júlio César Santos Correa|Júlio César]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 novembre
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Shakhtar
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116385/postmatch/lineups/index.html
+|Città = [[Donec'k]]
+|Stadio = [[Donbas Arena]]
+|Spettatori =
+|Arbitro = [[Wolfgang Stark]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Ciprian Marica|Marica]] {{Goal|61}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 2006
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Valencia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2357/match=1116401/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Konrad Plautz]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|13}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+==== Fase a eliminazione diretta ====
+{{vedi anche|UEFA Champions League 2006-2007 (fase a eliminazione diretta)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 febbraio
+|Anno = 2007
+|Ora = [[Central European Summer Time|CEST]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Olympique Lione
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2358/match=85512/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Mike Riley]]
+|Nazarbitro = ENG
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 2007
+|Ora = [[Central European Summer Time|CEST]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Olympique Lione
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2358/match=85513/postmatch/lineups/index.html
+|Città = [[Lione]]
+|Stadio = [[Stadio di Gerland]]
+|Spettatori =
+|Arbitro = [[Manuel Enrique Mejuto González]]
+|Nazarbitro = ESP
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|22}} [[Francesco Totti|Totti]]<br />{{Goal|44}} [[Alessandro Faiolhe Amantino|Mancini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile
+|Anno = 2007
+|Ora = [[Central European Summer Time|CEST]]
+|Turno = Quarti di finale -  Andata
+|Squadra 1 = Roma
+|Squadra 2 = Manchester United
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2359/match=300132/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Herbert Fandel]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Rodrigo Taddei|Taddei]] {{Goal|44}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|66}}
+|Marcatori 2 = {{Goal|60}} [[Wayne Rooney|Rooney]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 2007
+|Ora = [[Central European Summer Time|CEST]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Manchester United
+|Squadra 2 = Roma
+|Punteggio 1 = 7
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2006/matches/round=2359/match=300133/postmatch/lineups/index.html
+|Città = [[Manchester]]
+|Stadio = [[Old Trafford]]
+|Spettatori =
+|Arbitro = [[Ľuboš Micheľ|Micheľ]]
+|Nazarbitro = SVK
+|Marcatori 1 = [[Michael Carrick|Carrick]] {{Goal|11||60}}<br />[[Alan Smith (calciatore 1980)|Smith]] {{Goal|17}}<br />[[Wayne Rooney|Rooney]] {{Goal|19}}<br />[[Cristiano Ronaldo|Ronaldo]] {{Goal|44||49}}<br />[[Patrice Evra|Evra]] {{Goal|81}}
+|Marcatori 2 = {{Goal|69}} [[Daniele De Rossi|De Rossi]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+
+{{Statistiche_squadra
+|comp1=[[Serie A 2006-2007|Serie A]]
+|punti1=75
+|cv1=13
+|cn1=4
+|cp1=2
+|cgf1=43
+|cgs1=12
+|tv1=9
+|tn1=5
+|tp1=5
+|tgf1=31
+|tgs1=22
+|comp2=[[Coppa Italia 2006-2007|Coppa Italia]]
+|punti2=-
+|cv2=4
+|cn2=0
+|cp2=0
+|cgf2=13
+|cgs2=4
+|tv2=1
+|tn2=2
+|tp2=1
+|tgf2=7
+|tgs2=7
+|comp3=[[UEFA Champions League 2006-2007|Champions League]]
+|punti3=-
+|cv3=3
+|cn3=2
+|cp3=0
+|cgf3=8
+|cgs3=2
+|tv3=2
+|tn3=0
+|tp3=3
+|tgf3=5
+|tgs3=10
+|comp4=[[Supercoppa italiana 2006|Supercoppa Italiana]]
+|punti4=-
+|cv4=0
+|cn4=0
+|cp4=0
+|cgf4=0
+|cgs4=0
+|tv4=0
+|tn4=0
+|tp4=1
+|tgf4=3
+|tgs4=4
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=38}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=T |m28=C |m29=T |m30=C |m31=T |m32=C |m33=T |m34=C |m35=T |m36=C |m37=T |m38=C}}
+{{Andamento/Risultato |m1=V |m2=V |m3=P |m4=V |m5=V |m6=P |m7=N |m8=N |m9=V |m10=V |m11=V |m12=V |m13=V |m14=V |m15=P |m16=V |m17=V |m18=V |m19=N |m20=N |m21=V |m22=V |m23=V |m24=P |m25=V |m26=N |m27=N |m28=V |m29=N |m30=N |m31=V |m32=V |m33=P |m34=N |m35=V |m36=P |m37=P |m38=V}}
+{{Andamento/Posizione |m1=2 |m2=1 |m3=4 |m4=2 |m5=1 |m6=2 |m7=3 |m8=3 |m9=3 |m10=3 |m11=3 |m12=3 |m13=2 |m14=2 |m15=2 |m16=2 |m17=2 |m18=2 |m19=2 |m20=2 |m21=2 |m22=2 |m23=2 |m24=2 |m25=2 |m26=2 |m27=2 |m28=2 |m29=2 |m30=2 |m31=2 |m32=2 |m33=2 |m34=2 |m35=2 |m36=2 |m37=2 |m38=2}}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Sono in ''corsivo'' i calciatori che hanno lasciato la società a stagione in corso.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Champions League
+| Competizione4 = Supercoppa italiana
+| {{Sortname|A.|Aquilani|Alberto Aquilani}} {{Sommastat|13|1|3|0 |3|0|0|0 |5|0|0|0 |1|0|0|0}}
+| {{Sortname|M.|Cassetti|Marco Cassetti}} {{Sommastat|28|2|7|0|6|0|0|0|8|0|0|0 |1|0|0|0}}
+| {{Sortname|C.|Chivu|Cristian Chivu}} {{Sommastat|28|0|6|0|7|0|0|0|8|0|0|0 |1|0|0|0}}
+| {{Sortname|L.|Cufré|Leandro Cufré}} {{Sommastat|0|0|0|0|0|0|0|0| 0|0|0|0 |1|0|0|0}}
+| {{Sortname|G.|Curci|Gianluca Curci}} {{Sommastat|6|-9|0|0| 6|-7|0|0| 0|0|0|0 |0|0|0|0}}
+| {{Sortname|D.|De Rossi|Daniele De Rossi}} {{Sommastat|36|2|7|0 |8|2|0|0|10|2|0|0 |1|0|0|0}}
+| {{Sortname|R.|Defendi|Rodrigo Defendi}} {{Sommastat|0|0|0|0 |1|0|0|0|1|0|0|0 |0|0|0|0}}
+| {{Sortname||Doni|Doniéber Alexander Marangon}} {{Sommastat|32|-25|3|0 |2|-4|0|0 |8|-12|0|0 |1|-3|0|0}}
+| {{Sortname|R.|Faty|Ricardo Faty}} {{Sommastat|11|0|1|0 |1|0|0|0|3|0|0|0 |0|0|0|0}}
+| {{Sortname|M.|Ferrari|Matteo Ferrari}} {{Sommastat|27|2|6|1|6|0|0|0|6|0|0|0 |0|0|0|0}}
+| {{Sortname||Júlio Sérgio}} {{Sommastat|0|0|0|0|0|0|0|0| 0|0|0|0 |0|0|0|0}}
+| {{Sortname||Mancini|Alessandro Faiolhe Amantino}} {{Sommastat|29|8|4|0 |8|3|0|0|7|1|0|0 |1|0|0|0}}
+| {{Sortname|G.|Martínez|Gilberto Martínez}} {{Sommastat|0|0|0|0|0|0|0|0|0|0|0|0 |0|0|0|0}}
+| {{Sortname|P.|Mexès|Philippe Mexès}} {{Sommastat|27|3|10|0|6|0|0|0|7|0|0|0 |1|0|0|0}}
+| {{Sortname||Mido}} {{Sommastat|0|0|0|0|0|0|0|0| 0|0|0|0 |1|0|0|0}}
+| ''{{Sortname|V.|Montella|Vincenzo Montella}}'' {{Sommastat|12|3|2|0 |1|2|0|0|3|0|0|0 |0|0|0|0}}
+| {{Sortname|S.|Okaka|Stefano Okaka}} {{Sommastat|6|1|1|0 |2|0|0|0|3|0|0|0 |0|0|0|0}}
+| {{Sortname|C.|Panucci|Christian Panucci}} {{Sommastat|34|5|6|0|6|2|0|1|9|1|0|0 |1|0|0|0}}
+| {{Sortname|S.|Perrotta|Simone Perrotta}} {{Sommastat|34|8|5|0 |6|4|0|0|9|1|0|0 |1|0|0|0}}
+| {{Sortname|D.|Pizarro|David Pizarro}} {{Sommastat|32|1|7|0 |7|3|0|0|7|1|0|0 |0|0|0|0}}
+| {{Sortname|A.|Rosi|Aleandro Rosi}} {{Sommastat|19|2|3|0 |5|0|0|0|4|0|0|0 |0|0|0|0}}
+| {{Sortname|R.|Taddei|Rodrigo Taddei}} {{Sommastat|29|5|1|0 |6|0|0|0|8|2|0|0 |1|0|0|0}}
+| {{Sortname|F.|Tavano|Francesco Tavano}} {{Sommastat|14|2|0|0 |2|0|0|0|0|0|0|0 |0|0|0|0}}
+| {{Sortname|M.|Tonetto|Max Tonetto}} {{Sommastat|30|0|20|0 |6|0|0|0|7|0|0|0 |1|0|0|0}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|35|26|2|1 |5|2|0|0|9|4|0|0 |1|0|0|0}}
+| {{Sortname|V.|Virga|Valerio Virga}} {{Sommastat|4|0|0|0 |2|1|0|0|1|0|0|0 |0|0|0|0}}
+| {{Sortname|M.|Vučinić|Mirko Vučinić}} {{Sommastat|25|2|2|0 |2|0|0|0|6|1|0|0 |0|0|0|0}}
+| {{Sortname|C.|Wilhelmsson|Christian Wilhelmsson}} {{Sommastat|19|1|3|0 |3|0|0|0|3|0|0|0 |0|0|0|0}}
+}}
+
+== Giovanili ==
+=== Organigramma ===
+'''''Area direttiva'''''
+* Allenatore: Alberto De Rossi
+* Responsabile organizzativo: [[Bruno Conti]]
+=== Piazzamenti ===
+*'''''Primavera''''':
+* [[Campionato Primavera 2006-2007|Campionato]]: fase a gironi
+* [[Coppa Italia Primavera 2006-2007|Coppa Italia]]: ottavi di finale
+* [[Torneo di Viareggio 2007|Torneo di Viareggio]]: finale
+== Note ==
+<references />
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani, Massimiliano Ceci, Riccardo de Conciliis|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri (libro ufficiale AS Roma)|editore=Goalbook Edizioni|anno=2012|ISBN=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|http://www.rsssf.com/tablesi/ital07.html|Serie A 2006-2007 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2006|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2006-2007}}
+{{Portale|calcio}}

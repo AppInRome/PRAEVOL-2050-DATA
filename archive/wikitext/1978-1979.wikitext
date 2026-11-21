@@ -1,0 +1,998 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1978-1979
+|immagine = Associazione Sportiva Roma 1978-79.jpg
+|allenatore1 = {{Bandiera|ITA}} [[Gustavo Giagnoni]]<ref>Fino alla 6ª giornata.</ref>, poi<br />{{Bandiera|ITA}} [[Ferruccio Valcareggi]]<ref>Dalla 7ª in poi.</ref>
+|allenatore2 = {{Bandiera|ITA}} [[Giorgio Bravi]]
+|presidente = {{Bandiera|ITA}} [[Gaetano Anzalone]]
+|campionato = [[Serie A 1978-1979|Serie A]]
+|campionato posizione = 10º
+|coppa1 = [[Coppa Italia 1978-1979|Coppa Italia]]
+|coppa1 posizione = Primo turno
+|presenze campionato = [[Paolo Conti (calciatore 1950)|Conti]] (30)
+|presenze totale = Conti (34)
+|marcatore campionato = [[Roberto Pruzzo|Pruzzo]] (9)
+|marcatore totale = Pruzzo (12)
+|spettatori media = {{formatnum:48768}}<ref>{{Cita web |url=http://www.stadiapostcards.com/a2.htm.htm |titolo=Media spettatori Serie A dal 74-75 al 85-86}}</ref>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1977-1978|1977-1978]]
+|stagione dopo = [[Associazione Sportiva Roma 1979-1980|1979-1980]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1978-1979'''.
+
+== Stagione ==
+[[File:AS Roma - Luciano Spinosi, Luciano Moggi e Roberto Pruzzo.jpg|thumb|left|Il direttore sportivo [[Luciano Moggi]] tra due neoacquisti della stagione: l'esperto [[Luciano Spinosi]] (a sinistra), di ritorno a Roma dopo otto anni, e il giovane [[Roberto Pruzzo]] (a destra).]]
+L'estate 1978 è animata dall'acquisto da parte della {{Calcio Roma|N}} del bomber del {{Calcio Genoa|N}} [[Roberto Pruzzo]] (ottenuto alla cifra di tre miliardi di lire più i cartellini di [[Giuliano Musiello|Musiello]] e [[Bruno Conti]], quest'ultimo ceduto in prestito), nonché dall'introduzione del [[merchandising]], ovvero la vendita dei prodotti legati alla squadra, che porta alla creazione di un nuovo [[logotipo|logo]] a forma di lupetto stilizzato.<ref name=cor4>{{cita|Romano|titolo=1974-1982 La grande Roma di Nils Liedholm}}.</ref>
+
+Nonostante le ambizioni la Roma parte male in campionato totalizzando un punto nelle prime tre gare. La prima vittoria, maturata in casa con il {{Calcio Bologna|N}} nella gara che segna il rientro di [[Francesco Rocca (calciatore)|Francesco Rocca]], non fa decollare la squadra che, dopo aver perso contro il {{Calcio Catanzaro|N}} prima e il {{Calcio Torino|N}} poi, vede l'esonero di [[Gustavo Giagnoni]] (il quale era già in rotta con alcuni giocatori) in favore di [[Ferruccio Valcareggi]], assistito dall'allenatore della Primavera [[Giorgio Bravi]].<ref name=cor4/>
+
+Concluso il girone di andata al dodicesimo posto, la Roma continua a navigare nelle posizioni basse della classifica rimanendo vicina alla zona retrocessione: in particolare, a cavallo tra febbraio e marzo rimedia tre sconfitte consecutive (tra cui quella nel derby con la {{Calcio Lazio|N}}, sfociato in rissa e incidenti sugli spalti) che la avvicinano pericolosamente al terzultimo posto, valido per la retrocessione. Grazie tuttavia a una vittoria sofferta con l'{{Calcio Inter|N}} e, soprattutto, a un pareggio per 2-2 nello scontro diretto con l'{{Calcio Atalanta|N}}, la Roma ottiene ''in extremis'' la salvezza. All'indomani della conclusione del campionato [[Gaetano Anzalone|Anzalone]] decide di cedere la società a [[Dino Viola]], già membro del [[consiglio d'amministrazione]] della società.<ref name=cor4/>
+
+== Divise ==
+[[File:Anzalone lupetto.jpg|thumb|upright|Il presidente [[Gaetano Anzalone]] presenta nell'estate 1978 la rinnovata ''[[brand identity]]'' romanista]]
+
+Nel girone di andata lo sponsor tecnico è [[Adidas]], mentre nel girone di ritorno è Pouchain.<ref name="maglie">{{cita|Castellani, Ceci, de Conciliis|pp. 138-141}}.</ref>
+
+La divisa primaria della Roma nel girone di andata è costituita da maglia arancione con colletto a polo rosso, pantaloncini e calzettoni rossi, mentre nel girone di ritorno viene usata una maglia rossa con collo a V bianco, maniche bianche e decorazioni gialle e arancioni, pantaloncini bianchi e calzettoni bianchi decorati con giallo rosso e arancione. In trasferta la Lupa usa nel girone di andata una maglia rossa con colletto a polo giallo, pantaloncini bianchi e calzettoni rossi bordati di giallo, nel girone di ritorno viene usato un kit simile alla ''home'' tuttavia con il body della maglia a preminenza bianca. Nel girone di andata, in alcune partite in trasferta, viene usata anche una divisa formata da maglia bianca con colletto a polo giallorosso, pantaloncini bianchi e calzettoni bianchi decorati di giallorosso.<ref name="maglie"/>
+
+I portieri hanno due divise: la prima è formata da maglia rossa con colletto a polo, pantaloncini neri e calzettoni bianchi, la seconda è costituita da maglia grigia con colletto a polo abbinata agli stessi calzettoni e calzoncini.<ref name="maglie"/>
+{|
+|{{Divisa calcio
+|pattern_la =
+|leftarm = fa5d0c
+|pattern_b =_asroma7879h1
+|body = A00000
+|pattern_ra =
+|rightarm = fa5d0c
+|shorts = A00000
+|pattern_so =
+|socks = A00000
+|title = Casa fino all'11ª giornata
+}}
+|{{Divisa calcio
+|pattern_la =_asroma7880h
+|leftarm = A00000
+|pattern_b =_asroma7880h
+|body = A00000
+|pattern_ra =_asroma7880h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asroma7880
+|socks = A00000
+|title = Casa dalla 12ª giornata
+}}
+|{{Divisa calcio
+|pattern_la =_asroma7879a1
+|leftarm = FFFFFF
+|pattern_b =_asroma7879a1
+|body = FFFFFF
+|pattern_ra =_asroma7879a1
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma7879a1
+|socks = FFFFFF
+|title = Trasferta fino all'11ª giornata
+}}
+|{{Divisa calcio
+|pattern_la =_asroma7880a
+|leftarm = FFFFFF
+|pattern_b =_asroma7880a
+|body = FFFFFF
+|pattern_ra =_asroma7880a
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma7880
+|socks = FFFFFF
+|title = Trasferta dalla 12ª giornata
+}}
+|{{Divisa calcio
+|pattern_la =_asroma7778a
+|leftarm = FFFFFF
+|pattern_b =_asroma7778a
+|body = FFFFFF
+|pattern_ra =_asroma7778a
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma7778a
+|socks = FFFFFF
+|title = Terza divisa fino all'11ª giornata
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 901416
+|pattern_b =_asroma7879gk1
+|body = 858585
+|pattern_ra =
+|rightarm = 901416
+|shorts = 000000
+|pattern_so =
+|socks = ff
+|title = 1ª div. portiere
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma7879gk2
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =
+|socks = ff
+|title = 2ª div. portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor4/>
+{{Colonne}}
+;Area direttiva
+*Presidente: [[Gaetano Anzalone]]
+;Area tecnica
+*Direttore sportivo: [[Luciano Moggi]]
+*Allenatore: [[Gustavo Giagnoni]], da novembre [[Ferruccio Valcareggi]]
+*Allenatore in seconda: [[Giorgio Bravi]], da ''novembre''
+{{Colonne spezza}}
+;Area sanitaria
+*Medico sociale: Ernesto Alicicco
+*Massaggiatore: Roberto Minaccioni
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 78/79">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1978|titolo=Rosa AS Roma - Saison 78/79|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Conti (calciatore 1950)|Paolo Conti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fernando Orsi]]<ref name="p">Aggregato dalla squadra [[Primavera (calcio)|Primavera]].</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Tancredi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Chinellato]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Peccenini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Rocca (calciatore)|Francesco Rocca]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Santarini]]|ruolo=D|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Spinosi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Allievi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Loris Boni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Borelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Michele De Nadai]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giancarlo De Sisti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Agostino Di Bartolomei]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Giovannelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Massimo Lattuca]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Domenico Maggiora]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Pietro Sbaccanti|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Scarnecchia]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Casaroli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Alberto Faccini]]<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Pruzzo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Guido Ugolotti]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 78/79"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| D || [[Luciano Spinosi]] || {{Calcio Juventus|N}} || ''definitivo''
+|-
+| C || [[Walter Allievi]] || {{Calcio Seregno|N}} || ''definitivo''
+|-
+| A || [[Roberto Pruzzo]] || {{Calcio Genoa|N}} || ''definitivo'' (3 mld £)
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Leonardo Menichini]] || {{Calcio Catanzaro|N}} || ''definitivo''
+|-
+| C || [[Guglielmo Bacci]] || {{Calcio Sambenedettese|N}} || ''definitivo''
+|-
+| C || Massimo Berdini || {{Calcio Omegna|N}} || ''definitivo''
+|-
+| C || [[Bruno Conti]] || {{Calcio Genoa|N}} || ''prestito''
+|-
+| C || Angelo Paolanti|| {{Calcio Pro Cavese|N}}|| ''definitivo''
+|-
+| C || [[Gesualdo Piacenti]] || {{Calcio Pescara|N}} || ''prestito''
+|-
+| A || [[Giuliano Musiello]] || {{Calcio Genoa|N}} || ''definitivo''
+|-
+| A || [[Giannantonio Sperotto]] || {{Calcio Reggiana|N}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1978-1979}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1978
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879VeronaRoma_Unita_af.jpg
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = Parma
+|Marcatori 1 = [[Egidio Calloni|Calloni]] {{Goal|53|rig.}}
+|Marcatori 2 = {{Goal|80}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 ottobre
+|Anno = 1978
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/7879RomaMilan_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = Bassano del Grappa
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|15}} [[Aldo Maldera|Maldera]]<br />{{Goal|38|rig.|61|rig.}} [[Stefano Chiodi|Chiodi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 ottobre
+|Anno = 1978
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879NapoliRoma_Unita_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 70.000
+|Arbitro = [[Maurizio Mattei]]
+|Cittarbitro = Macerata
+|Marcatori 1 = [[Claudio Pellegrini (calciatore)|Pellegrini]] {{Goal|69}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaBologna_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 75.000
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Michele De Nadai|De Nadai]] {{Goal|18}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|54}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 ottobre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 5ª giornata
+|Squadra 1 = Catanzaro
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879CatanzaroRoma_Unita_af.jpg
+|Città = [[Catanzaro]]
+|Stadio = [[Stadio Nicola Ceravolo|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = Siracusa
+|Marcatori 1 = [[Francesco Rocca (calciatore)|Rocca]] {{Goal|46|aut.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7879RomaTorino_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Ferdinando Reggiani]]
+|Cittarbitro = Bologna
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|40}} [[Francesco Graziani|Graziani]]<br />{{Goal|84}} [[Eraldo Pecci|Pecci]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879LazieRoma_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = Cormons
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaPerugia_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = Milano
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 novembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Referto = http://www.asromaultras.org/7879VicenzaRoma_Unita_af.jpg
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = circa 16.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = Genova
+|Marcatori 1 = [[Paolo Rossi (calciatore 1956)|Rossi]] {{Goal|8}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 dicembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Avellino
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879RomaAvellino_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Domenico Lops]]
+|Cittarbitro = Torino
+|Marcatori 1 = [[Guido Ugolotti|Ugolotti]] {{Goal|72}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|81}}
+|Marcatori 2 = {{Goal|51}} [[Gianluca De Ponti|De Ponti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879FiorentinaRoma_Unita_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 40.000
+|Arbitro = [[Maurizio Mattei]]
+|Cittarbitro = Macerata
+|Marcatori 1 = [[Giancarlo Galdiolo|Galdiolo]] {{Goal|71}}<br />[[Ezio Sella|Sella]] {{Goal|79}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 1978
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaJuventus_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|36}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 gennaio
+|Anno = 1979
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879RomaInter_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = Firenze
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|21}}
+|Marcatori 2 = {{Goal|32}} [[Carlo Muraro|Muraro]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 1979
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879AtalantaRoma_Unita_af.jpg
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Domenico Lops]]
+|Cittarbitro = Torino
+|Marcatori 1 = [[Sergio Santarini|Santarini]] {{Goal|33|aut.}}<br />[[Antonio Rocca|Rocca]] {{Goal|49}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1979
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaAscoli_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 30.000
+|Arbitro = [[Giancarlo Lapi]]
+|Cittarbitro = Firenze
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|81}}
+|Marcatori 2 =
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 1979
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaVerona_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = Salerno
+|Marcatori 1 = [[Guido Ugolotti|Ugolotti]] {{Goal|42||43}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 febbraio
+|Anno = 1979
+|Ora = 15:00
+|Turno = 17ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879MilanRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = circa 45.000
+|Arbitro = [[Paolo Milan]]
+|Cittarbitro = Treviso
+|Marcatori 1 = [[Roberto Antonelli|Antonelli]] {{Goal|82|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 1979
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaNapoli_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = Genova
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Anno = 1979
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7879BolognaRoma_Unita_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 22.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = Milano
+|Marcatori 1 = [[Franco Cresci|Cresci]] {{Goal|83}}
+|Marcatori 2 = {{Goal|22}} [[Roberto Pruzzo|Pruzzo]]<br />{{Goal|30}} [[Agostino Di Bartolomei|Di Bartolomei]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1979
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catanzaro
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/7879RomaCatanzaro_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Ferdinando Reggiani]]
+|Cittarbitro = Bologna
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|22|rig.}}
+|Marcatori 2 = {{Goal|5||44||69}} [[Massimo Palanca|Palanca]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 1979
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879TorinoRoma_Unita_02_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 30.000
+|Arbitro = [[Giancarlo Lapi]]
+|Cittarbitro = Firenze
+|Marcatori 1 = [[Claudio Sala|Sala]] {{Goal|54}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1979
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7879RomaLazie_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = Firenze
+|Marcatori 1 = [[Franco Cordova|Cordova]] {{Goal|17|aut.}}
+|Marcatori 2 = {{Goal|58|aut.}} [[Giancarlo De Sisti|De Sisti]]<br />{{Goal|88}} [[Aldo Nicoli|Nicoli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 marzo
+|Anno = 1979
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879PerugiaRoma_Unita_af.jpg
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = Cormons
+|Marcatori 1 = [[Franco Peccenini|Peccenini]] {{Goal|22|aut.}}
+|Marcatori 2 = {{Goal|90+1}} [[Guido Ugolotti|Ugolotti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1979
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879RomaVicenza_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = Salerno
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|9}}<br />[[Guido Ugolotti|Ugolotti]] {{Goal|19||36}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 1979
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Avellino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879AvellinoRoma_Unita_af.jpg
+|Città = [[Avellino]]
+|Stadio = [[Stadio Partenio]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = Parma
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 aprile
+|Anno = 1979
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879RomaFiorentina_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = Genova
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|51}}
+|Marcatori 2 = {{Goal|61}} [[Mauro Amenta|Amenta]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 1979
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879JuventusRoma_Unita_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Maurizio Mattei]]
+|Cittarbitro = Macerata
+|Marcatori 1 = [[Roberto Bettega|Bettega]] {{Goal|6}}<br />[[Pietro Fanna|Fanna]] {{Goal|69||80}}<br />[[Romeo Benetti|Benetti]] {{Goal|90}}
+|Marcatori 2 = {{Goal|59}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 1979
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7879InterRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = circa 30.00
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Alessandro Altobelli|Altobelli]] {{Goal|70|rig.}}
+|Marcatori 2 = {{Goal|27}} [[Roberto Pruzzo|Pruzzo]]<br />{{Goal|35}} [[Michele De Nadai|De Nadai]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 1979
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7879RomaAtalanta_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = Parma
+|Marcatori 1 = [[Giovanni Vavassori|Vavassori]] {{Goal|5|aut.}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|61}}
+|Marcatori 2 = {{Goal|20}} [[Ezio Bertuzzo|Bertuzzo]]<br />{{Goal|32}} [[Cesare Prandelli|Prandelli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 maggio
+|Anno = 1979
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7879AscoliRoma_Unita_af.jpg
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori =
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = Genova
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1978-1979}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 agosto
+|Anno = 1978
+|Ora = 20:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879RomaAscoli_CI_27-8-78_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Romeo Paparesta]]
+|Cittarbitro = Bari
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|47||64}}
+|Marcatori 2 = {{Goal|36}} [[Adelio Moro|Moro]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 agosto
+|Anno = 1978
+|Ora =
+|Turno = 2ª giornata<ref name="riposo">Turno di riposo</ref>
+|Squadra 1 =
+|Squadra 2 =
+|Punteggio 1 =
+|Punteggio 2 =
+|Referto =
+|Città =
+|Stadio =
+|Spettatori =
+|Arbitro =
+|Cittarbitro =
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1978
+|Ora = 17:30
+|Turno = 3ª giornata
+|Squadra 1 = Ternana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879TernanaRoma_CI_Unita_af.jpg
+|Città = [[Terni]]
+|Stadio = [[Stadio Libero Liberati]]
+|Spettatori =
+|Arbitro = [[Domenico Lops]]
+|Cittarbitro = Torino
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|21}} [[Agostino Di Bartolomei|Di Bartolomei]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 settembre
+|Anno = 1978
+|Ora = 20:30
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Varese
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/7879RomaVarese_CI_10-9-78_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Giancarlo Lapi]]
+|Cittarbitro = Firenze
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|28||61|rig.}}
+|Marcatori 2 = {{Goal|46}} [[Giampaolo Montesano|Montesano]]<br />{{Goal|81}} [[Paolo Doto|Doto]]<br />{{Goal|87}} [[Paolo Franceschelli|Franceschelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1978
+|Ora = 20:30
+|Turno = 5ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7879CagliariRoma_CI_17-9-78_La_Stampa_01_af.JPG
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori =
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = Salerno
+|Marcatori 1 = [[Roberto Quagliozzi|Quagliozzi]] {{Goal|2}}<br />[[Mario Brugnera|Brugnera]] {{Goal|23}}<br />[[Emanuele Gattelli|Gattelli]] {{Goal|82}}
+|Marcatori 2 = {{Goal|36}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor4/>
+{{Statistiche_squadra
+|comp1=[[Serie A 1978-1979|Serie A]]
+|punti1=26
+|cv1=6
+|cn1=5
+|cp1=4
+|cgf1=17
+|cgs1=15
+|tv1=2
+|tn1=5
+|tp1=8
+|tgf1=7
+|tgs1=17
+|comp2=[[Coppa Italia 1978-1979|Coppa Italia]]
+|punti2=
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=4
+|cgs2=4
+|tv2=1
+|tn2=0
+|tp2=1
+|tgf2=2
+|tgs2=3
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo  |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=C |m14=T |m15=C |m16=C |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=T |m29=C |m30=T }}
+{{Andamento/Risultato |m1=N |m2=P |m3=P |m4=V |m5=P |m6=P |m7=N |m8=N |m9=P |m10=V |m11=P |m12=V |m13=N |m14=P |m15=V |m16=V |m17=P |m18=N |m19=V |m20=P |m21=P |m22=P |m23=N |m24=V |m25=N |m26=N |m27=P |m28=V |m29=N |m30=N }}
+{{Andamento/Posizione |r=14 |m1=5 |m2=10 |m3=15 |m4=10 |m5=12 |m6=14 |m7=13 |m8=13 |m9=14 |m10=11 |m11=12 |m12=12 |m13=12 |m14=12 |m15=12 |m16=12 |m17=12 |m18=12 |m19=10 |m20=11 |m21=12 |m22=13 |m23=13 |m24=12 |m25=12 |m26=10 |m27=11 |m28=11 |m29=10 |m30=12 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini de [[L'Unità]] e de [[La Stampa]].<ref>A completamento dei dati vanno conteggiati 2 autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Cartellini = no
+| {{Sortname|P.|Conti|Paolo Conti (calciatore 1950)}} {{Sommastat|C=no |30|-32|-|- |4|-7|-|-}}
+| {{Sortname|F.|Orsi|Fernando Orsi}} {{Sommastat|C=no |-|-|-|- |-|-|-|-}}
+| {{Sortname|F.|Tancredi|Franco Tancredi}} {{Sommastat|C=no |1|0|-|- |0|0|-|-}}
+| {{Sortname|G.|Chinellato|Giacomo Chinellato}} {{Sommastat|C=no |22|0|?|? |4|0|?|?}}
+| {{Sortname|F.|Peccenini|Franco Peccenini}} {{Sommastat|C=no |22|0|?|? |3|0|?|?}}
+| {{Sortname|F.|Rocca|Francesco Rocca (calciatore)}} {{Sommastat|C=no |17|0|?|? |-|-|-|-}}
+| {{Sortname|S.|Santarini|Sergio Santarini}} {{Sommastat|C=no |24|0|?|? |4|0|?|?}}
+| {{Sortname|L.|Spinosi|Luciano Spinosi}} {{Sommastat|C=no |21|0|?|? |4|0|?|?}}
+| {{Sortname|W.|Allievi|Walter Allievi}} {{Sommastat|C=no |2|0|?|? |-|-|-|-}}
+| {{Sortname|L.|Boni|Loris Boni}} {{Sommastat|C=no |16|0|?|? |4|0|?|?}}
+| {{Sortname|P.|Borelli|Paolo Borelli}} {{Sommastat|C=no |14|0|?|? |-|-|-|-}}
+| {{Sortname|M.|De Nadai|Michele De Nadai}} {{Sommastat|C=no |26|2|?|? |4|0|?|?}}
+| {{Sortname|G.|De Sisti|Giancarlo De Sisti}} {{Sommastat|C=no |25|0|?|? |4|0|?|?}}
+| {{Sortname|A.|Di Bartolomei|Agostino Di Bartolomei}} {{Sommastat|C=no |28|5|?|? |4|3|?|?}}
+| {{Sortname|P.|Giovannelli|Paolo Giovannelli}} {{Sommastat|C=no |9|0|?|? |-|-|-|-}}
+| {{Sortname|M.|Lattuca|Massimo Lattuca}} {{Sommastat|C=no |1|0|?|? |-|-|-|-}}
+| {{Sortname|D.|Maggiora|Domenico Maggiora}} {{Sommastat|C=no |25|0|?|? |4|0|?|?}}
+| {{Sortname|P.|Sbaccanti|Pietro Sbaccanti|nolink=1}} {{Sommastat|C=no |0|0|-|- |-|-|-|-}}
+| {{Sortname|R.|Scarnecchia|Roberto Scarnecchia}} {{Sommastat|C=no |12|0|?|? |3|0|?|?}}
+| {{Sortname|W.|Casaroli|Walter Casaroli}} {{Sommastat|C=no |10|0|?|? |4|0|?|?}}
+| {{Sortname|P.A.|Faccini|Paolo Alberto Faccini}} {{Sommastat|C=no |-|-|-|- |-|-|-|-}}
+| {{Sortname|R.|Pruzzo|Roberto Pruzzo}} {{Sommastat|C=no |29|9|?|? |4|3|?|?}}
+| {{Sortname|G.|Ugolotti|Guido Ugolotti}} {{Sommastat|C=no |22|6|?|? |1|0|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1978-1979|Campionato Primavera]]: ?
+** [[Coppa Italia Primavera 1978-1979|Coppa Italia Primavera]]: ?
+** [[Torneo di Viareggio 1979|Torneo di Viareggio]]: quarti di finale
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.rsssf.com/tablesi/ital79.html|Serie A 1978-1979|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1978|Profilo e statistiche|lingua=it, en, de}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1978-1979}}
+{{Portale|calcio}}

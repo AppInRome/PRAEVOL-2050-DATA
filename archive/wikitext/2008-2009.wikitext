@@ -1,0 +1,1438 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|immagine =
+|didascalia = Una formazione della Roma in Champions League
+|stagione =
+|allenatore1 = {{Bandiera|ITA}} [[Luciano Spalletti]]
+|allenatore2 = {{Bandiera|ITA}} [[Marco Domenichini]]
+|presidente = {{Bandiera|ITA}} [[Rosella Sensi]]
+|campionato = [[Serie A 2008-2009|Serie A]]
+|campionato posizione = 6º (in Europa League)
+|coppa1 = [[Coppa Italia 2008-2009|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[Supercoppa italiana 2008|Supercoppa italiana]]
+|coppa2 posizione = Finalista
+|coppa3 = [[UEFA Champions League 2008-2009|Champions League]]
+|coppa3 posizione = Ottavi di finale
+|presenze campionato = [[Matteo Brighi|Brighi]] (35)<ref name=Panini404>{{Cita|Panini|pp. 401-404|titolo=Presenze}}.</ref>
+|presenze totale = Brighi (42)
+|marcatore campionato = [[Francesco Totti|Totti]] (13)<ref name=Panini404/>
+|marcatore totale = [[Mirko Vučinić|Vučinić]] (17)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati = {{Formatnum:29085}}<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A08-09.htm|titolo=Statistiche Spettatori Serie A 2008-2009|lingua=inglese}}</ref>
+|spettatori max = {{Formatnum:61198}} vs. {{Calcio Lazio|N}} <br/> (11 aprile 2009)<ref name=stadiapost/>
+|spettatori min = {{Formatnum:31726}} vs. {{Calcio Catania|N}} <br/> (16 maggio 2009)<ref name=stadiapost/>
+|spettatori media = {{Formatnum:39396}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2007-2008|2007-2008]]
+|stagione dopo = [[Associazione Sportiva Roma 2009-2010|2009-2010]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2008-2009'''.
+== Stagione ==
+[[File:Rosella sensi.JPG|thumb|[[Rosella Sensi]], nuova presidente del club, succeduta nell'incarico al padre dopo la morte di quest'ultimo.]]
+Il 17 agosto 2008 la società conobbe un lutto dalla scomparsa del presidente [[Franco Sensi]]<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2008/08/18/sensistory.shtml|titolo=Sensi e la sua Roma, una questione di famiglia|autore=Stefano Boldrini|data=17 agosto 2008}}</ref>, spentosi a 82 anni dopo una lunga malattia<ref>{{cita web|url=https://www.corriere.it/sport/08_agosto_18/addio_sensi_una_vita_per_la_roma_e1f52058-6cf0-11dd-b80d-00144f02aabc.shtml|titolo=Addio a Sensi, una vita per fare grande la Roma|autore=[[Mario Sconcerti]]|data=18 agosto 2008}}</ref>: a succedergli la figlia [[Rosella Sensi|Rosella]].<ref>{{cita web|url=https://www.gazzetta.it/Calcio/Serie-A/Roma/17-08-2018/roma-10-anni-morte-franco-sensi-rosella-il-calcio-ti-ha-dimenticato-290248435116.shtml|titolo=Roma, 10 anni dalla morte di Franco Sensi. Rosella: "Il calcio ti ha dimenticato"|autore=Andrea Pugliese|data=17 agosto 2018}}</ref> In avanspettacolo alla stagione la [[Supercoppa italiana 2008|Supercoppa nazionale]]<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Inter/Primo_Piano/2008/08/22/mancini.shtml|titolo=Mancini è bello carico: "Ma se segno non esulto"|data=22 agosto 2008}}</ref>, con l'[[Football Club Internazionale Milano|Inter]] opponente per il terzo anno consecutivo<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Inter/Primo_Piano/2008/08/24/partita.shtml|titolo=Inter, è subito festa: Supercoppa ai rigori|autore=Antonino Morici|data=24 agosto 2008}}</ref>: un errore del capitano [[Francesco Totti|Totti]] durante la sequenza dei rigori spianò la strada ai milanesi, aggiudicatisi poi il trofeo con la decisiva realizzazione di [[Javier Zanetti]].<ref>{{cita web|url=https://www.eurosport.it/calcio/supercoppa/2008-2009/totti-sbaglia-zanetti-no_sto1679621/story.shtml|titolo=Totti sbaglia, Zanetti no|data=25 agosto 2008}}</ref>
+Forte dell'innesto di [[Jérémy Ménez|Ménez]] e [[Júlio Baptista]]<ref>{{cita web|url=https://www.repubblica.it/2008/08/sezioni/sport/calcio/mura-intervista-campionato/mura-intervista-campionato/mura-intervista-campionato.html|titolo=Intervista al campionato|autore=[[Gianni Mura]]|data=29 agosto 2008}}</ref>, la Roma esordì in [[Serie A 2008-2009|campionato]] pareggiando il [[derby del Sole]] contro il [[Società Sportiva Calcio Napoli|Napoli]]<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2008/08/31/romanapoli.shtml|titolo=Roma bella a metà: Napoli, pari in dieci|autore=Livia Taglioli|data=31 agosto 2008}}</ref>: ben più critiche le uscite seguenti<ref>{{cita web|url=https://www.gazzetta.it/Calcio/Altro_Calcio/Primo_Piano/2008/09/14/piuemeno.shtml|titolo=Il gran ritorno di Miccoli|autore=Davide Chinellato|data=14 settembre 2008}}</ref><ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d1-0e6fde65b491-e0ef3d24c45c-1000--il-cluj-si-presenta-all-europa/|titolo=Il Cluj si presenta all'Europa|autore=Paul Saffer|data=17 settembre 2008}}</ref>, con un rendimento deficitario soprattutto in trasferta.<ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d2-0e7004368d96-914770197f9c-1000--candeline-giallorosse-in-francia/|titolo=Candeline giallorosse in Francia|data=2 ottobre 2008}}</ref><ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Siena/Primo_Piano/2008/10/05/siena-roma.shtml|titolo=Frick spinge in alto il Siena, Roma sconfitta in nove|autore=Livia Taglioli|data=5 ottobre 2008}}</ref> In occasione della prima gara in [[UEFA Champions League 2008-2009|Champions League]] toccava al [[Fotbal Club CFR 1907 Cluj|Cluj]] gelare clamorosamente il pubblico dell'Olimpico<ref>{{cita web|url=https://www.goal.com/it/notizie/roma-cluj-2008-ko-incubo-culio/6nkgju9luhzi1wzryn3r6g4s6|titolo=La Roma ritrova il Cluj: nel 2008 il clamoroso ko e l'incubo Culio|autore=Vittorio Rotondaro|data=5 novembre 2020}}</ref>, impianto violato con largo scarto anche dai nerazzurri<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2008/10/07/sensiunicredit.shtml|titolo=La Sensi: "Discutete me prima di Spalletti"|data=7 ottobre 2008}}</ref><ref>{{cita web|url=https://ricerca.gelocal.it/messaggeroveneto/archivio/messaggeroveneto/2008/10/20/UD_01_SPA3.html|titolo=Sono giorni difficili per Spalletti e Ranieri|autore=Italo Cucci|pubblicazione=[[Messaggero Veneto - Giornale del Friuli|Il Messaggero Veneto]]|data=20 ottobre 2008|p=3}}</ref>: accumulate ben 8 sconfitte nei primi 13 incontri stagionali<ref>{{cita news|url=http://archiviostorico.gazzetta.it//2008/ottobre/27/Udinese_gran_primato_Roma_caduta_ga_10_081027039.shtml|titolo=Udinese gran primato, Roma in caduta libera|autore=Sebastiano Vernazza|pubblicazione=[[La Gazzetta dello Sport]]|data=27 ottobre 2008}}</ref><ref>{{cita web|url=https://sport.sky.it/calcio/2008/11/01/roma_spalletti_post_juventus|titolo=Spalletti: "Il gol di Del Piero ci ha intimoriti"|data=1º novembre 2008}}</ref>, la vittoria sul [[Chelsea Football Club|Chelsea]] e il conseguente trionfo nella [[Derby di Roma|stracittadina]] del 16 novembre 2008 riuscirono ad imprimere la svolta.<ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d3-0e7044b37939-e8cdbe25731f-1000--la-roma-si-ritrova-e-supera-il-chelsea/|titolo=La Roma si ritrova e supera il Chelsea|autore=Francesco Corda|data=4 novembre 2008}}</ref><ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2008/11/16/derby.shtml|titolo=Roma nel segno di Baptista, Lazio sconfitta con onore|autore=Davide Chinellato|data=16 novembre 2008}}</ref>
+Con [[Matteo Brighi|Brighi]] autore di una doppietta in Romania<ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d3-0e7072aaae27-8a93e5bf6164-1000--la-roma-rinasce-nel-segno-di-brighi/|titolo=La Roma rinasce nel segno di Brighi|autore=Francesco Corda|data=27 novembre 2008}}</ref>, furono ancora un gol del centrocampista e il raddoppio di Totti a blindare la qualificazione sul campo di Bordeaux<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2008/12/09/roma-bordeaux.shtml|titolo=La Roma prende tutto, vittoria e primo posto|autore=Riccardo Pratesi|data=9 dicembre 2008}}</ref><ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d4-0e7091b79381-ba985641726d-1000--la-roma-stende-il-bordeaux-e-vola-agli-ottavi/|titolo=La Roma stende il Bordeaux e vola agli ottavi|autore=Marco Calabresi|data=9 dicembre 2008}}</ref>: mentre la risalita in ambito nazionale prendeva lentamente forma<ref>{{cita web|url=https://www.gazzetta.it/Calcio/Altro_Calcio/Primo_Piano/2008/12/21/piuemeno.shtml|titolo=Rocchi e Morimoto super|autore=Riccardo Pratesi|data=22 dicembre 2008}}</ref>, i giallorossi fallirono la difesa del titolo in [[Coppa Italia 2008-2009|Coppa Italia]] arrendendosi ai summenzionati meneghini nel quarto di finale.<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Inter/Primo_Piano/2009/01/21/spogliatoi.shtml|titolo=Roma infuriata con l'arbitro|autore=Antonino Morici|data=21 gennaio 2009}}</ref> Se la ''zona Uefa'' appariva un traguardo alla portata stando ai primi risultati del girone di ritorno<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Napoli/Primo_Piano/2009/01/25/napoli-roma.shtml|titolo=La Roma sbanca Napoli, zona Champions vicina|autore=Livia Taglioli|data=25 gennaio 2009}}</ref><ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2009/02/08/roma-genoa.shtml|titolo=Roma, vittoria e aggancio: il Genoa ne prende tre|autore=Livia Taglioli|data=8 febbraio 2009}}</ref>, l'ostacolo britannico era nuovamente fatale in coppa<ref>{{cita web|url=https://www.gazzetta.it/Speciali/Italia_Inghilterra/Primo_Piano/2009/02/23/vigilialondra_2302.html|titolo=Roma contro il tabù inglese|autore=Stefano Cantalupi|data=23 febbraio 2009}}</ref><ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d6-0e70e489756b-726d9852d24b-1000--tornano-sul-ring-i-pesi-massimi/|titolo=Tornano sul ring i pesi massimi|data=23 febbraio 2009}}</ref>: un rigore trasformato da [[Robin van Persie|Van Persie]] consegnò infatti all'[[Arsenal Football Club|Arsenal]] la partita d'andata<ref>{{cita web|url=https://www.repubblica.it/2009/02/sezioni/sport/calcio/champions_league/champions-italiane/diretta-arsenal-roma/diretta-arsenal-roma.html|titolo=Arsenal di rigore, la Roma resiste|autore=Fabrizio Bocca|data=24 febbraio 2009}}</ref><ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/01d6-0e70eae12370-aca1e9ffe29d-1000--la-roma-non-morde-primo-round-all-arsenal/|titolo=La Roma non morde, primo round all'Arsenal|autore=Francesco Corda|data=24 febbraio 2009}}</ref>, col punteggio globale equilibrato da [[Juan Silveira dos Santos|Juan]] nel ''retour match'' prima che la lotteria dal dischetto favorisse gli inglesi.<ref>{{cita web|url=https://www.gazzetta.it/Speciali/Italia_Inghilterra/Primo_Piano/2009/03/11/romaarsenal.shtml|titolo=Non basta una grande Roma, Arsenal avanti ai rigori|autore=Stefano Cantalupi|data=11 marzo 2009}}</ref>
+L'obiettivo minimo dei romani — che pure erano partiti con altre ambizioni —<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2009/03/19/RomaJuve.shtml|titolo=Tra centimetri e sberleffi, che romanzo Roma-Juve!|autore=Giuseppe Bagnati|data=19 marzo 2009}}</ref> veniva dunque limitato al sesto posto<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2009/03/22/ciclone-juve.html|titolo=Ciclone Juve|autore=Corrado Sannucci|pubblicazione=[[la Repubblica (quotidiano)|la Repubblica]]|data=22 marzo 2009|p=42}}</ref>, rincorsa complicata l'11 aprile 2009 da un derby che la [[Società Sportiva Lazio|Lazio]] fece suo col risultato di 4-2<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Lazio/Primo_Piano/2009/04/11/lazrom.shtml|titolo=Lazio, derby memorabile: Roma, Champions lontana|autore=Davide Chinellato|data=11 aprile 2009}}</ref>: al termine di un'annata per molti versi fallimentare<ref>{{cita web|url=https://www.gazzetta.it/Calcio/SerieA/Squadre/Roma/Primo_Piano/2009/05/03/romachievo.shtml|titolo=Sorrentino strega la Roma, all'Olimpico 0-0 tra i fischi|autore=Omar Carelli|data=3 maggio 2009}}</ref>, [[Luciano Spalletti|Spalletti]] condusse la squadra a ritagliarsi un posto in [[UEFA Europa League|Europa League]] (sostituta della Coppa UEFA<ref>{{Cita|Panini|p. 396|titolo=Statistiche, primati e curiosità}}.</ref>) grazie ai 3 punti ottenuti nella trasferta a San Siro della penultima giornata.<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2009/05/25/sconfitta-addii-incubo-quarto-posto-gli-ultra.html|titolo=Sconfitta, addii e incubo quarto posto|autore=Fabrizio Bocca|pubblicazione=la Repubblica|data=25 maggio 2009|p=44}}</ref> Lieve consolazione anche per Totti<ref>{{cita web|url=https://www.ilgiornale.it/news/centosettantotto-volte-totti.html|titolo=Centosettantotto volte Totti|data=1º giugno 2009}}</ref>, capace di sopravanzare [[Giampiero Boniperti]] nella ''top ten'' dei [[Classifica dei marcatori della Serie A|marcatori]] giungendo a quota 178 reti in [[Serie A]].<ref>{{Cita|Panini|pp. 394-395|titolo=38ª giornata}}.</ref>
+== Divise e sponsor ==
+Continua dall'anno precedente la sponsorizzazione [[Wind Telecomunicazioni|Wind]] con fornitore tecnico [[Kappa (azienda)|Kappa]]. La prima divisa è costituita da maglia rossa con bordi manica e colletto gialli, pantaloncini bianchi e calzettoni neri. In trasferta i Lupi usano una costituita da maglia bianca con decorazioni gialle e rosse, pantaloncini bianchi, calzettoni bianchi. Come terza divisa viene usato un kit completamente nero con dettagli gialli. I portieri usano tre divise: una nera, una gialla, una grigia, tutte con dettagli giallorossi. Tutte le divise presentano la coccarda della [[Coppa Italia]] cucita nella manica sinistra (nelle competizioni nazionali) o sul petto (in [[UEFA Champions League]]).<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 235-238}}.</ref>
+{|
+|-
+|
+{{Divisa Calcio
+|pattern_la = _orange border
+|pattern_b = _asroma0809h
+|pattern_ra = _asroma0809h
+|pattern_sh =
+|leftarm = 9f0000
+|body = 9f0000
+|rightarm = 9f0000
+|shorts = FFFFFF
+|socks = 111111
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asromaaway2009
+|pattern_b = _asroma0809a
+|pattern_ra = _asroma0809a
+|pattern_sh = _roma_away
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asromathird2009
+|pattern_b = _asroma0809t
+|pattern_ra = _asromathird2009
+|pattern_sh = _roma_third
+|leftarm = 111111
+|body = 111111
+|rightarm = 111111
+|shorts = 111111
+|socks = 111111
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _orange border
+|pattern_b = _asroma0809eu
+|pattern_ra = _orange_border
+|pattern_sh =
+|leftarm = 9f0000
+|body = 9f0000
+|rightarm = 9f0000
+|shorts = FFFFFF
+|socks = 111111
+|title = 1ª Europa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asromathird2009
+|pattern_b = _asroma0809eua
+|pattern_ra = _asroma0809eua
+|pattern_sh = _roma_third
+|leftarm = 111111
+|body = 111111
+|rightarm = 111111
+|shorts = 111111
+|socks = 111111
+|title = 2ª Europa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asromaaway2009
+|pattern_b = _asroma0809eua2
+|pattern_ra = _asroma0809eua2
+|pattern_sh = _roma_away
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = 3ª Europa
+}}
+|
+{{Divisa Calcio
+| pattern_b = _asroma0809gk1
+| body = ff8000
+| pattern_la = _asroma0910g3
+| leftarm = ff8000
+| pattern_ra = _asroma0809gk1
+| rightarm = ff8000
+| pattern_sh = _asroma0910g3
+| shorts = ff8000
+| socks = ff8000
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+| pattern_b = _asroma0809gk2
+| body = bfbfbf
+| pattern_la = _asroma0910g2
+| leftarm = bfbfbf
+| pattern_ra = _asroma0809gk2
+| rightarm = bfbfbf
+| pattern_sh = _asroma0910g2
+| shorts = bfbfbf
+| socks = bfbfbf
+|title = 2ª portiere
+}}
+|
+{{Divisa Calcio
+| pattern_b = _asroma0809gk3
+| body = 000000
+| pattern_la = _asroma0910g1
+| leftarm = 000000
+| pattern_ra = _asroma0809gk3
+| rightarm = 000000
+| pattern_sh = _asroma0910g1
+| shorts = 000000
+| socks = 000000
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente e amministratore delegato: [[Rosella Sensi]]
+* Vicepresidenti: [[Ciro Di Martino]], Giovanni Ferreri
+'''''Area organizzativa'''''
+* Coordinatore e ottimizzatore delle risorse umane dell'area sportiva: [[Gian Paolo Montali]]
+* Responsabile organizzativo e logistica: [[Antonio Tempestilli]]
+* Responsabile organizzazione e stadio: Maurizio Cenci
+* Team manager: Salvatore Scaglia
+* Dirigente addetto agli arbitri: Vittorio Benedetti
+'''''Area comunicazione'''''
+* Responsabile comunicazione: Elena Turra
+{{Colonne spezza}}
+'''''Area tecnica'''''
+* Direttore sportivo: [[Daniele Pradè]]
+* Direttore tecnico: [[Bruno Conti]]
+* Allenatore: [[Luciano Spalletti]]
+* Allenatore in seconda: [[Marco Domenichini]]
+* Collaboratori tecnici: [[Aurelio Andreazzoli]]
+* Preparatori atletici: Paolo Bertelli
+* Allenatore dei portieri: [[Adriano Bonaiuti]]
+'''''Area sanitaria'''''
+* Responsabile sanitario: Vincenzo Affinito
+* Massaggiatore: Giorgio Rossi
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 08/09">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2008|titolo=Rosa AS Roma - Saison 08/09|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=2|nazione=ITA|nome=[[Christian Panucci]]|ruolo=D|altro=v}}
+{{Calciatore in rosa|n=3|nazione=BRA|nome=[[Cicinho]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=BRA|nome=[[Juan Silveira dos Santos|Juan]]|ruolo=D}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Philippe Mexès]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=CHL|nome=[[David Pizarro]]|ruolo=C}}
+{{Calciatore in rosa|n=8|nazione=ITA|nome=[[Alberto Aquilani]]|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=MNE|nome=[[Mirko Vučinić]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A|altro=c}}
+{{Calciatore in rosa|n=11|nazione=BRA|nome=[[Rodrigo Taddei]]|ruolo=C}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=Pietro Pipolo|ruolo=P}}
+{{Calciatore in rosa|n=13|nazione=ITA|nome=[[Marco Motta]]|ruolo=D}}
+{{Calciatore in rosa|n=14|nazione=BRA|nome=[[Filipe Gomes Ribeiro]]|ruolo=C}}
+{{Calciatore in rosa|n=15|nazione=ITA|nome=[[Simone Loria]]|ruolo=D}}
+{{Calciatore in rosa|n=16|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C}}
+{{Calciatore in rosa|n=17|nazione=NOR|nome=[[John Arne Riise]]|ruolo=D}}
+{{Calciatore in rosa|n=19|nazione=BRA|nome=[[Júlio Baptista]]|ruolo=A}}
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Simone Perrotta]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=21|nazione=MLI|nome=[[Souleymane Diamoutene]]|ruolo=D}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Max Tonetto]]|ruolo=D}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Vincenzo Montella]]|ruolo=A}}
+{{Calciatore in rosa|n=24|nazione=FRA|nome=[[Jérémy Ménez]]|ruolo=A}}
+{{Calciatore in rosa|n=25|nazione=BRA|nome=[[Artur Moraes]]|ruolo=P}}
+{{Calciatore in rosa|n=26|nazione=ROU|nome=[[Adrian Piț]]|ruolo=C}}
+{{Calciatore in rosa|n=27|nazione=BRA|nome=[[Júlio Sérgio]]|ruolo=P}}
+{{Calciatore in rosa|n=32|nazione=BRA|nome=[[Doniéber Alexander Marangon|Doni]]|ruolo=P}}
+{{Calciatore in rosa|n=33|nazione=ITA|nome=[[Matteo Brighi]]|ruolo=C}}
+{{Calciatore in rosa|n=''34''|nazione=ITA|nome=''[[Valerio Virga]]''|ruolo=C}}<ref name=inv>Ceduto durante la sessione invernale di calciomercato</ref>
+{{Calciatore in rosa|n=37|nazione=ITA|nome=[[Alessandro Crescenzi (calciatore)|Alessandro Crescenzi]]|ruolo=D}}
+{{Calciatore in rosa|n=38|nazione=ITA|nome=[[Marco D'Alessandro]]|ruolo=A}}
+{{Calciatore in rosa|n=39|nazione=ROU|nome=[[Adrian Stoian]]|ruolo=C}}
+{{Calciatore in rosa|n=77|nazione=ITA|nome=[[Marco Cassetti]]|ruolo=D}}
+{{Calciatore in rosa|n=''89''|nazione=ITA|nome=''[[Stefano Okaka]]''|ruolo=A}}<ref name=inv/>
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Marco Andreolli]]''|ruolo=D}}<ref name=est>Ceduto durante la sessione estiva di calciomercato</ref>
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Leandro Greco]]''|ruolo=C}}<ref name=inv/>
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 08/09"/>
+=== Sessione estiva (dall'1/7 all'1/9) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | dal
+! width=36% | Modalità
+|-
+| P || [[Artur Moraes]] || {{Calcio Siena|N|2008}} || ''definitivo'' (0.750 milioni €)
+|-
+| D || [[John Arne Riise]] || {{Calcio Liverpool|N}} || ''definitivo'' (5 milioni €)<ref>{{cita web|url=http://www.asroma.it/UserFiles/838.pdf|titolo=Bilancio consolidato al 30 giugno 2008|editore=www.asroma.it|accesso=30 giugno 2010}}</ref>
+|-
+| D || [[Simone Loria]] || {{Calcio Siena|N}} || ''definitivo'' (2.8 milioni €)
+|-
+| C || [[Jérémy Ménez|Ménez]] || {{Calcio Monaco|N}} || ''definitivo'' (10,5 milioni €)
+|-
+| A || [[Júlio Baptista]] || {{Calcio Real Madrid|N}} || ''definitivo'' (9 milioni €)
+|-
+| A || [[Stefano Okaka]] || {{Calcio Modena|N}} || ''fine prestito''
+|-
+| A || [[Vincenzo Montella]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | al
+! width=36% | Modalità
+|-
+| P || [[Gianluca Curci]] || {{Calcio Siena|N}} || ''comproprietà''
+|-
+| P || [[Carlo Zotti]] || {{Calcio Cittadella|N}} || ''rescissione''
+|-
+| D || [[Vitorino Antunes]] || {{Calcio Lecce|N}} || ''prestito''
+|-
+| D || [[Matteo Ferrari]] || {{Calcio Genoa|N}} || ''svincolato''
+|-
+| D || [[Marco Andreolli]] || {{Calcio Sassuolo|N}} || ''prestito''
+|-
+| C || [[Ludovic Giuly]] || {{Calcio PSG|N}} || ''definitivo'' (2,5 milioni €)
+|-
+| C || [[Alessandro Faiolhe Amantino|Mancini]] || {{Calcio Inter|N}} || ''definitivo'' (13 milioni €)
+|-
+| C || [[Ahmed Barusso]] || {{Calcio Siena|N}} || ''prestito''
+|-
+| C || [[Adrian Piț]] || {{Calcio Pisa|N}} || ''prestito''
+|-
+| C || [[Aleandro Rosi]] || {{Calcio Livorno|N}} || ''prestito''
+|-
+| C || Massimiliano Marsili || {{Calcio Modena|N}} || ''prestito''
+|-
+| C || [[Mauro Esposito]] || {{Calcio Chievo|N}} || ''prestito''
+|-
+| C || [[Edgar Álvarez]] || {{Calcio Pisa|N}} || ''prestito''
+|-
+| A || Keivan Zarineh || {{Calcio Pescina VG|N}} || ''prestito''
+|-
+| A || [[Alessio Cerci]] || {{Calcio Atalanta|N}} || ''prestito''
+|}
+{{colonne fine}}
+=== Sessione invernale (dall'7/1 all'2/2) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | dal
+! width=36% | Modalità
+|-
+| P || Sugar David || {{Calcio Bellinzona|N}} || ''prestito''
+|-
+| D || [[Souleymane Diamoutene]] || {{Calcio Lecce|N}} || ''prestito'' (0.15 milioni €)
+|-
+| D || [[Marco Motta]] || {{Calcio Udinese|N}} || ''prestito''
+|-
+| C || [[Adrian Piț]] || {{Calcio Pisa|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | al
+! width=36% | Modalità
+|-
+| C || [[Valerio Virga]] || {{Calcio Novara|N}} || ''prestito''
+|-
+| A || [[Stefano Okaka]] || {{Calcio Brescia|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Supercoppa italiana ===
+{{vedi anche|Supercoppa italiana 2008}}
+{{Incontro di club
+| Sport = calcio
+| Giornomese = 24 agosto
+| Anno = 2008
+| Ora = 20:45 [[UTC+1]]
+| Squadra 1 = Inter
+| Squadra 2 = Roma
+| Punteggio 1 = 2
+| Punteggio 2 = 2
+| Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Inter-Roma/25107
+| Città = [[Milano]]
+| Stadio = [[Stadio Giuseppe Meazza]]
+| Spettatori = 43.400
+| Arbitro = [[Massimiliano Saccani]]
+| Cittarbitro = [[Mantova]]
+| Marcatori 1 = [[Sulley Muntari|Muntari]] {{Goal|18}}<br />[[Mario Balotelli|Balotelli]] {{Goal|84}}
+| Marcatori 2 = {{Goal|60}} [[Daniele De Rossi|De Rossi]]<br />{{Goal|90+1}} [[Mirko Vučinić|Vučinić]]
+| Supplementari = x
+| TiriExtra = rig
+| PuntiTiriExtra 1 = 6
+| PuntiTiriExtra 2 = 5
+| TiriExtra 1 = [[Zlatan Ibrahimović|Ibrahimović]] {{pengoal}}<br />[[Mario Balotelli|Balotelli]] {{pengoal}}<br />[[Dejan Stanković|Stanković]] {{penmiss|traversa}}<br />[[Maxwell Scherrer Cabelino Andrade|Maxwell]] {{pengoal}}<br />[[Esteban Cambiasso|Cambiasso]] {{pengoal}}<br />[[Luis Antonio Jiménez|Jiménez]] {{pengoal}}<br />[[Javier Zanetti|Zanetti]] {{pengoal}}
+| TiriExtra 2 = {{pengoal}} [[Mirko Vučinić|Vučinić]]<br />{{pengoal}} [[Júlio Baptista|Baptista]]<br />{{pengoal}} [[Daniele De Rossi|De Rossi]]<br />{{pengoal}} [[Marco Cassetti|Cassetti]]<br />{{penmiss|traversa}} [[Francesco Totti|Totti]]<br />{{pengoal}} [[David Pizarro|Pizarro]]<br />{{penmiss|parato}} [[Juan Silveira dos Santos|Juan]]
+}}
+
+=== Serie A ===
+{{vedi anche|Serie A 2008-2009}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 2008
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/1/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 38.983
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Alberto Aquilani|Aquilani]] {{Goal|29}}
+|Marcatori 2 = {{Goal|55}} [[Marek Hamšík|Hamšík]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 settembre
+|Anno = 2008
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/2/PALROM
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera]]
+|Spettatori = 22.917
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Fabrizio Miccoli|Miccoli]] {{Goal|20||56}}<br />[[Edinson Cavani|Cavani]] {{Goal|72}}
+|Marcatori 2 = {{Goal|8}} [[Júlio Baptista|Baptista]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 settembre
+|Anno = 2008
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggina
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/3/ROMREG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 31.000
+|Arbitro = [[Andrea Gervasoni]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|45+1}}<br />[[Alberto Aquilani|Aquilani]] {{Goal|51}}<br />[[Simone Perrotta|Perrotta]] {{Goal|90+4}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 settembre
+|Anno = 2008
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/4/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 25.500
+|Arbitro = [[Christian Brighi]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 1 = [[Giuseppe Sculli|Sculli]] {{Goal|4}}<br />[[Diego Milito|Milito]] {{Goal|61||88}}
+|Marcatori 2 = {{Goal|28}} [[Daniele De Rossi|De Rossi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 2008
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/5/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.500
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|17}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|31}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 2008
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Siena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/6/SIEROM
+|Città = [[Siena]]
+|Stadio = [[Stadio Artemio Franchi - Montepaschi Arena]]
+|Spettatori = 12.980
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Mario Frick (calciatore)|Frick]] {{Goal|45+1}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 2008
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/7/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 48.958
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|5||47}} [[Zlatan Ibrahimović|Ibrahimović]]<br />{{Goal|54}} [[Dejan Stanković|Stanković]]<br />{{Goal|56}} [[Victor Obinna|Obinna]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 ottobre
+|Anno = 2008
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/8/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = 15.400
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Antonio Di Natale|Di Natale]] {{Goal|10|rig.|51}}<br />[[Antonio Floro Flores|Floro Flores]] {{Goal|22}}
+|Marcatori 2 = {{Goal|74|rig.}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 9ª giornata<ref>Recupero della gara sospesa il 29 ottobre 2008 dopo 6' per impraticabilità di campo dovuta alla pioggia; cfr. {{cita web|url=https://www.ilsecoloxix.it/sport/2008/10/30/news/roma-samp-recupero-il-14-gennaio-1.33367801|titolo=Roma-Samp, recupero il 14 gennaio|data=30 ottobre 2008}}</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/9/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.304
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Júlio Baptista|Baptista]] {{Goal|21||53}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 2008
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/10/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Olimpico di Torino]]
+|Spettatori = 21.700
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Alessandro Del Piero|Del Piero]] {{Goal|38}}<br />[[Marco Marchionni|Marchionni]] {{Goal|48}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 2008
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/11/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = 17.356
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Cicinho]] {{Goal|90+2|aut.}}
+|Marcatori 2 = {{Goal|68}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 novembre
+|Anno = 2008
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/12/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 62.500
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Júlio Baptista|Baptista]] {{Goal|50}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Lecce]]
+|Giornomese = 23 novembre
+|Anno = 2008
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/13/LECROM
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = 13.400
+|Arbitro = [[Andrea Gervasoni]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|11}} [[Mirko Vučinić|Vučinić]]<br />{{Goal|38}} [[Juan Silveira dos Santos|Juan]]<br />{{Goal|49}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 novembre
+|Anno = 2008
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/14/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|59}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 2008
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/15/CHIROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = 13.137
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|69}} [[Jérémy Ménez|Ménez]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 dicembre
+|Anno = 2008
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/16/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 33.741
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|39}}<br />[[Simone Perrotta|Perrotta]] {{Goal|77}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|90}}
+|Marcatori 2 = {{Goal|58}} [[Daniele Conti|Conti]]<br />{{Goal|69}} [[Jeda]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Catania]]
+|Giornomese = 21 dicembre
+|Anno = 2008
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/17/CATROM
+|Stadio = [[Stadio Angelo Massimino]]
+|Spettatori = 19.401
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Davide Baiocco|Baiocco]] {{Goal|34}}<br />[[Takayuki Morimoto|Morimoto]] {{Goal|40||56}}
+|Marcatori 2 = {{Goal|74}} [[Mirko Vučinić|Vučinić]]<br />{{Goal|78}} [[Jérémy Ménez|Ménez]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/18/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 53.444
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Mirko Vučinić|Vučinić]] {{Goal|22||72}}
+|Marcatori 2 = {{Goal|48||53}} [[Alexandre Pato|Pato]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Torino]]
+|Giornomese = 18 gennaio
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/19/TORROM
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Olimpico di Torino]]
+|Spettatori = 16.080
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|90+1}} [[Júlio Baptista|Baptista]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/20/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 60.210
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|18}} [[Philippe Mexès|Mexès]]<br />{{Goal|32}} [[Juan Silveira dos Santos|Juan]]<br />{{Goal|50}} [[Mirko Vučinić|Vučinić]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/21/ROMPAL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34.322
+|Arbitro = [[Nicola Pierpaoli]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|24}}<br />[[Matteo Brighi|Brighi]] {{Goal|45}}
+|Marcatori 2 = {{Goal|31}} [[Edinson Cavani|Cavani]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Reggina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/22/REGROM
+|Città = [[Reggio Calabria]]
+|Stadio = [[Stadio Oreste Granillo]]
+|Spettatori = 9.926
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Bernardo Corradi|Corradi]] {{Goal|43|rig.}}<br />[[Francesco Cozza (calciatore)|Cozza]] {{Goal|81}}
+|Marcatori 2 = {{Goal|45+1||57}} [[David Pizarro|Pizarro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/23/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 42.638
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Cicinho]] {{Goal|26}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|47}}<br />[[Júlio Baptista|Baptista]] {{Goal|90+3}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/24/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Spettatori = 7.503
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Daniele Capelli|Capelli]] {{Goal|52}}<br />[[Cristiano Doni|Doni]] {{Goal|56||69}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 febbraio
+|Anno = 2009
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Siena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/25/ROMSIE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34.897
+|Arbitro = [[Gabriele Gava]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Rodrigo Taddei|Taddei]] {{Goal|63}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/26/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 51.497
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Mario Balotelli|Balotelli]] {{Goal|50||63|rig.}}<br />[[Hernán Crespo|Crespo]] {{Goal|79}}
+|Marcatori 2 = {{Goal|23}} [[Daniele De Rossi|De Rossi]]<br />{{Goal|29}} [[John Arne Riise|Riise]]<br />{{Goal|57}} [[Matteo Brighi|Brighi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 2009
+|Ora = 14:00 [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/27/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 37.172
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Mirko Vučinić|Vučinić]] {{Goal|61}}
+|Marcatori 2 = {{Goal|54}} [[Felipe Dalbelo|Felipe]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 marzo
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 28ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/28/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 21.430
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giampaolo Pazzini|Pazzini]] {{Goal|25||43}}
+|Marcatori 2 = {{Goal|7||70|rig.}} [[Júlio Baptista|Baptista]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 marzo
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/29/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Simone Loria|Loria]] {{Goal|48}}
+|Marcatori 2 = {{Goal|34||55}} [[Vincenzo Iaquinta|Iaquinta]]<br />{{Goal|68}} [[Olof Mellberg|Mellberg]]<br />{{Goal|74}} [[Pavel Nedvěd|Nedvěd]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 aprile
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/30/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.538
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|12|rig.|58|rig.}}
+|Marcatori 2 = {{Goal|26}} [[Massimo Marazzina|Marazzina]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 31ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/31/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.490
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Goran Pandev|Pandev]] {{Goal|2}}<br />[[Mauro Zárate|Zárate]] {{Goal|4}}<br />[[Stephan Lichtsteiner|Lichtsteiner]] {{Goal|58}}<br />[[Aleksandar Kolarov|Kolarov]] {{Goal|85}}
+|Marcatori 2 = {{Goal|10}} [[Philippe Mexès|Mexès]]<br />{{Goal|80}} [[Daniele De Rossi|De Rossi]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 aprile
+|Anno = 2009
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/32/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34.393
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|3||59|rig.}}<br />[[Matteo Brighi|Brighi]] {{Goal|13}}
+|Marcatori 2 = {{Goal|31}} [[Gianni Munari|Munari]]<br />{{Goal|55}} [[Dīmītrios Papadopoulos|Papadopoulos]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Firenze]]
+|Giornomese = 25 aprile
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 33ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/33/FIOROM
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = 35.683
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Juan Manuel Vargas|Vargas]] {{Goal|6}}<br />[[Alberto Gilardino|Gilardino]] {{Goal|47||67}}<br />[[Massimo Gobbi|Gobbi]] {{Goal|73}}
+|Marcatori 2 = {{Goal|86}} [[Júlio Baptista|Baptista]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 2009
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/34/ROMCHI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 33.821
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 maggio
+|Anno = 2009
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/35/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = 18.000
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Alessandro Matri|Matri]] {{Goal|34}}<br />[[Robert Acquafresca|Acquafresca]] {{Goal|59}}
+|Marcatori 2 = {{Goal|63}} [[Francesco Totti|Totti]]<br />{{Goal|69}} [[Simone Perrotta|Perrotta]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio
+|Anno = 2009
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/36/ROMCAT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 31.726
+|Arbitro = [[Gabriele Gava]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Simone Perrotta|Perrotta]] {{Goal|13||31}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|18}}<br />[[Christian Panucci|Panucci]] {{Goal|90+2}}
+|Marcatori 2 = {{Goal|15}} [[Giacomo Tedesco|Tedesco]]<br />{{Goal|46}} [[Giuseppe Mascara|Mascara]]<br />{{Goal|72}} [[Takayuki Morimoto|Morimoto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 maggio
+|Anno = 2009
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/37/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 72.681
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Massimo Ambrosini|Ambrosini]] {{Goal|75||81}}
+|Marcatori 2 = {{Goal|36}} [[John Arne Riise|Riise]]<br />{{Goal|80}} [[Jérémy Ménez|Ménez]]<br />{{Goal|85}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 maggio
+|Anno = 2009
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2008-09/UNICO/UNI/38/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 37.405
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Jérémy Ménez|Ménez]] {{Goal|35}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|74}}<br />[[Francesco Totti|Totti]] {{Goal|83|rig.}}
+|Marcatori 2 = {{Goal|9}} [[Tommaso Vailatti|Vailatti]]<br />{{Goal|88}} [[Nicola Ventola|Ventola]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2008-2009}}
+====Fase finale====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 2008
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.almanaccogiallorosso.it/2008-2009/CoppaItalia/Ottavi/Roma-Bologna.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 14.944
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Mirko Vučinić|Vučinić]] {{Goal|82||85}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Milano]]
+|Giornomese = 21 gennaio
+|Anno = 2009
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = Quarti di finale
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2008-2009/CoppaItalia/Quarti/Inter-Roma.html
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 26.520
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Adriano Leite Ribeiro|Adriano]] {{Goal|10}}<br />[[Zlatan Ibrahimović|Ibrahimović]] {{Goal|63}}
+|Marcatori 2 = {{Goal|61}} [[Rodrigo Taddei|Taddei]]
+|Sfondo = on
+}}
+=== Champions League ===
+{{vedi anche|UEFA Champions League 2008-2009}}
+==== Fase a gironi ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 2008
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = CFR Cluj
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15276/match=302698/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Iouri Baskakov]]
+|Nazarbitro = RUS
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|17}}
+|Marcatori 2 = {{Goal|27||49}} [[Juan Culio|Culio]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 2008
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Bordeaux
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15276/match=302706/postmatch/lineups/index.html
+|Città = [[Bordeaux]]
+|Stadio = [[Stadio Jacques Chaban-Delmas]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Alberto Undiano Mallenco]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Yoann Gourcuff|Gourcuff]] {{Goal|18}}
+|Marcatori 2 = {{Goal|64}} [[Mirko Vučinić|Vučinić]]<br />{{Goal|71||83}} [[Júlio Baptista|Baptista]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 2008
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Chelsea
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15276/match=302722/postmatch/lineups/index.html
+|Città = [[Londra]]
+|Stadio = [[Stamford Bridge]]
+|Spettatori = 42.000 circa
+|Arbitro = [[Kyros Vassaras]]
+|Nazarbitro = GRC
+|Marcatori 1 = [[John Terry|Terry]] {{Goal|77}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 4 novembre
+|Anno = 2008
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chelsea
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15276/match=302746/postmatch/lineups/index.html
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Luis Medina Cantalejo]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|34}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|48||58}}
+|Marcatori 2 = {{Goal|75}} [[John Terry|Terry]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Cluj-Napoca]]
+|Giornomese = 26 novembre
+|Anno = 2008
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = CFR Cluj
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15276/match=302754/postmatch/lineups/index.html
+|Stadio = [[Stadio Dr. Constantin Rădulescu]]
+|Spettatori = 24.000 circa
+|Arbitro = [[Lucílio Batista]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Yssouf Koné|Koné]] {{Goal|30}}
+|Marcatori 2 = {{Goal|11||64}} [[Matteo Brighi|Brighi]]<br />{{Goal|23}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 dicembre
+|Anno = 2008
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bordeaux
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15276/match=302778/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 60.000 circa
+|Arbitro = [[Herbert Fandel]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Matteo Brighi|Brighi]] {{Goal|61}}<br />[[Francesco Totti|Totti]] {{Goal|79}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+==== Fase a eliminazione diretta ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 febbraio
+|Anno = 2009
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Arsenal
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15277/match=302791/postmatch/lineups/index.html
+|Città = [[Londra]]
+|Stadio = [[Emirates Stadium]]
+|Spettatori = 62.383
+|Arbitro = [[Claus Bo Larsen]]
+|Nazarbitro = DNK
+|Marcatori 1 = [[Robin van Persie|Van Persie]] {{Goal|37|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 2009
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Arsenal
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Supplementari = x
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 6
+|PuntiTiriExtra 2 = 7
+|TiriExtra 1 = [[David Pizarro|Pizarro]] {{pengoal}}<br />[[Mirko Vučinić|Vučinić]] {{penmiss}}<br />[[Júlio Baptista|Baptista]] {{pengoal}}<br />[[Vincenzo Montella|Montella]] {{pengoal}}<br />[[Francesco Totti|Totti]] {{pengoal}}<br />[[Alberto Aquilani|Aquilani]] {{pengoal}}<br />[[John Arne Riise|Riise]] {{pengoal}}<br />[[Max Tonetto|Tonetto]] {{penmiss}}
+|TiriExtra 2 = {{penmiss}} [[Eduardo Alves da Silva|Eduardo]]<br />{{pengoal}} [[Robin van Persie|Van Persie]]<br />{{pengoal}} [[Theo Walcott|Walcott]]<br />{{pengoal}} [[Samir Nasri|Nasri]]<br />{{pengoal}} [[Denílson Pereira Neves|Denílson]]<br />{{pengoal}} [[Kolo Touré|Touré]]<br />{{pengoal}} [[Bacary Sagna|Sagna]]<br />{{pengoal}} [[Abou Diaby|Diaby]]
+|Referto = http://it.uefa.com/uefachampionsleague/season=2009/matches/round=15277/match=302795/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 70.000 circa
+|Arbitro = [[Manuel Mejuto González]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Juan Silveira dos Santos|Juan]] {{Goal|9}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+''Statistiche aggiornate al 31 maggio 2009''.
+{{Statistiche_squadra
+|comp1=[[Serie A 2008-2009|Serie A]]
+|punti1=63
+|cv1=13
+|cn1=4
+|cp1=2
+|cgf1=35
+|cgs1=23
+|tv1=5
+|tn1=5
+|tp1=9
+|tgf1=29
+|tgs1=38
+|comp2=[[Coppa Italia 2008-2009|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=0
+|cgf2=2
+|cgs2=0
+|tv2=0
+|tn2=0
+|tp2=1
+|tgf2=1
+|tgs2=2
+|comp3=[[UEFA Champions League 2008-2009|Champions League]]
+|punti3=-
+|cv3=3
+|cn3=0
+|cp3=1
+|cgf3=7
+|cgs3=3
+|tv3=2
+|tn3=0
+|tp3=2
+|tgf3=6
+|tgs3=4
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=38}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=T |m12=C |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=C |m31=T |m32=C |m33=T |m34=C |m35=T |m36=C |m37=T |m38=C}}
+{{Andamento/Risultato |m1=N |m2=P |m3=V |m4=P |m5=V |m6=P |m7=P |m8=P |m9=V |m10=P |m11=N |m12=V |m13=V |m14=V |m15=V |m16=V |m17=P |m18=N |m19=V |m20=V |m21=V |m22=N |m23=V |m24=P |m25=V |m26=N |m27=N |m28=N |m29=P |m30=V |m31=P |m32=V |m33=P |m34=N |m35=N |m36=V |m37=V |m38=V}}
+{{Andamento/Posizione |m1=12 |m2=17 |m3=8 |m4=14 |m5=10 |m6=14 |m7=14 |m8=15 |m9=13 |m10=15 |m11=15 |m12=12 |m13=12 |m14=12 |m15=9 |m16=7 |m17=8 |m18=8 |m19=8 |m20=6 |m21=5 |m22=6 |m23=6 |m24=6 |m25=6 |m26=6 |m27=6 |m28=6 |m29=6 |m30=6 |m31=6 |m32=6 |m33=6 |m34=6 |m35=6 |m36=6 |m37=6 |m38=6}}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Sono in ''corsivo'' i calciatori che hanno lasciato la società a stagione in corso. Tra parentesi le autoreti.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Champions League
+| {{Sortname|A.|Aquilani|Alberto Aquilani}} {{Sommastat|11|2|2|0 |1|0|0|0|4|0|0|0}}
+| {{Sortname||Artur|Artur Moraes}} {{Sommastat|11|-18|1|0| 2|-2|0|0|0|0|0|0}}
+| {{Sortname|J.|Baptista|Júlio Baptista}} {{Sommastat|26|9|1|0 |2|0|0|0|7|2|0|0}}
+| {{Sortname|M.|Brighi|Matteo Brighi}} {{Sommastat|33|3|2|1 |2|0|0|0|7|3|2|0}}
+| {{Sortname|M.|Cassetti|Marco Cassetti}} {{Sommastat|13|0|2|0| 1|0|0|0|2|0|0|0}}
+| {{Sortname||Cicinho|Cicinho}} {{Sommastat|20|1|4|0 |2|0|0|0|5|0|0|0}}
+| {{Sortname|M.|D'Alessandro|Marco D'Alessandro}} {{Sommastat|2|0|0|0 |0|0|0|0|0|0|0|0}}
+| {{Sortname|D.|De Rossi|Daniele De Rossi}} {{Sommastat|33|3|7|2 |2|0|0|0|7|0|2|0}}
+| {{Sortname|S.|Diamoutene|Souleymane Diamoutene}} {{Sommastat|10|0|5|0 |0|0|0|0|2|0|0|0}}
+| {{Sortname||Doni|Doniéber Alexander Marangon}} {{Sommastat|28|-43|1|0 |0|0|0|0|8|-7|0|0}}
+| {{Sortname||Filipe|Filipe Gomes Ribeiro}} {{Sommastat|3|0|0|0 |0|0|0|0|0|0|0|0}}
+| {{Sortname||Juan|Juan Silveira dos Santos}} {{Sommastat|20|2|0|0| 1|0|0|0|4|1|0|0}}
+| {{Sortname|S.|Loria|Simone Loria}} {{Sommastat|9|1|2|0 |1|0|0|0|2|0|0|0}}
+| {{Sortname|J.|Ménez|Jérémy Ménez}} {{Sommastat|27|4|3|0 |2|0|0|0|3|0|0|0}}
+| {{Sortname|P.|Mexès|Philippe Mexès}} {{Sommastat|29|2|7|2| 2|0|0|0|6|0|2|0}}
+| {{Sortname|V.|Montella|Vincenzo Montella}} {{Sommastat|4|0|0|0 |1|0|0|0|1|0|0|0}}
+| {{Sortname|M.|Motta|Marco Motta}} {{Sommastat|24|0|4|1 |0|0|0|0|2|0|1|0}}
+| ''{{Sortname|S.|Okaka|Stefano Okaka}}'' {{Sommastat|4|0|1|0 |1|0|0|0|1|0|0|0}}
+| {{Sortname|C.|Panucci|Christian Panucci}} {{Sommastat|22|3|3|2| 1|0|0|0|5|2|1|0}}
+| {{Sortname|S.|Perrotta|Simone Perrotta}} {{Sommastat|24|5|4|2 |1|0|0|0|6|0|1|0}}
+| {{Sortname|D.|Pizarro|David Pizarro}} {{Sommastat|24|2|9|1 |1|0|0|0 |5|0|1|0}}
+| {{Sortname|J.|Riise|John Arne Riise}} {{Sommastat|31|2|2|0| 2|0|0|0|8|0|0|0}}
+| {{Sortname|R.|Taddei|Taddei}} {{Sommastat|26|1|4|1 |1|1|0|0|7|0|0|0}}
+| {{Sortname|M.|Tonetto|Max Tonetto}} {{Sommastat|13|0|2|0 |0|0|0|0|4|0|0|0}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|24|13|3|0 |0|0|0|0|7|2|1|0}}
+| ''{{Sortname|V.|Virga|Valerio Virga}}'' {{Sommastat|1|0|1|0 |0|0|0|0|0|0|0|0}}
+| {{Sortname|M.|Vučinić|Mirko Vučinić}} {{Sommastat|27|11|6|0 |2|2|0|0|8|3|0|0}}
+}}
+
+== Giovanili ==
+=== Organigramma ===
+'''''Area direttiva'''''
+* Allenatore: Alberto De Rossi
+* Responsabile organizzativo: [[Bruno Conti]]
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 2008-2009|Campionato]]: ottavi di finale<ref>Sconfitta negli ottavi dall'[[Udinese Calcio|Udinese]] per un risultato complessivo di 3-2.</ref>
+** [[Coppa Italia Primavera 2008-2009|Coppa Italia]]: finalista<ref>Sconfitta dal [[Genoa Cricket and Football Club|Genoa]] in finale con il risultato complessivo di 3-2.</ref>
+** [[Torneo di Viareggio 2009|Torneo di Viareggio]]: fase a gironi<ref>Terza classificata nel girone 7.</ref>
+== Note ==
+<references />
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri (libro ufficiale AS Roma)|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+* {{cita libro|titolo=Almanacco illustrato del calcio 2010|editore=[[Panini (azienda)|Panini Editore]]|anno=2009|p=766|città=Modena|isbn=9771129338008|cid=Panini}}
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|http://www.rsssf.com/tablesi/ital09.html|Serie A 2008-2009 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2008|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2008-2009}}
+{{Portale|calcio}}

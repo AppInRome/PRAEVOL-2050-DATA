@@ -1,0 +1,1282 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1969-1970
+|immagine = 1969–70 Associazione Sportiva Roma.jpg
+|didascalia = L'undici romanista sceso in campo nella vittoriosa trasferta di San Siro contro il Milan
+|allenatore1 = {{Bandiera|ARG}} [[Helenio Herrera]]
+|presidente = {{Bandiera|ITA}} [[Alvaro Marchini]]
+|campionato = [[Serie A 1969-1970|Serie A]]
+|campionato posizione = 10º
+|coppa1 = [[Coppa Italia 1969-1970|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[Coppa delle Coppe 1969-1970|Coppa delle Coppe]]
+|coppa2 posizione = Semifinalista
+|coppa3 = [[Coppa di Lega Italo-Inglese 1969|Coppa di Lega Italo-Inglese]]
+|coppa3 posizione = Finalista
+|coppa4 = [[Coppa Anglo-Italiana 1970|Coppa Anglo-Italiana]]
+|coppa4 posizione = Fase a gironi
+|presenze campionato = [[Alberto Ginulfi|Ginulfi]], [[Sergio Santarini|Santarini]] (30)
+|presenze totale = Santarini (50)
+|marcatore campionato = [[Joaquín Peiró|Peiró]] (5)
+|marcatore totale = Peiró (8)
+|spettatori media = {{formatnum:50625}}<ref>{{Cita web |url=http://www.stadiapostcards.com/a1.htm.htm |titolo=Media spettatori Serie A dal 62-63 al 73-74}}</ref>
+|spettatori media legenda = campionato
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1968-1969|1968-1969]]
+|stagione dopo = [[Associazione Sportiva Roma 1970-1971|1970-1971]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1969-1970'''.
+
+== Stagione ==
+Questa stagione segna l'addio, per volontà di [[Helenio Herrera|Herrera]], del capitano [[Giacomo Losi]], che, dopo anni di militanza con la maglia giallorossa, non vuole più vestire nessun'altra maglia e si ritira dal mondo del calcio rimanendo per sempre ''Core de Roma''. In quest'annata la Roma è protagonista della sfortunata eliminazione nella semifinale della [[Coppa delle Coppe 1969-1970|Coppa delle Coppe]] (torneo nel quale la compagine capitolina è alla sua prima partecipazione) contro i polacchi del [[Górnik Zabrze]]; i due incontri finiscono entrambi con un pareggio e si svolge così lo spareggio in campo neutro a [[Strasburgo]]. Finito anche questo in parità, a decidere le sorti dell'incontro è il sorteggio con la monetina che condanna la Roma. In campionato i giallorossi arrivano decimi.<ref name=cor3>{{cita|Romano|titolo=1965-1973 L'era dei maghi: da Oronzo Pugliese a Helenio Herrera}}.</ref>
+
+== Divise ==
+[[File:Associazione Sportiva Roma 1969-70.jpg|thumb|La squadra con la classica maglia rossa, da questa stagione – dopo quanto già avvenuto nella seconda metà dell'annata precedente – stabilmente declassata a divisa di cortesia.]]
+La divisa primaria è costituita da maglia bianca bordata di giallorosso, così come nei pantaloncini e calzettoni; in trasferta viene usata una maglia rossa con colletto a polo, pantaloncini bianchi, calzettoni rossi. I portieri usano una maglia nera bordata di giallorosso abbinata a calzoncini neri e calzettoni bianchi bordati di rosso. Tutte le divise presentano cucite sul petto la coccarda della [[Coppa Italia]].<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 114-116}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma6269a
+|leftarm = f
+|pattern_b =_asroma6970h
+|body = FFFFFF
+|pattern_ra =_asroma6269a
+|rightarm = FFFFFF
+|shorts = ff
+|pattern_so =_asroma6768a
+|socks = FFFFFF
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = d00b26
+|pattern_b =_asroma6970a
+|body = 880000
+|pattern_ra =
+|rightarm = d00b26
+|shorts = FFFFFF
+|pattern_so =
+|socks = d00b26
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma6970gk
+|body = 000000
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma60s
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor3/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Alvaro Marchini]]
+* Segretario: Vincenzo Biancone
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Helenio Herrera]]
+{{Colonne spezza}}
+;Area sanitaria
+* Medici sociali: Massimo Visalli
+* Massaggiatori: Roberto Minaccioni
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 69/70">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1969|titolo=Rosa AS Roma - Saison 69/70|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Ginulfi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Adriano Zanier]]<ref name="acq">Acquistato durante la sessione autunnale di calciomercato.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Aldo Bet]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Bertini (calciatore)|Giovanni Bertini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Liborio Liguori]]<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Cappelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Francesco Carpenetti]]''<ref name="ced"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Petrelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Santarini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Scaratti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Spinosi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=PER|nome=[[Víctor Morales Benítez]]|ruolo=C}}
+{{Calciatore in rosa/medio}}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Capello]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Franzot]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Armando Colafrancesco<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo La Rosa]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Cordova]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Elvio Salvori]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Renato Cappellini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ESP 1945-1977|nome=[[Joaquín Peiró]]|altro=c|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lucio Bertogna]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giorgio Braglia]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Fabio Enzo]]''<ref name="ced">Ceduto durante la sessione autunnale di calciomercato.</ref>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=Italia|nome=[[Fausto Landini]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+Giocatori comprati per disputare la Coppa Anglo-Italiana
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni De Min (calciatore)|Giovanni De Min]]<ref name=demin>Acquistato per la stagione successiva ma impiegato in Coppa Anglo-Italiana.</ref>|ruolo=P}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 69/70"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Adriano Zanier]]|| {{Calcio Casertana|N}}|| ''definitivo''<ref name="acq"/>
+|-
+| D ||[[Giovanni Bertini (calciatore)|Giovanni Bertini]]|| {{Calcio Ostiense|N}}|| ''definitivo''
+|-
+| D ||[[Sergio Petrelli]]|| {{Calcio Verona|N}}|| ''definitivo'' (120 Mln. £)<ref name="calciomercato">{{Cita web|url=http://www.asromaultras.org/6970Pre.01.jpg|titolo=Il calciomercato stringe i tempi.}}</ref>
+|-
+| C ||[[Walter Franzot]]|| {{Calcio Inter|N}} || ''definitivo''
+|-
+| C ||[[Giacomo La Rosa]]|| {{Calcio ACR Messina (1947-1998)|N}} || ''definitivo'' (38 Mln. £)<ref name="calciomercato"/>
+|-
+| A ||[[Renato Cappellini]]|| {{Calcio Varese|N}} || ''definitivo'' (230 Mln. £)<ref name="calciomercato"/>
+|-
+| A ||[[Giorgio Braglia]]|| {{Calcio Modena|N}} || ''definitivo'' (140 Mln. £)<ref name="calciomercato"/>
+|-
+| A ||[[Fabio Enzo]]|| {{Calcio Mantova|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Pier Luigi Pizzaballa]]|| {{Calcio Verona|N}} || ''definitivo'' (130 Mln. £)<ref name="calciomercato"/>
+|-
+| D ||[[Francesco Carpenetti]]<ref name="ced"/>|| {{Calcio Fiorentina|N}} || ''definitivo''
+|-
+| D ||[[Giacomo Losi]]|| - || ''fine carriera''
+|-
+| D ||[[Paolo Sirena]]|| {{Calcio Verona|N}} || ''definitivo''
+|-
+| C ||[[Vito D'Amato]]|| {{Calcio Cesena|N}} || ''definitivo'' (140 Mln. £)<ref name="calciomercato"/>
+|-
+| C ||[[Sergio Ferrari (calciatore 1943)|Sergio Ferrari]]|| {{Calcio Verona|N}} ||''definitivo'' (120 Mln. £)<ref name="calciomercato"/>
+|-
+| C ||[[Luciano Giudo]]|| - || ''svincolato''
+|-
+| C ||[[Bruno Nobili]]|| {{Calcio Del Duca Ascoli|N}} || ''prestito''
+|-
+| A ||[[Angelo Orazi]]|| {{Calcio Verona|N}} || ''definitivo'' (62 Mln. £)<ref name="calciomercato"/>
+|-
+| A ||[[Fabio Enzo]]|| {{Calcio Cesena|N}} || ''definitivo''<ref name="ced"/>
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1969-1970}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Anno = 1969
+|Ora = 16:30
+|Turno = 1ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970BariRoma_CorrSport_02_af.jpg
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = circa 46.000
+|Arbitro = [[Giangaetano Vacchini]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Cané]] {{Goal|62|rig.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 settembre
+|Anno = 1969
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970RomaBrescia_CorrSport_04_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Luciano Giunti]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Giovanni Botti|Botti]] {{Goal|40|aut.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 1969
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970VeronaRoma_CorrSport_02_af.jpg
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 28.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 = [[Gianni Bui|Bui]] {{Goal|64||87}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 1969
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaInter_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Luis Suárez (calciatore 1935)|Suárez]] {{Goal|40|aut.}}<br />[[Joaquín Peiró|Peiró]] {{goal|54}}
+|Marcatori 2 = {{goal|74}} [[Roberto Boninsegna|Boninsegna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 ottobre
+|Anno = 1969
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970NapoliRoma_CorrSport_02_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 70.000
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre<ref>Prevista per il 19 ottobre, anticipata a causa della partecipazione del Milan alla [[Coppa Intercontinentale 1969 (calcio)|Coppa Intercontinentale]].</ref>
+|Anno = 1969
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/6970MilanRoma_CorrSport_02_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = circa 50.000
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{Goal|10}}<br />[[Nestor Combin|Combin]] {{Goal|68}}
+|Marcatori 2 = {{Goal|2||56}} [[Joaquín Peiró|Peiró]]<br />{{Goal|20}} [[Fabio Capello|Capello]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 ottobre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaLazie_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Paolo Toselli (arbitro)|Paolo Toselli]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Luciano Spinosi|Spinosi]] {{goal|65}}<br />[[Fausto Landini|Landini]] {{goal|74}}
+|Marcatori 2 = {{goal|90}} [[Giuseppe Massa|Massa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970CagliariRoma_CorrSport_02_af.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Amsicora]]
+|Spettatori = circa 30.000
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Claudio Olinto de Carvalho|Nené]] {{goal|38}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 novembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/6970RomaSampdoria_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Giangaetano Vacchini]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Luciano Spinosi|Spinosi]] {{goal|8}}<br />[[Fabio Capello|Capello]] {{goal|29}}<br />[[Giorgio Braglia|Braglia]] {{goal|47}}
+|Marcatori 2 = {{goal|62}} [[Mario Frustalupi|Frustalupi]]<br />{{goal|78}} [[Angelo Colletta|Colletta]]<br />{{goal|85}} [[Romeo Benetti|Benetti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 novembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970RomaTorino_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Pavia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970VicenzaRoma_CorrSport_02_af.jpg
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = circa 18.000
+|Arbitro = [[Gaetano Mascali]]
+|Cittarbitro = [[Desenzano del Garda]]
+|Marcatori 1 = [[Alessandro Vitali (1945)|Vitali]] {{goal|36||41}}<br />[[Oscar Damiani|Damiani]] {{goal|85}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 dicembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/6970FiorentinaRoma_CorrSport_02_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 30.000
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Amarildo Tavares da Silveira|Amarildo]] {{goal|29}}<br />[[Luciano Chiarugi|Chiarugi]] {{goal|60}}
+|Marcatori 2 = {{goal|55}} [[Francesco Cappelli|Cappelli]]<br />{{goal|81}} [[Renato Cappellini|Cappellini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 dicembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaPalermo_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Alberto Picasso]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Fabio Capello|Capello]] {{goal|68}}
+|Marcatori 2 = {{goal|44}} [[Enzo Ferrari (allenatore)|Ferrari]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 dicembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/697014.ASR.Juventus.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|15}} [[Pietro Anastasi|Anastasi]]<br />{{goal|42}} [[Gianfranco Zigoni|Zigoni]]<br />{{goal|89}} [[Helmut Haller|Haller]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 gennaio
+|Anno = 1970
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970BolognaRoma_CorrSport_02_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 15.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 = [[Giuseppe Savoldi|Savoldi]] {{goal|34}}
+|Marcatori 2 = {{goal|89}} [[Renato Cappellini|Cappellini]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 1970
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/697016.ASR.Bari.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Joaquín Peiró|Peiró]] {{goal|6}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 gennaio
+|Anno = 1970
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970BresciaRoma_CorrSport_02_af.jpg
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = circa 20.000
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|44}} [[Elvio Salvori|Salvori]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 1970
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/697018.ASR.Verona.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Varese]]
+|Marcatori 1 = [[Renato Cappellini|Cappellini]] {{goal|40}}
+|Marcatori 2 = {{goal|89}} [[Paolo Sirena|Sirena]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 1970
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/697019.Inter.ASR.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = circa 40.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Roberto Boninsegna|Boninsegna]] {{goal|20}}<br />[[Mario Bertini|Bertini]] {{goal|53|rig.}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 1970
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/697020.ASR.Napoli.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 = [[Elvio Salvori|Salvori]] {{goal|1}}<br />[[Renato Cappellini|Cappellini]] {{goal|60}}
+|Marcatori 2 = {{goal|85}} [[José Altafini|Altafini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 1970
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/697021.ASR.Milan.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|89}} [[Gianni Rivera|Rivera]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 1970
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/697022.Lazio.ASR.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Giuliano Fortunato|Fortunato]] {{goal|48}}
+|Marcatori 2 = {{goal|59|rig.}} [[Fabio Capello|Capello]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 1970
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/697023.ASR.Cagliari.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Joaquín Peiró|Peiró]] {{goal|10}}
+|Marcatori 2 = {{goal|24}} [[Angelo Domenghini|Domenghini]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 marzo
+|Anno = 1970
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/697024.Sampdoria.ASR.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 15.000
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Renzo Corni|Corni]] {{goal|49}}<br />[[Ermanno Cristin|Cristin]] {{goal|85}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 marzo
+|Anno = 1970
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/697025.Torino.ASR.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 22.000
+|Arbitro = [[Giangaetano Vacchini]]
+|Cittarbitro = [[Milano]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 marzo
+|Anno = 1970
+|Ora = 15:00
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/697026.ASR.Vicenza.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 = [[Francesco Scaratti|Scaratti]] {{goal|77}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 aprile
+|Anno = 1970
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaFiorentina_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Varese]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|76|rig.}} [[Francesco Rizzo|Rizzo]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 aprile
+|Anno = 1970
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/697028.Palermo.ASR.jpg
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|Spettatori = circa 12.000
+|Arbitro = [[Luciano Giunti]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Franco Causio|Causio]] {{goal|11}}<br />[[Gaetano Troja|Troja]] {{goal|35}}
+|Marcatori 2 = {{goal|8}} [[Fausto Landini|Landini]]<br />{{goal|16}} [[Walter Franzot|Franzot]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1970
+|Ora = 21:15
+|Turno = 29ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970JuventusRoma_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 30.000
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Pietro Anastasi|Anastasi]] {{goal|47|rig.}}
+|Marcatori 2 = {{goal|76|aut.}} [[Sandro Salvadore|Salvadore]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1970
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/697030.ASR.Bologna.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Vito Porcelli]]
+|Cittarbitro = [[Lodi]]
+|Marcatori 1 = [[Elvio Salvori|Salvori]] {{goal|34}}
+|Marcatori 2 = {{goal|24}} [[Faustino Turra|Turra]]<br />{{goal|76}} [[Marino Perani|Perani]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1969-1970}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 1969
+|Ora = 17:30
+|Turno = 1ª giornata
+|Squadra 1 = Ternana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970TernanaRoma_CI_31-8-69_CorrSport_02_af.jpg
+|Città = [[Terni]]
+|Stadio = [[Stadio Libero Liberati]]
+|Spettatori = circa 20.000
+|Arbitro = [[Renzo Torelli]]
+|Cittarbitro = [[Milano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1969
+|Ora = 21:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaPerugia_CI_3-9-69_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Pavia]]
+|Marcatori 1 = [[Fabio Enzo|Enzo]] {{goal|47}}<br />[[Franco Cordova|Cordova]] {{goal|61}}
+|Marcatori 2 = {{goal|68}} [[Romano Guido Nimis|Nimis]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 settembre
+|Anno = 1969
+|Ora = 21:00
+|Turno = 3ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|35}} [[Joaquín Peiró|Peiró]]
+|Note = {{tavolino}}<ref>Vittoria assegnata 0-2 a tavolino alla Roma dal [[giudice sportivo]], in quanto gara sospesa all'87' sul punteggio di 0-1 per interruzione dell'illuminazione elettrica; la Lazio, quale squadra ospitante, avrebbe dovuto garantirne il funzionamento. Cfr. {{cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,16/articleid,0127_01_1969_0212_0016_6188287/|titolo=La Lega ha deciso:2-0 alla Roma|pubblicazione=[[La Stampa]]|data=11 settembre 1969|p=16}}</ref>
+}}
+
+==== Fase a eliminazione diretta ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970CI.ASR.Cagliari.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 15.000
+|Arbitro = [[Renzo Torelli]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|25}} [[Gigi Riva|Riva]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 febbraio
+|Anno = 1970
+|Ora = 15:00
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970CagliariRoma_CI_CorrSport_02_af.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Amsicora]]
+|Spettatori = 7.260
+|Arbitro = [[Luciano Giunti]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Eraldo Mancin|Mancin]] {{goal|62}}<br />[[Gigi Riva|Riva]] {{goal|84}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+
+=== Coppa delle Coppe ===
+{{vedi anche|Coppa delle Coppe 1969-1970}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1969
+|Ora = 17:00
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Ards
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970ArdsRoma_17-9-69_CorrSport_03_af.jpg
+|Città = [[Belfast]]
+|Stadio = [[The Oval (Belfast)|The Oval]]
+|Spettatori = circa 5.000
+|Arbitro = Shaut
+|Nazarbitro = BEL
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1969
+|Ora = 21:00
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Ards
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaArds_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 15.000
+|Arbitro = [[Erich Linemayr]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Elvio Salvori|Salvori]] {{goal|20||56}}<br />[[Joaquín Peiró|Peiró]] {{goal|54}}
+|Marcatori 2 = {{goal|79}} [[George Crothers|Crothers]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 1969
+|Ora = 14:30
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = PSV
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970RomaPSV_12-11-69_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 30.000
+|Arbitro = Halles
+|Nazarbitro = FRA
+|Marcatori 1 = [[Fabio Capello|Capello]] {{goal|86|rig.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 novembre
+|Anno = 1969
+|Ora = 19:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = PSV
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970PSVRoma_26-11-69_CorrSport_03_af.jpg
+|Città = [[Eindhoven]]
+|Stadio = [[Philips Stadion]]
+|Spettatori = circa 23.000
+|Supplementari = x
+|Note = <small>Roma qualificata per sorteggio.</small>
+|Arbitro = [[Gyula Emsberger]]
+|Nazarbitro = HUN
+|Marcatori 1 = [[Willy van der Kuijlen|van der Kuijlen]] {{goal|66|rig.}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1970
+|Ora = 15:00
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Goztepe
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970CC.ASR.Goeztepe.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 18.000
+|Arbitro = [[Janusz Eksztajn]]
+|Nazarbitro = POL
+|Marcatori 1 = [[Fausto Landini|Landini]] {{goal|31}}<br />[[Francesco Cappelli|Cappelli]] {{goal|76}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1970
+|Ora = 21:15
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Goztepe
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970CC.Goeztepe.ASR.jpg
+|Città = [[Smirne]]
+|Stadio = [[İzmir Alsancak Stadium]]
+|Spettatori =
+|Arbitro = [[Laurens van Ravens|van Ravens]]
+|Nazarbitro = NLD
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1970
+|Ora = 21:30
+|Turno = Semifinale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Gornik Zabrze
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaGornik_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 60.000 circa
+|Arbitro = [[Todor Betchirov]]
+|Nazarbitro = BUL 1967-1971
+|Marcatori 1 = [[Elvio Salvori|Salvori]] {{goal|53}}
+|Marcatori 2 = {{goal|28}} [[Jan Banaś|Banaś]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1970
+|Ora = 17:30
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Gornik Zabrze
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/6970GornikRoma_02_af.jpg
+|Città = [[Chorzów]]
+|Stadio = [[Stadion Śląski]]
+|Spettatori = circa 100.000
+|Supplementari = x
+|Arbitro = [[José María Ortiz de Mendíbil]]
+|Nazarbitro = ESP 1945-1977
+|Marcatori 1 = [[Włodzimierz Lubański|Lubański]] {{goal|90|rig.|95}}
+|Marcatori 2 = {{goal|11|rig.}} [[Fabio Capello|Capello]]<br />{{goal|119}} [[Francesco Scaratti|Scaratti]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 1970
+|Ora = 20:30
+|Turno = Semifinale - Ripetizione
+|Squadra 1 = Gornik Zabrze
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Supplementari = x
+|Note = <small>Górnik Zabrze qualificato per sorteggio.</small>
+|Referto = http://www.asromaultras.org/6970GornikRoma_Spareggio_02_af.jpg
+|Città = [[Strasburgo]]
+|Stadio = [[Stadio della Meinau]]
+|Spettatori = circa 19.000
+|Arbitro = [[Roger Machin]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Włodzimierz Lubański|Lubański]] {{goal|42}}
+|Marcatori 2 = {{goal|58|rig.}} [[Fabio Capello|Capello]]
+|Sfondo = on
+}}
+
+=== Coppa di Lega Italo-Inglese ===
+{{vedi anche|Coppa di Lega Italo-Inglese 1969}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 agosto
+|Anno = 1969
+|Ora = 21:15
+|Turno = Finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Swindon Town
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6970RomaSwindonTown_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Kevin Howley]]
+|Nazarbitro = ENG
+|Marcatori 1= [[Fabio Enzo|Enzo]] {{goal|43|rig.}}<br />[[Renato Cappellini|Cappellini]] {{goal|66}}
+|Marcatori 2 = {{goal|52}} [[Peter Noble|Noble]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 settembre
+|Anno = 1969
+|Ora = 21:30
+|Turno = Finale - Ritorno
+|Squadra 1 = Swindon Town
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6970SwindonTownRoma_10-9-69_CorrSport_02_af.jpg
+|Città = [[Swindon]]
+|Stadio = [[County Ground]]
+|Spettatori = 11.978
+|Arbitro = [[Bruno De Marchi]]
+|Nazarbitro = ITA
+|Sfondo = on
+|Marcatori 1 = [[Arthur Horsfield|Horsfield]] {{goal|6||68||88}}<br />[[Don Rogers (calciatore)|Rogers]] {{goal|70}}
+|Marcatori 2 =
+}}
+
+===Coppa Anglo-Italiana===
+{{Vedi anche|Coppa Anglo-Italiana 1970}}
+==== Fase a gruppi ====
+{{Incontro di club
+|Sport = calcio
+|Referto = http://www.asromaultras.org/1970%20middlesbrough-roma%201-0%20maggio.bmp
+|Giornomese = 2 maggio
+|Anno = 1970
+|Ora = 15:00 [[UTC+1]]
+|Turno = 1ª giornata
+|Squadra 1 = Middlesbrough
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Squadra 2 = Roma
+|Marcatori 1= [[John Hickton|Hickton]] {{Goal|60}}
+|Marcatori 2=
+|Città= [[Middlesbrough]]
+|Stadio = [[Ayresome Park]]
+|Arbitro = [[Bruno De Marchi]]
+|Nazarbitro = ITA
+}}
+{{Incontro di club
+|Sport = calcio
+|Referto = http://www.asromaultras.org/6970WestBromwichRoma_8-5-70_CorrSport_02_af.jpg
+|Giornomese = 8 maggio
+|Anno = 1970
+|Ora = 19:30 [[UTC+1]]
+|Turno = 2ª giornata
+|Squadra 1 = West Bromwich
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Squadra 2 = Roma
+|Marcatori 1= [[Bobby Hope|Hope]] {{Goal|61}}<br/>[[Tony Brown (calciatore)|Brown]] {{Goal|79}}<br/>[[Aldo Bet|Bet]] {{Goal|85|aut.}}<br/>[[John Talbut|Talbut]] {{Goal|87}}
+|Città= [[West Bromwich]]
+|Stadio = [[The Hawthorns]]
+|Arbitro = [[Paolo Toselli (arbitro)|Paolo Toselli]]
+|Nazarbitro = ITA
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Referto = http://www.asromaultras.org/1970%20roma-middlesbrough%201-1%20maggio.bmp
+|Giornomese = 14 maggio
+|Anno = 1970
+|Ora = 21:00 [[UTC+2]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Squadra 2 = Middlesbrough
+|Marcatori 1= [[Joaquín Peiró|Peiró]] {{Goal|46}}
+|Marcatori 2= {{Goal|75}} [[Derrick Downing|Downing]]
+|Città= [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Ken Burns]]
+|Nazarbitro = ENG
+}}
+{{Incontro di club
+|Sport = calcio
+|Referto = http://www.asromaultras.org/1970%20roma-west%20bromwich%201-1%20maggio1.bmp
+|Giornomese = 23 maggio
+|Anno = 1970
+|Ora = 21:00 [[UTC+2]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Squadra 2 = West Bromwich
+|Marcatori 1= [[Joaquín Peiró|Peiró]] {{Goal|83}}
+|Marcatori 2= {{Goal|49}} [[Colin Suggett|Suggett]]
+|Città= [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = Smith
+|Nazarbitro = ENG
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor3/>
+{| class="wikitable" style="font-size:90%;width:100%;text-align:center"
+!rowspan="2"| Competizione
+!rowspan="2"| Punti
+!colspan="6"| In casa
+!colspan="6"| In trasferta
+!colspan="6"| Totale
+!rowspan="2"| [[Differenza reti|DR]]
+|-
+!{{Abbr|G|Partite giocate}}
+!{{Abbr|V|Partite vinte}}
+!{{Abbr|N|Partite pareggiate (nulle)}}
+!{{Abbr|P|Partite perse}}
+!{{Abbr|Gf|Gol fatti}}
+!{{Abbr|Gs|Gol subiti}}
+!{{Abbr|G|Partite giocate}}
+!{{Abbr|V|Partite vinte}}
+!{{Abbr|N|Partite pareggiate (nulle)}}
+!{{Abbr|P|Partite perse}}
+!{{Abbr|Gf|Gol fatti}}
+!{{Abbr|Gs|Gol subiti}}
+!{{Abbr|G|Partite giocate}}
+!{{Abbr|V|Partite vinte}}
+!{{Abbr|N|Partite pareggiate (nulle)}}
+!{{Abbr|P|Partite perse}}
+!{{Abbr|Gf|Gol fatti}}
+!{{Abbr|Gs|Gol subiti}}
+|-
+| {{simbolo|Scudetto.svg|15}} [[Serie A 1969-1970|Serie A]] || 28 || 15 || 6 || 5 || 4 || 16 || 16 || 15 || 2 || 7 || 6 || 11 || 20 || 30 || 8 || 12 || 10 || 27 || 36 || -9
+|-
+| {{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1969-1970|Coppa Italia]] || - || 2 || 1 || 0 || 1 || 2 || 2 || 3 || 1 || 1 || 1 || 2 || 2 || 5 || 2 || 1 || 2 || 4 || 4 || 0
+|-
+| {{simbolo|Coppa delle Coppe.svg|15}} [[Coppa delle Coppe 1969-1970|Coppa delle Coppe]] ||||4||3||1||0||7||2||5<ref>Lo spareggio con il Górnik Zabrze, giocato in campo neutro, viene considerato fuori casa.</ref>|| 0 || 4 || 1 || 3 || 4 || 9 || 3 || 5 || 1 || 10 || 6 || +4
+|-
+| {{simbolo|Coppa Lega italoinglese.svg|15}}[[Coppa di Lega Italo-Inglese 1969|Coppa di Lega Italo-Inglese]] || - || 1 || 1 || 0 || 0 || 2 || 1 || 1 || 0 || 0 || 1 || 0 || 4 || 2 || 1 || 0 || 1 || 2 || 5 || -3
+|-
+|[[Coppa Anglo-Italiana 1970|Coppa Anglo-Italiana]] || 2 || 0 || 2 || 0 || 2 || 2 || 2 || 0 || 0 || 2 || 0 || 5 || 4 || 0 || 2 || 2 || 2 || 7 || -5
+|-
+! Totale || - || 24 || 11 || 8 || 5 || 29 || 23 || 26 || 3 || 12 || 11 || 16 || 35 || 50 || 14 || 20 || 16 || 45 || 58 || -13
+|}
+
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=T |m7=C |m8=T |m9=C |m10=C |m11=T |m12=T |m13=C |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=C |m21=C |m22=T |m23=C |m24=T |m25=T |m26=C |m27=C |m28=T |m29=T |m30=C }}
+{{Andamento/Risultato |m1=P |m2=V |m3=P |m4=V |m5=N |m6=V |m7=V |m8=P |m9=N |m10=N |m11=P |m12=N |m13=N |m14=P |m15=N |m16=V |m17=V |m18=N |m19=P |m20=V |m21=P |m22=N |m23=N |m24=P |m25=N |m26=V |m27=P |m28=N |m29=N |m30=P }}
+{{Andamento/Posizione |r=14 |m1=11 |m2=6 |m3=12 |m4=6 |m5=6 |m6=4 |m7=2 |m8=4 |m9=5 |m10=5 |m11=7 |m12=8 |m13=9 |m14=10 |m15=10 |m16=9 |m17=8 |m18=8 |m19=8 |m20=7 |m21=7 |m22=7 |m23=8 |m24=8 |m25=8 |m26=8 |m27=8 |m28=8 |m29=9 |m30=10 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 3 autogol in campionato e una vittoria a tavolino per 2 a 0 in Coppa Italia.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa delle<br />Coppe
+| Competizione4 = Coppa di Lega Italo-Inglese +<br>Coppa Anglo-Italiana
+| Cartellini = no
+| {{Sortname|V.|Benítez|Víctor Morales Benítez}} {{Sommastat|C=no |5|0|?|? |0|0|?|? |1|0|?|? |0+2|0|?|?}}
+| {{Sortname|G.|Bertini|Giovanni Bertini (calciatore)}} {{Sommastat|C=no |6|0|?|? |1|0|?|? |1|0|?|? |0+4|0|?|?}}
+| {{Sortname|L.|Bertogna|Lucio Bertogna}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |1|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Bet|Aldo Bet}} {{Sommastat|C=no |28|0|?|? |3|0|?|? |9|0|?|? |1+4|0|?|?}}
+| {{Sortname|G.|Braglia|Giorgio Braglia}} {{Sommastat|C=no |7|1|?|? |0|0|?|? |6|0|?|? |1+2|0|?|?}}
+| {{Sortname|F.|Capello|Fabio Capello}} {{Sommastat|C=no |26|4|?|? |5|0|?|? |8|3|?|? |2+4|0|?|?}}
+| {{Sortname|F.|Cappelli|Francesco Cappelli}} {{Sommastat|C=no |25|1|?|? |5|0|?|? |6|1|?|? |1+1|0|?|?}}
+| {{Sortname|R.|Cappellini|Renato Cappellini}} {{Sommastat|C=no |26|4|?|? |4|0|?|? |8|0|?|? |1+1|1+0|?|?}}
+| ''{{Sortname|F.|Carpenetti|Francesco Carpenetti}}'' {{Sommastat|C=no |0|0|?|? |1|0|?|? |1|0|?|? |2+0|0|?|?}}
+| {{Sortname|A.|Colafrancesco|Armando Colafrancesco|nolink=1}} {{Sommastat|C=no |3|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Cordova|Franco Cordova}} {{Sommastat|C=no |23|0|?|? |5|1|?|? |6|0|?|? |2+2|0|?|?}}
+| ''{{Sortname|F.|Enzo|Fabio Enzo}}'' {{Sommastat|C=no |1|0|?|? |2|1|?|? |1|0|?|? |2+0|1+0|?|?}}
+| {{Sortname|W.|Franzot|Walter Franzot}} {{Sommastat|C=no |8|1|?|? |1|0|?|? |3|0|?|? |0+4|0|?|?}}
+| {{Sortname|A.|Ginulfi|Alberto Ginulfi}} {{Sommastat|C=no |30|-36|?|? |5|-4|?|? |9|-6|?|? |2+2|-5+-2|?|?}}
+| {{Sortname|G.|La Rosa|Giacomo La Rosa}} {{Sommastat|C=no |3|0|?|? |0|0|?|? |2|0|?|? |0+3|0|?|?}}
+| {{Sortname|L.|Liguori|Liborio Liguori}} {{Sommastat|C=no |1|0|?|? |0|0|?|? |0|0|?|? |0+2|0|?|?}}
+| {{Sortname|J.|Peiró|Joaquín Peiró}} {{Sommastat|C=no |24|5|?|? |4|0|?|? |9|1|?|? |2+2|0+2|?|?}}
+| {{Sortname|S.|Petrelli|Sergio Petrelli}} {{Sommastat|C=no |16|0|?|? |2|0|?|? |2|0|?|? |0+1|0|?|?}}
+| {{Sortname|E.|Salvori|Elvio Salvori}} {{Sommastat|C=no |27|2|?|? |5|0|?|? |7|3|?|? |2+3|0|?|?}}
+| {{Sortname|S.|Santarini|Sergio Santarini}} {{Sommastat|C=no |30|0|?|? |5|0|?|? |9|0|?|? |2+4|0|?|?}}
+| {{Sortname|F.|Scaratti|Francesco Scaratti}} {{Sommastat|C=no |18|1|?|? |2|0|?|? |7|1|?|? |1+0|0|?|?}}
+| {{Sortname|L.|Spinosi|Luciano Spinosi}} {{Sommastat|C=no |25|3|?|? |4|0|?|? |8|0|?|? |2+4|0|?|?}}
+| {{Sortname|A.|Zanier|Adriano Zanier}} {{Sommastat|C=no |0|-0|?|? |0|-0|?|? |0|-0|?|? |0|-0|?|?}}
+| {{Sortname|F.|Landini|Fausto Landini}} {{Sommastat|C=no |24|2|?|? |5|0|?|? |8|1|?|? |1+4|0|?|?}}
+| {{Sortname|G.|De Min|Giovanni De Min (calciatore)}}<ref name=demin/> {{Sommastat|C=no |-|-|?|? |-|-|?|? |-|-|?|? |0+2|-5|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1969-1970|Campionato Primavera]]: ?
+** [[Torneo di Viareggio 1970|Torneo di Viareggio]]: Ottavi di finale
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital70.html|Serie A 1969-1970 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1969|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1969-1970}}
+{{Portale|calcio}}

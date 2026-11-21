@@ -1,0 +1,1205 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1999-2000
+|immagine = Associazione Sportiva Roma 1999-2000.jpg
+|allenatore1 = {{Bandiera|ITA}} [[Fabio Capello]]
+|allenatore2 = {{Bandiera|ITA}} [[Italo Galbiati]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 1999-2000|Serie A]]
+|campionato posizione = 6º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 1999-2000|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[Coppa UEFA 1999-2000|Coppa UEFA]]
+|coppa2 posizione = Ottavi di finale
+|presenze campionato = [[Francesco Antonioli|Antonioli]], [[Vincenzo Montella|Montella]] (30)
+|presenze totale = [[Damiano Tommasi|Tommasi]] (39)
+|marcatore campionato = Montella (18)
+|marcatore totale = Montella (21)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:41345}}<ref name=s>{{cita web|url=https://www.stadiapostcards.com/A99-00.htm|titolo=Statistiche Spettatori Serie A 1999-2000}}</ref>
+|spettatori max = {{formatnum:77988}}<ref name=s/> vs {{Calcio Lazio|N}}<br/>(21 novembre 1999)
+|spettatori min = {{formatnum:48037}}<ref name=s/> vs {{Calcio Udinese|N}}<br/>(2 aprile 2000)
+|spettatori media = {{formatnum:58915}}<ref name=s/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1998-1999|1998-1999]]
+|stagione dopo = [[Associazione Sportiva Roma 2000-2001|2000-2001]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1999-2000'''.
+
+== Stagione ==
+[[File:Roma vs Olympiakos (1999) - Vincenzo Montella.jpg|thumb|left|Il neoacquisto [[Vincenzo Montella]], migliore marcatore giallorosso della stagione, posa nel precampionato con la ''mascotte'' romanista]]
+
+in questa stagione la panchina capitolina viene affidata a [[Fabio Capello]]; arrivano alla Roma l'attaccante [[Vincenzo Montella]] e, nella sessione invernale di mercato, il centrocampista nipponico [[Hidetoshi Nakata]]. La Roma termina il campionato al sesto posto, ottenendo la qualificazione in [[Coppa UEFA]].
+
+In [[Coppa Italia 1999-2000|Coppa Italia]] i giallorossi, dopo aver superato negli ottavi di finale il {{Calcio Piacenza|N}}, vengono eliminati dal {{Calcio Cagliari|N}} nei quarti del torneo, in cui per la prima volta viene sperimentata la regola del doppio arbitro. In [[Coppa UEFA 1999-2000|Coppa UEFA]] la Roma viene estromessa negli ottavi di finale dagli inglesi del {{Calcio Leeds|N}}<ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}</ref>, dopo aver superato nel primo turno i portoghesi del {{Calcio Vitoria Setubal|N}}, nel secondo turno gli svedesi dell'{{Calcio Goteborg|N}} e nei sedicesimi gli inglesi del {{Calcio Newcastle|N}}.
+
+Due i marcatori giallorossi in doppia cifra in questa stagione: Montella, autore di 21 reti, delle quali 18 in campionato e 3 in UEFA, e [[Marco Delvecchio]] autore di 12 reti, delle quali 11 in campionato e una in UEFA.
+
+== Divise e sponsor ==
+[[File:Marco Delvecchio - AS Roma 1999-2000.jpg|thumb|upright|[[Marco Delvecchio]], alla sua quinta stagione a Roma, in azione con la seconda divisa bianca]]
+
+Lo sponsor tecnico è [[Diadora]], lo sponsor ufficiale è [[INA Assitalia]].
+
+La prima divisa è costituita da maglia rossa, pantaloncini bianchi e calzettoni neri, tutti e tre presentanti decorazioni gialle. In trasferta i Lupi usano una divisa costituita da maglia bianca, pantaloncini bianchi, calzettoni bianchi, tutti e tre con decorazioni giallorosse. Come terza divisa viene usato un kit costituito dallo stesso ''template'' della away, con il nero al posto del bianco. I portieri usano due divise: le maglie sono una nera e una grigia con decorazioni gialle e grigie, pantaloncini e calzettoni sono neri.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 206-208}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =_asroma9900h
+|leftarm = A00000
+|pattern_b = _asroma9900h
+|body = A00000
+|pattern_ra = _asroma9900h
+|rightarm = A00000
+|pattern_sh = _asroma9900
+|shorts = FFFFFF
+|pattern_so = _asroma0607h
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9900a
+|leftarm = FFFFFF
+|pattern_b =_asroma9900a
+|body = FFFFFF
+|pattern_ra =_asroma9900a
+|rightarm = FFFFFF
+|pattern_sh= _asroma9900
+|shorts = FFFFFF
+|pattern_so =_asroma0607a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma9900t
+|leftarm = 05781d
+|pattern_b =_asroma9900t
+|body = DC143C
+|pattern_ra =_asroma9900t
+|rightarm = 05781d
+|pattern_sh =_asroma9900t
+|shorts = 05781d
+|pattern_so =_asroma9899h
+|socks = 000000
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma9900gk1
+|leftarm = 000000
+|pattern_b =_asroma9900gk1
+|body = 858585
+|pattern_ra =_asroma9900gk1
+|rightarm = 000000
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma0607h
+|socks = ffffff
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9900gk2
+|leftarm = b4b4b4
+|pattern_b =_asroma9900gk2
+|body = 858585
+|pattern_ra =_asroma9900gk2
+|rightarm = b4b4b4
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma0607h
+|socks = ffffff
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor7/>
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente: [[Franco Sensi]]
+* Vice presidente: [[Ciro Di Martino]]
+* Consulente del presidente: [[Nils Liedholm]]
+* Direttore generale: [[Fabrizio Lucchesi]]
+'''''Area organizzativa'''''
+* Team manager: [[Antonio Tempestilli]]
+'''''Area comunicazione'''''
+* Responsabile: Dario Brugnoli
+{{Colonne spezza}}
+'''''Area tecnica'''''
+* Direttore sportivo:
+* Allenatore: [[Fabio Capello]]
+* Allenatore in seconda: [[Italo Galbiati]]
+* Collaboratore tecnico: [[Ezio Sella]]
+* Preparatore/i atletico/i: Vincenzo Piccolini e Vito Scala
+* Preparatore dei portieri: Roberto Negrisolo
+'''''Area sanitaria'''''
+* Responsabile: [[Ernesto Alicicco]]
+* Fisioterapisti: Claudio Conta e Fabio Ruggiu
+* Massaggiatori: Giorgio Rossi, Silio Musa e Carlo Zazza
+{{Colonne fine}}
+
+== Rosa ==
+Di seguito la rosa<ref name="Rosa AS Roma - Saison 99/00">{{Cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1999|titolo=Rosa AS Roma - Saison 99/00|accesso=17 aprile 2018}}</ref>.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=AUT|nome=[[Michael Konsel]]|ruolo=P}}<ref name="incorso">Ceduto a stagione in corso</ref>
+{{Calciatore in rosa|n=2|nazione=BRA|nome=[[Cafu]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=BRA|nome=[[Antônio Carlos Zago]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Cristiano Zanetti]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=BRA|nome=[[Marcos Assunção]]|ruolo=C}}
+{{Calciatore in rosa|n=6|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=ARG|nome=''[[Gustavo Bartelt]]''|ruolo=D}}<ref name="ceduto">Ceduto durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=8|nazione=RUS|nome=''[[Dmitrij Aleničev]]''|ruolo=C}}<ref name="ceduto"/>
+{{Calciatore in rosa|n=8|nazione=JPN|nome=[[Hidetoshi Nakata]]|ruolo=C}}<ref name="acquistato">Acquistato durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=9|nazione=ITA|nome=[[Vincenzo Montella]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|altro=[[Capitano (calcio)|capitano]]|ruolo=A}}
+{{Calciatore in rosa|n=11|nazione=ITA|nome=[[Eusebio Di Francesco]]|ruolo=C}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=[[Cristiano Lupatelli]]|ruolo=P}}
+{{Calciatore in rosa|n=13|nazione=ITA|nome=[[Manuele Blasi]]|ruolo=C}}
+{{Calciatore in rosa|n=14|nazione=ITA|nome=[[Carmine Gautieri]]|ruolo=A}}<ref name="incorso"/>
+{{Calciatore in rosa|n=15|nazione=ITA|nome=[[Giuseppe Colucci (calciatore)|Giuseppe Colucci]]|ruolo=C}}<ref name="incorso"/>
+{{Calciatore in rosa|n=16|nazione=SCG|nome=[[Ivan Tomić]]|ruolo=C}}
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Damiano Tommasi]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=''[[Alessandro Frau]]''|ruolo=A}}<ref name="ceduto"/>
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Paolo Poggi]]|ruolo=A}}<ref name="acquistato"/>
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=19|nazione=BLR|nome=[[Sjarhej Hurėnka]]|ruolo=D}}
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Amedeo Mangone]]|ruolo=D}}
+{{Calciatore in rosa|n=21|nazione=ITA|nome=[[Gaetano D'Agostino]]|ruolo=C}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Francesco Antonioli]]|ruolo=P}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Alessandro Rinaldi]]|ruolo=D}}
+{{Calciatore in rosa|n=24|nazione=ITA|nome=[[Marco Delvecchio]]|ruolo=A}}
+{{Calciatore in rosa|n=25|nazione=GRC|nome=[[Lampros Choutos]]|ruolo=A}}
+{{Calciatore in rosa|n=26|nazione=ITA|nome=[[Joseph Dayo Oshadogan]]|ruolo=D}}<ref name="incorso"/>
+{{Calciatore in rosa|n=26|nazione=GNB|nome=[[Ednilson Pedro Rocha Andrade Mendes|Ednilson]]|ruolo=C}}
+{{Calciatore in rosa|n=27|nazione=BRA|nome=[[Fábio Júnior]]|ruolo=A}}
+{{Calciatore in rosa|n=28|nazione=ITA|nome=[[Maurizio Lanzaro]]|ruolo=D}}
+{{Calciatore in rosa|n=29|nazione=ITA|nome=''[[Marco Quadrini]]''|ruolo=D}}<ref name="ceduto"/>
+{{Calciatore in rosa|n=30|nazione=ITA|nome=[[Fabio Petruzzi]]|ruolo=D}}
+{{Calciatore in rosa|n=31|nazione=ITA|nome=''[[Luca Ferri]]''|ruolo=D}}<ref name="ceduto"/>
+{{Calciatore in rosa|n=32|nazione=FRA|nome=[[Vincent Candela]]|ruolo=D}}
+{{Calciatore in rosa|n=33|nazione=TUR|nome=[[Neşat Gülünoğlu]]|ruolo=A}}
+{{Calciatore in rosa|n=32|nazione=ITA|nome=[[Andrea Campagnolo]]|ruolo=P}}
+{{Calciatore in rosa|n=34|nazione=ITA|nome=[[Marco Amelia]]|ruolo=P}}<ref>Aggregato alla prima squadra dalla formazione Primavera.</ref>
+{{Calciatore in rosa|n=-|nazione=ITA|nome=''[[Giorgio Sterchele]]''|ruolo=P}}<ref name="ceduto"/>
+{{Calciatore in rosa|n=-|nazione=ITA|nome=[[Francesco Statuto]]|ruolo=C}}<ref name="incorso"/>
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/transfers/verein/12/plus/0?saison_id=1999&pos=&detailpos=&w_s=|titolo=Trasferimenti 99/00|accesso=21 aprile 2018}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Cristiano Lupatelli]]|| {{Calcio Andria|NB}} || ''definitivo''
+|-
+| P ||[[Francesco Antonioli]]|| {{Calcio Bologna|NB}} || ''definitivo''
+|-
+| D ||[[Sjarhej Hurėnka]]|| {{Calcio Lokomotiv Mosca|NB}} || ''definitivo''
+|-
+| D ||[[Amedeo Mangone]]|| {{Calcio Bologna|NB}} || ''definitivo''
+|-
+| D ||[[Joseph Dayo Oshadogan]]|| {{Calcio Foggia|NB}} || ''definitivo''
+|-
+| D ||[[Filippo Dal Moro]]|| {{Calcio Ternana|NB}} || ''definitivo''
+|-
+| C ||[[Hidetoshi Nakata]]|| {{Calcio Perugia|NB}} || ''definitivo''
+|-
+| C ||[[Cristiano Zanetti]]|| {{Calcio Cagliari|NB}} || ''definitivo''
+|-
+| C ||[[Neşat Gülünoğlu]]|| {{Calcio Bochum|NB}} || ''definitivo''
+|-
+| C ||[[Giuseppe Colucci (calciatore)|Giuseppe Colucci]]|| {{Calcio Foggia|NB}} || ''definitivo''
+|-
+| C ||[[Marcos Assunção]]|| {{Calcio Flamengo|NB}} || ''definitivo''
+|-
+| C ||[[Manuele Blasi]]|| {{Calcio Lecce|NB}} || ''definitivo''
+|-
+| A ||[[Vincenzo Montella]]|| {{Calcio Sampdoria|NB}} ||''definitivo''
+|-
+| A ||[[Fábio Júnior]]|| {{Calcio Cruzeiro|NB}} ||''definitivo''
+|-
+| A ||[[Paolo Poggi]]|| {{Calcio Udinese|NB}} ||''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Michael Konsel]]|| {{Calcio Venezia|NB}} || ''definitivo'' (gratuito)
+|-
+| P ||[[Antonio Chimenti]]|| {{Calcio Lecce|NB}} || ''definitivo''
+|-
+| P ||[[Giorgio Sterchele]]|| {{Calcio Perugia|NB}} || ''definitivo''
+|-
+| D ||[[Omari Tetradze]]|| {{Calcio PAOK Salonicco|NB}} || ''definitivo''
+|-
+| D ||[[Luca Ferri]]|| {{Calcio Lecco|NB}} || ''definitivo''
+|-
+| D ||[[Filippo Dal Moro]]|| {{Calcio Lecco|NB}} || ''prestito''
+|-
+| D ||[[Pierre Womé]]|| {{Calcio Bologna|NB}} || ''definitivo''
+|-
+| D ||[[Marco Quadrini]]|| {{Calcio Genoa|NB}} ||''definitivo''
+|-
+| D ||[[Joseph Dayo Oshadogan]]|| {{Calcio Reggina|NB}} || ''definitivo''
+|-
+| C ||[[Daniele Conti]]|| {{Calcio Cagliari|NB}} ||''definitivo''
+|-
+| C ||[[Neşat Gülünoğlu]]|| {{Calcio Siegen|NB}} ||''definitivo'' (gratuito)
+|-
+| C ||[[Dmitrij Aleničev]]|| {{Calcio Perugia|NB}} ||''prestito''
+|-
+| C ||[[Luigi Di Biagio]]|| {{Calcio Inter|NB}} ||''definitivo''
+|-
+| C ||[[Giuseppe Colucci (calciatore)|Giuseppe Colucci]]|| {{Calcio Bordeaux|NB}} ||''prestito''
+|-
+| C ||[[Daniele De Vezze]]|| {{Calcio Savoia|NB}} ||''definitivo''
+|-
+| C ||[[Alessandro Frau]]|| {{Calcio Palermo|NB}} ||''definitivo''
+|-
+| A ||[[Paulo Sérgio]]|| {{Calcio Bayern Monaco|NB}} ||''definitivo''
+|-
+| A ||[[Lampros Choutos]]|| {{Calcio Olympiacos|NB}} ||''definitivo''
+|-
+| A ||[[Carmine Gautieri]]|| {{Calcio Piacenza|NB}} ||''definitivo''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1999-2000}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 agosto
+|Anno = 1999
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/1/PIAROM
+|Marcatori 1 = [[Giovanni Stroppa|Stroppa]] {{Goal|82}}
+|Marcatori 2 = {{Goal|14|rig.}} [[Francesco Totti|Totti]]
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 1999
+|Ora = 20:30
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/2/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Venezia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/3/VENROM
+|Marcatori 1 = [[Dejan Petković|Petković]] {{Goal|58}}
+|Marcatori 2 = {{Goal|38||45+2}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|71}} [[Dmitrij Aleničev|Aleničev]]
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pierluigi Penzo]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/4/ROMPER
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|37}}<br/>[[Marcos Assunção|Assunção]] {{Goal|47}}<br/>[[Francesco Totti|Totti]] {{Goal|83|rig.}}
+|Marcatori 2 = {{Goal|82}} [[Renato Olive|Olive]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Tarcisio Serena]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/5/FIOROM
+|Marcatori 1 = [[Gabriel Batistuta|Batistuta]] {{Goal|75}}
+|Marcatori 2 = {{Goal|17||67}} [[Cafu]]<br/>{{Goal|59}} [[Damiano Tommasi|Tommasi]]
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 ottobre
+|Anno = 1999
+|Ora = 20.30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/6/ROMJUV
+|Marcatori 2 = {{Goal|50}} [[Zinédine Zidane|Zidane]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 1999
+|Ora = 20.30
+|Turno = 7ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/7/TORROM
+|Marcatori 1 = [[Alessio Scarchilli|Scarchilli]] {{Goal|21}}
+|Marcatori 2 = {{Goal|55}} [[Eusebio Di Francesco|Di Francesco]]
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/8/ROMCAG
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|2}}<br/>[[Antônio Carlos Zago|Zago]] {{Goal|40}}
+|Marcatori 2 = {{Goal|15}} [[Luís Oliveira|Oliveira]]<br/>{{Goal|85|rig.}} [[Patrick Mboma|Mboma]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 9ª giornata
+|Squadra 1 = Reggina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/9/REGROM
+|Marcatori 2 = {{Goal|4|aut.}} [[Joseph Dayo Oshadogan|Oshadogan]]<br/>{{Goal|28|rig.}} [[Vincenzo Montella|Montella]]<br/>{{Goal|39}} [[Fábio Júnior]]<br/>{{Goal|45+1|rig.}} [[Francesco Totti|Totti]]
+|Città = [[Reggio Calabria]]
+|Stadio = [[Stadio Oreste Granillo]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 novembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/10/ROMLAZ
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|7||26}}<br/>[[Vincenzo Montella|Montella]] {{Goal|11||31}}
+|Marcatori 2 = {{Goal|52|rig.}} [[Siniša Mihajlović|Mihajlović]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 11ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/11/UDIROM
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|73||87}} [[Marco Delvecchio|Delvecchio]]
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/12/ROMLEC
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|41}}<br/>[[Vincent Candela|Candela]] {{Goal|63||86}}
+|Marcatori 2 = {{Goal|50}} [[David Sesa|Sesa]]<br/>{{Goal|69}} [[Matteo Pivotto|Pivotto]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Diego Preschern]]
+|Cittarbitro = [[Mestre]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 13ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/13/BOLROM
+|Marcatori 1 = [[Giuseppe Signori|Signori]] {{Goal|25}}
+|Marcatori 2 =
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 1999
+|Ora = 15:00
+|Turno = 14ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/14/PARROM
+|Marcatori 1 = [[Hernán Crespo|Crespo]] {{Goal|2}}<br/>[[Stefano Torrisi|Torrisi]] {{Goal|24}}
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 2000
+|Ora = 15:00
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/15/ROMBAR
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|2||29||58|rig.}}
+|Marcatori 2 = {{Goal|4}} [[Antonio Cassano|Cassano]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 2000
+|Ora = 20.30
+|Turno = 16ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/16/MILROM
+|Marcatori 1 = [[Oliver Bierhoff|Bierhoff]] {{Goal|38}}<br/>[[José Mari]] {{Goal|67}}
+|Marcatori 2 = {{Goal|8}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|57}} [[Vincenzo Montella|Montella]]
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2000
+|Ora = 15:00
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/17/ROMVER
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|1}}<br/>[[Luigi Apolloni|Apolloni]] {{Goal|7|aut.}}<br/>[[Francesco Totti|Totti]] {{Goal|41}}
+|Marcatori 2 = {{Goal|20}} [[Emiliano Salvetti|Salvetti]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Danilo Nucini]]
+|Cittarbitro = [[Bergamo]]
+}}
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 2000
+|Ora = 18:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/18/ROMPIA
+|Marcatori 1 = [[Eusebio Di Francesco|Di Francesco]] {{Goal|47}}<br/>[[Francesco Totti|Totti]] {{Goal|75}}
+|Marcatori 2 = {{Goal|45+3}} [[Gianpietro Piovani|Piovani]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 2000
+|Ora = 20:30
+|Turno = 19ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/19/INTROM
+|Marcatori 1 = [[Christian Vieri|Vieri]] {{Goal|8}}<br/>[[Roberto Baggio|Baggio]] {{Goal|42}}
+|Marcatori 2 = {{Goal|32}} [[Aldair]]
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 2000
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/20/ROMVEN
+|Marcatori 1 = [[Vincent Candela|Candela]] {{Goal|9}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|13||61}}<br/>[[Vincenzo Montella|Montella]] {{Goal|41}}<br/>[[Bruno N'Gotty|N'Gotty]] {{Goal|78|aut.}}
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Danilo Nucini]]
+|Cittarbitro = [[Bergamo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 febbraio
+|Anno = 2000
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/21/PERROM
+|Marcatori 1 = [[Renato Olive|Olive]] {{Goal|55||80}}
+|Marcatori 2 = {{Goal|22}} [[Hidetoshi Nakata|Nakata]]<br/>{{Goal|42|rig.}} [[Vincenzo Montella|Montella]]
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi]]
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 2000
+|Ora = 20:30
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/22/ROMFIO
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|6||80||90}}<br/>[[Hidetoshi Nakata|Nakata]] {{Goal|27}}
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 2000
+|Ora = 20:30
+|Turno = 23ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/23/JUVROM
+|Marcatori 1 = [[Edgar Davids|Davids]] {{Goal|31}}<br/>[[Filippo Inzaghi|Inzaghi]] {{Goal|46}}
+|Marcatori 2 = {{Goal|38}} [[Marco Delvecchio|Delvecchio]]
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 marzo
+|Anno = 2000
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/24/ROMTOR
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|65}}
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 marzo
+|Anno = 2000
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/25/CAGROM
+|Marcatori 1 = [[Patrick Mboma|Mboma]] {{Goal|44}}
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 2000
+|Ora = 15:00
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggina
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/26/ROMREG
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|29}} [[Francesco Cozza (calciatore)|Cozza]]<br/>{{Goal|86}} [[Bruno Cirillo|Cirillo]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 marzo
+|Anno = 2000
+|Ora = 15:00
+|Turno = 27ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/27/LAZROM
+|Marcatori 1 = [[Pavel Nedvěd|Nedvěd]] {{Goal|25}}<br/>[[Juan Sebastián Verón|Verón]] {{Goal|28}}
+|Marcatori 2 = {{Goal|3}} [[Vincenzo Montella|Montella]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 aprile
+|Anno = 2000
+|Ora = 15:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/28/ROMUDI
+|Marcatori 1 = [[Hidetoshi Nakata|Nakata]] {{Goal|39}}
+|Marcatori 2 = {{Goal|51}} [[Roberto Sosa|Sosa]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 aprile
+|Anno = 2000
+|Ora = 15:00
+|Turno = 29ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/29/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Arbitro = [[Diego Preschern]]
+|Cittarbitro = [[Mestre]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 aprile
+|Anno = 2000
+|Ora = 15:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/30/ROMBOL
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|27|rig.}}<br/>[[Francesco Totti|Totti]] {{Goal|60|rig.}}
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Angelo Bonfrisco]]
+|Cittarbitro = [[Monza]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 2000
+|Ora = 15:00
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/31/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 aprile
+|Anno = 2000
+|Ora = 15:00
+|Turno = 32ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/32/BARROM
+|Città = [[Bari]]
+|Stadio = [[Stadio San Nicola]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Anno = 2000
+|Ora = 15:00
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/33/ROMMIL
+|Marcatori 1 = [[Antônio Carlos Zago|Zago]] {{Goal|11}}
+|Marcatori 2 = {{Goal|82|rig.}} [[Andrij Ševčenko|Ševčenko]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 maggio
+|Anno = 2000
+|Ora = 15:00
+|Turno = 34ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1999-00/UNICO/UNI/34/VERROM
+|Marcatori 1 = [[Adaílton Martins Bolzan|Adaílton]] {{Goal|13}}<br/>[[Fabrizio Cammarata|Cammarata]] {{Goal|56}}
+|Marcatori 2 = {{Goal|8}} [[Damiano Tommasi|Tommasi]]<br/>{{Goal|44}} [[Vincenzo Montella|Montella]]
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1999-2000}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º dicembre
+|Anno = 1999
+|Ora = 20:30
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9900RomaPiacenza_CI.html
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|49}} [[Gianpietro Piovani|Piovani]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Arbitro2 = [[Paolo Bertini|Bertini]]
+|Cittarbitro2 = [[Arezzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 1999
+|Ora = 20:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/9900piacenzaromacoppaitalia.html
+|Supplementari = X
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|55}} [[Alessandro Rinaldi|Rinaldi]]<br />{{Goal|113}} [[Eusebio Di Francesco|Di Francesco]]<br />{{Goal|118}} [[Vincent Candela|Candela]]
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Arbitro2 = [[Diego Preschern|Preschern]]
+|Cittarbitro2 = [[Mestre]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 2000
+|Ora = 18:00
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9900RomaCagliari_CI.html
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|22}} [[Luís Oliveira|Oliveira]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Diego Preschern]]
+|Cittarbitro = [[Mestre]]
+|Arbitro2 = [[Paolo Bertini|Bertini]]
+|Cittarbitro2 = [[Arezzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 2000
+|Ora = 20:30
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9900CagliariRoma_CI.html
+|Marcatori 1 = [[Fabián O'Neill|O'Neill]] {{Goal|80}}
+|Marcatori 2 =
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Arbitro2 = [[Cosimo Bolognino|Bolognino]]
+|Cittarbitro2 = [[Milano]]
+|Sfondo = on
+}}
+
+=== Coppa UEFA ===
+{{vedi anche|Coppa UEFA 1999-2000}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 1999
+|Ora = 21:30 [[Central European Time|CET]]
+|Turno = Primo turno - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Vitoria Setubal
+|Punteggio 1 = 7
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1276/match=57000/postmatch/lineups/index.html
+|Marcatori 1 = [[Aldair]] {{Goal|12}}<br />[[Vincenzo Montella|Montella]] {{Goal|14}}<br />[[Dmitrij Aleničev|Aleničev]] {{Goal|16||55||77}}<br />[[Marcos Assunção|Assunção]] {{Goal|40}}<br />[[Marco Delvecchio|Delvecchio]] {{Goal|73}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 23.013
+|Arbitro = [[Vasyl' Mel'nyčuk]]
+|Nazarbitro = UKR
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 settembre
+|Anno = 1999
+|Ora = 22:30 [[Central European Time|CET]]
+|Turno = Primo turno - Ritorno
+|Squadra 1 = Vitoria Setubal
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Marcatori 1 = [[Henry Makinwa|Makinwa]] {{Goal|77}}
+|Marcatori 2 =
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1276/match=57001/postmatch/lineups/index.html
+|Città = [[Setúbal]]
+|Stadio = [[Estádio do Bonfim]]
+|Spettatori = 4.000
+|Arbitro = [[Dieter Schoch]]
+|Nazarbitro = CHE
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 1999
+|Ora = 19:00 [[Central European Time|CET]]
+|Turno = Secondo Turno - Andata
+|Squadra 1 = Goteborg
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|36||51}} [[Vincenzo Montella|Montella]]
+|Città = [[Göteborg]]
+|Stadio = [[Ullevi]]
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1277/match=57285/postmatch/lineups/index.html
+|Spettatori = 20.000
+|Arbitro = [[Dermot Gallagher]]
+|Nazarbitro = ENG
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 1999
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = Secondo Turno - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Goteborg
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Marcatori 1 = [[Fábio Júnior]] {{Goal|86}}
+|Marcatori 2 =
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1277/match=57286/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 9.767
+|Arbitro = [[Victor Esquinas Torres]]
+|Nazarbitro = ESP
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 1999
+|Ora = 21:15 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Newcastle
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|50|rig.}}
+|Marcatori 2 =
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1278/match=57577/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.655
+|Arbitro = [[Claude Colombo]]
+|Nazarbitro = FRA
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 1999
+|Ora = 21:15 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Newcastle
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Marcatori 1 =
+|Marcatori 2 =
+|Città = [[Newcastle upon Tyne|Newcastle]]
+|Stadio = [[St James' Park]]
+|Spettatori = 35.739
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1278/match=57578/postmatch/lineups/index.html
+|Arbitro = [[Hartmut Strampe]]
+|Nazarbitro = DEU
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 2000
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Leeds
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Marcatori 1 =
+|Marcatori 2 =
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1279/match=60186/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 37.726
+|Arbitro = [[Gilles Veissière]]
+|Nazarbitro = FRA
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 marzo
+|Anno = 2000
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Leeds
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Marcatori 1 = [[Harry Kewell|Kewell]] {{Goal|67}}
+|Marcatori 2 =
+|Città = [[Leeds]]
+|Spettatori = 39.149
+|Stadio = [[Elland Road]]
+|Referto = https://it.uefa.com/uefaeuropaleague/season=1999/matches/round=1279/match=60187/postmatch/lineups/index.html
+|Arbitro = [[José María García-Aranda]]
+|Nazarbitro = ESP
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+{{Statistiche_squadra
+|comp1=[[Serie A 1999-2000|Serie A]]
+|punti1=
+|cv1=10
+|cn1=5
+|cp1=2
+|cgf1=34
+|cgs1=14
+|tv1=4
+|tn1=7
+|tp1=6
+|tgf1=23
+|tgs1=20
+|comp2=[[Coppa Italia 1999-2000|Coppa Italia]]
+|punti2=-
+|cv2=0
+|cn2=0
+|cp2=2
+|cgf2=0
+|cgs2=2
+|tv2=1
+|tn2=0
+|tp2=1
+|tgf2=3
+|tgs2=1
+|comp3=[[Coppa UEFA 1999-2000|Coppa UEFA]]
+|punti3=-
+|cv3=3
+|cn3=1
+|cp3=0
+|cgf3=9
+|cgs3=0
+|tv3=1
+|tn3=1
+|tp3=2
+|tgf3=2
+|tgs3=2
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=T |m15=C |m16=T |m17=C |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C |m31=C |m32=T |m33=C |m34=T}}
+{{Andamento/Risultato |m1=N |m2=N |m3=V |m4=V |m5=V |m6=P |m7=N |m8=N |m9=V |m10=V |m11=V |m12=V |m13=P |m14=P |m15=V |m16=N |m17=V |m18=V |m19=P |m20=V |m21=N |m22=V |m23=P |m24=V |m25=P |m26=P |m27=P |m28=N |m29=N |m30=V |m31=N |m32=N |m33=N |m34=N}}
+{{Andamento/Posizione |m1=8 |m2=11 |m3=6 |m4=5 |m5=2 |m6=4 |m7=5 |m8=5 |m9=4 |m10=3 |m11=1 |m12=1 |m13=3 |m14=4 |m15=4 |m16=4 |m17=3 |m18=3 |m19=4 |m20=3 |m21=4 |m22=4 |m23=5 |m24=4 |m25=5 |m26=5 |m27=6 |m28=6 |m29=6 |m30=5 |m31=6 |m32=6 |m33=6 |m34=6}}
+{{Andamento/Fine |fonte={{cita web |url=https://www.worldfootball.net/schedule/ita-serie-a-1999-2000-spieltag/1/ |titolo=Italy » Serie A 1999/2000 » Results & Tables |editore=worldfootball.net}}}}
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|url=http://www.asroma.it/|titolo=Sito ufficiale}}
+* {{cita web|url=http://www.rsssf.com/tablesi/ital00.html|titolo=Serie A 1995-1996 su Rsssf.com|lingua=en}}
+* {{cita web|url=https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1999|titolo=Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1999-2000}}
+{{Portale|calcio}}

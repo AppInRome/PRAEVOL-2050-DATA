@@ -1,0 +1,1058 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1980-1981
+|immagine = Associazione Sportiva Roma 1980-81.jpg
+|allenatore1 = {{Bandiera|SWE}} [[Nils Liedholm]]
+|allenatore2 = {{Bandiera|ITA}} [[Luciano Tessari]]
+|presidente = {{Bandiera|ITA}} [[Dino Viola]]
+|campionato = [[Serie A 1980-1981|Serie A]]
+|campionato posizione = 2º
+|coppa1 = [[Coppa Italia 1980-1981|Coppa Italia]]
+|coppa1 posizione = '''Vincitore''' (in Coppa delle Coppe)
+|coppa2 = [[Coppa delle Coppe 1980-1981|Coppa delle Coppe]]
+|coppa2 posizione = Sedicesimi di finale
+|presenze campionato = [[Agostino Di Bartolomei|Di Bartolomei]], [[Franco Tancredi|Tancredi]] (30)
+|presenze totale = Tancredi (38)
+|marcatore campionato = [[Roberto Pruzzo|Pruzzo]] (18)
+|marcatore totale = Pruzzo (19)
+|spettatori max = {{formatnum:78291}} vs {{Calcio Napoli|N}}<br/>(8 marzo 1981)<ref name=stadiapost/>
+|spettatori min = {{formatnum:33958}} vs {{Calcio Ascoli|N}}<br/>(21 dicembre 1980)<ref name=stadiapost/>
+|spettatori media = {{formatnum:55559}}<ref name=stadiapost>{{cita web|lingua=en|url=https://www.stadiapostcards.com/A80-81.htm|titolo=Attendance Statistics of Serie A 1980-1981|sito=stadiapostcards.com}}</ref>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:18500}}<ref name=stadiapost/>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1979-1980|1979-1980]]
+|stagione dopo = [[Associazione Sportiva Roma 1981-1982|1981-1982]]
+}}
+
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1980-1981'''.
+
+== Stagione ==
+[[File:Serie A 1980-81 - Juventus vs Roma - Il non-gol di Turone.jpg|thumb|left|L'azione della rete annullata al difensore romanista [[Maurizio Turone|Turone]] nella sfida-scudetto di Torino del 10 maggio 1981: «''er gol de Turone''» diventò immediatamente uno degli argomento più caldi del [[calcio italiano]] per i decenni a venire<ref>{{cita web|url=http://sport.sky.it/sport/calcio_italiano/2013/03/19/gol_di_turone_32_anni_dopo_giallo_moviola.html|titolo=Gol di Turone, che moviola: 32 anni dopo è ancora giallo|data=19 marzo 2013|urlarchivio=https://web.archive.org/web/20140911052158/http://sport.sky.it/sport/calcio_italiano/2013/03/19/gol_di_turone_32_anni_dopo_giallo_moviola.html|urlmorto=sì}}</ref>]]
+
+Due eventi importanti segnano questa stagione: arriva [[Paulo Roberto Falcão|Falcão]], asso [[brasile|brasiliano]], centrocampista di grande talento seppure ai più sconosciuto al momento dell'ingaggio, che diverrà uno dei pilastri portanti della Roma nella prima metà del decennio; arrivano anche i promettenti centrali difensivi [[Vincenzo Romano (calciatore)|Romano]] e [[Dario Bonetti|Bonetti]], rispettivamente da {{Calcio Avellino|N}} e {{Calcio Brescia|N}}, anche se solo il secondo riuscirà a spuntare la titolarità sul campano nel corso della stagione.<ref name=cor4>{{cita|Romano|titolo=1974-1982 La grande Roma di Nils Liedholm}}.</ref>
+
+Al termine di un iniziale rodaggio del reparto arretrato (incertezze culminate nel 4-0 rimediato a Napoli), la squadra inizia a macinare gioco e punti, nonostante alcuni passi falsi contro squadre di bassa classifica; ma complici le battute d'arresto delle rivali, {{Calcio Inter|N}} e {{Calcio Juventus|N}} su tutte, riesce a tagliare il traguardo di metà campionato in testa alla classifica, perdendo poi il primato in primavera.
+
+Il punto di svolta della stagione dei capitolini, mai così vicini allo [[Scudetto (sport)|scudetto]] da [[Serie A 1941-1942|trentanove anni]] a questa parte, è il fuorigioco che non convalida la successiva rete del libero [[Maurizio Turone|Turone]] contro la Juventus, nello scontro diretto di Torino: l'eventuale segnatura – che avrebbe significato il vantaggio giallorosso, peraltro in superiorità numerica, a un quarto d'ora dal triplice fischio – avrebbe potuto riportare la compagine di [[Nils Liedholm|Liedholm]] in testa alla classifica con un punto di vantaggio sui bianconeri, a due giornate dal termine del campionato. Gli strascichi polemici circa la fondatezza di questa chiamata arbitrale, tuttora perduranti, sfociano nella rottura del rapporto di amicizia tra le rispettive tifoserie;<ref name=cor4/> ma al di là dell'episodio, il titolo è perso dai giallorossi anche a causa di alcuni inconsistenti pareggi fuori casa, nelle battute decisive, contro avversarie di modesta caratura. Al termine del campionato la Roma giunge comunque seconda, a due punti dalla Juventus campione.
+[[File:AS Roma - Coppa Italia 1980-81 - Tancredi, Turone, Di Bartolomei, Conti.jpg|thumb|left|Da sinistra: [[Franco Tancredi|Tancredi]], Turone, il neocapitano [[Agostino Di Bartolomei|Di Bartolomei]] e [[Bruno Conti|Conti]] festeggiano la quarta Coppa Italia romanista]]
+
+La Roma conquista per il secondo anno di seguito la [[Coppa Italia 1980-1981|Coppa Italia]], la quarta della sua storia, in un epilogo che ricalca quello di dodici mesi prima, superando all'atto finale il {{Calcio Torino|N}} ai [[tiri di rigore]].<ref name=cor4/> Per nulla memorabile, invece, la campagna europea in [[Coppa delle Coppe 1980-1981|Coppa delle Coppe]]: l'eliminazione giunge precocemente nei sedicesimi di finale ad opera del {{Calcio Carl Zeiss Jena|N}}, a causa della netta sconfitta per 4-0 rimediata in [[Germania Est]], che rende vana la precedente vittoria capitolina per 3-0 dell'Olimpico.
+
+Al termine della stagione, entrambi ormai scarsamente utilizzati, si ritirano dal calcio giocato [[Romeo Benetti|Benetti]] e [[Francesco Rocca (calciatore)|Rocca]]: il primo per sopraggiunta anzianità mentre il secondo, a neanche 27 anni, a causa del mancato recupero dal grave infortunio patito cinque anni addietro. Lascia il club giallorosso anche l'ex capitano [[Sergio Santarini|Santarini]], per accasarsi al {{Calcio Catanzaro|N}}.
+
+== Divise ==
+[[File:Serie A 1980-81 - Inter vs Roma - Paulo Roberto Falcão.jpg|thumb|upright|Il regista brasiliano [[Paulo Roberto Falcão|Falcão]], primo acquisto straniero della Roma dalla ''riapertura delle frontiere'', qui in azione sul campo dell'Inter con la seconda divisa bianca]]
+
+Lo sponsor tecnico è Playground.
+
+La divisa primaria della Roma è costituita da maglia rossa con colletto a polo giallo, pantaloncini rossi e calzettoni rossi bordati di giallo. In trasferta la Lupa usa una maglia bianca con colletto a polo giallorosso, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. I portieri hanno due divise: la prima è formata da maglia grigia con colletto a polo nero, pantaloncini neri e calzettoni bianchi, la seconda è costituita da maglia rossa con colletto a polo abbinata agli stessi calzettoni e calzoncini. Tutte le divise presentano cucite sul petto la coccarda della [[Coppa Italia]].<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 143-145}}.</ref>
+{|
+|{{Divisa Calcio
+|pattern_la =_asromaanni80h
+|leftarm = 6a0c27
+|pattern_b = _asroma8082h
+|body = 6a0c27
+|pattern_ra =_asromaanni80h
+|rightarm = 6a0c27
+|shorts = 6a0c27
+|pattern_so =_asroma1213h
+|socks = 6a0c27
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma8081a
+|leftarm = FFFFFF
+|pattern_b = _asroma8081A
+|body = FFFFFF
+|pattern_ra =_asroma8081a
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma8081a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_blackborder
+|leftarm = 858585
+|pattern_b =_asroma8081gk1
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =
+|socks = ff
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 901416
+|pattern_b =_asroma8081gk2
+|body = 858585
+|pattern_ra =
+|rightarm = 901416
+|shorts = 000000
+|pattern_so =
+|socks = ff
+|title = 2ª portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor4/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Dino Viola]]
+;Area organizzativa
+* Segretario: Lino Raule
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Nils Liedholm]]
+* Allenatore in seconda: [[Luciano Tessari]]
+* Preparatore atletico: Gaetano Colucci
+{{Colonne spezza}}
+;Area sanitaria
+* Medico sociale: Ernesto Alicicco
+* Massaggiatore: Vittorio Boldorini
+{{Colonne fine}}
+
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 80/81">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1980|titolo=Rosa AS Roma - Saison 80/81|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Superchi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Tancredi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mauro Amenta]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Dario Bonetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Domenico Maggiora]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Vincenzo Romano (calciatore)|Vincenzo Romano]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Rocca (calciatore)|Francesco Rocca]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Spinosi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Santarini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Maurizio Turone]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Carlo Ancelotti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luca Birigozzi]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Romeo Benetti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bruno Conti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Michele De Nadai]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Agostino Di Bartolomei]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Di Carlo]]<ref name=p/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Di Chiara]] <ref name=p>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=BRA 1968-1992|nome=[[Paulo Roberto Falcão]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Giovannelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Scarnecchia]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Attilio Sorbi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Pruzzo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Alberto Faccini]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 80/81"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| P || [[Franco Superchi]] || {{Calcio Verona|N}} || ''definitivo''
+|-
+| D || [[Dario Bonetti]] || {{Calcio Brescia|N}} || ''definitivo''
+|-
+| D || [[Vincenzo Romano (calciatore)|Vincenzo Romano]] || {{Calcio Avellino|N}} || ''definitivo''
+|-
+| C || [[Carlo Ancelotti]] || {{Calcio Parma|N}} || ''riscattato''
+|-
+| C || [[Luca Birigozzi]] || {{Calcio Ternana|N}} || ''definitivo''
+|-
+| C || [[Paulo Roberto Falcão]] || {{Calcio Internacional|N}} || ''definitivo'' (1,5 milioni $ <ref name=corrieredellosport>{{cita testo|url=http://www.corrieredellosport.it/gs_storie/2010/08/23-125596/L%27ottavo+re+di+Roma|titolo=L'ottavo re di Roma|urlarchivio=https://web.archive.org/web/20160421185748/http://www.corrieredellosport.it/gs_storie/2010/08/23-125596/L%27ottavo+re+di+Roma }}, [[Corriere dello sport]], 23 agosto 2010</ref>)
+|-
+| C || [[Attilio Sorbi]] || {{Calcio Ternana|N}} || ''definitivo''
+|-
+| C || [[Paolo Alberto Faccini]] || {{Calcio Nocerina|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| P || [[Paolo Conti (calciatore 1950)|Paolo Conti]] || {{Calcio Verona|N}} || ''definitivo''
+|-
+| P || Claudio Del Ciello || {{Calcio Pescara|N}} || ''definitivo''
+|-
+| D || [[Franco Peccenini]] || {{Calcio Catanzaro|N}} || ''definitivo''
+|-
+| C || [[Walter Allievi]] || {{Calcio Parma|N}} || ''definitivo''
+|-
+| C || [[Massimo Lattuca]] || {{Calcio Latina|N}} || ''definitivo''
+|-
+| C || [[Maurizio Raggi]] || {{Calcio Banco di Roma|N}} || ''definitivo''
+|-
+| A || [[Guido Ugolotti]] || {{Calcio Avellino|N}} || ''prestito''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1980-1981}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Città = [[Como]]
+|Giornomese = 14 settembre
+|Anno = 1980
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Como
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081ComoRoma_Unita_af.jpg
+|Squadra 2 = Roma
+|Stadio = [[Stadio Giuseppe Sinigaglia]]
+|Spettatori = circa 16.000
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Marcatori 2 = {{goal|24|aut}} [[Piero Volpi|Volpi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 settembre
+|Anno = 1980
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaBrescia_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Egidio Ballerini]]
+|Cittarbitro = [[La Spezia]]
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{goal|50|rig.}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 1980
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081BolognaRoma_Unita_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 40.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Salvatore Garritano|Garritano]] {{goal|13}}
+|Marcatori 2 = {{goal|71|rig.}} [[Roberto Pruzzo|Pruzzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 1980
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaTorino_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 46.652
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Carlo Ancelotti|Ancelotti]] {{goal|49}}<br />[[Agostino Di Bartolomei|Di Bartolomei]] {{goal|54}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 5ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081NapoliRoma_Unita_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Vincenzo Romano (calciatore)|Romano]] {{goal|23|aut.}}<br/>[[Claudio Pellegrini (calciatore)|Pellegrini]] {{goal|32}}<br/>[[Agostino Di Bartolomei|Di Bartolomei]] {{goal|57|aut.}}<br/>[[Enrico Nicolini|Nicolini]] {{goal|60}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Milano]]
+|Giornomese = 26 ottobre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 4
+|Referto = https://www.asromaultras.org/8081InterRoma_Unita_af.jpg
+|Squadra 2 = Roma
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Alessandro Altobelli|Altobelli]] {{goal|58|rig.|87}}
+|Marcatori 2 = {{goal|2|aut.}} [[Graziano Bini|Bini]]<br/>{{goal|14||30||80|rig.}} [[Roberto Pruzzo|Pruzzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catanzaro
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaCatanzaro_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = [[Livorno]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 novembre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081CagliariRoma_Unita_af.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = circa 30.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Pietro Paolo Virdis|Virdis]] {{goal|78}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 30 novembre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaUdinese_Unita_af.jpg
+|Squadra 2 = Udinese
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Domenico Lops]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{goal|28||35|rig.|79|}}
+|Marcatori 2 = {{goal|40}} [[Nicola Zanone|Zanone]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 dicembre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081FiorentinaRoma_Unita_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 50.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giancarlo Antognoni|Antognoni]] {{goal|62|rig.}}
+|Marcatori 2 = {{goal|55}} [[Bruno Conti|Conti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 dicembre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaAscoli_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Roberto Scarnecchia|Scarnecchia]] {{goal|15}}<br />[[Roberto Pruzzo|Pruzzo]] {{goal|29}}<br />[[Gian Franco Bellotto|Bellotto]] {{goal|35|aut.}}<br />[[Carlo Ancelotti|Ancelotti]] {{goal|65}}
+|Marcatori 2 = {{goal|5}} [[Silvio Paolucci (allenatore)|Paolucci]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 dicembre
+|Anno = 1980
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081PerugiaRoma_Unita_af.jpg
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Antonio Di Gennaro (calciatore)|Di Gennaro]] {{goal|89}}
+|Marcatori 2 = {{goal|5}} [[Roberto Scarnecchia|Scarnecchia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 gennaio
+|Anno = 1981
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaJuventus_02_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 1981
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Pistoiese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = https://www.asromaultras.org/8081PistoieseRoma_la_Stampa_af.JPG
+|Città = [[Pistoia]]
+|Stadio = [[Stadio Marcello Melani|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 2 = {{goal|2||83}} [[Roberto Pruzzo|Pruzzo]]<br />{{goal|67|aut.}} [[Sergio Borgo|Borgo]]<br />{{goal|74}} [[Bruno Conti|Conti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 1981
+|Ora = 15:00
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Avellino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaAvellino_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Maurizio Mattei]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{goal|24}}
+|Marcatori 2 = {{goal|61}} [[Giuseppe Massa|Massa]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 8 febbraio
+|Anno = 1981
+|Ora = 15:00
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaComo_la_Stampa_af.JPG
+|Squadra 2 = Como
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Arnaldo Prati]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{goal|56|rig.}}
+|Marcatori 2 = {{goal|5}} [[Adriano Lombardi|Lombardi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 1981
+|Ora = 15:00
+|Turno = 17ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/8081BresciaRoma_la_Stampa_af.JPG
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori =
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Angelo Crialesi|Crialesi]] {{goal|49}}
+|Marcatori 2 = {{goal|44}} [[Agostino Di Bartolomei|Di Bartolomei]]<br/>{{goal|56|rig.}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 febbraio
+|Anno = 1981
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaBologna_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Paulo Roberto Falcão|Falcão]] {{goal|29}}
+|Marcatori 2 = {{goal|36}} [[Giuseppe Dossena|Dossena]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 1981
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/8081TorinoRoma_La_Stampa_01_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 2 = {{goal|11}} [[Roberto Pruzzo|Pruzzo]]<br/>{{goal|38}} [[Agostino Di Bartolomei|Di Bartolomei]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 1981
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaNapoli_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{goal|50}}
+|Marcatori 2 = {{goal|71}} [[Walter Speggiorin|Speggiorin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 marzo
+|Anno = 1981
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaInter_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{goal|86}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 marzo
+|Anno = 1981
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Catanzaro
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081CatanzaroRoma_la_Stampa_af.JPG
+|Città = [[Catanzaro]]
+|Stadio = [[Stadio Nicola Ceravolo|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Massimo Palanca|Palanca]] {{goal|54}}
+|Marcatori 2 = {{goal|60}} [[Bruno Conti|Conti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 marzo
+|Anno = 1981
+|Ora = 16:30
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaCagliari_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Bruno Conti|Conti]] {{goal|80}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 aprile
+|Anno = 1981
+|Ora = 16:30
+|Turno = 24ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/8081UdineseRoma_02_la_Stampa_af.JPG
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori =
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 2 = {{goal|22}} [[Roberto Pruzzo|Pruzzo]]<br/>{{goal|65}} [[Paulo Roberto Falcão|Falcão]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 aprile
+|Anno = 1981
+|Ora = 16:00
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaFiorentina_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Arnaldo Prati]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Paolo Alberto Faccini|Faccini]] {{goal|60}}
+|Marcatori 2 = {{goal|82}} [[Daniel Ricardo Bertoni|Bertoni]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1981
+|Ora = 16:00
+|Turno = 26ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081AscoliRoma_02_la_Stampa_af.JPG
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 1981
+|Ora = 16:00
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaPerugia_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Giancarlo Redini]]
+|Cittarbitro = [[Pisa]]
+|Marcatori 1 = [[Pierluigi Frosio|Frosio]] {{goal|11|aut.}}<br/>[[Roberto Pruzzo|Pruzzo]] {{goal|21|rig.}}<br/>[[Bruno Conti|Conti]] {{goal|28}}<br/>[[Agostino Di Bartolomei|Di Bartolomei]] {{goal|68}}<br/>[[Paolo Alberto Faccini|Faccini]] {{goal|76}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Torino]]
+|Giornomese = 10 maggio
+|Anno = 1981
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081JuventusRoma_01_la_Stampa_af.JPG
+|Squadra 2 = Roma
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Paolo Bergamo]]
+|Cittarbitro = [[Livorno]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio
+|Anno = 1981
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pistoiese
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaPistoiese_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{goal|25}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Avellino]]
+|Giornomese = 24 maggio
+|Anno = 1981
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Avellino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081AvellinoRoma_la_Stampa_af.JPG
+|Squadra 2 = Roma
+|Stadio = [[Stadio Partenio]]
+|Spettatori =
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Massimo Venturini|Venturini]] {{goal|30}}
+|Marcatori 2 = {{goal|5}} [[Paulo Roberto Falcão|Falcão]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1980-1981}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1981
+|Ora = 15:00
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081FiorentinaRoma_CI_La_Stampa_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 13.000
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 2 = {{goal|87}} [[Alberto Di Chiara|Di Chiara]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1981
+|Ora = 20:45
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaFiorentina_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Mario Tonolini (arbitro)|Mario Tonolini]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 maggio
+|Anno = 1981
+|Ora = 20:30
+|Turno = Semifinale - Andata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081JuventusRoma_CI_01_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = 25.958
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 2 = {{goal|53}} [[Carlo Ancelotti|Ancelotti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Roma]]
+|Giornomese = 9 giugno
+|Anno = 1981
+|Ora = 20:30
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaJuventus_CI_01_La_Stampa_af.JPG
+|Squadra 2 = Juventus
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Giancarlo Redini]]
+|Cittarbitro = [[Pisa]]
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{goal|74|rig.}}
+|Marcatori 2 = {{goal|59}} [[Antonio Cabrini|Cabrini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 giugno
+|Anno = 1981
+|Ora = 20:30
+|Turno = Finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/8081RomaTorino_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Claudio Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Carlo Ancelotti|Ancelotti]] {{goal|31}}
+|Marcatori 2 = {{goal|59|aut.}} [[Sergio Santarini|Santarini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 giugno
+|Anno = 1981
+|Ora = 20:30
+|Turno = Finale - Ritorno
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Supplementari = X
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 2
+|PuntiTiriExtra 2 = 4
+|Referto = https://www.asromaultras.org/8081TorinoRoma_CI_01_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Agatino Cuttone|Cuttone]] {{goal|37}}
+|Marcatori 2 = {{goal|61|rig.}} [[Agostino Di Bartolomei|Di Bartolomei]]
+|TiriExtra 1 = [[Eraldo Pecci|Pecci]] {{penmiss|Parato}}<br />[[Claudio Sclosa|Sclosa]] {{pengoal}}<br />[[Dante Bertoneri|Bertoneri]] {{pengoal}}<br />[[Francesco Graziani|Graziani]] {{penmiss|Parato}}
+|TiriExtra 2 = {{pengoal}} [[Carlo Ancelotti|Ancelotti]]<br />{{pengoal}} [[Bruno Conti|Conti]]<br />{{pengoal}} [[Sergio Santarini|Santarini]]<br />{{penmiss|Parato}} [[Agostino Di Bartolomei|Di Bartolomei]]<br />{{pengoal}} [[Paulo Roberto Falcão|Falcão]]
+|Sfondo=on
+}}
+
+=== Coppa delle Coppe ===
+{{vedi anche|Coppa delle Coppe 1980-1981}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1980
+|Ora = 20:45
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Carl Zeiss Jena
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081RomaCarlZeiss_17-9-80_la_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Nikola Milanov Doudine]]
+|Nazarbitro = BGR 1971-1990
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{goal|5}}<br />[[Carlo Ancelotti|Ancelotti]] {{goal|28}}<br />[[Paulo Roberto Falcão|Falcão]] {{goal|71}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1980
+|Ora = 20:00
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Carl Zeiss Jena
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/8081CarlZeissRoma_1-10-80_la_Stampa_af.JPG
+|Città = [[Jena]]
+|Stadio = [[Ernst-Abbe-Sportfeld]]
+|Spettatori =
+|Arbitro = [[André Daina]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Andreas Krause|Krause]] {{goal|26}}<br/>[[Lutz Lindemann|Lindemann]] {{goal|38}}<br/>[[Andreas Bielau|Bielau]] {{goal|71||87}}
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor4/>
+
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1980-1981|Serie A]]
+|punti1=42
+|cv1=8
+|cn1=7
+|cp1=0
+|cgf1=23
+|cgs1=7
+|tv1=6
+|tn1=7
+|tp1=2
+|tgf1=20
+|tgs1=13
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1980-1981|Coppa Italia]]
+|punti2=-
+|cv2=0
+|cn2=3
+|cp2=0
+|cgf2=2
+|cgs2=2
+|tv2=2
+|tn2=1
+|tp2=0
+|tgf2=3
+|tgs2=1
+|comp3={{simbolo|Coppa delle Coppe.svg|12}} [[Coppa delle Coppe 1980-1981|Coppa delle Coppe]]
+|punti3=-
+|cv3=1
+|cn3=0
+|cp3=0
+|cgf3=3
+|cgs3=0
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=0
+|tgs3=4
+}}
+=== Andamento in campionato ===
+Fonte:<ref name=rss>{{cita testo|url=http://www.rsssf.com/tablesi/ital81.html|titolo=Campionato 1980-81 su rsssf.com}}</ref>
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=C |m16=C |m17=T |m18=C |m19=T |m20=C |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T }}
+{{Andamento/Risultato |m1=V |m2=V |m3=N |m4=V |m5=P |m6=V |m7=N |m8=P |m9=V |m10=N |m11=V |m12=N |m13=N |m14=V |m15=N |m16=N |m17=V |m18=N |m19=V |m20=N |m21=V |m22=N |m23=V |m24=V |m25=N |m26=N |m27=V |m28=N |m29=V |m30=N }}
+{{Andamento/Posizione |r=14 |m1=1 |m2=1 |m3=1 |m4=1 |m5=1 |m6=1 |m7=1 |m8=1 |m9=1 |m10=1 |m11=1 |m12=1 |m13=1 |m14=1 |m15=1 |m16=1 |m17=1 |m18=1 |m19=1 |m20=1 |m21=1 |m22=2 |m23=1 |m24=1 |m25=1 |m26=2 |m27=2 |m28=2 |m29=2 |m30=2 }}
+{{Andamento/Fine}}
+
+=== Statistiche dei giocatori ===
+Desunte dai tabellini de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati quattro autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa<br />delle Coppe
+| Cartellini = no
+| {{Sortname|F.|Superchi|Franco Superchi}} {{Sommastat|C=no |0|0|-|- |0|-0|-|- |0|-0|-|-}}
+| {{Sortname|F.|Tancredi|Franco Tancredi}} {{Sommastat|C=no |30|-20|-|- |6|-3|-|- |2|-4|-|-}}
+| {{Sortname|M.|Amenta|Mauro Amenta}} {{Sommastat|C=no |3|0|-|- |2|0|-|- |1|0|-|-}}
+| {{Sortname|D.|Bonetti|Dario Bonetti}} {{Sommastat|C=no |20|0|-|- |4|0|-|- |-|-|-|-}}
+| {{Sortname|D.|Maggiora|Domenico Maggiora}} {{Sommastat|C=no |15|0|-|- |5|0|-|- |2|0|-|-}}
+| {{Sortname|V.|Romano|Vincenzo Romano (calciatore)|Vincenzo Romano}} {{Sommastat|C=no |22|0|-|- |5|0|-|- |2|0|-|-}}
+| {{Sortname|F.|Rocca|Francesco Rocca (calciatore)}} {{Sommastat|C=no |6|0|-|- |2|0|-|- |1|0|-|-}}
+| {{Sortname|L.|Spinosi|Luciano Spinosi}} {{Sommastat|C=no |29|0|-|- |0|0|-|- |2|0|-|-}}
+| {{Sortname|S.|Santarini|Sergio Santarini}} {{Sommastat|C=no |7|0|-|- |-|-|-|- |0|0|-|-}}
+| {{Sortname|M.|Turone|Maurizio Turone}} {{Sommastat|C=no |25|0|-|- |6|4|-|- |2|0|-|-}}
+| {{Sortname|C.|Ancelotti|Carlo Ancelotti}} {{Sommastat|C=no |29|2|-|- |6|2|-|- |2|1|-|-}}
+| {{Sortname|L.|Birigozzi|Luca Birigozzi}} {{Sommastat|C=no |3|0|-|- |2|0|-|- |-|-|-|-}}
+| {{Sortname|R.|Benetti|Romeo Benetti}} {{Sommastat|C=no |2|0|-|- |2|0|-|- |1|0|-|-}}
+| {{Sortname|B.|Conti|Bruno Conti}} {{Sommastat|C=no |27|5|-|- |6|0|-|- |2|0|-|-}}
+| {{Sortname|M.|De Nadai|Michele De Nadai}} {{Sommastat|C=no |12|0|-|- |1|0|-|- |0|0|-|-}}
+| {{Sortname|A.|Di Bartolomei|Agostino Di Bartolomei}} {{Sommastat|C=no |30|6|-|- |4|2|-|- |2|0|-|-}}
+| {{Sortname|A.|Di Carlo|Antonio Di Carlo}} {{Sommastat|C=no |-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|A.|Di Chiara|Alberto Di Chiara}} {{Sommastat|C=no |1|0|-|- |1|1|-|- |-|-|-|-}}
+| {{Sortname|P.|Falcão|Paulo Roberto Falcão}} {{Sommastat|C=no |25|3|-|- |5|0|-|- |2|1|-|-}}
+| {{Sortname|P.|Giovannelli|Paolo Giovannelli}} {{Sommastat|C=no |7|0|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|R.|Scarnecchia|Roberto Scarnecchia}} {{Sommastat|C=no |25|2|-|- |6|0|-|- |1|0|-|-}}
+| {{Sortname|A.|Sorbi|Attilio Sorbi}} {{Sommastat|C=no |4|0|-|- |-|-|-|- |1|0|-|-}}
+| {{Sortname|R.|Pruzzo|Roberto Pruzzo}} {{Sommastat|C=no |28|18|-|- |3|0|-|- |2|1|-|-}}
+| {{Sortname|P.|Faccini|Paolo Alberto Faccini}} {{Sommastat|C=no |3|2|-|- |3|0|-|- |-|-|-|-}}
+}}
+
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1980-1981|Campionato Primavera]]
+** [[Coppa Italia Primavera 1980-1981|Coppa Italia Primavera]]
+** [[Torneo di Viareggio 1981|Torneo di Viareggio]]: vincitore
+** [[Blue Stars/FIFA Youth Cup]]: vincitore
+* '''Allievi Nazionali''': vincitore
+
+== Note ==
+<references />
+
+== Bibliografia ==
+'''Libri'''
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+
+'''Videografia'''
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+
+== Voci correlate ==
+* [[Er gol de Turone era bono]]
+
+== Collegamenti esterni ==
+* {{cita web|url=http://www.rsssf.com/tablesi/ital81.html|titolo=Serie A 1980-1981|lingua=en}}
+* {{cita web|url=https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1980|titolo=Profilo e statistiche|lingua=it, en, de}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1980-1981}}
+{{Portale|calcio}}

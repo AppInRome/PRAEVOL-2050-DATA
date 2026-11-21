@@ -1,0 +1,1046 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1957-1958
+|immagine = AsRoma5758.jpg
+|didascalia = Una formazione della Roma nel 1957-1958
+|allenatore1 = {{Bandiera|ENG}} [[Alec Stock]]<ref>Fino alla 11ª giornata.</ref>, poi<br />{{Bandiera|SWE}} [[Gunnar Nordahl]]<ref name="dalla12">Dalla 12ª in poi.</ref>
+|allenatore2 = {{Bandiera|ITA}} [[Antonio Busini]]<ref name="dalla12" />
+|titolo allenatore2 = Direttore tecnico
+|presidente = {{Bandiera|ITA}} [[Renato Sacerdoti]], poi<br />{{Bandiera|ITA}} [[Anacleto Gianni]]
+|campionato = [[Serie A 1957-1958|Serie A]]
+|campionato posizione = 5º
+|coppa1 = [[Coppa Italia 1957-1958|Coppa Italia]]
+|coppa1 posizione = Fase a gironi
+|presenze campionato = [[Enzo Menegotti|Menegotti]], [[Luciano Panetti|Panetti]], [[Giosuè Stucchi|Stucchi]] (34)
+|presenze totale = [[Dino da Costa|Da Costa]] (39)
+|marcatore campionato = Da Costa (19)
+|marcatore totale = Da Costa (23)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1956-1957|1956-1957]]
+|stagione dopo = [[Associazione Sportiva Roma 1958-1959|1958-1959]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1957-1958'''.
+== Stagione ==
+All'inizio della stagione [[Guido Masetti]], che aveva traghettato la squadra l'anno precedente, viene sostituito dall'inglese [[Alec Stock]] in qualità di direttore tecnico e affiancato dall'allenatore [[Antonio Busini]]: questo connubio si rivela negativo, poiché Stock non conosce l'italiano e ha gravi problemi di comunicazione con il suo secondo e con la squadra. Dopo aver liquidato l'inglese, sulla panchina siede [[Gunnar Nordahl]] in qualità di allenatore-giocatore coadiuvato dallo stesso [[Antonio Busini]]. Nell'aprile del [[1958]] il presidente [[Renato Sacerdoti]] lascia la guida della squadra capitolina ad Anacleto Gianni. La squadra a fine stagione si classifica quinta in campionato.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a V giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con banda giallorossa tra torace e addome, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. Viene usata in alcune occasioni un'altra divisa nelle trasferte, costituita da maglia verde con banda giallorossa, pantaloncini neri e calze nere bordate di giallorosso. I portieri hanno due divise, una costituita da maglia grigia con colletto a polo giallorosso, pantaloncini neri e calze rosse bordate di giallo, l'altra con maglia con colletto a girocollo giallorosso e gli stessi abbinamenti.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 78-80}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma40sh
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_AS Roma 1939a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asromaa
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 05781d
+|pattern_b =_asroma5758t
+|body = 030347
+|pattern_ra =
+|rightarm = 05781d
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma20sgk
+|leftarm = 858585
+|pattern_b =_asroma5051gk
+|body = 858585
+|pattern_ra =_asroma20sgk
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title =Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Renato Sacerdoti]], poi dal ''1958'' Anacleto Gianni
+;Area tecnica
+* Allenatore: [[Alec Stock]], poi dalla ''12ª'' [[Gunnar Nordahl]]
+* Direttore tecnico: [[Antonio Busini]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 57/58">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1957|titolo=Rosa AS Roma - Saison 57/58|accesso=9 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Panetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Tessari]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giulio Corsini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Griffith]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giosuè Stucchi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Armando Cavazzuti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Giuliano (calciatore)|Luigi Giuliano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Egidio Guarnacci]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Augusto Magli (calciatore)|Augusto Magli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Enzo Menegotti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giampaolo Menichelli]]<ref name="P">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Orlando]]<ref name="P"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Sergio Pellegrini|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Pestrin]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Romano Pontrelli|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Scaratti]]<ref name="P"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=BRA 1889-1960|nome=[[Dino da Costa]] ({{Bandiera|ITA|dim=10}})|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=URY|nome=[[Alcides Ghiggia]] ({{Bandiera|ITA|dim=10}})|altro=[[Capitano (calcio)|capitano]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Severino Lojodice]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Egidio Morbello]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Gunnar Nordahl]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Secchi]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 57/58"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D ||[[Giulio Corsini]]|| {{Calcio Atalanta|NB}} || ''definitivo''
+|-
+| D ||[[Giovanni Griffith]]|| {{Calcio Palermo|NB}}|| ''definitivo''
+|-
+| C ||[[Piero Betello]]|| {{Calcio Palermo|NB}} || ''fine prestito''
+|-
+| C ||[[Piero Biagini]]|| {{Calcio Novara|NB}} || ''fine prestito''
+|-
+| C ||[[Armando Cavazzuti]]|| {{Calcio Cagliari|NB}} || ''fine prestito''
+|-
+| C ||[[Augusto Magli (calciatore)|Augusto Magli]]|| {{Calcio Udinese|NB}} || ''definitivo''
+|-
+| C ||[[Enzo Menegotti]]|| {{Calcio Udinese|NB}} || ''definitivo''
+|-
+| A ||[[Egidio Morbello]]|| {{Calcio Alessandria|NB}} || ''definitivo''
+|-
+| A ||[[Giuseppe Secchi]]|| {{Calcio Udinese|NB}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| D ||[[Amos Cardarelli]]|| {{Calcio Udinese|NB}} || ''definitivo''
+|-
+| D ||[[Ennio Cardoni]]|| {{Calcio Atalanta|NB}} || ''definitivo''
+|-
+| C ||[[Ermanno Alloni]]|| {{Calcio Taranto|NB}} || ''definitivo''
+|-
+| C ||[[Giorgio Barbolini]]|| {{Calcio Inter|NB}} || ''definitivo''
+|-
+| C ||[[Piero Betello]]|| {{Calcio Napoli|NB}} || ''definitivo''
+|-
+| C ||[[Piero Biagini]]|| {{Calcio Taranto|NB}} || ''definitivo''
+|-
+| C ||[[Antonio Marcellini]]|| {{Calcio Alessandria|NB}} || ''prestito''
+|-
+| C ||[[Arcadio Venturi]]||| {{Calcio Inter|NB}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1957-1958}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 settembre
+|Anno = 1957
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaSpal_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|60|rig.}}
+|Marcatori 2 = {{Goal|37|aut.}} [[Giacomo Losi|Losi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 1957
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758AtalantaRoma_CorrSport_01_af.JPG
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 1957
+|Ora = 16:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaPadova_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|57}}<br />[[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|75|rig.}}<br />[[Giuseppe Secchi|Secchi]] {{Goal|88}}
+|Marcatori 2 = {{Goal|61}} [[Enore Boscolo|Boscolo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 1957
+|Ora = 16:00
+|Turno = 4ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758TorinoRoma_CorrSport_01_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Riccardo Pieri]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 ottobre
+|Anno = 1957
+|Ora = 15:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaGenoa_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Severino Lojodice|Lojodice]] {{Goal|14}}<br />[[Dino da Costa|Da Costa]] {{Goal|86}}
+|Marcatori 2 = {{Goal|81}} [[Luciano Delfino|Delfino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 ottobre
+|Anno = 1957
+|Ora = 10:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaVerona_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|30|rig.}}<br />[[Mario Tesconi|Tesconi]] {{Goal|68|aut.}}
+|Marcatori 2 = {{Goal|40|rig.}} [[Enrico Larini|Larini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 ottobre
+|Anno = 1957
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758FiorentinaRoma_CorrSport_01_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Riccardo Pieri]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Ardico Magnini|Magnini]] {{Goal|64}}<br />[[Miguel Montuori|Montuori]] {{Goal|87}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 1957
+|Ora = 15:00
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758RomaLazie_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 80.000 circa
+|Arbitro = [[Friedrich Seipelt]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Severino Lojodice|Lojodice]] {{Goal|64}}<br />[[Dino da Costa|Da Costa]] {{Goal|70}}<br />[[Alcides Ghiggia|Ghiggia]] {{Goal|85}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758BolognaRoma_CorrSport_01_af.JPG
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 novembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5758RomaUdinese_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Guido Mori]]
+|Cittarbitro = [[Cremona]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|32}}<br />[[Giosuè Stucchi|Stucchi]] {{Goal|75}}<br />[[Gunnar Nordahl|Nordahl]] {{Goal|86}}
+|Marcatori 2 = {{Goal|15}} [[Mario Pantaleoni|Pantaleoni]]<br />{{Goal|46|aut.|65|aut.}} [[Giovanni Griffith|Griffith]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 novembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758NapoliRoma_CorrSport_01_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Arturo Collana|Stadio del Vomero]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 =
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 novembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaVicenza_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Luigi Grillo (arbitro)|Luigi Grillo]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Giovanni Griffith|Griffith]] {{Goal|90|rig.}}
+|Marcatori 2 = {{Goal|57|rig.}} [[Mario David|David]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/milan%20roma%2057-58%20a.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Friedrich Seipelt]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|7}}
+|Marcatori 2 = {{Goal|88}} [[Dino da Costa|Da Costa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 dicembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Alessandria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5758AlessandriaRoma_CorrSport_01_af.JPG
+|Città = [[Alessandria (Italia)|Alessandria]]
+|Stadio = [[Stadio Giuseppe Moccagatta]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Marco Savioni|Savioni]] {{Goal|18}}
+|Marcatori 2 = {{Goal|40}} [[Paolo Pestrin|Pestrin]]<br />{{Goal|52}} [[Dino da Costa|Da Costa]]<br />{{Goal|70}} [[Severino Lojodice|Lojodice]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 dicembre
+|Anno = 1957
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaInter_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|40}} [[Renzo Rovatti|Rovatti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 gennaio
+|Anno = 1958
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758SampdoriaRoma_Unita_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 13.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Eddie Firmani|Firmani]] {{Goal|19||23||37}}
+|Marcatori 2 = {{Goal|43}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 1958
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaJuventus_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 85.000 circa
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giovanni Griffith|Griffith]] {{Goal|4|rig.}}<br />[[Severino Lojodice|Lojodice]] {{Goal|17||88}}<br />[[Dino da Costa|Da Costa]] {{Goal|55}}
+|Marcatori 2 = {{Goal|35}} [[Giampiero Boniperti|Boniperti]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 gennaio
+|Anno = 1958
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758SpalRoma_Unita_af.jpg
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Giancarlo Vitali (calciatore)|Vitali]] {{Goal|61}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 febbraio
+|Anno = 1958
+|Ora = 14:45
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758RomaAtalanta_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Luigi Grillo (arbitro)|Luigi Grillo]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 febbraio
+|Anno = 1958
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758PadovaRoma_Unita_01_af.jpg
+|Città = [[Padova]]
+|Stadio = [[Stadio Silvio Appiani]]
+|Spettatori =
+|Arbitro = [[Silvio Ferrari (arbitro)|Silvio Ferrari]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Sergio Brighenti|Brighenti]] {{Goal|78}}<br />[[Silvano Moro|Moro]] {{Goal|80|rig.}}<br />[[Humberto Rosa|Rosa]] {{Goal|88}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio
+|Anno = 1958
+|Ora = 14:30
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758RomaTorino_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|47||65}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 1958
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5758GenoaRoma_Unita_01_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 22.000 circa
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Julio Abbadie|Abbadie]] {{Goal|36||80}}<br />[[Paolo Barison|Barison]] {{Goal|46||69}}
+|Marcatori 2 = {{Goal|87||90}} [[Gunnar Nordahl|Nordahl]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 1958
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758VeronaRoma_CorrSport_01_af.JPG
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi (1906-1963)|Stadio Marcantonio Bentegodi]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|43}} [[Severino Lojodice|Lojodice]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 marzo
+|Anno = 1958
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758RomaFiorentina_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 1958
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758LazieRoma_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 65.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|81}}<br />[[Renzo Burini|Burini]] {{Goal|83}}
+|Marcatori 2 = {{Goal|88}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 marzo
+|Anno = 1958
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758RomaBologna_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.000 circa
+|Arbitro = [[Florenzo Annoscia]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|41}}<br />[[Severino Lojodice|Lojodice]] {{Goal|63}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 aprile
+|Anno = 1958
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5758UdineseRoma_CorrSport_01_af.JPG
+|Città = [[Udine]]
+|Stadio = [[Stadio Moretti]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Giovanni Rebuffo]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Luis Pentrelli|Pentrelli]] {{Goal|86}}
+|Marcatori 2 = {{Goal|52}} [[Dino da Costa|Da Costa]]<br />{{Goal|56}} [[Severino Lojodice|Lojodice]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 aprile
+|Anno = 1958
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5758RomaNapoli_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 70.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 =
+|Marcatori 2 = [[Beniamino Di Giacomo|Di Giacomo]] {{Goal|11}}<br />[[Luís Vinício|Vinício]] {{Goal|47}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 aprile
+|Anno = 1958
+|Ora = 15:30
+|Turno = 29ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758VicenzaRoma_CorrSport_01_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Guido Mori]]
+|Cittarbitro = [[Cremona]]
+|Marcatori 1 = [[Anthony Marchi|Marchi]] {{Goal|17}}<br />[[Sergio Campana|Campana]] {{Goal|25||83}}
+|Marcatori 2 = {{Goal|84}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 aprile
+|Anno = 1958
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/roma%20milan%2057-58%20aa.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Severino Lojodice|Lojodice]] {{Goal|6||44}}<br />[[Egidio Guarnacci|Guarnacci]] {{Goal|20}}
+|Marcatori 2 = [[Alfio Fontana|Fontana]] {{Goal|56}}<br />[[Nils Liedholm|Liedholm]] {{Goal|77}}<br />[[Amos Mariani|Mariani]] {{Goal|83}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 maggio
+|Anno = 1958
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Alessandria
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaAlessandria_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Alberto Orlando|Orlando]] {{Goal|39}}<br />[[Dino da Costa|Da Costa]] {{Goal|51}}
+|Marcatori 2 = [[Giancarlo Pistorello|Pistorello]] {{Goal|88}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 maggio
+|Anno = 1958
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758InterRoma_CorrSport_01_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Giovanni Fornari]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Antonio Angelillo|Angelillo]] {{Goal|62|rig.}}
+|Marcatori 2 = {{Goal|47}} [[Dino da Costa|Da Costa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 maggio
+|Anno = 1958
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5758RomaSampdoria_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Giuseppe Secchi|Secchi]] {{Goal|15}}<br />[[Dino da Costa|Da Costa]] {{Goal|16||22||42}}<br />[[Alcides Ghiggia|Ghiggia]] {{Goal|70|rig.}}
+|Marcatori 2 = [[Giovanni Bolzoni (calciatore 1937)|Bolzoni]] {{Goal|58}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 maggio
+|Anno = 1958
+|Ora = 21:15
+|Turno = 34ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5758JuventusRoma_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Alfeo Grignani]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Omar Sívori|Sívori]] {{Goal|6}}<br />[[John Charles|Charles]] {{Goal|41|rig.}}<br />[[Giampiero Boniperti|Boniperti]] {{Goal|48}}
+|Marcatori 2 =
+}}
+
+=== Coppa Italia===
+{{Vedi anche|Coppa Italia 1958}}
+==== Fase a gironi ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 giugno
+|Anno = 1958
+|Ora = 16:15
+|Turno = 1ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Referto = http://www.asromaultras.org/5758NapoliRoma_CI_08-06-58_CorrSport_01_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Arturo Collana|Stadio del Vomero]]
+|Spettatori = 7.000 circa
+|Arbitro = [[Florenzo Annoscia]]
+|Cittarbitro = [[Bari]]
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|57}} [[Enzo Menegotti|Menegotti]]<br />{{Goal|89}} [[Egidio Morbello|Morbello]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 giugno
+|Anno = 1958
+|Ora = 17:30
+|Turno = 2ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Referto = http://www.asromaultras.org/5758PalermoRoma_CI_15-06-58_CorrSport_01_af.JPG
+|Città = [[Palermo]]
+|Stadio = [[Stadio La Favorita]]
+|Spettatori = 10.000 circa
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Giuseppe Marchetto (calciatore 1931)|Marchetto]] {{Goal|22||59}}<br />[[Alberto Malavasi|Malavasi]] {{Goal|63}}
+|Marcatori 2 = {{Goal|72}} [[Egidio Morbello|Morbello]]<br />{{Goal|87}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 giugno
+|Anno = 1958
+|Ora = 21:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Referto = http://www.asromaultras.org/5758RomaLazie_CI_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Florenzo Annoscia]]
+|Cittarbitro = [[Bari]]
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|21}}<br />[[Giuseppe Secchi|Secchi]] {{Goal|58}}
+|Marcatori 2 = {{Goal|10||47}} [[Humberto Tozzi|Tozzi]]<br />{{Goal|69}} [[Claudio Bizzarri|Bizzarri]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 giugno
+|Anno = 1958
+|Ora = 21:30
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Referto =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Ugo Famulari]]
+|Cittarbitro = [[Messina]]
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Marcatori 1 = [[Alberto Orlando|Orlando]] {{Goal|80}}<br />[[Dino da Costa|Da Costa]] {{Goal|82}}
+|Marcatori 2 = {{Goal|85}} Molinari
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 luglio
+|Anno = 1958
+|Ora = 21:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Referto = http://www.asromaultras.org/5758RomaPalermo_CI_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Marcatori 1 = [[Giuseppe Secchi|Secchi]] {{Goal|71}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 luglio
+|Anno = 1958
+|Ora = 21:30
+|Turno = 6ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Referto = http://www.asromaultras.org/5758LazieRoma_CI_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Marcatori 1 = [[Humberto Tozzi|Tozzi]] {{Goal|32}}
+|Marcatori 2 = {{Goal|48}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1957-1958|Serie A]]
+|punti1=36
+|cv1=9
+|cn1=6
+|cp1=2
+|cgf1=33
+|cgs1=17
+|tv1=3
+|tn1=6
+|tp1=8
+|tgf1=13
+|tgs1=25
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1958|Coppa Italia]]
+|punti2=7
+|cv2=2
+|cn2=0
+|cp2=1
+|cgf2=5
+|cgs2=4
+|tv2=1
+|tn2=1
+|tp2=1
+|tgf2=5
+|tgs2=4
+}}
+=== Andamento in campionato===
+{{Andamento |nr=34}}
+{{Andamento/Luogo   |m1=C |m2=T |m3=C |m4=T |m5=C |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=T |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C |m31=C |m32=T |m33=C |m34=T }}
+{{Andamento/Risultato |m1=N |m2=N |m3=V |m4=N |m5=V |m6=V |m7=P |m8=V |m9=N |m10=N |m11=N |m12=N |m13=N |m14=V |m15=P |m16=P |m17=V |m18=P |m19=N |m20=P |m21=V |m22=P |m23=V |m24=N |m25=P |m26=V |m27=V |m28=P |m29=P |m30=N |m31=V |m32=N |m33=V |m34=P }}
+{{Andamento/Posizione |r=17 |m1=5 |m2=6 |m3=3 |m4=3 |m5=3 |m6=3 |m7=3 |m8=2 |m9=3 |m10=3 |m11=4 |m12=4 |m13=5 |m14=4 |m15=5 |m16=5 |m17=5 |m18=5 |m19=5 |m20=5 |m21=5 |m22=5 |m23=5 |m24=4 |m25=6 |m26=4 |m27=5 |m28=5 |m29=5 |m30=5 |m31=5 |m32=5 |m33=5 |m34=5 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[L'Unità]] e de [[La Stampa]].<ref>A completamento dei dati va conteggiato un autogol.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Cartellini = no
+| {{Sortname|L.|Panetti|Luciano Panetti}} {{Sommastat|C=no |34|-42|?|? |3|-6|?|?}}
+| {{Sortname|L.|Tessari|Luciano Tessari}} {{Sommastat|C=no |0|-0|?|? |3|-2|?|?}}
+| {{Sortname|G.|Corsini|Giulio Corsini}} {{Sommastat|C=no |28|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Griffith|Giovanni Griffith}} {{Sommastat|C=no |28|2|?|? |5|0|?|?}}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |9|0|?|? |6|0|?|?}}
+| {{Sortname|G.|Stucchi|Giosuè Stucchi}} {{Sommastat|C=no |34|1|?|? |4|0|?|?}}
+| {{Sortname|A.|Cavazzuti|Armando Cavazzuti}} {{Sommastat|C=no |2|0|?|? |0|0|?|?}}
+| {{Sortname|L.|Giuliano|Luigi Giuliano (calciatore)}} {{Sommastat|C=no |10|3|?|? |2|0|?|?}}
+| {{Sortname|E.|Guarnacci|Egidio Guarnacci}} {{Sommastat|C=no |16|1|?|? |6|0|?|?}}
+| {{Sortname|A.|Magli|Augusto Magli (calciatore)}} {{Sommastat|C=no |32|0|?|? |4|0|?|?}}
+| {{Sortname|E.|Menegotti|Enzo Menegotti}} {{Sommastat|C=no |34|0|?|? |2|1|?|?}}
+| {{Sortname|G.|Menichelli|Giampaolo Menichelli}} {{Sommastat|C=no |2|0|?|? |1|0|?|?}}
+| {{Sortname|A.|Orlando|Alberto Orlando}} {{Sommastat|C=no |6|1|?|? |3|1|?|?}}
+| {{Sortname|S.|Pellegrini|Sergio Pellegrini}} {{Sommastat|C=no |0|0|?|? |1|0|?|?}}
+| {{Sortname|P.|Pestrin|Paolo Pestrin}} {{Sommastat|C=no |22|1|?|? |6|0|?|?}}
+| {{Sortname|R.|Pontrelli|Romano Pontrelli}} {{Sommastat|C=no |0|0|?|? |1|0|?|?}}
+| {{Sortname|F.|Scaratti|Francesco Scaratti}} {{Sommastat|C=no |0|0|?|? |1|0|?|?}}
+| {{Sortname|D.|da Costa|Dino da Costa}} {{Sommastat|C=no |33|19|?|? |6|4|?|?}}
+| {{Sortname|A.|Ghiggia|Alcides Ghiggia}} {{Sommastat|C=no |29|2|?|? |0|0|?|?}}
+| {{Sortname|S.|Lojodice|Severino Lojodice}} {{Sommastat|C=no |30|10|?|? |6|0|?|?}}
+| {{Sortname|E.|Morbello|Egidio Morbello}} {{Sommastat|C=no |5|0|?|? |3|2|?|?}}
+| {{Sortname|G.|Nordahl|Gunnar Nordahl}} {{Sommastat|C=no |4|3|?|? |0|0|?|?}}
+| {{Sortname|G.|Secchi|Giuseppe Secchi}} {{Sommastat|C=no |16|2|?|? |6|2|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Torneo di Viareggio 1958|Torneo di Viareggio]]: Quarti di finale
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital58.html|Serie A 1957-1958 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1957|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1957-1958}}
+{{Portale|calcio}}

@@ -1,0 +1,1428 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = Associazione Sportiva Roma 2002-03.jpg
+|didascalia = La squadra in campo con la divisa casalinga europea
+|stagione = 2002-2003
+|allenatore1 = {{Bandiera|ITA}} [[Fabio Capello]]
+|allenatore2 = {{Bandiera|ITA}} [[Italo Galbiati]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 2002-2003|Serie A]]
+|campionato posizione = 8º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 2002-2003|Coppa Italia]]
+|coppa1 posizione = Finalista
+|coppa3 = [[UEFA Champions League 2002-2003|Champions League]]
+|coppa3 posizione = Seconda fase a gironi
+|presenze campionato = [[Walter Samuel|Samuel]], [[Emerson Ferreira da Rosa|Emerson]] (31)<ref name=PaniniPresenze>{{Cita|Panini|titolo=Presenze}}.</ref>
+|presenze totale = Emerson (48)
+|marcatore campionato = [[Francesco Totti|Totti]] (14)<ref name=PaniniPresenze/>
+|marcatore totale = Totti (20)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:48213}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A02-03.htm|titolo=Statistiche Spettatori Serie A 2002-2003}}</ref>
+|spettatori max = {{formatnum:74313}}<ref name=stadiapost/> vs {{Calcio Juventus|N}}<br/>(1º dicembre 2002)
+|spettatori min = {{formatnum:51018}}<ref name=stadiapost/> vs {{Calcio Piacenza|N}}<br/>(23 marzo 2003)
+|spettatori media = {{formatnum:57160}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2001-2002|2001-2002]]
+|stagione dopo = [[Associazione Sportiva Roma 2003-2004|2003-2004]]
+}}
+
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2002-2003'''.
+
+== Stagione ==
+[[File:Serie A 2003-01-25 Como vs Roma - Daniele De Rossi.jpg|thumb|upright|left|[[Daniele De Rossi]], futura ''bandiera'' romanista, fa il suo debutto in [[Serie A]] in questa stagione; nel corso della stessa troverà anche i primi gol in maglia giallorossa]]
+
+A minare la serenità di un ambiente confortato dai risultati del recente biennio – con uno [[Scudetto (sport)|Scudetto]] e un [[Serie A 2001-2002|secondo posto]] valsi la passerella in [[UEFA Champions League|Champions League]] –<ref>{{cita web|url=https://sport.sky.it/calcio/serie-a/2017/01/27/scudetto-roma-confronto-capello-spalletti-batistuta-dzeko|titolo=Roma, le 4 cose che ricordano lo scudetto 2001|autore=Angelo Mangiante|data=27 gennaio 2017}}</ref> soggiunsero polemiche interne tra [[Fabio Capello]] e [[Franco Sensi]]<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2002/05/18/capello-detta-le-regole-nessuna-rivoluzione.html|titolo=Capello detta le regole: "Nessuna rivoluzione"|autore=Francesca Ferrazza|pubblicazione=[[la Repubblica (quotidiano)|la Repubblica]]|data=18 maggio 2002|p=16}}</ref>, aventi per oggetto il mercato<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2002/05/28/ciao-bomba-vado-roma-sono-felice-ma.html|titolo=CIAO "BOMBA"|autore=Massimo Norrito|pubblicazione=la Repubblica|data=28 maggio 2002|p=9}}</ref>: ripiegando su [[Davide Bombardini|Bombardini]] dopo un vano inseguimento a [[Edgar Davids|Davids]]<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2002/giugno/28/Davids_nelle_mani_della_Roma_ga_0_0206285174.shtml|titolo=«Davids è nelle mani della Roma»|autore=Massimo Cecchini|pubblicazione=La Gazzetta dello Sport|data=28 giugno 2002}}</ref>, lo stesso allenatore si dichiarò scarsamente fiducioso sulle prospettive stagionali.<ref>{{cita web|url=https://www.repubblica.it/online/calcio2002_serie_a/intecam/intecam/intecam.html|titolo=Intervista al campionato|autore=[[Gianni Mura]]|data=14 settembre 2002}}</ref><ref>{{cita news|url=http://archiviostorico.gazzetta.it/2002/settembre/24/Botte_insulti_inferno_Roma_ga_0_0209244725.shtml|titolo=Botte e insulti, inferno Roma|autore=Lello Garinei|autore2=Stefano Boldrini|autore3=Massimo Cecchini|pubblicazione=La Gazzetta dello Sport|data=24 settembre 2002}}</ref>
+
+Tentando di riscattare in autunno una sofferta partenza<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2002/settembre/30/pensa_Totti_ga_0_0209304391.shtml|titolo=Ci pensa Totti|autore=[[Luigi Garlando]]|autore2=Massimo Cecchini|pubblicazione=La Gazzetta dello Sport|data=30 settembre 2002}}</ref><ref>{{cita news|url=https://archivio.unita.news/assets/main/2002/10/19/page_025.pdf|titolo=Capello ricomincia da Empoli|pubblicazione=[[l'Unità]]|data=19 ottobre 2002|p=25|formato=PDF}}</ref>, i capitolini coltivarono per breve tempo una rincorsa al [[Serie A 2002-2003|tricolore]] e all'[[UEFA Champions League 2002-2003|Europa]]<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2002/ottobre/21/Questa_Roma_forte_come_Milan_ga_0_0210213240.shtml|titolo=«Questa Roma forte come Milan e Juve»|autore=Claudio Gregori|autore2=Nicolò Licata|pubblicazione=La Gazzetta dello Sport|data=21 ottobre 2002}}</ref><ref>{{cita web|url=https://it.uefa.com/uefachampionsleague/news/018a-0eaa62eb4f28-4806aa023da8-1000--capello-raccomanda-prudenza/|titolo=Capello raccomanda prudenza|autore=Tom Kington|data=21 ottobre 2002}}</ref>: un pareggio archiviò il combattuto [[Derby di Roma|derby]] del 27 ottobre 2002<ref>{{cita web|url=https://www.repubblica.it/online/calcio2002_partite_a/lazioroma/lazioroma/lazioroma.html|titolo=Gol, sviste ed emozioni: pari-spettacolo nel derby|data=27 ottobre 2002}}</ref>, cui faceva seguito l'affermazione al Bernabeu con [[Francesco Totti|Totti]] ''match winner''.<ref>{{cita web|url=https://www.repubblica.it/online/calcio2002_coppe/realroma/realroma/realroma.html|titolo=La Roma va a vincere al Santiago Bernabeu|data=31 ottobre 2002}}</ref> Garantendosi il passaggio al secondo turno per mezzo di un pari con l'[[Athlītikī Enōsis Kōnstantinoupoleōs|AEK Atene]]<ref>{{cita web|url=https://www.repubblica.it/online/calcio2002_coppe/romatene/romatene/romatene.html|titolo=Roma, pareggio beffa con l'Aek: finisce seconda dietro al Real|data=12 novembre 2002}}</ref>, la squadra giallorossa trovò ad attenderla le pericolose [[Arsenal Football Club|Arsenal]] e [[Valencia Club de Fútbol|Valencia]].<ref>{{cita news|url=https://archivio.unita.news/assets/main/2002/11/25/page_019.pdf|titolo=Arsenal, «Gunners» alla francese per la Roma|autore=Francesco Caremani|pubblicazione=l'Unità|data=25 novembre 2002|p=19|formato=PDF}}</ref><ref>{{cita news|url=http://archiviostorico.gazzetta.it//2002/dicembre/11/CUPER_OSA_CAPELLO_NO_ga_0_0212114232.shtml|titolo=SE CUPER OSA E CAPELLO NO|autore=Luca Calamai|pubblicazione=La Gazzetta dello Sport|data=11 dicembre 2002|p=5}}</ref>
+
+Il mercato invernale segnalò la cessione di [[Gabriel Batistuta|Batistuta]] all'[[Football Club Internazionale Milano|Inter]]<ref>{{cita news|url=https://archiviostorico.gazzetta.it/2003/gennaio/17/Batistuta_Inter_Oggi_chiude_ga_0_030117538.shtml|titolo=Batistuta-Inter. Oggi si chiude|autore=Stefano Boldrini|autore2=Massimo Cecchini|autore3=Nicola Cecere|pubblicazione=La Gazzetta dello Sport|data=17 gennaio 2003}}</ref>, con l'argentino divenuto ormai un «peso» in spogliatoio<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2003/01/18/mercato.html|titolo=Mercato|autore=Gianni Piva|autore2=Andrea Sorrentino|pubblicazione=la Repubblica|data=18 gennaio 2003|p=53}}</ref>; turbolenta anche la situazione in campo<ref>{{cita news|url=https://archiviostorico.gazzetta.it/2003/gennaio/26/Como_arbitro_sberle_alla_Roma_ga_0_0301262653.shtml|titolo=Como e arbitro sberle alla Roma|autore=Sebastiano Vernazza|autore2=Claudio Ghisalberti|autore3=Massimo Cecchini|pubblicazione=La Gazzetta dello Sport|data=26 gennaio 2003}}</ref>, dove numerose sconfitte ponevano a rischio la ''zona Uefa'' e il proseguimento del cammino in coppa.<ref>{{cita news|url=https://archiviostorico.gazzetta.it//2003/febbraio/02/Notte_punti_Roma_respira_ga_0_030202996.shtml|titolo=Notte da 3 punti. La Roma respira|autore=Ruggiero Palombo|autore2=Stefano Boldrini|autore3=Lello Garinei|pubblicazione=La Gazzetta dello Sport|data=2 febbraio 2003}}</ref><ref>{{cita web|url=http://news.bbc.co.uk/sport2/hi/football/champions_league/2770559.stm|titolo=Carew crushes Roma|data=18 febbraio 2003|lingua=inglese}}</ref> Fallimentare appariva infatti il bilancio tratto alla pausa internazionale di marzo<ref>{{cita web|url=https://www.repubblica.it/online/calcio2002_coppe/romaajax/romaajax/romaajax.html|titolo=Champions, la Roma saluta l'Europa|data=19 marzo 2003}}</ref>, cui i romani giunsero dopo l'eliminazione dalla Champions e un anonimo centro-classifica in campionato<ref>{{cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,47/articleid,0157_01_2003_0082_0047_1061133/|titolo=Cassano e Totti in vena di magie, la Roma passeggia sul Piacenza|autore=Piero Serantoni|pubblicazione=[[La Stampa]]|data=24 marzo 2003|p=41}}</ref>: tra i singoli risultati da menzionare un 3-3 coi succitati nerazzurri<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2003/04/04/sensi-batistuta-che-fregatura-all-inter.html|titolo=Sensi: Batistuta? Che fregatura all'Inter|autore=Mattia Chiusano|pubblicazione=la Repubblica|data=4 aprile 2003|p=51}}</ref><ref>{{cita news|url=http://archiviostorico.gazzetta.it/2003/aprile/06/Sensi_show_atto_secondo_ga_0_0304063203.shtml|titolo=Sensi show, atto secondo|autore=Stefano Boldrini|pubblicazione=La Gazzetta dello Sport|data=6 aprile 2003}}</ref>, preludio al sofferto ottavo posto con cui si chiudeva il torneo.<ref>{{cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,31/articleid,0160_01_2003_0121_0031_1072715/|titolo=Reggina, crollo ai piedi della Roma|autore=Enzo Laganà|pubblicazione=La Stampa|data=4 maggio 2003|p=27}}</ref><ref>{{cita web|url=https://www.repubblica.it/online/calcio2002_partite_a/chievoroma/chievoroma/chievoroma.html|titolo=Pari a reti inviolate con la Roma, per il Chievo sfuma la Champions|data=17 maggio 2003}}</ref>
+
+Unico bagliore in coda a un'annata per molti versi amara la qualificazione alla [[Coppa UEFA 2003-2004|Coppa UEFA]]<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2003/maggio/21/Roma_sprecona_Milan_dilaga_ga_0_0305218947.shtml|titolo=Roma sprecona, il Milan B dilaga|autore=Lodovico Maradei|pubblicazione=La Gazzetta dello Sport|data=21 maggio 2003}}</ref>, dettata da una finale persa in [[Coppa Italia 2002-2003|Coppa Italia]] contro il [[Associazione Calcio Milan|Milan]] e macchiata dalle "corna" che [[Antonio Cassano|Cassano]] rivolgeva all'arbitro [[Roberto Rosetti|Rosetti]] nel ''retour match''.<ref>{{cita news|url=https://archiviostorico.gazzetta.it/2003/giugno/07/Cassano_trascina_Rosetti_nella_bufera_ga_0_0306077219.shtml|titolo=Cassano trascina Rosetti nella bufera|autore=Massimo Cecchini|pubblicazione=La Gazzetta dello Sport|data=7 giugno 2003}}</ref>
+
+== Divise e sponsor ==
+[[File:Inter vs Roma 2002-08-22 Antonio Cassano - Fabio Cannavaro.jpg|thumb|upright|Cassano (in primo piano) in azione nel precampionato con la seconda divisa ''all white'' della stagione]]
+
+Lo sponsor tecnico è [[Kappa (azienda)|Kappa]], lo sponsor ufficiale è [[Mazda]].
+
+La prima divisa è costituita da maglia rossa con colletto giallo, pantaloncini bianchi e calzettoni neri. In trasferta i Lupi usano una costituita da maglia bianca, pantaloncini bianchi, calzettoni bianchi. Come terza divisa viene usato un kit completamente nero, mentre come quarta la maglia è gialla con dettagli neri, pantaloncini e calzettoni sono neri. In [[UEFA Champions League]] i giallorossi usano nelle partite casalinghe un kit costituito da maglia rossa con [[Manica Raglan|maniche Raglan]] gialle, pantaloncini e calzettoni sono neri, in trasferta viene usata una maglia bianca con maniche argentate. I portieri usano la ''third'' e la ''fourth''.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 216-218}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_roma0203h
+|leftarm = A00000
+|pattern_b = _roma0203H
+|body = A00000
+|pattern_ra =_roma0203h
+|pattern_sh =_roma0001h
+|rightarm = A00000
+|shorts = FFFFFF
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_b = _roma0203a
+|body = FFFFFF
+|pattern_la = _roma0203a
+|leftarm = FFFFFF
+|pattern_ra = _roma0203a
+|pattern_sh =_roma0001h
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la = _roma0203t
+|pattern_b  = _roma0203t
+|pattern_ra = _roma0203t
+|pattern_sh = _roma0203t
+|pattern_so =
+|leftarm = 000000
+|body = d7d7d7
+|rightarm = 000000
+|shorts = 000000
+|socks = 000000
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _blackborder
+|leftarm = FF8000
+|pattern_b = _roma0203f
+|body = FFFFFF
+|pattern_ra = _blackborder
+|pattern_sh = _roma0203t
+|rightarm = FF8000
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = Quarta divisa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0203e1
+|leftarm = FF8000
+|pattern_b = _roma0203e1
+|body = FFFFFF
+|pattern_ra = _roma0203e1
+|pattern_sh = _roma0203t
+|rightarm = FF8000
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 1ª Europa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0203e2
+|leftarm =
+|pattern_b = _roma0203e2
+|body =
+|pattern_ra = _roma0203e2
+|rightarm =
+|shorts = FFFFFF
+|pattern_sh = _roma0001h
+|pattern_so =
+|socks = FFFFFF
+|title = 2ª Europa
+}}
+|{{Divisa Calcio
+|pattern_la = _blackborder
+|pattern_b = _asroma0203f
+|pattern_ra = _blackborder
+|pattern_sh = _roma0001h2
+|pattern_so =
+|leftarm = ed8d10
+|body = d7d7d7
+|rightarm = ed8d10
+|shorts = a00000
+|socks = a00000
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _roma0203t
+|pattern_b = _roma0203t
+|pattern_ra = _roma0203t
+|pattern_sh = _roma0203t
+|pattern_so =
+|leftarm = 000000
+|body = d7d7d7
+|rightarm = 000000
+|shorts = 000000
+|socks = 000000
+|title = 2ª portiere
+}}
+|}
+
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 02/03">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2002|titolo=Rosa AS Roma - Saison 02/03|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=ITA|nome=[[Francesco Antonioli]]|ruolo=P}}
+{{Calciatore in rosa|n=2|nazione=BRA|nome=[[Cafu]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Luigi Sartor]]|ruolo=D}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Jonathan Zebina]]|ruolo=D}}
+{{Calciatore in rosa|n=6|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=ITA|nome=[[Diego Fuser]]|ruolo=C}}
+{{Calciatore in rosa|n=8|nazione=BRA|nome=[[Francisco Govinho Lima]]|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=ITA|nome=[[Vincenzo Montella]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A|altro=C}}
+{{Calciatore in rosa|n=11|nazione=BRA|nome=[[Emerson Ferreira da Rosa|Emerson]]|ruolo=C}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=[[Carlo Zotti]]|ruolo=P}}
+{{Calciatore in rosa|n=13|nazione=ARG|nome=[[Leandro Cufré|Leandro Damián Cufré]]|ruolo=D}}
+{{Calciatore in rosa|n=15|nazione=FRA|nome=[[Olivier Dacourt]]|ruolo=C}}
+{{Calciatore in rosa|n=16|nazione=CIV|nome=[[Saliou Lassissi]]|ruolo=D}}
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Damiano Tommasi]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Antonio Cassano]]|ruolo=A}}
+{{Calciatore in rosa|n=19|nazione=ARG|nome=[[Walter Samuel]]|ruolo=D}}
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Davide Bombardini]]|ruolo=C}}
+{{Calciatore in rosa|n=21|nazione=ITA|nome=[[Alberto Aquilani]]|ruolo=C}}<ref name=PRI/>
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Ivan Pelizzoli]]|ruolo=P}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Christian Panucci]]|ruolo=D}}
+{{Calciatore in rosa|n=24|nazione=ITA|nome=[[Marco Delvecchio]]|ruolo=A}}
+{{Calciatore in rosa|n=25|nazione=URY|nome=[[Gianni Guigou]]|ruolo=C}}
+{{Calciatore in rosa|n=26|nazione=ITA|nome=[[Damiano Ferronetti]]|ruolo=D}}<ref name=PRI/>
+{{Calciatore in rosa|n=27|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C}}<ref name=PRI>Aggregato dalla Primavera</ref>
+{{Calciatore in rosa|n=28|nazione=ESP|nome=''[[Josep Guardiola]]''|ruolo=C}}<ref name=INV>Ceduto durante la sessione invernale di calciomercato</ref>
+{{Calciatore in rosa|n=30|nazione=ITA|nome=[[Massimo Marazzina]]|ruolo=A}}
+{{Calciatore in rosa|n=31|nazione=GRC|nome=[[Traïanos Dellas]]|ruolo=D}}
+{{Calciatore in rosa|n=32|nazione=FRA|nome=[[Vincent Candela]]|ruolo=D}}
+{{Calciatore in rosa|n=33|nazione=ARG|nome=''[[Gabriel Batistuta]]''|ruolo=A}}<ref name=INV/>
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 02/03"/>
+=== Sessione estiva ''(dal 1/7 al 31/8)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| D || [[Luigi Sartor]] || {{Calcio Parma|N}} || -
+|-
+| D || [[Traïanos Dellas]] || {{Calcio Perugia|N}} || ''svincolato''
+|-
+| C || [[Josep Guardiola]] || {{Calcio Brescia|N}} || ''svincolato''
+|-
+| C || [[Davide Bombardini]] || {{Calcio Palermo|N}} || -
+|-
+|A || |[[Simone Pepe]] || |{{calcio Lecco|N}}||''fine prestito''
+|-
+| A || [[Gustavo Vassallo (calciatore)|Gustavo Vassallo]] || {{Calcio Palermo|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| A || [[Gustavo Vassallo (calciatore)|Gustavo Vassallo]] || Alcalá || -
+|-
+| D || [[Cesare Bovo]] || {{Calcio Lecce|N}} || -
+|-
+| D || [[Antônio Carlos Zago]] || {{Calcio Besiktas|N}} || ''svincolato''
+|-
+| C || [[Marcos Assunção]] || Betis Siviglia || -
+|-
+| A || [[Giordano Meloni]] || {{Calcio Cesena|N}} || -
+|-
+| D || [[Sebastiano Siviglia]] || {{Calcio Parma|N}} || -
+|-
+| A || [[Abel Balbo]] || {{Calcio Boca Juniors|N}} || -
+|-
+| A ||[[Simone Pepe]] ||{{Calcio Teramo|N}} ||''prestito''
+|}
+{{colonne fine}}
+
+=== Sessione invernale ''(dal 3/1 al 31/1)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| C || [[Olivier Dacourt]] || {{Calcio Leeds|N}} || ''prestito''
+|-
+| A || [[Massimo Marazzina]] || {{Calcio Chievo|N}} || -
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| C || [[Josep Guardiola]] || {{Calcio Brescia|N}} || ''definitivo''
+|-
+| A || [[Gabriel Batistuta]] || {{Calcio Inter|N}} || ''prestito''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 2002-2003}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 2002
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 1ª giornata<ref>Il rinvio della prima giornata, in calendario per il 31 agosto e 1º settembre 2002, è stato disposto per il mancato raggiungimento di un accordo sui diritti televisivi tra società e Lega Calcio; cfr. {{cita web|url=https://img.legaseriea.it/vimages/16fdc36bc951f021/cs40.pdf|titolo=Comunicato stampa n. 40|data=30 ottobre 2002|formato=PDF}}</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/1/ROMCOM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|19}}<br />[[Francesco Totti|Totti]] {{Goal|46}}
+|Marcatori 2 = {{Goal|73}} [[Denis Godeas|Godeas]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Anno = 2002
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/2/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Julio Ricardo Cruz|Cruz]] {{Goal|59||90+1}}
+|Marcatori 2 = {{Goal|44|rig.}} [[Gabriel Batistuta|Batistuta]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 2002
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/3/ROMMOD
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|5|rig.}}
+|Marcatori 2 = {{Goal|45|rig.}} [[Omar Milanetto|Milanetto]]<br />{{Goal|78}} [[Giuseppe Sculli|Sculli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 2002
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/4/BREROM
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 = [[Roberto Baggio|Baggio]] {{Goal|45+2|rig.}}<br />[[Markus Schopp|Schopp]] {{Goal|84}}
+|Marcatori 2 = {{Goal|30|rig.|41||81}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 2002
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/5/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|23}}<br />[[Gabriel Batistuta|Batistuta]] {{Goal|76}}<br />[[Francesco Totti|Totti]] {{Goal|81||89}}
+|Marcatori 2 = {{Goal|59}} [[Néstor Sensini|Sensini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 2002
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/6/EMPROM
+|Città = [[Empoli]]
+|Stadio = [[Stadio Carlo Castellani]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Antonio Di Natale|Di Natale]] {{Goal|77}}
+|Marcatori 2 = {{Goal|31}} [[Emerson Ferreira da Rosa|Emerson]]<br />{{Goal|34}} [[Vincent Candela|Candela]]<br />{{Goal|90+3}} [[Damiano Tommasi|Tommasi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 2002
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 7ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/7/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Stefano Fiore|Fiore]] {{Goal|51}}<br />[[Dejan Stanković|Stanković]] {{Goal|75}}
+|Marcatori 2 = {{Goal|57}} [[Marco Delvecchio|Delvecchio]]<br />{{Goal|66}} [[Gabriel Batistuta|Batistuta]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 2002
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/8/ROMPER
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|67}}<br />[[Francesco Totti|Totti]] {{Goal|71}}
+|Marcatori 2 = {{Goal|39|rig.}} [[Zé Maria]]<br />{{Goal|43}} [[Fabrizio Miccoli|Miccoli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 2002
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 9ª giornata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/9/PIAROM
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Enzo Maresca|Maresca]] {{Goal|74}}
+|Marcatori 2 = {{Goal|27}} [[Antonio Cassano|Cassano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 novembre
+|Anno = 2002
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/10/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|59}}<br />[[Gabriel Batistuta|Batistuta]] {{Goal|73}}
+|Marcatori 2 = {{Goal|58}} [[Domenico Morfeo|Morfeo]]<br />{{Goal|89}} [[Okan Buruk|Okan]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 novembre
+|Anno = 2002
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/11/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Emiliano Bonazzoli|Bonazzoli]] {{Goal|11||72}}<br />[[Adrian Mutu|Mutu]] {{Goal|23|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º dicembre
+|Anno = 2002
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/12/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|12}}<br />[[Antonio Cassano|Cassano]] {{Goal|44}}
+|Marcatori 2 = {{Goal|45+2}} [[Alessandro Del Piero|Del Piero]]<br />{{Goal|85}} [[Pavel Nedvěd|Nedvěd]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Anno = 2002
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/13/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Filippo Inzaghi|Inzaghi]] {{Goal|73}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 2002
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggina
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2002-03/UNICO/UNI/14/ROMRGI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Walter Samuel|Samuel]] {{Goal|3}}<br />[[Francesco Totti|Totti]] {{Goal|24}}<br />[[Vincenzo Montella|Montella]] {{Goal|70}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 dicembre
+|Anno = 2002
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/15/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|46}} [[Walter Samuel|Samuel]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/16/ROMCHI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|89}} [[Federico Cossato|Cossato]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 gennaio
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/17/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Cristiano Doni|Doni]] {{Goal|41}}<br />[[Paolo Tramezzani|Tramezzani]] {{Goal|87}}
+|Marcatori 2 = {{Goal|9}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 gennaio
+|Anno = 2003
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Como
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/18/COMROM
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Vedin Musić|Musić]] {{Goal|82}}<br />[[Benito Carbone|Carbone]] {{Goal|90+1}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/19/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|35}}<br />[[Marco Delvecchio|Delvecchio]] {{Goal|52}}<br />[[Antonio Cassano|Cassano]] {{Goal|72}}
+|Marcatori 2 = {{Goal|42}} [[Giuseppe Signori|Signori]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 febbraio
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/20/MODROM
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Diomansy Kamara|Kamara]] {{Goal|42}}
+|Marcatori 2 = {{Goal|90}} [[Traïanos Dellas|Dellas]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 2003
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/21/ROMBRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/22/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Tiziano Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Néstor Sensini|Sensini]] {{Goal|35}}<br />[[Vincenzo Iaquinta|Iaquinta]] {{Goal|72}}
+|Marcatori 2 = {{Goal|54}} [[Vincenzo Montella|Montella]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/23/ROMEMP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 2 = {{Goal|11}} [[Antonio Di Natale|Di Natale]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|31}}<br />[[Vincenzo Montella|Montella]] {{Goal|49||68}}
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/24/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|89}}
+|Marcatori 2 = {{Goal|8}} [[Dejan Stanković|Stanković]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/25/PERROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Curi]]
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Fabrizio Miccoli|Miccoli]] {{Goal|52}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 marzo
+|Anno = 2003
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/26/ROMPIA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|11}}<br />[[Marco Delvecchio|Delvecchio]] {{Goal|30}}<br />[[Francesco Totti|Totti]] {{Goal|43}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 aprile
+|Anno = 2003
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 27ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/27/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Christian Vieri|Vieri]] {{Goal|52}}<br />[[Álvaro Recoba|Recoba]] {{Goal|59}}<br />[[Emre Belözoğlu|Emre]] {{Goal|77}}
+|Marcatori 2 = {{Goal|46}} [[Antonio Cassano|Cassano]]<br />{{Goal|82|aut.}} [[Luigi Di Biagio|Di Biagio]]<br />{{Goal|84}} [[Vincenzo Montella|Montella]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 aprile
+|Anno = 2003
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/28/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|45+1}}<br />[[Gianni Guigou|Guigou]] {{Goal|73}}
+|Marcatori 2 = {{Goal|40}} [[Adriano Leite Ribeiro|Adriano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 aprile
+|Anno = 2003
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/29/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Alessandro Del Piero|Del Piero]] {{Goal|30|rig.|39}}
+|Marcatori 2 = {{Goal|44}} [[Vincenzo Montella|Montella]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 2003
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/30/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|60}}<br />[[Damiano Tommasi|Tommasi]] {{Goal|76}}
+|Marcatori 2 = {{Goal|81}} [[Jon Dahl Tomasson|Tomasson]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 2003
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Reggina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a/match-report/2002-03/UNICO/UNI/31/RGIROM
+|Città = [[Reggio Calabria]]
+|Stadio = [[Stadio Oreste Granillo]]
+|Arbitro = [[Stefano Cassarà]]
+|Cittarbitro = [[Palermo]]
+|Marcatori 1 = [[Emiliano Bonazzoli|Bonazzoli]] {{Goal|16}}<br />[[Shunsuke Nakamura|Nakamura]] {{Goal|90+2}}
+|Marcatori 2 = {{Goal|61}} [[Damiano Tommasi|Tommasi]]<br />{{Goal|63}} [[Emerson Ferreira da Rosa|Emerson]]<br />{{Goal|68|aut.}} [[Jorge Vargas (calciatore)|Vargas]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 maggio
+|Anno = 2003
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/32/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Tiziano Pieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|31||61}}<br />[[Daniele De Rossi|De Rossi]] {{Goal|54}}
+|Marcatori 2 = {{Goal|77}} [[Giammarco Frezza|Frezza]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio
+|Anno = 2003
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/33/CHIROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 2 =
+|Marcatori 1 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 maggio
+|Anno = 2003
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2002-03/UNICO/UNI/34/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Daniele De Rossi|De Rossi]] {{Goal|30}}
+|Marcatori 2 = {{Goal|27}} [[Cristiano Doni|Doni]]<br />{{Goal|55}} [[Carmine Gautieri|Gautieri]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2002-2003}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 2002
+|Ora = 18:15 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Ottavi-Andata/Triestina-Roma.html
+|Città = [[Trieste]]
+|Stadio = [[Stadio Nereo Rocco]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Matteo Beretta|Beretta]] {{Goal|63}}
+|Marcatori 2 = {{Goal|87}} [[Gabriel Batistuta|Batistuta]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 2002
+|Ora = 17:30 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Supplementari = X
+|Rigori = X
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Ottavi-Ritorno/Roma-Triestina.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Antonio Dattilo]]
+|Cittarbitro = [[Locri]]
+|Marcatori 1 = [[Domenico Maietta|Maietta]] {{Goal|33|aut.}}
+|Marcatori 2 = {{Goal|72}} [[Dino Fava Passaro|Fava]]
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 4
+|PuntiTiriExtra 2 = 1
+|TiriExtra 1 = [[Daniele De Rossi|De Rossi]] {{Pengoal}}<br />[[Vincenzo Montella|Montella]] {{Pengoal}}<br />[[Jonathan Zebina|Zebina]] {{Pengoal}}<br />[[Vincent Candela|Candela]] {{Pengoal}}
+|TiriExtra 2 = {{Pengoal}} [[Michele Ferri|Ferri]]<br />{{Penmiss}} [[Francesco Bega|Bega]]<br />{{Penmiss}} [[Mirco Gubellini|Gubellini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2003
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Quarti-Andata/Vicenza-Roma.html
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Arbitro = [[Nicola Ayroldi]]
+|Cittarbitro = [[Molfetta]]
+|Marcatori 1 = [[Andrea Zanchetta|Zanchetta]] {{Goal|70}}
+|Marcatori 2 = {{Goal|40}} [[Vincenzo Montella|Montella]]<br />{{Goal|66}} [[Marco Delvecchio|Delvecchio]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 2003
+|Ora = 17:30 [[Central European Time|CET]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 6
+|Punteggio 2 = 3
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Quarti-Ritorno/Roma-Vicenza.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|10||21||37}}<br />[[Emerson Ferreira da Rosa|Emerson]] {{Goal|39||79}}<br />[[Cafu]] {{Goal|89|rig.}}
+|Marcatori 2 = {{Goal|5}} [[Jeda]]<br />{{Goal|44|rig.}} [[Stefan Schwoch|Schwoch]]<br />{{Goal|55}} [[Marco Veronese|Veronese]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 febbraio
+|Anno = 2003
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = Semifinale - Andata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Semifinale-Andata/Lazio-Roma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Stefano Fiore|Fiore]] {{Goal|76}}
+|Marcatori 2 = {{Goal|12}} [[Antonio Cassano|Cassano]]<br />{{Goal|49}} [[Emerson Ferreira da Rosa|Emerson]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 aprile
+|Anno = 2003
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Semifinale-Ritorno/Roma-Lazio.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|56}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 maggio
+|Anno = 2003
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = Finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Finale-Andata/Roma-Milan.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|28}}
+|Marcatori 2 = {{Goal|62|rig.|72}} [[Serginho]]<br />{{Goal|70}} [[Massimo Ambrosini|Ambrosini]]<br />{{Goal|89}} [[Andrij Ševčenko|Ševčenko]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 maggio
+|Anno = 2003
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = Finale - Ritorno
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2002-2003/CoppaItalia/Finale-Ritorno/Milan-Roma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Rivaldo]] {{Goal|65}}<br />[[Filippo Inzaghi|Inzaghi]] {{Goal|90}}
+|Marcatori 2 = {{Goal|56||64}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+
+=== UEFA Champions League ===
+{{vedi anche|UEFA Champions League 2002-2003}}
+==== Prima fase a gironi ====
+{{vedi anche|UEFA Champions League 2002-2003 (prima fase a gironi)}}
+
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 2002
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Real Madrid
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://it.uefa.com/uefachampionsleague/match/70090--roma-vs-real-madrid/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Markus Merk]]
+|Nazarbitro = DEU
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|41||74}} [[José María Gutiérrez|Guti]]<br />{{Goal|56}} [[Raúl González Blanco|Raúl]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 2002
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = AEK Atene
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefachampionsleague/match/70092--aek-vs-roma/
+|Città = [[Atene]]
+|Stadio = [[Stadio Nikos Goumas]]
+|Arbitro = [[Graham Barber]]
+|Nazarbitro = ENG
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 2002
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Genk
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70094--genk-vs-roma/
+|Città = [[Genk]]
+|Stadio = [[Cristal Arena]]
+|Arbitro = [[Alain Sars]]
+|Nazarbitro = FRA
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|81}} [[Antonio Cassano|Cassano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 2002
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genk
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefachampionsleague/match/70096--roma-vs-genk/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Zeljko Siric]]
+|Nazarbitro = HRV
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 2002
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Real Madrid
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70098--real-madrid-vs-roma/
+|Città = [[Madrid]]
+|Stadio = [[Stadio Santiago Bernabéu]]
+|Arbitro = [[Hugh Dallas]]
+|Nazarbitro = SCO
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|27}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 2002
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = AEK Atene
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70100--roma-vs-aek/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stéphane Bré]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|40}}
+|Marcatori 2 = {{Goal|90}} [[Wálter Centeno|Centeno]]
+|Sfondo = on
+}}
+
+==== Seconda fase a gironi ====
+{{vedi anche|UEFA Champions League 2002-2003 (seconda fase a gironi)}}
+
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 2002
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Arsenal
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://it.uefa.com/uefachampionsleague/match/70439--roma-vs-arsenal/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Ľuboš Micheľ|Micheľ]]
+|Nazarbitro = SVK
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|4}}
+|Marcatori 2 = {{Goal|6||70||75}} [[Thierry Henry|Henry]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 2002
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 2ª giornata
+|Squadra 1 = Ajax
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70441--ajax-vs-roma/
+|Città = [[Amsterdam]]
+|Stadio = [[Amsterdam ArenA]]
+|Arbitro = [[Markus Merk]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Zlatan Ibrahimović|Ibrahimović]] {{Goal|11}}<br />[[Jari Litmanen|Litmanen]] {{Goal|66}}
+|Marcatori 2 = {{Goal|89}} [[Gabriel Batistuta|Batistuta]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Anno = 2003
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Valencia
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70444--roma-vs-valencia/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Wolfgang Stark]]
+|Nazarbitro = DEU
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|78}} [[John Carew|Carew]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 2003
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 4ª giornata
+|Squadra 1 = Valencia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://it.uefa.com/uefachampionsleague/match/70446--valencia-vs-roma/
+|Città = [[Valencia]]
+|Stadio = [[Estadio de Mestalla|Stadio Mestalla]]
+|Arbitro = [[Frank De Bleeckere]]
+|Nazarbitro = BEL
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|24||30}} [[Francesco Totti|Totti]]<br />{{Goal|36}} [[Emerson Ferreira da Rosa|Emerson]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 2003
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Arsenal
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70447--arsenal-vs-roma/
+|Città = [[Londra]]
+|Stadio = [[Arsenal Stadium|Highbury]]
+|Arbitro = [[Urs Meier]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Patrick Vieira|Vieira]] {{Goal|12}}
+|Marcatori 2 = {{Goal|45+2}} [[Antonio Cassano|Cassano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 2003
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ajax
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/70449--roma-vs-ajax/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Herbert Fandel]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|24}}
+|Marcatori 2 = {{Goal|1}} [[Andy van der Meyde|van der Meyde]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+{{Statistiche_squadra
+|comp1=[[Serie A 2002-2003|Serie A]]
+|punti1=49
+|cv1=9
+|cn1=5
+|cp1=3
+|cgf1=33
+|cgs1=19
+|tv1=4
+|tn1=5
+|tp1=8
+|tgf1=22
+|tgs1=27
+|comp2=[[Coppa Italia 2002-2003|Coppa Italia]]
+|punti2=-
+|cv2=2
+|cn2=2
+|cp2=0
+|cgf2=10
+|cgs2=6
+|tv2=2
+|tn2=1
+|tp2=1
+|tgf2=6
+|tgs2=7
+|comp3=[[UEFA Champions League 2002-2003|Champions League]]
+|punti3=-
+|cv3=0
+|cn3=3
+|cp3=3
+|cgf3=3
+|cgs3=9
+|tv3=3
+|tn3=2
+|tp3=1
+|tgf3=7
+|tgs3=3
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=C |m15=T |m16=C |m17=T |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C |m31=T |m32=C |m33=T |m34=C}}
+{{Andamento/Risultato |m1=V |m2=P |m3=P |m4=V |m5=V |m6=V |m7=N |m8=N |m9=N |m10=N |m11=P |m12=N |m13=P |m14=V |m15=V |m16=P |m17=P |m18=P |m19=V |m20=N |m21=N |m22=P |m23=V |m24=N |m25=P |m26=V |m27=N |m28=V |m29=P |m30=V |m31=V |m32=V |m33=N |m34=P}}
+{{Andamento/Posizione |r=15 |m1=6 |m2=8 |m3=12 |m4=11 |m5=6 |m6=5 |m7=5 |m8=6 |m9=6 |m10=8 |m11=9 |m12=10 |m13=11 |m14=9 |m15=8 |m16=9 |m17=9 |m18=10 |m19=9 |m20=10 |m21=9 |m22=10 |m23=9 |m24=8 |m25=10 |m26=8 |m27=8 |m28=8 |m29=8 |m30=8 |m31=8 |m32=8 |m33=8 |m34=8}}
+{{Andamento/Fine |fonte={{cita web |url=https://www.worldfootball.net/schedule/ita-serie-a-2002-2003-spieltag/1/ |titolo=Italy » Serie A 2002/2003 » Results & Tables |editore=worldfootball.net}}}}
+
+=== Statistiche dei giocatori ===
+A completamento delle statistiche vanno conteggiati a favore della Roma un autogol in campionato e uno in Coppa Italia.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Champions League
+| {{Sortname||Aldair|Aldair}} {{Sommastat|17|0|1|0 |1|0|0|0 |5|0|3|0}}
+| {{Sortname|F.|Antonioli|Francesco Antonioli}} {{Sommastat|16|-23|0|1 |2|-4|0|0 |9|-9|0|0}}
+| {{Sortname|A.|Aquilani|Alberto Aquilani}} {{Sommastat|1|0|0|0 |1|0|0|0 |-|-|0|0}}
+| ''{{Sortname|G.|Batistuta|Gabriel Batistuta}}'' {{Sommastat|12|4|1|0 |2|1|0|0 |6|1|1|0}}
+| {{Sortname|D.|Bombardini|Davide Bombardini}} {{Sommastat|8|0|2|0 |2|0|0|0 |3|0|0|0}}
+| {{Sortname||Cafu|Cafu}} {{Sommastat|26|0|3|0 |3|1|0|0 |12|0|0|0}}
+| {{Sortname|V.|Candela|Vincent Candela}} {{Sommastat|23|1|3|0 |8|0|0|0 |10|0|2|0}}
+| {{Sortname|A.|Cassano|Antonio Cassano}}{{Sommastat|27|9|8|0 |5|1|0|1 |11|4|1|0}}
+| {{Sortname|L.|Cufré|Leandro Cufré}} {{Sommastat|8|0|0|0 |3|0|0|0 |6|0|1|0}}
+| {{Sortname|O.|Dacourt|Olivier Dacourt}} {{Sommastat|18|0|4|0 |5|0|0|0 |-|-|0|0}}
+| {{Sortname|D.|De Rossi|Daniele De Rossi}} {{Sommastat|4|2|1|0 |3|0|0|0 |-|-|0|0}}
+| {{Sortname|T.|Dellas|Traïanos Dellas}} {{Sommastat|10|1|6|2 |4|0|0|0 |3|0|0|0}}
+| {{Sortname|M.|Delvecchio|Marco Delvecchio}} {{Sommastat|16|4|1|1 |6|4|0|0 |6|1|2|0}}
+| {{Sortname||Emerson|Emerson Ferreira da Rosa}} {{Sommastat|31|2|5|1 |6|3|0|0 |11|3|1|0}}
+| {{Sortname|D.|Ferronetti|Damiano Ferronetti}} {{Sommastat|1|0|0|0 |0|0|0|0 |-|-|0|0}}
+| {{Sortname|D.|Fuser|Diego Fuser}} {{Sommastat|3|0|0|0 |2|0|0|0 |2||0|0}}
+| {{Sortname|J.|Guardiola|Josep Guardiola}} {{Sommastat|4|0|1|0 |1|0|0|0 |1|0|0|0}}
+| {{Sortname|G.|Guigou|Gianni Guigou}} {{Sommastat|14|1|2|0 |3|0|0|0 |6|0|1|0}}
+| {{Sortname|S|Lassissi|Saliou Lassissi}} {{Sommastat|-|-|0|0 |-|-|0|0 |-|-|0|0}}
+| {{Sortname|F.|Lima|Francisco Govinho Lima}} {{Sommastat|28|0|6|0 |6|0|0|0 |11|0|0|0}}
+| {{Sortname|M.|Marazzina|Massimo Marazzina}} {{Sommastat|7|0|0|0 |0|0|0|0 |-|-|0|0}}
+| {{Sortname|V.|Montella|Vincenzo Montella}} {{Sommastat|30|9|0|0 |5|2|0|0 |11|0|1|0}}
+| {{Sortname|C.|Panucci|Christian Panucci}} {{Sommastat|28|1|4|1 |6|0|0|0 |11|0|1|0}}
+| {{Sortname|M.|Paoloni|Marco Paoloni}} {{Sommastat|0|0|0|0 |0|0|0|0 |-|-|0|0}}
+| {{Sortname|I.|Pelizzoli|Ivan Pelizzoli}} {{Sommastat|19|-22|0|0 |6|-9|0|0 |3|-3|0|0}}
+| {{Sortname|W.|Samuel|Walter Samuel}} {{Sommastat|31|2|8|0 |6||0|0 |10|0|5|0}}
+| {{Sortname|L.|Sartor|Luigi Sartor}} {{Sommastat|12|0|1|0 |2|0|0|0 |0|0|0|0}}
+| {{Sortname|I.|Tomić|Ivan Tomić}} {{Sommastat|3|0|1|0 |3|0|0|0 |1|0|0|0}}
+| {{Sortname|D.|Tommasi|Damiano Tommasi}} {{Sommastat|20|3|3|0 |6|0|0|0 |10|0|2|0}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|24|14|4|0 |5|3|2|1 |6|3|1|1}}
+| {{Sortname|J.|Zebina|Jonathan Zebina}} {{Sommastat|19|0|6|1 |4|0|0|0 |8|0|2|0}}
+| {{Sortname|c.|Zotti|Carlo Zotti}} {{Sommastat|1|−1|0|0 |0|0|0|0 |0|0|0|0}}
+}}
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+* {{Cita libro|titolo=Almanacco illustrato del calcio 2004|editore=[[Panini (azienda)|Panini Editore]]|anno=2003|p=928|città=Modena|ISBN=9771129338008|cid=Panini}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital03.html|Serie A 2002-2003 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2002|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 2002-2003}}
+{{Portale|calcio}}

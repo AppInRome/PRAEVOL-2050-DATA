@@ -1,0 +1,938 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1973-1974
+|immagine = Associazione Sportiva Roma 1973-1974.jpg
+|didascalia = Una formazione della Roma nella stagione 1973-1974
+|allenatore1 = {{Bandiera|ITA}} [[Manlio Scopigno]]<ref>Fino alla 6ª giornata.</ref>, poi<br />{{Bandiera|SWE}} [[Nils Liedholm]]<ref>Dalla 7ª in poi.</ref>
+|presidente = {{Bandiera|ITA}} [[Gaetano Anzalone]]
+|campionato = [[Serie A 1973-1974|Serie A]]
+|campionato posizione = 8º
+|coppa1 = [[Coppa Italia 1973-1974|Coppa Italia]]
+|coppa1 posizione = Primo turno
+|marcatore campionato = [[Pierino Prati|Prati]] (8)
+|marcatore totale = Prati (8)
+|presenze campionato = [[Angelo Domenghini|Domenghini]], [[Francesco Rocca (calciatore)|Rocca]] (30)
+|presenze totale = Rocca (34)
+|spettatori media = {{formatnum:47597}}<ref>{{Cita web |url=http://www.stadiapostcards.com/a1.htm.htm |titolo=Media spettatori Serie A dal 62-63 al 73-74}}</ref>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1972-1973|1972-1973]]
+|stagione dopo = [[Associazione Sportiva Roma 1974-1975|1974-1975]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1973-1974'''.
+== Stagione ==
+In questa stagione il presidente [[Gaetano Anzalone]] decide di affidarsi all'allenatore [[Manlio Scopigno]] che tuttavia, dopo le prime sei giornate di campionato, si dimette ed è sostituito da [[Nils Liedholm]], con cui la Roma termina il campionato ottava. Esordisce in prima squadra, nella partita casalinga contro il {{Calcio Torino|N}}, [[Bruno Conti]], futura bandiera romanista e protagonista del [[Serie A 1982-1983|secondo scudetto]] capitolino.<ref name=cor3>{{cita|Romano|titolo=1965-1973 L'era dei maghi: da Oronzo Pugliese a Helenio Herrera}}.</ref>
+
+== Divise ==
+Lo sponsor tecnico è [[Lacoste (azienda)|Lacoste]]. La divisa primaria della Roma è costituita da maglia rossa con colletto a polo giallo, pantaloncini bianchi e calzettoni rossi bordati di giallo. In trasferta la Lupa usa una maglia bianca bordata di giallorosso, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. La terza divisa è formata da maglia gialla con collo a V rosso, pantaloncini bianchi e calzettoni gialli bordati di rosso. I portieri usano maglia, pantaloncini e calzettoni neri bordati di giallorosso.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 122-124}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma4950h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asroma2728
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma7073h
+|leftarm = FFFFFF
+|pattern_b =_asroma1213a
+|body = FFFFFF
+|pattern_ra =_asroma7073h
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asromaa
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma6263t
+|leftarm = 05781d
+|pattern_b =_asroma6263t
+|body = 030347
+|pattern_ra =_asroma6263t
+|rightarm = 05781d
+|shorts = ff
+|pattern_so =_asroma7374t
+|socks = 030347
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma6061gk
+|body = 000000
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor3/>
+{{Colonne}}
+;Area direttiva:
+* [[Gaetano Anzalone]]
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Manlio Scopigno]], poi dalla ''7ª'' [[Nils Liedholm]]
+{{colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 73/74">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1973|titolo=Rosa AS Roma - Saison 73/74|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Conti (calciatore 1950)|Paolo Conti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Ginulfi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Quintini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Batistoni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Bertini (calciatore)|Giovanni Bertini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Liborio Liguori]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giorgio Morini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Peccenini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Claudio Ranieri]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Santarini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Vichi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bruno Conti]]<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Domenghini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Rocca (calciatore)|Francesco Rocca]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Cordova]]|ruolo=C|altro=c}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Agostino Di Bartolomei]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Piergiorgio Negrisolo]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Valerio Spadoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Renato Cappellini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Casaroli]]<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Orazi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Pierino Prati]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Reif]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Selvaggi]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 73/74"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Paolo Conti (calciatore 1950)|Paolo Conti]]|| {{Calcio Arezzo|N}} || ''definitivo''
+|-
+| D ||[[Alberto Batistoni]]|| {{Calcio Verona|N}} || ''definitivo''<ref name="verona">La Roma cede al Verona Bet e Franzot in cambio di Batistoni e 422 Mln £</ref><ref name="verona2">{{Cita web|url=http://www.asromaultras.org/7374_Pre.01.jpg|titolo=Prati alla Roma che cede Bet e Franzot al Verona}}</ref>
+|-
+| C ||[[Angelo Domenghini]]|| {{Calcio Cagliari|N}} || ''definitivo''
+|-
+| C ||[[Piergiorgio Negrisolo]]|| {{Calcio Sampdoria|N}} || ''definitivo''
+|-
+| C ||[[Franco Selvaggi]]|| {{Calcio Ternana|N}} || ''definitivo''
+|-
+| A ||[[Pierino Prati]]|| {{Calcio Milan|N}} || ''definitivo'' (700 mln £)<ref name="verona2"/>
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Michelangelo Sulfaro]]|| {{Calcio Vicenza|N|1954}} || ''definitivo''
+|-
+| D ||[[Aldo Bet]]|| {{Calcio Verona|N}} || ''definitivo''<ref name="verona"/><ref name="verona2"/>
+|-
+| C ||[[Francesco Scaratti]]|| {{Calcio Lodigiani|N}} || ''definitivo''
+|-
+| C ||[[Walter Franzot]]||| {{Calcio Verona|N}} || ''definitivo''<ref name="verona"/><ref name="verona2"/>
+|-
+| C ||[[Elvio Salvori]]||| {{Calcio Foggia|N}} || ''definitivo''
+|-
+| A ||Ivo Banella||| {{Calcio Legnano|N}} || ''definitivo''
+|-
+| A ||[[Lucio Mujesan]]||| {{Calcio Arezzo|N}} || ''definitivo''
+|-
+| A ||[[Stefano Pellegrini (1953)|Stefano Pellegrini]]||| {{Calcio Avellino|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1973-1974}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 1973
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_01.ASR.Bologna.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|49}}<br/>[[Agostino Di Bartolomei|Di Bartolomei]] {{goal|72}}
+|Marcatori 2 = {{goal|17}} [[Pietro Ghetti (calciatore)|Ghetti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 ottobre
+|Anno = 1973
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_02.Torino.ASR.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 38.000
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Paolino Pulici|Pulici]] {{goal|66}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7374RomaMilan_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Renato Cappellini|Cappellini]] {{goal|37}}
+|Marcatori 2 = {{goal|11}} [[Luciano Chiarugi|Chiarugi]]<br/>{{goal|21}} [[Ottavio Bianchi|Bianchi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 4ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_04.Genoa.ASR.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 23.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Sidio Corradi|Corradi]] {{goal|14}}<br/>[[Luigi Simoni|Simoni]] {{goal|77}}
+|Marcatori 2 = {{goal|76}} [[Angelo Domenghini|Domenghini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 novembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_05.ASR.Verona.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|69|rig.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_06.Foggia.ASR.jpg
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Spettatori = circa 18.000
+|Arbitro = [[Giulio Ciacci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Silvano Villa|Villa]] {{goal|18|rig.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_07.ASR.Napoli.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|37}} [[Giorgio Braglia|Braglia]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 dicembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_08.Lazio.ASR.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Paolo Franzoni|Franzoni]] {{goal|46}}<br/>[[Giorgio Chinaglia|Chinaglia]] {{goal|78}}
+|Marcatori 2 = {{goal|33}} [[Piergiorgio Negrisolo|Negrisolo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_09.Vicenza.ASR.jpg
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = circa 13.000
+|Arbitro = [[Ezio Motta]]
+|Cittarbitro = [[Monza]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|79}} [[Renato Cappellini|Cappellini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 dicembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_10.ASR.Fiorentina.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = Circa 45.000
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 dicembre
+|Anno = 1973
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_11.Inter.ASR.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = circa 35.000
+|Arbitro = [[Ferdinando Reggiani]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Roberto Boninsegna|Boninsegna]] {{goal|1}}<br/>[[Adelio Moro|Moro]] {{goal|53}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1974
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_12.ASR.Sampdoria.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Renzo Torelli]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Renato Cappellini|Cappellini]] {{goal|31}}<br/>[[Giorgio Morini|Morini]] {{goal|62}}
+|Marcatori 2 = {{goal|90+3}} [[Nello Santin|Santin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 gennaio
+|Anno = 1974
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_13.Juventus.ASR.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 40.000
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Fabio Capello|Capello]] {{goal|42}}<br/>[[Antonello Cuccureddu|Cuccureddu]] {{goal|72}}
+|Marcatori 2 = {{goal|65}} [[Angelo Orazi|Orazi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1974
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cesena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_14.ASR.Cesena.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Alberto Picasso]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Angelo Domenghini|Domenghini]] {{goal|79|rig.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 gennaio
+|Anno = 1974
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_15.Cagliari.ASR.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = circa 33.000
+|Arbitro = [[Cesare Trinchieri]]
+|Cittarbitro = [[Reggio Emilia]]
+|Marcatori 1 = [[Sergio Gori|Gori]] {{goal|60|rig.}}
+|Marcatori 2 = {{goal|22}} [[Angelo Orazi|Orazi]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 febbraio
+|Anno = 1974
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_16.Bologna.ASR.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 25.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Tradate]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 febbraio
+|Anno = 1974
+|Ora = 15:00
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_17.ASR.Torino.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Gaetano Mascali]]
+|Cittarbitro = [[Desenzano del Garda]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 febbraio
+|Anno = 1974
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_18.Milan.ASR.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = circa 33.000
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Gianni Rivera|Rivera]] {{goal|8}}<br/>[[Aldo Maldera|Maldera]] {{goal|61}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 1974
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_19.ASR.Genoa.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Fernando Lazzaroni]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Valerio Spadoni|Spadoni]] {{goal|63}}<br/>[[Pierino Prati|Prati]] {{goal|75}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 1974
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_20.Verona.ASR.jpg
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 26.000
+|Arbitro = [[Renzo Torelli]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|76}} [[Angelo Orazi|Orazi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 marzo
+|Anno = 1974
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_21.ASR.Foggia.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Pavia]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|32||88}}<br />[[Angelo Domenghini|Domenghini]] {{goal|90}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 marzo
+|Anno = 1974
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_22.Napoli.ASR.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Antonio Juliano|Juliano]] {{goal|60}}
+|Marcatori 2 = {{goal|77}} [[Angelo Orazi|Orazi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 marzo
+|Anno = 1974
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/1973-1974/Campionato/23Giornata/Articolo.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Felice Pulici|Pulici]] {{goal|4|aut.}}
+|Marcatori 2 = {{goal|47}} [[Vincenzo D'Amico|D'Amico]]<br/>{{goal|51|rig.}} [[Giorgio Chinaglia|Chinaglia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 aprile
+|Anno = 1974
+|Ora = 15:30
+|Turno = 24ª giornata<ref>Partita disputata sul campo neutro di Pisa.</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_24.ASR.Vicenza.jpg
+|Città = [[Pisa]]
+|Stadio = [[Stadio Arena Garibaldi-Romeo Anconetani|Stadio Arena Garibaldi]]
+|Spettatori = circa 30.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Tradate]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1974
+|Ora = 15:40
+|Turno = 25ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_25.Fiorentina.ASR.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Arnaldo Prati]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Claudio Desolati|Desolati]] {{goal|16}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 aprile
+|Anno = 1974
+|Ora = 15:30
+|Turno = 26ª giornata<ref>Partita disputata sul campo neutro di Napoli</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/7374_26.ASR.Inter.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 21.380
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Tarcisio Burgnich|Burgnich]] {{goal|20|aut.}}<br/>[[Piergiorgio Negrisolo|Negrisolo]] {{goal|77}}<br/>[[Giorgio Morini|Morini]] {{goal|82}}
+|Marcatori 2 = {{goal|5}} [[Nevio Scala|Scala]]<br/>{{goal|28}} [[Sandro Mazzola|Mazzola]]<br/>{{goal|69}} [[Roberto Boninsegna|Boninsegna]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 aprile
+|Anno = 1974
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_27.Sampdoria.ASR.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 12.000
+|Arbitro = [[Fiorenzo Lenardon]]
+|Cittarbitro = [[Siena]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 maggio
+|Anno = 1974
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7374_28.ASR.Juventus.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Angelo Domenghini|Domenghini]] {{goal|11}}<br/>[[Piergiorgio Negrisolo|Negrisolo]] {{goal|42}}<br/>[[Pierino Prati|Prati]] {{goal|74}}
+|Marcatori 2 = {{goal|15||52}} [[Pietro Anastasi|Anastasi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 maggio
+|Anno = 1974
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Cesena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_29.Cesena.ASR.jpg
+|Città = [[Cesena]]
+|Stadio = [[Stadio Dino Manuzzi|Stadio La Fiorita]]
+|Spettatori = circa 14.000
+|Arbitro = [[Paolo Casarin]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Otello Catania|Catania]] {{goal|71}}
+|Marcatori 2 = {{goal|88}} [[Pierino Prati|Prati]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 maggio
+|Anno = 1974
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_30.ASR.Cagliari.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Gino Menicucci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|36}}<br />[[Valerio Spadoni|Spadoni]] {{goal|88}}
+|Marcatori 2 =
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1973-1974}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 agosto
+|Anno = 1973
+|Ora =
+|Turno = 1ª giornata<ref name="riposo">Turno di riposo</ref>
+|Squadra 1 =
+|Squadra 2 =
+|Punteggio 1 =
+|Punteggio 2 =
+|Referto =
+|Città =
+|Stadio =
+|Spettatori =
+|Arbitro =
+|Cittarbitro =
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 settembre
+|Anno = 1973
+|Ora = 17:30
+|Turno = 2ª giornata
+|Squadra 1 = Novara
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_CI.Novara.ASR.jpg
+|Città = [[Novara]]
+|Stadio = [[Stadio Enrico Patti|Stadio Comunale]]
+|Spettatori = circa 8.000
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = Cormons
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 settembre
+|Anno = 1973
+|Ora = 21:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_CI.ASR.Lazio.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = Varese
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 1973
+|Ora = 21:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7374_CI.ASR.Brescia.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Giulio Ciacci]]
+|Cittarbitro = Firenze
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 settembre
+|Anno = 1973
+|Ora = 21:00
+|Turno = 5ª giornata
+|Squadra 1 = Varese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7374_CI.Varese.ASR.jpg
+|Città = [[Varese]]
+|Stadio = [[Stadio Franco Ossola]]
+|Spettatori =
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = Asti
+|Marcatori 1 = [[Egidio Calloni|Calloni]] {{goal|51}}
+|Marcatori 2 = {{goal|28}} [[Renato Cappellini|Cappellini]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor3/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1973-1974|Serie A]]
+|punti1=29
+|cv1=8
+|cn1=4
+|cp1=3
+|cgf1=21
+|cgs1=12
+|tv1=2
+|tn1=5
+|tp1=8
+|tgf1=8
+|tgs1=16
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1973-1974|Coppa Italia]]
+|punti2=
+|cv2=0
+|cn2=2
+|cp2=0
+|cgf2=0
+|cgs2=0
+|tv2=0
+|tn2=2
+|tp2=0
+|tgf2=1
+|tgs2=1
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=T |m10=C |m11=T |m12=C |m13=T |m14=C |m15=T |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C }}
+{{Andamento/Risultato |m1=V |m2=P |m3=P |m4=P |m5=V |m6=P |m7=P |m8=P |m9=V |m10=N |m11=P |m12=V |m13=P |m14=V |m15=N |m16=N |m17=N |m18=P |m19=V |m20=V |m21=V |m22=N |m23=P |m24=N |m25=P |m26=N |m27=N |m28=V |m29=N |m30=V }}
+{{Andamento/Posizione |r=14 |m1=1 |m2=6 |m3=12 |m4=13 |m5=11 |m6=12 |m7=13 |m8=14 |m9=12 |m10=12 |m11=12 |m12=12 |m13=12 |m14=12 |m15=12 |m16=12 |m17=12 |m18=12 |m19=12 |m20=11 |m21=8 |m22=9 |m23=10 |m24=9 |m25=12 |m26=12 |m27=12 |m28=10 |m29=10 |m30=8 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 2 autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Cartellini = no
+| {{Sortname|P.|Conti|Paolo Conti (calciatore 1950)}} {{Sommastat|C=no |19|-0|?|? |0|-0|?|? }}
+| {{Sortname|A.|Ginulfi|Alberto Ginulfi}} {{Sommastat|C=no |11|-0|?|? |4|-1|?|? }}
+| {{Sortname|F.|Quintini|Francesco Quintini}} {{Sommastat|C=no |2|-0|?|? |0|-0|?|? }}
+| {{Sortname|A.|Batistoni|Alberto Batistoni}} {{Sommastat|C=no |29|0|?|? |4|0|?|? }}
+| {{Sortname|G.|Bertini|Giovanni Bertini (calciatore)}} {{Sommastat|C=no |9|0|?|? |2|0|?|? }}
+| {{Sortname|L.|Liguori|Liborio Liguori}} {{Sommastat|C=no |3|0|?|? |0|0|?|? }}
+| {{Sortname|G.|Morini|Giorgio Morini}} {{Sommastat|C=no |27|2|?|? |4|0|?|? }}
+| {{Sortname|F.|Peccenini|Franco Peccenini}} {{Sommastat|C=no |18|0|?|? |4|0|?|? }}
+| {{Sortname|C.|Ranieri|Claudio Ranieri}} {{Sommastat|C=no |6|0|?|? |0|0|?|? }}
+| {{Sortname|S.|Santarini|Sergio Santarini}} {{Sommastat|C=no |28|0|?|? |4|0|?|? }}
+| {{Sortname|R.|Vichi|Roberto Vichi}} {{Sommastat|C=no |0|0|?|? |0|0|?|? }}
+| {{Sortname|B.|Conti|Bruno Conti}} {{Sommastat|C=no |1|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Domenghini|Angelo Domenghini}} {{Sommastat|C=no |30|4|?|? |2|0|?|? }}
+| {{Sortname|F.|Rocca|Francesco Rocca (calciatore)}} {{Sommastat|C=no |30|0|?|? |4|0|?|? }}
+| {{Sortname|F.|Cordova|Franco Cordova}} {{Sommastat|C=no |21|0|?|? |3|0|?|? }}
+| {{Sortname|A.|Di Bartolomei|Agostino Di Bartolomei}} {{Sommastat|C=no |8|1|?|? |4|0|?|? }}
+| {{Sortname|P.|Negrisolo|Piergiorgio Negrisolo}} {{Sommastat|C=no |26|3|?|? |0|0|?|? }}
+| {{Sortname|V.|Spadoni|Valerio Spadoni}} {{Sommastat|C=no |29|2|?|? |4|0|?|? }}
+| {{Sortname|R.|Cappellini|Renato Cappellini}} {{Sommastat|C=no |13|3|?|? |4|1|?|? }}
+| {{Sortname|W.|Casaroli|Walter Casaroli}} {{Sommastat|C=no |0|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Orazi|Angelo Orazi}} {{Sommastat|C=no |16|4|?|? |1|0|?|? }}
+| {{Sortname|P.|Prati|Pierino Prati}} {{Sommastat|C=no |23|8|?|? |3|0|?|? }}
+| {{Sortname|A.|Reif|Alberto Reif}} {{Sommastat|C=no |0|0|?|? |0|0|?|? }}
+| {{Sortname|F.|Selvaggi|Franco Selvaggi}} {{Sommastat|C=no |2|0|?|? |1|0|?|? }}
+}}
+== Giovanili ==
+[[File:AS Roma 'Primavera' 1973-74.jpg|thumb|La squadra Primavera autrice del [[Double (calcio)|''double'' nazionale]]]]
+=== Organigramma ===
+'''''Area sportiva'''''
+* Presidente: F. Cocco
+'''''Area tecnica'''''
+* ''Primavera''
+** Allenatore: [[Giorgio Bravi]]
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1973-1974|Campionato Primavera]]: Vincitore
+** [[Coppa Italia Primavera 1973-1974|Coppa Italia Primavera]]: Vincitore
+** [[Torneo di Viareggio 1974|Torneo di Viareggio]]: Quarti di finale
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital74.html|Serie A 1973-1974 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1973|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1973-1974}}
+{{Portale|calcio}}

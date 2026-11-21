@@ -1,0 +1,895 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1942-1943
+|immagine = AsRoma4243.jpg
+|didascalia = Una formazione della Roma nella stagione 1942-1943
+|allenatore1 = {{Bandiera|HUN 1940-1945}} [[Alfréd Schaffer]]<ref>Fino alla 10ª giornata.</ref>, poi<br />{{Bandiera|HUN 1940-1945}} [[Géza Kertész]]<ref>Dall'11ª in poi.</ref>
+|presidente = {{Bandiera|ITA 1861-1946}} [[Edgardo Bazzini]]
+|campionato = [[Serie A 1942-1943|Serie A]]
+|campionato posizione = 9º
+|coppa1  = [[Coppa Italia 1942-1943|Coppa Italia]]
+|coppa1 posizione = Semifinalista
+|presenze campionato = [[Luigi Brunella|Brunella]], [[Miguel Ángel Pantó|Pantó]] (30)
+|presenze totale = Brunella, Pantó (34)
+|marcatore campionato = [[Amedeo Amadei|Amadei]] (14)
+|marcatore totale = Amadei (16)
+|stadio = [[Stadio Nazionale|del Partito Nazionale Fascista]]
+|stagione prima = [[Associazione Sportiva Roma 1941-1942|1941-1942]]
+|stagione dopo = [[Associazione Sportiva Roma 1943-1944|1943-1944]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1942-1943'''.
+
+== Stagione ==
+per la stagione di guerra 1942-1943 viene confermata in blocco la [[Associazione Sportiva Roma 1941-1942#Rosa|rosa]] vincitrice del [[Serie A 1941-1942|campionato precedente]], la Roma, dopo un buon inizio, sprofonda nelle parti medio-basse della classifica, condividendo alla fine il 9º posto con {{Calcio Atalanta|N}} e {{Calcio Lazio|N}}.
+
+Le varie cause imputabili al calo sono principalmente di carattere tecnico: all'età media dei giocatori, molto alta per lo standard dell'epoca, si aggiunge l'allontanamento dell'allenatore [[Alfréd Schaffer|Schaffer]], costretto a dimettersi per motivi familiari legati alla [[Seconda guerra mondiale|guerra]]. Ulteriori cause sono il drastico cambio tattico operato dal nuovo allenatore [[Géza Kertész]] che opta per il [[Sistema (calcio)|"sistema"]], in contrasto con le scelte di Schaffer a cui i giocatori erano da tempo abituati, e i disagi dovuti alla [[Seconda guerra mondiale|guerra]].<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+
+In [[Coppa Italia 1942-1943|Coppa Italia]] la Roma supera il Bari, la Triestina e la Lazio giungendo in semifinale, dove incrocia il {{Calcio Torino|N}}: il match, caratterizzato da numerose sviste arbitrali, sfocia in una rissa durante la quale l'arbitro [[Achille Pizziolo]] viene colpito con un calcio; per questo episodio è ingiustamente sanzionato [[Amedeo Amadei]], in un primo momento squalificato a vita e poi amnistiato. Alcuni anni dopo sarà appurato che il vero colpevole era stato [[Vittorio Dagianti]].<ref name=cor2/>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con collo a V giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca associata agli stessi pantaloncini e calzettoni della ''home''. I portieri hanno una maglia nera con colletto a polo, anche in questo caso i pantaloncini sono bianchi e i calzettoni rossi bordati di giallo. Tutte le divise presentano sul cuore lo [[Casa Savoia|stemma sabaudo]] accompagnato dal [[fascio littorio]], simboli dei campioni d'Italia.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 43-46}}.</ref>
+{|
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma4243h
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_asroma4243a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = ff
+|pattern_so =_asromah
+|socks = 000000
+|title = Trasferta
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma4243gk
+|body = 030347
+|pattern_ra =
+|rightarm = 000000
+|shorts = ff
+|pattern_so =_asromah
+|socks = 030347
+|title = Portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Edgardo Bazzini]]
+;Area tecnica
+* Allenatore: [[Alfréd Schaffer]], da ''dicembre'' [[Géza Kertész]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 42/43">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1942|titolo=Rosa AS Roma - Saison 42/43|accesso=9 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giacomo Blason]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ippolito Ippoliti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Guido Masetti]]|ruolo=P|altro=c}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fosco Risorti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Acerbi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Sergio Andreoli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Benedetti (calciatore 1920-2002)|Cesare Benedetti (II)]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Brunella]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Claudio Matteini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Nobile]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giuseppe Salvioli (calciatore)|Giuseppe Salvioli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giuseppe Bonomi (calciatore)|Giuseppe Bonomi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Cappellini (calciatore 1914)|Renato Cappellini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Aristide Coscia]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Enzo Cozzolini]]<ref>Aggregato alla prima squadra dalla formazione riserve (all'epoca la Primavera non esisteva).</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Vittorio Dagianti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Di Pasquale]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Degrassi (1919)|Mario Degrassi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Aldo Donati (calciatore)|Aldo Donati]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ALB 1939-1943|nome=[[Naim Krieziu]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Paolo Jacobini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Edmondo Mornese]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Gisleno Santunione]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Amedeo Amadei]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ermes Borsetti]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Miguel Ángel Pantó]]|ruolo=A}}
+{{Calciatore in rosa|nazione=ITA 1861-1946|ruolo=A|nome=[[Cesare Benedetti (calciatore 1920-1990)|Cesare Benedetti (I)]]}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 42/43"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Giacomo Blason]]|| {{Calcio Napoli|NB}} || ''definitivo''
+|-
+| D ||[[Claudio Matteini]]|| {{Calcio Alba Roma|N|1942}} || ''definitivo''
+|-
+| D ||[[Giuseppe Salvioli (calciatore)|Giuseppe Salvioli]]|| {{Calcio Perugia|NB}} ||''definitivo''
+|-
+| C ||[[Vittorio Dagianti]]|| {{Calcio Salernitana|NB|1942}} || ''definitivo''
+|-
+| C ||[[Gisleno Santunione]]|| {{Calcio Carpi|NB}} || ''definitivo''
+|-
+| D ||[[Cesare Benedetti (calciatore 1920-2002)|Cesare Benedetti]] (II) ||{{Calcio Bologna|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1942-1943}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 ottobre
+|Anno = 1942
+|Ora = 15:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4243RomaFiorentina_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = 25.000
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Aristide Coscia|Coscia]] {{Goal|30}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 ottobre
+|Anno = 1942
+|Ora =
+|Turno = 2ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/4243VicenzaRoma_Littoriale_04_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti|Campo Sportivo del Littorio]]
+|spettatori = 10.000
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Bruno Quaresima|Quaresima]] {{Goal|2}}
+|Marcatori 2 = {{Goal|47}} [[Miguel Ángel Pantó|Pantó]]<br/>{{Goal|74}} [[Amedeo Amadei|Amadei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 ottobre
+|Anno = 1942
+|Ora = 15:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/4243RomaMilan_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = 25.000
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|29}}
+|Marcatori 2 = {{Goal|13}} [[Gino Cappello|Cappello]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 ottobre
+|Anno = 1942
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Venezia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4243VeneziaRoma_Littoriale_03_af.JPG
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pier Luigi Penzo]]
+|Spettatori =
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1942
+|Ora = 15:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = https://www.asromaultras.org/4243RomaTorino_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = 28.000
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 2 = {{Goal|12}} [[Guglielmo Gabetto|Gabetto]]<br/>{{Goal|24|rig.|36}} [[Romeo Menti|R. Menti]]<br/>{{Goal|32}} [[Pietro Ferraris|Ferraris]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 1942
+|Ora =
+|Turno = 6ª giornata<ref>Partita non disputata e recuperata il 18 febbraio 1943 per la mancata presentazione della Roma per cause di forza maggiore. cfr. [http://dlib.coninet.it/view_foto_inside.php?tipo=o&id=0001_1942_268_0001 ''La Roma giunge in ritardo per cause di forza maggiore''], «Il Littoriale», 9 novembre 1942. Inizialmente l'incontro si sarebbe dovuto giocare il 26 novembre 1942 (cfr. [http://dlib.coninet.it/view_foto_inside.php?tipo=o&id=0001_1942_278_0001 ''La partita Roma-Liguria sarà ripetuta il 26 corrente''], «Il Littoriale», 20 novembre 1942), ma a seguito di reclamo della Liguria venne nuovamente rinviata (cfr. [http://dlib.coninet.it/view_foto_inside.php?tipo=o&id=0001_1942_281_0002 ''La partita Liguria-Roma rinviata''], «Il Littoriale», 24 novembre 1942) fino alla definitiva decisione del D.D.S. di farla disputare il 18 febbraio 1943. (cfr. [http://digiteca.bsmc.it/m/bigimg.php?img=http://teca.bsmc.it/pub/images/materiale_a_stampa/periodico/Popolo%20d%60Italia%28Il%29/CUB0706991_1943_00002/CUB0706991_1943_00002_050.jpg&asset=9''Liguria-Roma si giocherà il 18 febbraio''], «Il Popolo d'Italia», 13 febbraio 1943).</ref>  
+|Squadra 1 = Liguria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Spettatori = 3.000 
+|Referto = https://www.asromaultras.org/liguria%20roma%20recupero%2018-2-43_La_Stampa_af.JPG
+|Città = [[Cornigliano]]
+|Stadio = [[Stadio del Littorio]]
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Angelo Meroni|Meroni]] {{Goal|38||84}}<br/>[[Ernani D'Alconzo|D'Alconzo]] {{Goal|50}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 novembre
+|Anno = 1942
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Spettatori = 12.000 
+|Referto = https://www.asromaultras.org/4142AtalantaRoma_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|12}}<br/>[[Edmondo Mornese|Mornese]] {{Goal|84}}
+|Marcatori 2 = {{Goal|47}} [[Adriano Gè|Gè]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 novembre
+|Anno = 1942
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/4243LazieRoma_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = 26.000
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Silvio Piola|Piola]] {{Goal|35}}<br/>[[Mario Acerbi|Acerbi]] {{Goal|71|aut.}}<br/>[[Engelbert Koenig|Koenig]] {{Goal|79}}
+|Marcatori 2 = {{Goal|80|rig.}} [[Miguel Ángel Pantó|Pantó]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 novembre
+|Anno = 1942
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/4273RomaBologna_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = 18.000
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Edmondo Mornese|Mornese]] {{Goal|72}}
+|Marcatori 2 = {{Goal|57}} [[Carlo Reguzzoni|Reguzzoni]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 1942
+|Ora =
+|Turno = 10ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/4273BariRoma_Littoriale_03_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = {{formatnum:9000}}
+|Arbitro = [[Aldo Donati (arbitro)|Aldo Donati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Dante Di Benedetti|Di Benedetti]] {{Goal|70}}<br/>[[Camillo Fabbri|C. Fabbri]] {{Goal|77}}
+|Marcatori 2 = {{Goal|34}} [[Cesare Benedetti (calciatore 1920-2002)|Benedetti]]<br/>{{Goal|63}} [[Aristide Coscia|Coscia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 dicembre
+|Anno = 1942
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/4273RomaInter_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = {{formatnum:20000}}
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Mario Degrassi (1919)|Degrassi]] {{Goal|89}}
+|Marcatori 2 = {{Goal|2}} [[Edmondo Fabbri|E. Fabbri]]<br/>{{Goal|8||28}} [[Giovanni Gaddoni|Gaddoni]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 1942
+|Ora =
+|Turno = 12ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4273LivornoRoma_Littoriale_03_af.JPG
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Edda Ciano Mussolini]]
+|Spettatori = {{formatnum:10000}}
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Pietro Degano|Degano]] {{Goal|48||70}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 dicembre
+|Anno = 1942
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/4273RomaJuventus_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = {{formatnum:20000}}
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Renato Cappellini (calciatore 1914)|Cappellini]] {{Goal|89}}
+|Marcatori 2 = {{Goal|32}} [[Pietro Magni (calciatore)|Magni]]<br/>{{Goal|65}} [[Giuseppe Meazza|Meazza]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 gennaio
+|Anno = 1943
+|Ora =
+|Turno = 14ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/genoa%20roma%2042-43_La_Stampa_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:8000}}
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 2 = {{Goal|57}} [[Miguel Ángel Pantó|Pantó]]<br/>{{Goal|70}} [[Amedeo Amadei|Amadei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1943
+|Ora =
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/4243RomaTriestina.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettarori = {{formatnum:11000}}
+|Arbitro = [[Giorgio Bernardi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|22}}
+|Marcatori 2 = {{Goal|29}} [[Giuliano Tagliasacchi|Tagliasacchi]]<br/>{{Goal|63}} [[Federico Zanolla|Zanolla]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1943
+|Ora =
+|Turno = 16ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4243FiorentinaRoma.html
+|Città = [[Firenze]]
+|Stadio = [[Stadio Giovanni Berta]]
+|Spettatori = {{formatnum:12000}} 
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Piero Suppi|Suppi]] {{Goal|45||59}}<br/>[[Danilo Michelini|Michelini]] {{Goal|48}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1943
+|Ora =
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/roma%20vicenza%2042-43_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = {{formatnum:10000}} 
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|83}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1943
+|Ora =
+|Turno = 18ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/milan%20roma%2042-43_La_Stampa_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori = {{formatnum:10000}}
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Walter Del Medico|Del Medico]] {{Goal|56||85}}<br/>[[Luigi Rosellini|Rosellini]] {{Goal|66||45}}
+|Marcatori 2 = {{Goal|48}} [[Amedeo Amadei|Amadei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 1943
+|Ora =
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/roma%20venezia%2042-43_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori= {{formatnum:15000}} 
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Aldo Donati (calciatore)|Donati]] {{Goal|8}}<br/>[[Vittorio Dagianti|Dagianti]] {{Goal|37}}
+|Marcatori 2 = {{Goal|12|rig.}} [[Giovanni Alberti (calciatore)|Alberti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1943
+|Ora =
+|Turno = 20ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/torino%20roma%2042-43_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = {{formatnum:10000}} 
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Romeo Menti|R. Menti]] {{Goal|5}}<br/>[[Franco Ossola|Ossola]] {{Goal|31||65}}<br/>[[Valentino Mazzola|Mazzola]] {{Goal|79}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 febbraio
+|Anno = 1943
+|Ora =
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Liguria
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/roma%20liguria%2042-43_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = {{formatnum:10000}}
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|7}}<br/>[[Amedeo Amadei|Amadei]] {{Goal|29||48||59||76}}
+|Marcatori 2 = {{Goal|28}} [[Volturno Diotallevi|Diotallevi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 1943
+|Ora =
+|Turno = 22ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/4243AtalantaRoma.html
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Mario Brumana]]
+|Spettatori = {{formatnum:5000}}
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Alberto Citterio|Citterio]] {{Goal|49|rig.|}}<br/>[[Luciano Peretti|Peretti]] {{Goal|57}}
+|Marcatori 2 = {{Goal|45}} [[Vittorio Dagianti|Dagianti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1943
+|Ora =
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4243RomaLazie.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = {{formatnum:24000}}
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|52}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 marzo
+|Anno = 1943
+|Ora =
+|Turno = 24ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/4243BolognaRoma.html
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Littoriale]]
+|Spettatori = {{formatnum:9000}}
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Dante Nardi|Nardi]] {{Goal|1||86}}<br/>[[Amedeo Biavati|Biavati]] {{Goal|27}}<br/>[[Frane Matošić|Matosic]] {{Goal|60}}
+|Marcatori 2 = {{Goal|20}} [[Amedeo Amadei|Amadei]]<br/>{{Goal|24}} [[Ermes Borsetti|Borsetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 marzo
+|Anno = 1943
+|Ora =
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/roma%20bari%2042-43_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Spettatori = {{formatnum:15000}}
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Aldo Donati (calciatore)|Donati]] {{Goal|34}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 marzo
+|Anno = 1943
+|Ora =
+|Turno = 26ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/inter%20roma%2042-43_La_Stampa_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori =
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 2 = [[Miguel Ángel Pantó|Pantó]] {{Goal|67}}<br/>[[Amedeo Amadei|Amadei]] {{Goal|69}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile
+|Anno = 1943
+|Ora =
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4243RomaLivorno.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|42}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 1943
+|Ora =
+|Turno = 28ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/juve%20roma%2042-43_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Municipale Benito Mussolini]]
+|Spettatori = {{formatnum:13000}}
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Pietro Magni (calciatore)|Magni]] {{Goal|62}}
+|Marcatori 2 = {{Goal|3}} [[Amedeo Amadei|Amadei]]<br/>{{Goal|30}} [[Aristide Coscia|Coscia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1943
+|Ora =
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/4243RomaGenoa.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale del PNF]]
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|24}}<br/>[[Sergio Andreoli|Andreoli]] {{Goal|89}}
+|Marcatori 2 = {{Goal|20}} [[Luigi Sotgiu|Sotgiu]]<br/>{{Goal|52|rig.}} [[Guglielmo Trevisan|G. Trevisan]]<br/>{{Goal|84}} [[Ugo Conti (calciatore)|Conti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1943
+|Ora =
+|Turno = 30ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/4243TriestinaRoma.html
+|Città = [[Trieste]]
+|Stadio = [[Stadio Giuseppe Grezar|Stadio del Littorio]]
+|Spettatori = {{formatnum:10000}}
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Francesco Cergoli|Cergoli]] {{Goal|15}}<br/>[[Mario Tosolini|Tosolini]] {{Goal|46|rig.}}
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1942-1943}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 settembre
+|Anno = 1942
+|Ora =
+|Turno = Sedicesimi di finale
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/4243BariRoma_CI_Littoriale_01_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)]]
+|Spettatori =
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|36||84}} [[Amedeo Amadei|Amadei]]<br />{{Goal|40}} [[Ermes Borsetti|Borsetti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 1942
+|Ora = 16:00
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/4243RomaTriestina_CI_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = [[Ferdinando Bianchi (arbitro)|Ferdinando Bianchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Aldo Donati (calciatore)|Donati]] {{Goal|31}}<br />[[Aristide Coscia|Coscia]] {{Goal|71}}
+|Marcatori 2 = {{Goal|78|aut.}} [[Mario Acerbi|Acerbi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1943
+|Ora =
+|Turno = Quarti di finale
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/4243RomaLazie_CI.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = {{formatnum:10000}} circa
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Salvador Gualtieri|Gualtieri]] {{Goal|67}}
+|Marcatori 2 = {{Goal|43}} [[Naim Krieziu|Krieziu]]<br />{{Goal|56}} [[Vittorio Dagianti|Dagianti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 maggio
+|Anno = 1943
+|Ora =
+|Turno = Semifinale
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Note = {{tavolino}}<ref>Vittoria assegnata a tavolino 2-0 al Torino dal [[Direttorio Divisioni Superiori|DDS]], in quanto gara sospesa all'88' per incidenti sul punteggio di 3-1 per la squadra granata. A seguito di tali incidenti, [[Amadeo Amadei|Amadei]] verrà squalificato a vita, reo di aver colpito con un calcio un guardalinee a bordo campo. Al termine della guerra, [[Amadeo Amadei|Amadei]] venne riabilitato e poté continuare a giocare. Anni dopo si scoprì che a colpire il guardalinee non fu [[Amadeo Amadei|Amadei]], che ha sempre sostenuto la propria innocenza, bensì [[Vittorio Dagianti|Dagianti]]. Cfr. {{cita news|url=https://www.almanaccogiallorosso.it/1942-1943/CoppaItalia/Semifinale/Torino-Roma.html|titolo=Semifinale Torino-Roma|pubblicazione=Almanacco Giallorosso}} e cfr. 
+{{cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,2/articleid,1120_01_1943_0123A_0002_16178265/|titolo=Burrascosa partita tra Torino e Roma|pubblicazione=[[La Stampa]]|data=24 maggio 1943|p=2}}</ref>
+|Referto = https://www.asromaultras.org/torino%20roma%20c%20italia%2042-43_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = {{formatnum:8000}} circa
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Ezio Loik|Loik]] {{Goal|27}}<br />[[Franco Ossola|Ossola]] {{Goal|83||85}}
+|Marcatori 2 = {{Goal|61}} [[Vittorio Dagianti|Dagianti]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+
+{{Statistiche_squadra
+|comp1=[[Serie A 1941-1942|Serie A]]
+|punti1=28
+|cv1=8
+|cn1=2
+|cp1=5
+|cgf1=21
+|cgs1=19
+|tv1=4
+|tn1=2
+|tp1=9
+|tgf1=15
+|tgs1=31
+|comp2=[[Coppa Italia 1941-1942|Coppa Italia]]
+|punti2=
+|cv2=2
+|cn2=0
+|cp2=0
+|cgf2=4
+|cgs2=2
+|tv2=1
+|tn2=0
+|tp2=1
+|tgf2=3
+|tgs2=2
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo    |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T }}
+{{Andamento/Risultato |m1=V |m2=V |m3=N |m4=N |m5=P |m6=P |m7=V |m8=P |m9=N |m10=N |m11=P |m12=P |m13=P |m14=V |m15=P |m16=P |m17=V |m18=P |m19=V |m20=P |m21=V |m22=P |m23=V |m24=P |m25=V |m26=V |m27=V |m28=V |m29=P |m30=P }}
+{{Andamento/Posizione |r=15 |m1=1 |m2=1 |m3=2 |m4=2 |m5=5 |m6=8 |m7=5 |m8=6 |m9=7 |m10=6 |m11=10 |m12=12 |m13=12 |m14=12 |m15=12 |m16=12 |m17=12 |m18=12 |m19=11 |m20=11 |m21=11 |m22=11 |m23=11 |m24=11 |m25=11 |m26=11 |m27=9 |m28=7 |m29=7 |m30=9 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.<ref>A completamento dei dati va considerata una partita persa a tavolino (0-2) in Coppa Italia.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Totale =
+| Cartellini = no
+| {{Sortname|G.|Blason|Giacomo Blason}} {{Sommastat|C=no|12|-16|?|? |2|-1|?|?}}
+| {{Sortname|I.|Ippoliti|Ippolito Ippoliti}} {{Sommastat|C=no|4|-7|?|? |0|-0|?|?}}
+| {{Sortname|G.|Masetti|Guido Masetti}} {{Sommastat|C=no|13|-24|?|? |2|-1|?|?}}
+| {{Sortname|F.|Risorti|Fosco Risorti}} {{Sommastat|C=no|1|-3|?|? |0|-0|?|?}}
+| {{Sortname|M.|Acerbi|Mario Acerbi}} {{Sommastat|C=no|12|0|?|? |2|0|?|?}}
+| {{Sortname|S.|Andreoli|Sergio Andreoli}} {{Sommastat|C=no|20|1|?|? |2|0|?|?}}
+| {{Sortname|L.|Brunella|Luigi Brunella}} {{Sommastat|C=no|30|0|?|? |4|0|?|?}}
+| {{Sortname|C.|Matteini|Claudio Matteini}} {{Sommastat|C=no|2|0|?|? |0|0|?|?}}
+| {{Sortname|L.|Nobile|Luigi Nobile}} {{Sommastat|C=no|0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Salvioli|Giuseppe Salvioli (calciatore)|Giuseppe Salvioli}} {{Sommastat|C=no|1|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Bonomi|Giuseppe Bonomi (calciatore)|Giuseppe Bonomi}} {{Sommastat|C=no|28|0|?|? |4|0|?|?}}
+| {{Sortname|R.|Cappellini|Renato Cappellini (calciatore 1914)|Renato Cappellini}} {{Sommastat|C=no|10|1|?|? |2|0|?|?}}
+| {{Sortname|A.|Coscia|Aristide Coscia}} {{Sommastat|C=no|25|3|?|? |3|1|?|?}}
+| {{Sortname|E.|Cozzolini|Enzo Cozzolini}} {{Sommastat|C=no|2|0|?|? |0|0|?|?}}
+| {{Sortname|V.|Dagianti|Vittorio Dagianti}} {{Sommastat|C=no|16|2|?|? |2|1|?|?}}
+| {{Sortname|L.|Di Pasquale|Luigi Di Pasquale}} {{Sommastat|C=no|2|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Degrassi|Mario Degrassi (1919)|Mario Degrassi}} {{Sommastat|C=no|2|1|?|? |0|0|?|?}}
+| {{Sortname|A.|Donati|Aldo Donati (calciatore)}} {{Sommastat|C=no|14|2|?|? |1|1|?|?}}
+| {{Sortname|N.|Krieziu|Naim Krieziu}} {{Sommastat|C=no|9|0|?|? |3|1|?|?}}
+| {{Sortname|P.|Jacobini|Paolo Jacobini}} {{Sommastat|C=no|19|0|?|? |3|0|?|?}}
+| {{Sortname|E.|Mornese|Edmondo Mornese}} {{Sommastat|C=no|27|2|?|? |4|0|?|?}}
+| {{Sortname|G.|Santunione|Gisleno Santunione}} {{Sommastat|C=no|1|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Amadei|Amedeo Amadei}} {{Sommastat|C=no|28|14|?|? |4|2|?|?}}
+| {{Sortname|C.|Benedetti (I)|Cesare Benedetti (calciatore 1920-1990)}} {{Sommastat|C=no|9|1|?|? |0|0|?|?}}
+| {{Sortname|E.|Borsetti|Ermes Borsetti}} {{Sommastat|C=no|13|1|?|? |1|1|?|?}}
+| {{Sortname|M.Á.|Pantó|Miguel Ángel Pantó}} {{Sommastat|C=no|30|8|?|? |4|0|?|?}}
+}}
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Carlo Fontanelli|titolo=Livorno il sogno infranto, i campionati della stagione 1942-1943|editore=Geo Edizioni|anno=2002|pp=3-48}}
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.rsssf.com/tablesi/ital43.html|Serie A 1942-1943|sito=[[RSSSF]]|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1942|Profilo e statistiche|sito=[[Transfermarkt]]}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1942-1943}}
+{{Portale|calcio}}

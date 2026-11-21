@@ -1,0 +1,596 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1943-1944
+|immagine = AsRoma4344.jpg
+|didascalia = Una formazione della Roma nella stagione 1943-1944
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Guido Masetti]]
+|presidente = {{Bandiera|ITA 1861-1946}} [[Edgardo Bazzini]]
+|campionato = [[Campionato romano di guerra 1943-1944|Campionato romano di guerra]]
+|campionato posizione = 2º
+|presenze campionato =
+|presenze totale = [[Naim Krieziu|Krieziu]] (17+)
+|marcatore campionato =
+|marcatore totale = [[Amedeo Amadei|Amadei]] (16)
+|stadio = [[Stadio Nazionale|del Partito Nazionale Fascista]]
+|stagione prima = [[Associazione Sportiva Roma 1942-1943|1942-1943]]
+|stagione dopo = [[Associazione Sportiva Roma 1944-1945|1944-1945]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1943-1944'''.
+
+== Stagione ==
+A causa della difficile situazione in cui versa il Paese, spaccato in due a causa degli eventi del [[Seconda guerra mondiale|secondo conflitto mondiale]], la Federazione decide per la sospensione dell'attività calcistica a livello nazionale, rimpiazzata quindi da vari [[Tornei calcistici di guerra in Italia 1943-1945|tornei a carattere regionale]] e non sempre riconosciuti ufficialmente.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+Alcune squadre romane si organizzano in un torneo locale dando vita al [[Campionato romano di guerra]]. Molti giocatori della rosa giallorossa devono abbandonare la squadra e tornare nelle loro città (come ad esempio il trequartista [[Aristide Coscia|Coscia]] che torna a [[Milano]] e gioca con l'{{Calcio Inter|N|1943}}) o nei loro paesi di origine ([[Miguel Ángel Pantó|Pantó]] torna in [[Argentina]]), pertanto la squadra si trova composta da soli giocatori [[roma]]ni. Sulla panchina giallorossa siede [[Guido Masetti|Masetti]] che continua a giocare anche alcune partite. La squadra arriva seconda, imbattuta, nel [[Campionato romano di guerra 1943-1944]] alle spalle della {{Calcio Lazio|N}}.<ref name=cor2/>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con collo a V giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con banda giallorossa orizzontale, pantaloncini rossi e calzettoni rossi bordati di giallo. I portieri hanno una maglia grigia con colletto a polo, pantaloncini neri e calzettoni rossi bordati di giallo.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 47-48}}.</ref>
+{|
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma40sh
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_AS Roma 1939a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = 880000
+|pattern_so =_asromah
+|socks = 000000
+|title = Trasferta
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma3031gk
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = Portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Edgardo Bazzini]]
+;Area tecnica
+* Allenatore: [[Guido Masetti]]
+{{Colonne fine}}
+
+== Rosa ==
+Di seguito la rosa.<ref name=cor2/>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Giacomo Blason]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Guido Masetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Luciano Casadei]]<ref name="P">Aggregato dalla squadra primavera</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Sergio Andreoli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Renato Pastori]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Arvisto Ferioli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Luigi Milano]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Edmondo Mornese]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Paolo Jacobini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Ermes Borsetti]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Alfredo Guadagnoli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Claudio Matteini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ALB 1943-1944|nome=[[Naim Krieziu]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=''[[Oreste Roccasecca]]''<ref name="Roccasecca">Ceduto dopo la sesta giornata di campionato</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Giuseppe Salvioli (calciatore)|Giuseppe Salvioli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Enrico Schiavetti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Amedeo Amadei]]|ruolo=A|altro=C}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Enzo Cozzolini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Mario Forlivesi]]<ref name="P"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=Italia 1861-1946|nome=[[Nicola Fusco (calciatore)|Nicola Fusco]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name=cor2/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D ||[[Renato Pastori]]|| {{Calcio Padova|NB}} || ''prestito''<ref name="prestito">Avendo la FIGC bloccato tutti i tesseramenti e le liste di trasferimento alla fine della stagione 1942-1943 tutti i giocatori provenienti da altre squadre scendevano in campo "in prestito" con l'ultimo cartellino emesso dalla FIGC più il nulla-osta di prestito ricevuto dalla società che per ultima lo aveva cartellinato. Dal libro "Scudetto a Spezia" di Daniele Cacozza e Carlo Fontanelli, Mariposa Srl - Fornacette (PI) che cita a pag. 8: "... Il vincolo sportivo degli atleti alle società di appartenenza restava fermo al 31 luglio 1943. Però, derogando dai regolamenti, si consentiva alle società l'utilizzo anche di giocatori non tesserati, purché muniti di nulla-osta dei club di appartenenza. Di fatto il nulla-osta non poteva essere negato a nessuno, stante la minaccia di intervento d'ufficio della Federazione ..." e "... Il nulla-osta veniva poi concesso automaticamente a tutti gli atleti già tesserati per le società dell'Italia meridionale occupata dagli Alleati ...".</ref>
+|-
+| D ||[[Arvisto Ferioli]]|| ? ||''prestito''<ref name="prestito"/>
+|-
+| D ||[[Luigi Milano]]|| {{Calcio Napoli|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Oreste Roccasecca]]|| {{Calcio VV.FF. Roma|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Enrico Schiavetti]]|| - || ''svincolato''
+|-
+| A ||[[Nicola Fusco (calciatore)|Nicola Fusco]]|| {{Calcio Alba Roma|NB|1943}} || ''prestito''<ref name="prestito"/>
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Ippolito Ippoliti]]|| {{Calcio Juventus Roma|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| P ||[[Fosco Risorti]]|| {{Calcio Montecatini|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| D ||[[Mario Acerbi]]|| {{Calcio Pavia|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| D ||[[Luigi Brunella]]|| {{Calcio Juventus|NB|1943}} || ''prestito''<ref name="prestito"/>
+|-
+| D ||[[Luigi Nobile]]||- || ''fine carriera''
+|-
+| C ||[[Giuseppe Bonomi (calciatore)|Giuseppe Bonomi]]|| {{Calcio Atalanta|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Renato Cappellini (calciatore 1914)|Renato Cappellini]]|| -|| ''svincolato''
+|-
+| C ||[[Aristide Coscia]]|| {{Calcio Inter|NB|1943}} || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Vittorio Dagianti]]|| -|| ''svincolato''
+|-
+| C ||[[Luigi Di Pasquale]]|| {{Calcio Udinese|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Mario De Grassi (1919)|Mario De Grassi]]|| - || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Aldo Donati (calciatore)|Aldo Donati]]|| - || ''svincolato''
+|-
+| C ||[[Gisleno Santunione]]|| {{Calcio Modena|NB}} || ''prestito''<ref name="prestito"/>
+|-
+| C ||[[Oreste Roccasecca]]<ref name="Roccasecca"/>||{{Calcio VV.FF. Roma|NB}} || ''prestito''<ref name="prestito"/>
+|-
+|A
+|[[Cesare Benedetti (calciatore 1920-1990)|Cesare Benedetti (I)]]
+|[[Associazione Sportiva Dilettantistica La Biellese|Biellese]]
+|''definitivo''
+|-
+| D ||[[Cesare Benedetti (calciatore 1920-2002)|Cesare Benedetti]] (II)||{{Calcio Treviso|NB}}||''prestito''<ref name="prestito" />
+|-
+| A ||[[Miguel Ángel Pantó]]|| - || ''svincolato''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Campionato romano di guerra ===
+{{vedi anche|Campionato romano di guerra 1943-1944}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 1943
+|Ora = 14:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus Roma<ref name="D">Allora nota col nome de "La Disperata"</ref>
+|Bandiera 2 = 600px Nero e Bianco (Bordato).png|20px
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1943/n.290bis
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 7.000 circa
+|Arbitro = Colizza
+|Cittarbitro =
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|44||87}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Anno = 1943
+|Ora = 14:30
+|Turno = 2ª giornata
+|Squadra 1 = Ala Italiana
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1943/n.296/002
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|spettatori =
+|Arbitro =
+|Cittarbitro =
+|Marcatori 1 = Colaneri {{Goal|12}}
+|Marcatori 2 = {{Goal|55}} [[Naim Krieziu|Krieziu]]<br />{{Goal|72}} [[Nicola Fusco (calciatore)|Fusco]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 1943
+|Ora = 14:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Trastevere
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1943/n.302bis
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 5.000 circa
+|Arbitro = Garcea
+|Cittarbitro =
+|Marcatori 1 = Centomini {{Goal|17|aut.}}<br />[[Amedeo Amadei|Amadei]] {{Goal|33||63||75}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 dicembre
+|Anno = 1943
+|Ora = 14:30
+|Turno = 4ª giornata
+|Squadra 1 = Elettronica
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 8
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1943/n.307
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Arbitro = Riselli
+|Cittarbitro =
+|Marcatori 1 = Zaccaria {{goal|40|rig.}}
+|Marcatori 2 = {{Goal|15||24||27||49||77}} [[Amedeo Amadei|Amadei]]<br />{{Goal|55}} [[Nicola Fusco (calciatore)|Fusco]]<br />{{Goal|67}} [[Enzo Cozzolini|Cozzolini]]<br />{{Goal|89}} [[Oreste Roccasecca|Roccasecca]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 gennaio
+|Anno = 1944
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = MATER
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.002bis
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 10.000 circa
+|Arbitro = Baldani
+|Cittarbitro =
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|58||82|rig.}}
+|Marcatori 2 = {{Goal|10}} [[Bruno Pisani|Pisani]]<br />{{Goal|57}} Pieri III
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 1944
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Spettatori = 15.000 circa
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.008bis
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Arbitro = Fois
+|Cittarbitro =
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|13}}
+|Marcatori 2 = {{Goal|9}} [[Petar Manola|Manola]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 1944
+|Ora = 14:45
+|Turno = 7ª giornata
+|Squadra 1 = Littorio Roma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Spettatori =
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.014
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Arbitro = Calizza
+|Cittarbitro = Calizza
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|80}} [[Mario Forlivesi|Forlivesi]]<br />{{Goal|82}} [[Enzo Cozzolini|Cozzolini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 1944
+|Ora = 14:45
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Alba Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 2
+|Referto = http://dlib.coninet.it/bookreader.php?&c=1&f=8502&p=2
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 4.000 circa
+|Arbitro = Moscatelli
+|Cittarbitro =
+|Marcatori 1 = [[Naim Krieziu|Krieziu]] {{Goal|20||52}}<br />[[Mario Forlivesi|Forlivesi]] {{Goal|65||69}}<br />[[Ermes Borsetti|Borsetti]] {{Goal|82}}
+|Marcatori 2 = {{Goal|44||89}} Argentieri
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio<ref>Prevista per il 13 febbraio.</ref>
+|Anno = 1944
+|Ora = 15:00
+|Turno = 9ª giornata
+|Squadra 1 = VV.FF. Roma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.044bis
+|Città = [[Roma]]
+|Stadio = [[Stadio della Rondinella]]
+|Spettatori =
+|Arbitro = Fois
+|Cittarbitro =
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|36}} [[Ermes Borsetti|Borsetti]]<br />{{Goal|85}} [[Mario Forlivesi|Forlivesi]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 marzo
+|Anno = 1944
+|Ora = 15:00
+|Turno = 10ª giornata
+|Squadra 1 = Juventus Roma
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.062bis
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Vincenzo Orlandini]]
+|Cittarbitro = [[Roma]]
+|Marcatori 1 = Stentella {{Goal|21}}
+|Marcatori 2 = {{Goal|39}} [[Naim Krieziu|Krieziu]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 1944
+|Ora = 15:00
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ala Italiana
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/tirrenia%20roma%2043-44%20a.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = Moscatelli
+|Cittarbitro =
+|Marcatori 1 = [[Paolo Jacobini|Jacobini]] {{Goal|30}}<br />[[Ermes Borsetti|Borsetti]] {{Goal|49}}<br />[[Enzo Cozzolini|Cozzolini]] {{Goal|61||88}}
+|Marcatori 2 = {{Goal|51}} Colaneri<br />{{Goal|85}} Picchi
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 marzo
+|Anno = 1944
+|Ora = 10:30
+|Turno = 12ª giornata
+|Squadra 1 = Trastevere
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 7
+|Referto = http://www.asromaultras.org/trastevere%20roma%2043-44.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio della Rondinella]]
+|Spettatori = 4.000 circa
+|Arbitro = Calizza
+|Cittarbitro =
+|Marcatori 1 = [[Arvisto Ferioli|Ferioli]] {{Goal|28|aut.}}
+|Marcatori 2 = {{Goal|13||43||82}} [[Mario Forlivesi|Forlivesi]]<br />{{Goal|29||53}} [[Enzo Cozzolini|Cozzolini]]<br />{{Goal|31}} [[Ermes Borsetti|Borsetti]]<br />{{Goal|35}} [[Naim Krieziu|Krieziu]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 aprile
+|Anno = 1944
+|Ora = 15:15
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Elettronica
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/elettronica%20roma%2043-44.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = Di Chiara
+|Cittarbitro =
+|Marcatori 1 = [[Sergio Andreoli|Andreoli]] {{Goal|26||58}}<br />Biagioli {{Goal|53|aut.}}<br />[[Naim Krieziu|Krieziu]] {{Goal|68||79}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 aprile
+|Anno = 1944
+|Ora = 15:30
+|Turno = 14ª giornata
+|Squadra 1 = MATER
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.098bis
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Vincenzo Orlandini]]
+|Cittarbitro = [[Roma]]
+|Marcatori 1 = Pieri III {{Goal|86}}
+|Marcatori 2 = {{Goal|57}} [[Mario Forlivesi|Forlivesi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Anno = 1944
+|Ora = 15:30
+|Turno = 15ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/BVE0664750/1944/n.110bis
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettarori = 18.000 circa
+|Arbitro = [[Generoso Dattilo]]
+|Cittarbitro = [[Roma]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 maggio
+|Anno = 1944
+|Ora = 15:00
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Littorio Roma
+|Punteggio 1 = 6
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4344RomaAvia_Littoriale_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = Di Chiara
+|Cittarbitro =
+|Marcatori 1 = [[Enrico Schiavetti|Schiavetti]] {{Goal|4||29||31||76}}<br />[[Ermes Borsetti|Borsetti]] {{Goal|21}}<br />[[Nicola Fusco (calciatore)|Fusco]] {{Goal|35}}
+|Marcatori 2 = {{Goal|52}} Di Benedetti
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 maggio
+|Anno = 1944
+|Ora =
+|Turno = 17ª giornata
+|Squadra 1 = Alba Roma
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 6
+|Referto = http://www.asromaultras.org/4344AlbaRoma_Littoriale_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = Guazzaroni
+|Cittarbitro =
+|Marcatori 1 = Rossi {{Goal|74}}<br />Sabatini {{Goal|80}}
+|Marcatori 2 = {{Goal|37||65}} [[Naim Krieziu|Krieziu]]<br />{{Goal|54||71||86}} [[Amedeo Amadei|Amadei]]<br />{{Goal|82}} [[Enzo Cozzolini|Cozzolini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 maggio
+|Anno = 1944
+|Ora = 16:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = VV.FF. Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/vigili%20del%20fuoco%20roma%2043-44.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = De Lucia
+|Cittarbitro =
+|Marcatori 1 = Loveri {{Goal|8|aut.}}<br />[[Naim Krieziu|Krieziu]] {{Goal|31|rig.|62}}<br />[[Giuseppe Salvioli (calciatore)|Salvioli]] {{Goal|88}}
+|Marcatori 2 = {{Goal|19}} Bocci<br />{{Goal|66|rig.}} [[Oreste Roccasecca|Roccasecca]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1= [[Campionato romano di guerra 1943-1944|Campionato romano di guerra]]
+|punti1= 31
+|cv1=7 |cn1=2 |cp1=0 |cgf1=33 |cgs1= 10
+|tv1=6 |tn1=3 |tp1=0 |tgf1=29 |tgs1=7
+}}
+
+=== Andamento in campionato ===
+{{Andamento |nr=18}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=C |m7=T |m8=C |m9=T |m10=T |m11=C |m12=T |m13=C |m14=T |m15=T |m16=C |m17=T |m18=C }}
+{{Andamento/Risultato |m1=V |m2=V |m3=V |m4=V |m5=N |m6=N |m7=V |m8=V |m9=V |m10=N |m11=V |m12=V |m13=V |m14=N |m15=N |m16=V |m17=V |m18=V }}
+{{Andamento/Posizione |m1=1 |m2=1 |m3=1 |m4=1 |m5=1 |m6=1 |m7=1 |m8=1 |m9=1 |m10=1 |m11=1 |m12=1 |m13=1 |m14=2 |m15=2 |m16=2 |m17=2 |m18=2 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.<ref>A completamento dei dati vanno considerati tre autogol.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Campionato romano di guerra
+| Totale = no
+| Cartellini = no
+| {{Sortname|G.|Blason|Giacomo Blason}}{{Sommastat|C=no|8+|-7|?|?}}
+| {{Sortname|G.|Masetti|Guido Masetti}}{{Sommastat|C=no|5+|-4|?|?}}
+| {{Sortname|L.|Casadei|Luciano Casadei}}{{Sommastat|C=no|3+|-5|?|?}}
+| {{Sortname|S.|Andreoli|Sergio Andreoli}}{{Sommastat|C=no|10+|2|?|?}}
+| {{Sortname|R.|Pastori|Renato Pastori}}{{Sommastat|C=no|13+|0|?|?}}
+| {{Sortname|A.|Ferioli|Arvisto Ferioli}}{{Sommastat|C=no|9+|0|?|?}}
+| {{Sortname|L.|Milano|Luigi Milano}}{{Sommastat|C=no|15+|0|?|?}}
+| {{Sortname|E.|Mornese|Edmondo Mornese}}{{Sommastat|C=no|6+|0|?|?}}
+| {{Sortname|P.|Jacobini|Paolo Jacobini}}{{Sommastat|C=no|16+|1(-1)<ref>Giocò come portiere la partita Trastevere-Roma del 26 marzo 1944</ref>|?|?}}
+| {{Sortname|A.|Guadagnoli|Alfredo Guadagnoli}}{{Sommastat|C=no|1+|0|?|?}}
+| {{Sortname|E.|Borsetti|Ermes Borsetti}}{{Sommastat|C=no|11+|5|?|?}}
+| {{Sortname|C.|Matteini|Claudio Matteini}}{{Sommastat|C=no|10+|0|?|?}}
+| {{Sortname|N.|Krieziu|Naim Krieziu}}{{Sommastat|C=no|17+|11|?|?}}
+| {{Sortname|O.|Roccasecca|Oreste Roccasecca}}{{Sommastat|C=no|3+|1|?|?}}
+| {{Sortname|G.|Salvioli|Giuseppe Salvioli (calciatore)}}{{Sommastat|C=no|13+|1|?|?}}
+| {{Sortname|E.|Schiavetti|Enrico Schiavetti}}{{Sommastat|C=no|7+|4|?|?}}
+| {{Sortname|A.|Amadei|Amedeo Amadei}}{{Sommastat|C=no|8+|16|?|?}}
+| {{Sortname|E.|Cozzolini|Enzo Cozzolini}}{{Sommastat|C=no|14+|7|?|?}}
+| {{Sortname|M.|Forlivesi|Mario Forlivesi}}{{Sommastat|C=no|6+|8|?|?}}
+| {{Sortname|N.|Fusco|Nicola Fusco (calciatore)}}{{Sommastat|C=no|12+|3|?|?}}
+}}
+
+== Note ==
+<references/>
+
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.rsssf.com/tablesi/ital44.html|Serie A 1943-1944 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1943|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1943-1944}}
+{{Portale|calcio}}

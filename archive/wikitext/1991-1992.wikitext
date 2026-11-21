@@ -1,0 +1,1254 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = Roma9192.jpg
+|didascalia =
+|stagione = 1991-1992
+|allenatore1 = {{Bandiera|ITA}} [[Ottavio Bianchi]]
+|presidente = {{Bandiera|ITA}} [[Giuseppe Ciarrapico]]
+|campionato = [[Serie A 1991-1992|Serie A]]
+|campionato posizione = 5º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 1991-1992|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[Supercoppa italiana 1991|Supercoppa italiana]]
+|coppa2 posizione = Finalista
+|coppa3 = [[Coppa delle Coppe 1991-1992|Coppa delle Coppe]]
+|coppa3 posizione = Quarti di finale
+|presenze campionato = [[Aldair]], [[Amedeo Carboni|Carboni]] (33)
+|presenze totale = Carboni (45)
+|marcatore campionato = [[Rudi Völler|Völler]] (7)
+|marcatore totale = [[Ruggero Rizzitelli|Rizzitelli]] (12)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:34277}}<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A91-92.htm|titolo=Statistiche Spettatori Serie A 1991-1992}}</ref>
+|spettatori max = {{formatnum:63281}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(6 ottobre 1991)
+|spettatori min = {{formatnum:43558}}<ref name=stadiapost/> vs {{Calcio Verona|N}}<br/>(26 gennaio 1992)
+|spettatori media = {{formatnum:52269}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1990-1991|1990-1991]]
+|stagione dopo = [[Associazione Sportiva Roma 1992-1993|1992-1993]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1991-1992'''.
+
+== Stagione ==
+[[File:Associazione Sportiva Roma (Asiago, 1991).jpg|thumb|left|Parte della squadra in allenamento nel ritiro precampionato di [[Asiago (comune)|Asiago]]]]
+
+In questa stagione, sempre con [[Ottavio Bianchi]] in panchina, viene acquistato dalla {{Calcio Juventus|N}} il tedesco [[Thomas Hässler]] e ai bianconeri, in cambio, viene ceduto [[Angelo Peruzzi]], ancora squalificato per doping. In quanto detentrice della Coppa Italia, la Roma disputa la sua prima finale di [[Supercoppa italiana 1991|Supercoppa italiana]] contro la {{Calcio Sampdoria|N}} campione d'Italia, gara conclusasi con la vittoria di quest'ultima per 1-0.<ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}.</ref>
+
+La squadra, tra alti e bassi, termina il campionato al quinto posto in classifica, cogliendo la qualificazione in [[Coppa UEFA]] dopo una serie di cinque vittorie consecutive finali.<ref name=cor7/> In [[Coppa delle Coppe 1991-1992|Coppa delle Coppe]] la Roma viene eliminata nei quarti di finale dal {{Calcio Monaco|N}}: dopo aver pareggiato 0-0 la gara di andata all'Olimpico, al ritorno la compagine giallorossa, che per l'occasione sfoggia un'inedita tenuta blu, perde per 1-0 con una rete dell'ex juventino [[Rui Barros]]. In [[Coppa Italia 1991-1992|Coppa Italia]] la Roma è estromessa dalla Sampdoria nei quarti di finale.
+È l'ultima stagione di Bianchi, che l'ambizioso presidente [[Giuseppe Ciarrapico]] decide di non confermare in vista dell'annata successiva.
+
+== Divise e sponsor ==
+Lo sponsor tecnico è [[adidas]], mentre lo sponsor ufficiale è [[Barilla]].
+
+La prima divisa è costituita da maglia rossa con colletto a polo, pantaloncini rossi e calzettoni rossi, tutti e tre presentanti come decorazione le tre strisce Adidas in giallo. In trasferta i Lupi usano una costituita da maglia bianca con colletto a polo, pantaloncini bianchi, calzettoni bianchi, tutti e tre presentanti come decorazione le tre strisce Adidas in giallorosso. Come terza divisa viene usato un kit blu notte, sempre decorato con le tre strisce in giallorosso. I portieri usano due divise: la prima costituita da maglia rosa con colletto a polo e maniche neri, pantaloncini neri e calzettoni bianchi, la seconda da maglia viola, grigia e gialla con maniche nere, pantaloncini neri e calzettoni bianchi. Ad eccezione della terza, le divise presentano cucite sul petto la coccarda della [[Coppa Italia]].<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 177-180}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =_asroma80s90s
+|leftarm = 810b19
+|pattern_b = _asroma9192h
+|body = A00000
+|pattern_ra =_asroma80s90s
+|rightarm = 810b19
+|pattern_sh=_asroma9192h
+|shorts = A00000
+|pattern_so =_asroma9192h
+|socks = A00000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma80s90s
+|leftarm = FFFFFF
+|pattern_b = _asroma9192a
+|body = FFFFFF
+|pattern_ra =_asroma80s90s
+|rightarm = FFFFFF
+|pattern_sh=_asroma9192a
+|shorts = FFFFFF
+|pattern_so =_asroma9192a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9192t
+|leftarm = FFFFFF
+|pattern_b =_asroma9192t
+|body = FFFFFF
+|pattern_ra =_asroma9192t
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_sh =_asroma9192t
+|pattern_so =_asroma9192t
+|socks = FFFFFF
+|title = Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma9192gk1
+|body = 858585
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma9192gk
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma9192gk2
+|body = 858585
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma9192gk
+|socks = 000000
+|title = 2ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _uae90gk
+|pattern_b = _uae90gk
+|pattern_ra = _uae90gk
+|pattern_sh = _shorts
+|pattern_so = _asroma9192gk
+|leftarm = 000000
+|body = 000000
+|rightarm = 000000
+|shorts = 000000
+|socks = FFFFFF
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor7/>
+'''''Area direttiva'''''
+*Presidente: [[Giuseppe Ciarrapico]]
+*Vice-presidente Esecutivo: [[Gianni Petrucci|Giovanni Petrucci]]
+'''''Area tecnica'''''
+*Direttore sportivo: [[Emiliano Mascetti]]
+*Allenatore: [[Ottavio Bianchi]]
+== Rosa ==
+[[File:Thomas Häßler (2).JPG|thumb|Il neoacquisto tedesco [[Thomas Hässler]] (''qui nel 2015'') diviene presto il cardine della mediana giallorossa]]
+Di seguito la rosa<ref name="Rosa AS Roma - Saison 91/92">{{Cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1991|titolo=Rosa AS Roma - Saison 91/92|accesso=17 aprile 2018}}</ref>.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Cervone]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Zinetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ferro Tontini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Borsa]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Amedeo Carboni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Comi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Marco Antonio De Marchi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Garzya]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gabriele Grossi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sebastiano Nela]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Pellegrini (1967)|Stefano Pellegrini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Dario Rossi]]|ruolo=D}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Tempestilli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Daniele Berretta]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Valter Bonacina]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Di Mauro]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|altro=[[Capitano (calcio)|capitano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=FRG|nome=[[Thomas Häßler]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Piacentini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fausto Salsano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alessio Scarchilli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Carnevale]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Muzzi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ruggero Rizzitelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=DEU|nome=[[Rudi Völler]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato<ref name="Rosa AS Roma - Saison 91/92"/>.
+=== Sessione estiva ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| P || [[Ferro Tontini]]|| {{Calcio Cosenza|N}} || ''definitivo''
+|-
+| D || [[Marco Antonio De Marchi]] || {{Calcio Juventus|N}} || ''prestito''
+|-
+| D || [[Luigi Garzya]]|| {{Calcio Lecce|N}} || ''definitivo''
+|-
+| C || [[Walter Bonacina]] || {{Calcio Atalanta|N}} || ''definitivo''
+|-
+| C || [[Thomas Hässler]]|| {{Calcio Juventus|N}} || ''definitivo'' (12 Mld. £)<ref name=l/>
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| P || Luca Alidori|| {{Calcio Chieti|N}} || ''definitivo''
+|-
+| P || [[Angelo Peruzzi]]|| {{Calcio Juventus|N}} || ''definitivo'' (4.5 Mld. £)<ref>{{cita|Panini, 1991-1992|p. 10}}.</ref>
+|-
+| D || [[Thomas Berthold]]|| {{Calcio Bayern Monaco|N}} || ''definitivo''
+|-
+| D || [[Manuel Gerolin]] || {{Calcio Bologna|N}} || ''definitivo''
+|-
+| C || [[Bruno Conti]] || - || ''fine carriera''
+|-
+| C || [[Stefano Desideri]] || {{Calcio Inter|N}} || ''definitivo'' (7 Mld. £)<ref name=l>{{cita libro|titolo=Calciatori - La raccolta completa Panini 1961-2012|editore=Panini|anno=2012|mese=giugno|giorno=25|p=10|volume=Vol. 8 (1991-1992)}}</ref><ref>[https://ricerca.repubblica.it/repubblica/archivio/repubblica/1991/07/10/addio-di-desideri-dell-anno-in.html L'addio di Desideri. Dell'Anno in offerta], ''[[La Repubblica (quotidiano)|La Repubblica]]'', 10 luglio 1991, pag.26</ref>
+|-
+| C || [[Giampiero Maini]]|| {{Calcio Lecce|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Supercoppa italiana ===
+{{vedi anche|Supercoppa italiana 1991}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 agosto
+|Anno = 1991
+|Ora = 20:45
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 21.120
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/supercoppa-tim/archivio/1991-92
+|Marcatori 1 = [[Roberto Mancini|Mancini]] {{gol|75}}
+|Marcatori 2 =
+}}
+
+=== Serie A ===
+{{vedi anche|Serie A 1991-1992}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º settembre
+|Anno = 1991
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/1/VERROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 23.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 =
+|Marcatori 2 = {{gol|83}} [[Roberto Muzzi|Muzzi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 settembre
+|Anno = 1991
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/2/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 57.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 =
+|Marcatori 2 = {{gol|85|rig.}} [[Lothar Matthäus|Matthäus]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 1991
+|Ora = 16:00
+|Turno = 3ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/3/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = circa 26.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 =
+|Marcatori 2 = {{gol|80|aut.}} [[José Herrera|Herrera]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 1991
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/4/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 51.000
+|Arbitro = [[Werther Cornieti]]
+|Cittarbitro = [[Forlì]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 1991
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/5/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = circa 30.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 =
+|Marcatori 2 = {{gol|36}} [[Fausto Salsano|Salsano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 ottobre
+|Anno = 1991
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/6/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 63.281
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{gol|80}}
+|Marcatori 2 = {{gol|65}} [[Karl-Heinz Riedle|Riedle]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 ottobre
+|Anno = 1991
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/7/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Spettatori = circa 33.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Giorgio Bresciani|Bresciani]] {{gol|24}}
+|Marcatori 2 = {{gol|59}} [[Aldair]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 1991
+|Ora =
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/8/ROMFOG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 53.000
+|Arbitro = [[Mauro Felicani]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Dan Petrescu|Petrescu]] {{gol|54|aut.}}
+|Marcatori 2 = {{gol|84}} [[Igor' Šalimov|Šalimov]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 1991
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/9/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 60.000
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Marco van Basten|Van Basten]] {{gol|30}}<br/>[[Daniele Massaro|Massaro]] {{gol|36}}<br/>[[Frank Rijkaard|Rijkaard]] {{gol|57}}<br/>[[Alessandro Costacurta|Costacurta]] {{gol|78}}
+|Marcatori 2 = {{gol|59}} [[Andrea Carnevale|Carnevale]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 novembre
+|Anno = 1991
+|Ora =
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/10/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 56.000
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Fabrizio Di Mauro|Di Mauro]] {{gol|43}}
+|Marcatori 2 = {{gol|78}} [[Gianfranco Zola|Zola]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 novembre
+|Anno = 1991
+|Ora =
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/11/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{gol|47}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{gol|76}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º dicembre
+|Anno = 1991
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/12/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Spettatori = circa 46.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Salvatore Schillaci|Schillaci]] {{gol|37}}<br/>[[Marco Antonio De Marchi|De Marchi]] {{gol|87|aut.}}
+|Marcatori 2 = {{gol|70}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 1991
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/13/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Walter Bonacina|Bonacina]] {{gol|30}}
+|Marcatori 2 = {{gol|52}} [[Lamberto Piovanelli|Piovanelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 1991
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/14/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = circa 21.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Sebino Nela|Nela]] {{gol|16|aut.}}<br/>[[Marco Osio|Osio]] {{gol|55}}<br/>[[Alessandro Melli|Melli]] {{gol|75}}
+|Marcatori 2 = {{gol|14}} [[Fabrizio Di Mauro|Di Mauro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 gennaio
+|Anno = 1992
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/15/ASCROM
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori = circa 10.000
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Bruno Giordano (calciatore)|Giordano]] {{gol|45}}
+|Marcatori 2 = {{gol|53}} [[Ruggero Rizzitelli|Rizzitelli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 1992
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/16/ROMCRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 46.000
+|Arbitro = [[Giovanni Merlino]]
+|Cittarbitro = [[Torre del Greco]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{gol|10||66}}<br/>[[Aldair]] {{gol|73}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 gennaio
+|Anno = 1992
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/17/BARROM
+|Città = [[Bari]]
+|Stadio = [[Stadio San Nicola]]
+|Spettatori = circa 32.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[David Platt|Platt]] {{gol|68||88}}
+|Marcatori 2 = {{gol|15}} [[Rudi Völler|Völler]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 gennaio
+|Anno = 1992
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/18/ROMVER
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{gol|35}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 febbraio
+|Anno = 1992
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/19/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 46.000
+|Arbitro = [[Mauro Felicani]]
+|Cittarbitro = [[Bologna]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 febbraio
+|Anno = 1992
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/20/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Walter Cinciripini]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio
+|Anno = 1992
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/21/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 28.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Carlos Alberto Aguilera|Aguilera]] {{gol|45+2}}
+|Marcatori 2 = {{gol|86}} [[Thomas Häßler|Häßler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 1992
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/22/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 47.000
+|Arbitro = [[Maurizio Mughetti]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{gol|79}}
+|Marcatori 2 = {{gol|35||70}} [[Gabriel Batistuta|Batistuta]]<br/>{{gol|90}} [[Carlos Dunga|Dunga]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 1992
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/23/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Rubén Sosa Ardaiz|Sosa]] {{gol|5}}
+|Marcatori 2 = {{gol|70}} [[Thomas Häßler|Häßler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 1992
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/24/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Stefano Pellegrini (1967)|Pellegrini]] {{gol|88}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 marzo
+|Anno = 1992
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/25/FOGROM
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Spettatori = circa 20.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Giuseppe Signori|Signori]] {{gol|90|rig.}}
+|Marcatori 2 = {{gol|20}} [[Thomas Häßler|Häßler]]<br/>{{gol|74}} [[Aldair]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 marzo
+|Anno = 1992
+|Ora = 16:00
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/26/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 62.000
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{gol|69}}
+|Marcatori 2 = {{gol|4}} [[Marco Simone|Simone]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 aprile
+|Anno = 1992
+|Ora = 16:00
+|Turno = 27ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/27/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 46.000
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Andrea Silenzi|Silenzi]] {{gol|47}}<br/>[[Careca]] {{gol|55}}<br/>[[Gianfranco Zola|Zola]] {{gol|66}}
+|Marcatori 2 = {{gol|8|aut.}} [[Giancarlo Corradini|Corradini]]<br/>{{gol|18}} [[Giuseppe Giannini (calciatore)|Giannini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 aprile
+|Anno = 1992
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/28/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 27.000
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Paulo Silas|Silas]] {{gol|90}}
+|Marcatori 2 = {{gol|88}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1992
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/29/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 61.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{gol|57}}
+|Marcatori 2 = {{gol|73}} [[Roberto Baggio|Baggio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1992
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/30/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = circa 19.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{gol|72}} [[Rudi Völler|Völler]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 1992
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/31/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 64.000
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{gol|75}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 maggio
+|Anno = 1992
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/32/ROMASC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 46.000
+|Arbitro = [[Mauro Felicani]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{gol|89}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio
+|Anno = 1992
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Cremonese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/33/CREROM
+|Città = [[Cremona]]
+|Stadio = [[Stadio Giovanni Zini]]
+|Spettatori = circa 6.000
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Riccardo Maspero|Maspero]] {{gol|26}}
+|Marcatori 2 = {{gol|22|rig.}} [[Rudi Völler|Völler]]<br/>{{gol|30}} [[Andrea Carnevale|Carnevale]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 maggio
+|Anno = 1992
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1991-92/UNICO/UNI/34/ROMBAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 57.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{gol|19}}<br/>[[Fabrizio Di Mauro|Di Mauro]] {{gol|59}}
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1991-1992}}
+==== Turni preliminari ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 agosto
+|Anno = 1991
+|Ora =
+|Turno = Secondo turno - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Lucchese
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Werther Cornieti]]
+|Cittarbitro = Forlì
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{gol|80}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1991
+|Ora =
+|Turno = Secondo turno - Ritorno
+|Squadra 1 = Lucchese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto =
+|Città = [[Lucca]]
+|Stadio = [[Stadio Porta Elisa]]
+|Spettatori =
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = Trieste
+|Marcatori 1 = [[Carlo Pascucci|Pascucci]] {{gol|55}}
+|Marcatori 2 = {{gol|32}} [[Roberto Muzzi|Muzzi]]<br />{{gol|41}} [[Ruggero Rizzitelli|Rizzitelli]]
+|Sfondo = on
+}}
+
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 ottobre
+|Anno = 1991
+|Ora =
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9192RomaNapoli_CI_La_Stampa_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 14.130
+|Arbitro = [[Tullio Lanese]]
+|Cittarbitro = Messina
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{gol|85|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 1991
+|Ora =
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9192NapoliRoma_CI_La_Stampa_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = Siracusa
+|Marcatori 1 = [[Vittorio Pusceddu|Pusceddu]] {{gol|44}}<br />[[Careca]] {{gol|50||77}}
+|Marcatori 2 = {{gol|17||25}} [[Ruggero Rizzitelli|Rizzitelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 1992
+|Ora = 15:00
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9192SampdoriaRoma_CI_La_Stampa_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 8.305
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = Verona
+|Marcatori 1 = [[Gianluca Vialli|Vialli]] {{gol|88}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 1992
+|Ora = 20:30
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9192RomaSampdoria_CI_La_Stampa_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 18.584
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = Nichelino
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{gol|23}}
+|Marcatori 2 = {{gol|74}} [[Pietro Vierchowod|Vierchowod]]
+|Sfondo = on
+}}
+
+=== Coppa delle Coppe ===
+{{vedi anche|Coppa delle Coppe 1991-1992}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 settembre
+|Anno = 1991
+|Ora = 18:00 [[CEST]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = CSKA Mosca
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9192CSKA_MoscaRoma_La_Stampa_af.jpg
+|Città = [[Mosca (Russia)|Mosca]]
+|Stadio = [[Stadio Lužniki|Central Lenin Stadium]]
+|Spettatori = circa 45.000
+|Arbitro = [[Bo Karlsson]]
+|Nazarbitro = SWE
+|Marcatori 1 = [[Oleg Sergeev (calciatore 1968)|Sergeev]] {{gol|52}}
+|Marcatori 2 = {{gol|46|aut.}} [[Sergej Fokin|Fokin]]<br />{{gol|73}} [[Ruggero Rizzitelli|Rizzitelli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 1991
+|Ora =
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = CSKA Mosca
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9192RomaCSKA_Mosca_La_Stampa_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.066
+|Arbitro = [[Hubert Forstinger]]
+|Nazarbitro = AUT
+|Marcatori 1 =
+|Marcatori 2 = {{gol|13}} [[Sergej Dmitriev|Dmitriev]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Anno = 1991
+|Ora =
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Ilves
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9192Ilves_TampereRoma_La_Stampa_af.jpg
+|Città = [[Tampere]]
+|Stadio = [[Tampereen stadion]]
+|Spettatori =
+|Arbitro = Listiewicz
+|Nazarbitro = POL
+|Marcatori 1 = [[Marek Czakon|Czakon]] {{gol|65}}
+|Marcatori 2 = {{gol|20}} [[Andrea Carnevale|Carnevale]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 1991
+|Ora =
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Ilves
+|Punteggio 1 = 5
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/9192RomaIlves_Tampere_La_Stampa_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 24.910
+|Arbitro = [[Charles Agius]]
+|Nazarbitro = MLT
+|Marcatori 1 = [[Pekka Mattila|Mattila]] {{gol|1|aut.}}<br />[[Ruggero Rizzitelli|Rizzitelli]] {{gol|2}}<br />[[Fabrizio Di Mauro|Di Mauro]] {{gol|14}}<br />[[Andrea Carnevale|Carnevale]] {{gol|47||77}}
+|Marcatori 2 = {{gol|80||88}} [[Marek Czakon|Czakon]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1992
+|Ora =
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Monaco
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9192RomaMonaco_La_Stampa_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.336
+|Arbitro = [[Martin Navarrete]]
+|Nazarbitro = ESP
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1992
+|Ora =
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Monaco
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/9192MonacoRoma_La_Stampa_af.jpg
+|Città = [[Montecarlo]]
+|Stadio = [[Stadio Louis II]]
+|Spettatori =
+|Arbitro = [[John Blankenstein]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Rui Barros]] {{gol|45}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+== Statistiche ==
+Di seguito le statistiche di squadra<ref name="Rosa AS Roma - Saison 91/92"/>.
+=== Statistiche di squadra ===
+
+{{Statistiche squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1991-1992|Serie A]]
+|punti1=40
+|cv1=7
+|cn1=8
+|cp1=2
+|cgf1=18
+|cgs1=10
+|tv1=6
+|tn1=6
+|tp1=5
+|tgf1=19
+|tgs1=21
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1991-1992|Coppa Italia]]
+|punti2=-
+|cv2=2
+|cn2=1
+|cp2=0
+|cgf2=3
+|cgs2=1
+|tv2=1
+|tn2=0
+|tp2=2
+|tgf2=4
+|tgs2=5
+|comp3={{simbolo|Super coppa italiana.svg|10}} [[Supercoppa italiana 1991|Supercoppa italiana]]
+|punti3=-
+|cv3=0
+|cn3=0
+|cp3=0
+|cgf3=0
+|cgs3=0
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=0
+|tgs3=1
+|comp4={{simbolo|Coppa delle Coppe.svg|12}} [[Coppa delle Coppe 1991-1992|Coppa delle Coppe]]
+|punti4=-
+|cv4=1
+|cn4=1
+|cp4=1
+|cgf4=5
+|cgs4=3
+|tv4=1
+|tn4=1
+|tp4=1
+|tgf4=3
+|tgs4=3
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=C |m12=T |m13=C |m14=T |m15=T |m16=C |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=T |m29=C |m30=T |m31=C |m32=C |m33=T |m34=C }}
+{{Andamento/Risultato |m1=V |m2=P |m3=V |m4=N |m5=V |m6=N |m7=N |m8=N |m9=P |m10=N |m11=V |m12=P |m13=N |m14=P |m15=N |m16=V |m17=P |m18=V |m19=N |m20=N |m21=N |m22=P |m23=N |m24=V |m25=V |m26=N |m27=P |m28=N |m29=N |m30=V |m31=V |m32=V |m33=V |m34=V }}
+{{Andamento/Posizione |r=15 |m1=1 |m2=7 |m3=4 |m4=4 |m5=2 |m6=3 |m7=3 |m8=3 |m9=8 |m10=7 |m11=6 |m12=7 |m13=7 |m14=11 |m15=10 |m16=7 |m17=10 |m18=9 |m19=8 |m20=9 |m21=8 |m22=11 |m23=9 |m24=8 |m25=8 |m26=8 |m27=9 |m28=9 |m29=8 |m30=6 |m31=5 |m32=5 |m33=5 |m34=5 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Di seguito le statistiche dei giocatori.<ref name=cor7/><ref>A completamento dei dati vanno conteggiati tre autogol in campionato e due autogol in Coppa delle Coppe.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa delle<br />Coppe
+| Competizione4 = Supercoppa<br />Italiana
+| {{Sortname|G.|Cervone|Giovanni Cervone}} {{Sommastat|21|-21|0|1 |6|0|0+|0+ |4|-5|0|0 |1|-1|0|0}}
+| {{Sortname|G.|Zinetti|Giuseppe Zinetti}} {{Sommastat|14|-10|0|0 |0|0|0+|0+ |2|-1|0|0 |-|-|-|-}}
+| {{Sortname|F.|Tontini|Ferro Tontini}} {{Sommastat|0|-0|0|0 |-|-|-|- |0|-0|0|0 |-|-|-|-}}
+| {{Sortname||Aldair|Aldair}} {{Sommastat|33|3|2|0 |3|0|2+|0+ |6|0|1|0 |1|0|0|0}}
+| {{Sortname|A.|Borsa|Andrea Borsa}} {{Sommastat|-|-|-|- |-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|A.|Carboni|Amedeo Carboni}} {{Sommastat|33|0|6|0 |5|0|1+|0+ |6|0|1|0 |1|0|1|0}}
+| {{Sortname|A.|Comi|Antonio Comi}} {{Sommastat|10|0|1|0 |2|0|0+|0+ |1|0|1|0 |-|-|-|-}}
+| {{Sortname|M.|De Marchi|Marco Antonio De Marchi}} {{Sommastat|10|0|4|0 |4|0|1+|0+ |4|0|0|0 |1|0|0|0}}
+| {{Sortname|L.|Garzya|Luigi Garzya}} {{Sommastat|23|0|3|0 |3|0|0+|0+ |4|0|0|0 |1|0|0|0}}
+| {{Sortname|G.|Grossi|Gabriele Grossi}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|S.|Nela|Sebastiano Nela}} {{Sommastat|27|0|2|0 |6|0|1+|0+ |6|0|0|0 |1|0|0|0}}
+| {{Sortname|S.|Pellegrini|Stefano Pellegrini (1967)}} {{Sommastat|12|1|2|0 |5|0|0+|0+ |2|0|0|0 |-|-|-|-}}
+| {{Sortname|D.|Rossi|Dario Rossi}} {{Sommastat|0|0|0|0 |-|0|0+|0+ |-|0|0|0 |-|-|-|-}}
+| {{Sortname|A.|Tempestilli|Antonio Tempestilli}} {{Sommastat|6|0|1|0 |2|0|0+|0+ |1|0|0|0 |-|-|-|-}}
+| {{Sortname|D.|Berretta|Daniele Berretta}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|W.|Bonacina|Walter Bonacina}} {{Sommastat|28|1|10|1 |5|0|1+|0+ |4|0|1|0 |1|0|1|0}}
+| {{Sortname|F.|Di Mauro|Fabrizio Di Mauro}} {{Sommastat|26|3|6|0 |3|0|0+|0+ |6|1|0|0 |1|0|0|0}}
+| {{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}}{{Sommastat|24|4|9|1 |3|1|0+|0+ |4|0|1|0 |1|0|0|0}}
+| {{Sortname|T.|Häßler|Thomas Häßler}} {{Sommastat|32|3|2|0 |5|0|0+|0+ |6|0|0|0 |1|0|0|0}}
+| {{Sortname|G.|Piacentini|Giovanni Piacentini}} {{Sommastat|25|0|7|0 |5|0|1+|0+ |3|0|1|0 |-|-|-|-}}
+| {{Sortname|F.|Salsano|Fausto Salsano}} {{Sommastat|20|1|3|0 |6|0|0+|0+ |3|0|0|0 |1|0|0|0}}
+| {{Sortname|A.|Scarchilli|Alessio Scarchilli}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|A.|Carnevale|Andrea Carnevale}} {{Sommastat|21|4|5|0 |4|1|0+|0+ |3|3|1|0 |-|-|-|-}}
+| {{Sortname|R.|Muzzi|Roberto Muzzi}} {{Sommastat|10|1|0|0 |2|1|0+|0+ |1|0|0|0 |1|0|0|0}}
+| {{Sortname|R.|Rizzitelli|Ruggero Rizzitelli}} {{Sommastat|26|6|6|0 |4|4|2+|0+ |5|2|1|0 |-|-|-|-}}
+| {{Sortname|R.|Völler|Rudi Völler}} {{Sommastat|30|7|3|0 |2|0|0+|0+ |4|0|0|0 |1|0|0|0}}
+}}
+
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1991-1992|Campionato Primavera]]: Fase a gironi
+** [[Coppa Italia Primavera 1991-1992|Coppa Italia Primavera]]: ?
+** [[Torneo di Viareggio 1992|Torneo di Viareggio]]: Finalista
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital92.html|Serie A 1991-1992 su Rsssf.com|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1991|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1991-1992}}
+{{Portale|calcio}}

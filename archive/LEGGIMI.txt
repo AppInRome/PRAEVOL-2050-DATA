@@ -1,0 +1,5 @@
+ROMA STATISTIC - FONTE WIKIPEDIA STAGIONI 1927-2026
+Tutti i file *.wikitext rappresentano testi originali di pagine Wikipedia, NON database validato.
+Gli incontri in schede/*.json sono parametri grezzi dei template. Assist, minutaggi, arbitri e altre statistiche non sono presenti uniformemente.
+Fonte e licenza: Wikipedia italiana, CC BY-SA (attribuire gli autori e la versione storica; verificare pagina licenza).
+Consulta manifest.json e stato_stagioni.csv per pagine mancanti o bloccate.

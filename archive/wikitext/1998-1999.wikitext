@@ -1,0 +1,1145 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|immagine = Associazione Sportiva Roma 1998-99.JPG
+|club = AS Roma
+|stagione = 1998-1999
+|allenatore1 = {{Bandiera|CZE}} {{Bandiera|ITA}} [[Zdeněk Zeman]]
+|allenatore2 = {{Bandiera|ITA}} [[Ezio Sella]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 1998-1999|Serie A]]
+|campionato posizione = 5º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 1998-1999|Coppa Italia]]
+|coppa1 posizione = Ottavi di finale
+|coppa2 = [[Coppa UEFA 1998-1999|Coppa UEFA]]
+|coppa2 posizione = Quarti di finale
+|presenze campionato = [[Eusebio Di Francesco|Di Francesco]] (32)
+|presenze totale = [[Damiano Tommasi|Tommasi]], Di Francesco (33)
+|marcatore campionato = [[Marco Delvecchio|Delvecchio]] (18)
+|marcatore totale = Delvecchio (23)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:33256}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A98-99.htm|titolo=Statistiche Spettatori Serie A 1998-1999}}</ref>
+|spettatori max = {{formatnum:75290}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(11 aprile 1999)
+|spettatori min = {{formatnum:41126}}<ref name=stadiapost/> vs {{Calcio Empoli|N}}<br/>(31 gennaio 1999)
+|spettatori media = {{formatnum:54395}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1997-1998|1997-1998]]
+|stagione dopo = [[Associazione Sportiva Roma 1999-2000|1999-2000]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1998-1999'''.
+
+== Stagione ==
+In questa stagione, l'ultima con [[Zdeněk Zeman]] in panchina, la squadra giallorossa si classifica quinta in campionato con 54 punti, raggiungendo la qualificazione in [[Coppa UEFA]]. Sempre nel corso di questa stagione, precisamente il 31 ottobre 1998, [[Francesco Totti]] eredita la fascia di [[Capitano (calcio)|capitano]] da [[Aldair]].<ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}.</ref> Il miglior marcatore stagionale è [[Marco Delvecchio]] autore di 23 reti, delle quali 18 in campionato, 1 in Coppa Italia e 4 in Coppa UEFA. In [[Coppa Italia 1998-1999|Coppa Italia]] i giallorossi entrano in scena nei sedicesimi eliminando il {{Calcio Chievo|N}}, mentre negli ottavi sono eliminati nel doppio confronto con l'{{Calcio Atalanta|N}} ai tiri di rigore. In [[Coppa UEFA 1998-1999|Coppa UEFA]] la Roma supera nei trentaduesimi i danesi del {{Calcio Silkeborg|N}}, nei sedicesimi gli inglesi del {{Calcio Leeds|N}}, negli ottavi gli svizzeri del {{Calcio Zurigo|N}}, mentre nei quarti viene eliminata dagli spagnoli dell'{{Calcio Atletico Madrid|N}}.
+
+== Divise e sponsor ==
+[[File:AS Roma 1998-99 - Totti, Paulo Sérgio, Delvecchio.jpg|thumb|Il neocapitano [[Francesco Totti|Totti]], [[Paulo Sérgio]] e [[Marco Delvecchio|Delvecchio]], trio d'attacco romanista, con indosso la prima divisa della stagione in variante ''all red'']]Lo sponsor tecnico è [[Diadora]], mentre lo sponsor ufficiale è [[INA Assitalia]]. La prima divisa è costituita da maglia rossa, pantaloncini bianchi e calzettoni neri, tutti e tre presentanti decorazioni gialle. In trasferta i Lupi usano una costituita da maglia bianca con colletto a polo gialla, pantaloncini bianchi, calzettoni bianchi, tutti e tre con decorazioni giallorosse. Come terza divisa viene usato un kit costituito dallo stesso ''template'' della away, con il nero al posto del bianco.<ref name="maglie">{{cita|Castellani, Ceci, de Conciliis|pp. 202-205}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =_asroma9899h
+|leftarm = A00000
+|pattern_b = _asroma9899h
+|body = A00000
+|pattern_ra = _asroma9899h
+|rightarm = A00000
+|pattern_sh = _asroma9899
+|shorts = FFFFFF
+|pattern_so = _asroma9899h
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9899a
+|leftarm = FFFFFF
+|pattern_b =_asroma9899a
+|body = FFFFFF
+|pattern_ra =_asroma9899a
+|rightarm = FFFFFF
+|pattern_sh= _asroma9899
+|shorts = FFFFFF
+|pattern_so =_asroma9899a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9899t
+|leftarm = 05781d
+|pattern_b =_asroma9899t
+|body = DC143C
+|pattern_ra =_asroma9899t
+|rightarm = 05781d
+|pattern_sh =_asroma9899t
+|shorts = 05781d
+|pattern_so =_asroma9899h
+|socks = 000000
+|title = Terza divisa
+}}
+|}
+I portieri usano tre divise: le maglie sono gialle, grigie e nere con decorazioni giallorosse, pantaloncini e calzettoni sono neri.<ref name="maglie"/>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =_asroma9899gk1
+|leftarm = 000000
+|pattern_b =_asroma9899gk1
+|body = 858585
+|pattern_ra =_asroma9899gk1
+|rightarm = 000000
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma9899h
+|socks = ffffff
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma9899gk2
+|leftarm = b4b4b4
+|pattern_b =_asroma9899gk2
+|body = 858585
+|pattern_ra =_asroma9899gk2
+|rightarm = b4b4b4
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma9899a
+|socks = ffffff
+|title = 2ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma9899gk1
+|leftarm = 000000
+|pattern_b =_asroma9899gk3
+|body = 858585
+|pattern_ra =_asroma9899gk1
+|rightarm = 000000
+|shorts = 000000
+|pattern_sh =
+|pattern_so =_asroma9899h
+|socks = ffffff
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor7/>
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente: [[Franco Sensi]]
+* Vicepresidente e amministratore delegato: [[Ciro Di Martino]]
+* Consigliere tecnico: [[Nils Liedholm]]
+* Direttore sportivo: [[Giorgio Perinetti]]
+* Team Manager: [[Antonio Tempestilli]]
+* Responsabile ufficio stampa: Dario Brugnoli
+{{Colonne spezza}}
+'''''Area sanitaria'''''
+* Medico sociale: Ernesto Alicicco
+* Massaggiatore: Giorgio Rossi
+{{Colonne spezza}}
+'''''Area tecnica'''''
+* Allenatore: [[Zdeněk Zeman]]
+* Allenatore in seconda: [[Ezio Sella]]
+* Preparatore dei portieri: Vincenzo Cangelosi
+* Allenatore Primavera: [[Aldo Maldera]]
+* Preparatore atletico: Vito Scala
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa<ref name="Rosa AS Roma - Saison 98/99">{{Cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1998|titolo=Rosa AS Roma - Saison 98/99|accesso=17 aprile 2018}}</ref>.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=AUT|nome=[[Michael Konsel]]|ruolo=P}}
+{{Calciatore in rosa|n=2|nazione=BRA|nome=[[Cafu]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=BRA|nome=[[Antônio Carlos Zago]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Luigi Di Biagio]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Vincent Candela]]|ruolo=D}}
+{{Calciatore in rosa|n=6|nazione=BRA|nome=[[Aldair]]|altro=[[Capitano (calcio)|capitano]]<ref>Dalla 1ª alla 6ª giornata.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=BRA|nome=[[Paulo Sérgio]]|ruolo=A}}
+{{Calciatore in rosa|n=8|nazione=RUS|nome=[[Dmitri Alenichev]]|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=ARG|nome=[[Gustavo Javier Bartelt]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|altro=[[Capitano (calcio)|capitano]]<ref>Dalla 7ª giornata in poi.</ref>|ruolo=A}}
+{{Calciatore in rosa|n=11|nazione=ITA|nome=[[Eusebio Di Francesco]]|ruolo=C}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=[[Antonio Chimenti]]|ruolo=P}}
+{{Calciatore in rosa|n=13|nazione=ITA|nome=[[Fabio Petruzzi]]|ruolo=D}}
+{{Calciatore in rosa|n=14|nazione=ITA|nome=[[Carmine Gautieri]]|ruolo=C}}
+{{Calciatore in rosa|n=15|nazione=CMR|nome=[[Pierre Nlend Wome]]|ruolo=D}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=16|nazione=SCG|nome=[[Ivan Tomić]]|ruolo=C}}
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Damiano Tommasi]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Alessandro Frau]]|ruolo=A}}
+{{Calciatore in rosa|n=19|nazione=ITA|nome=[[Marco Quadrini]]|ruolo=D}}
+{{Calciatore in rosa|n=''20''|nazione=ITA|nome=''[[Filippo Dal Moro]]''|ruolo=D}}<ref name="ter">Ceduto alla {{Calcio Ternana|N}} durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=21|nazione=GEO 1990-2004|nome=[[Omari Tetradze]]|ruolo=D}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Andrea Campagnolo]]|ruolo=P}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Daniele Conti]]|ruolo=C}}
+{{Calciatore in rosa|n=24|nazione=ITA|nome=[[Marco Delvecchio]]|ruolo=A}}
+{{Calciatore in rosa|n=25|nazione=ITA|nome=Daniele Bordacconi|ruolo=C}}
+{{Calciatore in rosa|n=27|nazione=BRA|nome=[[Fábio Júnior]]|ruolo=A}}<ref>Acquistato dal [[Cruzeiro Esporte Clube|Cruzeiro]] durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=28|nazione=ITA|nome=[[Maurizio Lanzaro]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Cristian Servidei]]''|ruolo=D}}<ref name="ter"/>
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Giorgio Sterchele]]''|ruolo=P}}<ref name="ter"/>
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Francesco Statuto]]''|ruolo=C}}<ref>Ceduto al {{Calcio Piacenza|N}} durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/transfers/verein/12/plus/0?saison_id=1998&pos=&detailpos=&w_s=|titolo=Trasferimenti 98/99|accesso=21 aprile 2018}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P || [[Giorgio Sterchele]] || {{Calcio Bologna|NB}} || ''fine prestito''
+|-
+| P || [[Marvin Ficarra]] || - || ''ritiro''
+|-
+| D || [[Pierre Womé]] || {{Calcio Lucchese|NB}} || ''definitivo(2 mld)''
+|-
+| C || [[Dmitri Alenichev]] || {{Calcio Spartak Mosca|NB}} || ''definitivo (12 mld)''
+|-
+| C || [[Ivan Tomić]] || {{Calcio Partizan|NB}} || ''definitivo (18 mld)''
+|-
+| C || [[Alessandro Frau]] || {{Calcio Torres|NB}} || ''definitivo''
+|-
+| A || [[Gustavo Bartelt]] || {{Calcio Lanus|NB}} ||''definitivo (13 mld)''
+|-
+| A || [[Fábio Júnior]] || {{Calcio Cruzeiro|NB}} ||''definitivo (30 mld)''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P || [[Giorgio Sterchele]] || {{Calcio Ternana|NB}} || ''prestito''
+|-
+| D || [[Cristian Servidei]] || {{Calcio Ternana|NB}} || ''definitivo''
+|-
+| D || [[Matteo Pivotto]] || {{Calcio Chievo|NB}} || ''definitivo''
+|-
+| D || [[Filippo Dal Moro]] || {{Calcio Ternana|NB}} || ''prestito''
+|-
+| D || [[Stefano Fanucci]] || {{Calcio Teramo|NB}} || ''definitivo''
+|-
+| C || [[Vágner Rogério Nunes|Vágner]] || {{Calcio Vasco da Gama|NB}} || ''definitivo''
+|-
+| C || [[Manuele Blasi]] || {{Calcio Lecce|NB}} || ''prestito''
+|-
+| C || [[Daniele Bordacconi]] || {{Calcio Foggia|NB}} ||''definitivo''
+|-
+| C || [[Cristiano Scapolo]] || {{Calcio Napoli|NB}} || ''definitivo''
+|-
+| A || [[Abel Balbo]] || {{Calcio Parma|NB}} ||''definitivo(6 mld)''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1998-1999}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 12 settembre
+|Anno = 1998
+|Ora =18:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/1/ROMSAL
+|Squadra 2 = Salernitana
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|47||83}}<br/>[[Francesco Totti|Totti]] {{Goal|61}}
+|Marcatori 2 = {{Goal|41}} [[Rigobert Song|Song]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Empoli]]
+|Giornomese = 20 settembre
+|Anno = 1998
+|Ora =15:00
+|Turno = 2ª giornata
+|Squadra 1 = Empoli
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/2/EMPROM
+|Squadra 2 = Roma
+|Stadio = [[Stadio Carlo Castellani]]
+|Spettatori =
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 26 settembre
+|Anno = 1998
+|Ora = 18:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/3/ROMVEN
+|Squadra 2 = Venezia
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|1||14}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Genova]]
+|Giornomese = 4 ottobre
+|Anno = 1998
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/4/SAMROM
+|Squadra 2 = Roma
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori =
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Francesco Palmieri|Palmieri]] {{Goal|61}}<br/>[[Vincenzo Iacopino (calciatore)|Iacopino]] {{Goal|74}}
+|Marcatori 2 = {{Goal|26}} [[Marco Delvecchio|Delvecchio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 17 ottobre
+|Anno = 1998
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/5/ROMFIO
+|Squadra 2 = Fiorentina
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Dmitrij Aleničev|Aleničev]] {{Goal|89}}<br/>[[Francesco Totti|Totti]] {{Goal|90+4}}
+|Marcatori 2 = {{Goal|32}} [[Gabriel Omar Batistuta|Batistuta]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Milano]]
+|Giornomese = 25 ottobre
+|Anno = 1998
+|Ora =
+|Turno = 6ª giornata
+|Squadra 1 = Milan
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/6/MILROM
+|Squadra 2 = Roma
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Leonardo Nascimento de Araújo|Leonardo]] {{Goal|45}}<br/>[[Christian Ziege|Ziege]] {{Goal|59}}<br/>[[George Weah|Weah]] {{Goal|61}}
+|Marcatori 2 = {{Goal|9||70}} [[Marco Delvecchio|Delvecchio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 31 ottobre
+|Anno = 1998
+|Ora = 20:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/7/ROMUDI
+|Squadra 2 = Udinese
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Eusebio Di Francesco|Di Francesco]] {{Goal|44}}<br/>[[Francesco Totti|Totti]] {{Goal|52||71|rig.}}<br/>[[Paulo Sérgio]] {{Goal|62}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Bologna]]
+|Giornomese = 8 novembre
+|Anno = 1998
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/8/BOLROM
+|Squadra 2 = Roma
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori =
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giuseppe Signori|Signori]] {{Goal|18}}
+|Marcatori 2 = {{Goal|15}} [[Paulo Sérgio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 15 novembre
+|Anno = 1998
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/9/ROMJUV
+|Squadra 2 = Juventus
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|44}}<br/>[[Vincent Candela|Candela]] {{Goal|89}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Roma]]
+|Giornomese = 21 novembre
+|Anno = 1998
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/10/ROMBAR
+|Squadra 2 = Bari
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|83|rig.}}
+|Marcatori 2 = {{Goal|77}} [[Phil Masinga|Masinga]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 29 novembre
+|Anno = 1998
+|Ora = 20:30
+|Turno = 11ª giornata
+|Squadra 1 = Lazio
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/11/LAZROM
+|Squadra 2 = Roma
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Roberto Mancini|Mancini]] {{Goal|28||56}}<br/>[[Marcelo Salas|Salas]] {{Goal|69|rig.}}
+|Marcatori 2 = {{Goal|25}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|78}} [[Eusebio Di Francesco|Di Francesco]]<br/>{{Goal|81}} [[Francesco Totti|Totti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Sfondo = on
+|Città = [[Roma]]
+|Giornomese = 5 dicembre
+|Anno = 1998
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/12/ROMPER
+|Squadra 2 = Perugia
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|61}}<br/>[[Daniele Conti|Conti]] {{Goal|63}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|78||80}}<br/>[[Carmine Gautieri|Gautieri]] {{Goal|90+1}}
+|Marcatori 2 = {{Goal|33}} [[Milan Rapaić|Rapaić]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 dicembre
+|Anno = 1998
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/13/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori =
+|Arbitro = [[Robert Anthony Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Hernán Crespo|Crespo]] {{Goal|40}}
+|Marcatori 2 = {{Goal|62}} [[Carmine Gautieri|Gautieri]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 1998
+|Ora =
+|Turno = 14ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/14/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori =
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Benoît Cauet|Cauet]] {{Goal|59}}<br/>[[Iván Zamorano|Zamorano]] {{Goal|77}}<br/>[[Roberto Baggio|Baggio]] {{Goal|87}}<br/>[[Javier Zanetti|Zanetti]] {{Goal|89}}
+|Marcatori 2 = {{Goal|38}} [[Paulo Sérgio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1999
+|Ora =
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/15/ROMPIA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Eusebio Di Francesco|Di Francesco]] {{Goal|27}}<br/>[[Damiano Tommasi|Tommasi]] {{Goal|53}}
+|Marcatori 2 = {{Goal|38}} [[Giovanni Stroppa|Stroppa]]<br/>{{Goal|48|aut.}} [[Filippo Dal Moro|Dal Moro]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1999
+|Ora =
+|Turno = 16ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/16/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori =
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Marcatori 1 = [[Roberto Muzzi|Muzzi]] {{Goal|3||64}}<br/>[[Fabián O'Neill|O'Neill]] {{Goal|47||90}}
+|Marcatori 2 = {{Goal|27||41}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|80}} [[Carmine Gautieri|Gautieri]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1999
+|Ora =
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/17/ROMVIC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Eusebio Di Francesco|Di Francesco]] {{Goal|6}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|44}}<br/>[[Carmine Gautieri|Gautieri]] {{Goal|79}}
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1999
+|Ora =
+|Turno = 18ª giornata
+|Squadra 1 = Salernitana
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/18/SALROM
+|Città = [[Salerno]]
+|Stadio = [[Stadio Arechi]]
+|Spettatori = 40.000
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Antonino Bernardini|Bernardini]] {{goal|11|rig.}}<br/>[[Federico Giampaolo|Giampaolo]] {{goal|54}}
+|Marcatori 2 = {{goal|77}} [[Luigi Di Biagio|Di Biagio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1999
+|Turno = 19ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/19/ROMEMP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 41.126
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|56}}
+|Marcatori 2 = {{Goal|90+2}} [[Raffaele Cerbone|Cerbone]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 1999
+|Ora =
+|Turno = 20ª giornata
+|Squadra 1 = Venezia
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/20/VENROM
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pierluigi Penzo]]
+|Spettatori = 10.685
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Álvaro Recoba|Recoba]] {{Goal|1}}<br/>[[Filippo Maniero|Maniero]] {{Goal|48}}<br/>[[Fabiano Ballarin|Ballarin]] {{Goal|66}}
+|Marcatori 2 = {{Goal|68}} [[Luigi Di Biagio|Di Biagio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1999
+|Ora =
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/21/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 52.715
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Fábio Júnior]] {{goal|10}}<br/>[[Paulo Sérgio]] {{goal|84||88}}
+|Marcatori 2 = {{goal|15}} [[Saliou Lassissi|Lassissi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 febbraio
+|Anno = 1999
+|Ora =
+|Turno = 22ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/22/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = 45.000
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 1999
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/23/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63944}}
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Paulo Sérgio]] {{Goal|64}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1999
+|Ora =
+|Turno = 24ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/24/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = 20.000
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Martin Jørgensen|Jørgensen]] {{Goal|84}}<br/>[[Márcio Amoroso|Amoroso]] {{Goal|88|rig.}}
+|Marcatori 2 = {{Goal|28}} [[Fábio Júnior]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 marzo
+|Anno = 1999
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/25/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|10||39}}<br/>[[Carmine Gautieri|Gautieri]] {{Goal|61}}
+|Marcatori 2 = {{Goal|68}} [[Kenneth Andersson|Andersson]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 marzo
+|Anno = 1999
+|Ora = 15:00
+|Turno = 26ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/26/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+|Spettatori = 47.405
+|Marcatori 1 = [[Mark Iuliano|Iuliano]] {{Goal|72}}
+|Marcatori 2 = {{Goal|52}} [[Marco Delvecchio|Delvecchio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 aprile
+|Anno = 1999
+|Ora =
+|Turno = 27ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/27/BARROM
+|Città = [[Bari]]
+|Stadio = [[Stadio San Nicola]]
+|Spettatori = 19.847
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Phil Masinga|Masinga]] {{Goal|60}}
+|Marcatori 2 = {{goal|13||55}} [[Luigi Di Biagio|Di Biagio]]<br/>{{goal|79}} [[Cafu]]<br/>{{goal|84}} [[Eusebio Di Francesco|Di Francesco]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 1999
+|Ora = 20:30
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.transfermarkt.it/as-roma_ss-lazio/index/spielbericht/2214456
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|13||43}}<br/>[[Francesco Totti|Totti]] {{Goal|90}}
+|Marcatori 2 = {{Goal|79}} [[Christian Vieri|Vieri]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 76.560
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1999
+|Ora = 16:00 [[Central European Summer Time|CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/29/PERROM
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi]]
+|Spettatori = 20.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Giovanni Tedesco|Tedesco]] {{Goal|22}}<br/>[[Gianluca Petrachi|Petrachi]] {{Goal|42}}<br/>[[Milan Rapaić|Rapaić]] {{Goal|88}}
+|Marcatori 2 = {{Goal|23|aut.}} [[Salvatore Matrecano|Matrecano]]<br/>{{Goal|39}} [[Eusebio Di Francesco|Di Francesco]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1999
+|Ora =
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/30/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 57.841
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{goal|82}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 maggio
+|Anno = 1999
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 4
+|Punteggio 2 = 5
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/31/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 65.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|26|rig.}}<br/>[[Paulo Sérgio]] {{Goal|47}}<br/>[[Marco Delvecchio|Delvecchio]] {{Goal|49}}<br/>[[Eusebio Di Francesco|Di Francesco]] {{Goal|79}}
+|Marcatori 2 = {{Goal|17||56}} [[Ronaldo]]<br/>{{Goal|22||35}} [[Iván Zamorano|Zamorano]]<br/>{{Goal|87}} [[Diego Simeone|Simeone]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 maggio
+|Anno = 1999
+|Ora =
+|Turno = 32ª giornata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/32/PIAROM
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Spettatori = 13.000
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Massimo Rastelli|Rastelli]] {{Goal|32}}<br/>[[Francesco Statuto|Statuto]] {{Goal|81}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1999
+|Ora =
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/33/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 47.386
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|16||77}}<br/>[[Eusebio Di Francesco|Di Francesco]] {{Goal|33}}
+|Marcatori 2 = {{Goal|46}} [[Patrick Mboma|Mboma]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 maggio
+|Anno = 1999
+|Ora = 16:30
+|Turno = 34ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1998-99/UNICO/UNI/34/VICROM
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 16.000
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Gabriele Ambrosetti|Ambrosetti]] {{Goal|34}}
+|Marcatori 2 = {{Goal|27}} [[Paulo Sérgio]]<br/>{{Goal|62}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|78}} [[Carmine Gautieri|Gautieri]]<br/>{{Goal|81}} [[Fábio Júnior]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1998-1999}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 settembre
+|Anno = 1998
+|Ora = 20:30
+|Turno= Sedicesimi di finale - Andata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Raffaele Cerbone|Cerbone]] {{Goal|15}}<br/>[[Daniele Franceschini|Franceschini]] {{Goal|45}}
+|Marcatori 2 = {{Goal|54}} [[Gustavo Bartelt|Bartelt]]<br/>{{Goal|56}} [[Carmine Gautieri|Gautieri]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 1998
+|Ora =
+|Turno= Sedicesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Robert Anthony Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Dmitrij Aleničev|Aleničev]] {{Goal|63}}<br/>[[Carmine Gautieri|Gautieri]] {{Goal|80}}
+|Marcatori 2 = {{Goal|20}} [[Marco Veronese|Veronese]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 1998
+|Ora =
+|Turno= Ottavi di finale - Andata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Nicola|Zanini]] {{Goal|2}}
+|Marcatori 2 = {{Goal|30}} [[Marco Delvecchio|Delvecchio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 1998
+|Ora =
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Supplementari = X
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 4
+|PuntiTiriExtra 2 = 5
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|80}}
+|Marcatori 2 = {{Goal|77}} [[Nicola|Caccia]]
+|TiriExtra 1 = [[Luigi Di Biagio|Di Biagio]] {{pengoal}}<br/>[[Eusebio Di Francesco|Di Francesco]] {{pengoal}}<br/>[[Marco Delvecchio|Delvecchio]] {{penmiss}}<br/>[[Francesco Totti|Totti]] {{pengoal}}<br/>[[Alessandro Frau|Frau]] {{pengoal}}
+|TiriExtra 2 = {{pengoal}} [[Giacomo Banchelli|Banchelli]]<br/>{{pengoal}} [[Walter Bonacina|Bonacina]]<br/>{{pengoal}} [[Pierre Regonesi|Regonesi]]<br/>{{pengoal}} [[Nicola Caccia|Caccia]]<br/>{{pengoal}} [[Damiano Zenoni|Zenoni]]
+|Sfondo = on
+}}
+
+===Coppa UEFA===
+{{Vedi anche|Coppa UEFA 1998-1999}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 1998
+|Ora = 16:00
+|Turno = Trentaduesimi di finale - Andata
+|Squadra 1 = Silkeborg
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Città = [[Silkeborg]]
+|Stadio = Silkeborg Stadion
+|Arbitro = Ivanov
+|Nazarbitro = RUS
+|Marcatori 2 = {{Goal|63}} [[Francesco Totti|Totti]]<br />{{Goal|70}} [[Dmitrij Aleničev|Aleničev]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 1998
+|Ora = 20:45
+|Turno= Trentaduesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Silkeborg
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = Luinge
+|Nazarbitro = NLD
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|53}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 ottobre
+|Anno = 1998
+|Ora = 20:45
+|Turno= Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Leeds United
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = Lopez Nieto
+|Nazarbitro = ESP
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|18}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 1998
+|Ora = 21:05
+|Turno= Sedicesimi di finale - Ritorno
+|Squadra 1 = Leeds United
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Città = [[Leeds]]
+|Stadio = [[Elland Road]]
+|Arbitro = Heynemann
+|Nazarbitro = DEU
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 novembre
+|Anno = 1998
+|Ora = 16:00
+|Turno= Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Zurigo
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = Young
+|Nazarbitro = SCO
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|90+2|rig}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 1998
+|Ora = 20:45
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Zurigo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Zurigo]]
+|Stadio = Letzigrund
+|Arbitro = Diaz Vega
+|Nazarbitro = ESP
+|Marcatori 1 = [[Shaun Bartlett|Bartlett]] {{Goal|60||80}}
+|Marcatori 2 = {{Goal|14}} [[Marco Delvecchio|Delvecchio]]<br/>{{Goal|90}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 1999
+|Ora = 21:30
+|Turno= Quarti di finale - Andata
+|Squadra 1 = Atletico Madrid
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Madrid]]
+|Stadio = [[Stadio Vicente Calderon]]
+|Arbitro = Sars
+|Nazarbitro = FRA
+|Marcatori 1 = [[José Mari]] {{Goal|13}}<br />[[Roberto Fresnedoso|Roberto]] {{Goal|46}}
+|Marcatori 2 = {{Goal|75}} [[Luigi Di Biagio|Di Biagio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 1999
+|Ora = 21:30
+|Turno= Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Atletico Madrid
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = Van der Ende
+|Nazarbitro = NLD
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|32}}
+|Marcatori 2 = {{Goal|60}} [[Juan Carlos Aguilera|Aguilera]]<br/>{{Goal|88}} [[Roberto Fresnedoso|Roberto]]
+|Sfondo = on
+}}
+
+==Statistiche==
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=C |m11=T |m12=C |m13=T |m14=T |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=T |m28=C |m29=T |m30=C |m31=C |m32=T |m33=C |m34=T}}
+{{Andamento/Risultato |m1=V |m2=N |m3=V |m4=P |m5=V |m6=P |m7=V |m8=N |m9=V |m10=N |m11=N |m12=V |m13=N |m14=P |m15=N |m16=P |m17=V |m18=P |m19=N |m20=P |m21=V |m22=N |m23=V |m24=P |m25=V |m26=N |m27=V |m28=V |m29=P |m30=V |m31=P |m32=P |m33=V |m34=V}}
+{{Andamento/Posizione |m1=2 |m2=5 |m3=3 |m4=6 |m5=2 |m6=5 |m7=3 |m8=3 |m9=2 |m10=2 |m11=3 |m12=2 |m13=3 |m14=5 |m15=5 |m16=6 |m17=5 |m18=6 |m19=6 |m20=7 |m21=7 |m22=8 |m23=7 |m24=8 |m25=7 |m26=7 |m27=5 |m28=5 |m29=5 |m30=5 |m31=5 |m32=6 |m33=5 |m34=5}}
+{{Andamento/Fine |fonte={{cita web |url=https://www.worldfootball.net/schedule/ita-serie-a-1998-1999-spieltag/1/ |titolo=Italy » Serie A 1998/1999 » Results & Tables |editore=worldfootball.net}}}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Allievi Nazionali''''':
+** Campionato: vincitrice
+* '''''Giovanissimi Nazionali''''':
+** Campionato: vincitrice
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+* {{cita libro|curatore=Fabrizio Melegari|titolo=[[Almanacco illustrato del calcio]] 2000|editore=[[Edizioni Panini]]|pp=170-699}}
+== Collegamenti esterni ==
+* {{cita web|url=http://www.asroma.it/|titolo=Sito ufficiale}}
+* {{cita web|url=http://www.rsssf.com/tablesi/ital99.html|titolo=Italy 1998/99|lingua=en}}
+* {{cita web|url=http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1998|titolo=AS Roma 98/99|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1998-1999}}
+{{Portale|calcio}}

@@ -1,0 +1,1021 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1959-1960
+|immagine = Associazione Sportiva Roma 1959-60.jpg
+|allenatore1 = {{Bandiera|ITA}} [[Alfredo Foni]]
+|presidente = {{Bandiera|ITA}} Anacleto Gianni
+|campionato = [[Serie A 1959-1960|Serie A]]
+|campionato posizione = 9º
+|coppa1 = [[Coppa Italia 1959-1960|Coppa Italia]]
+|coppa1 posizione = Secondo turno
+|coppa2 = [[Coppa delle Alpi 1960|Coppa delle Alpi]]
+|coppa2 posizione = Vincitore<ref>Come componente Selezione Italiana.</ref>
+|presenze campionato = [[Giacomo Losi|Losi]], [[Egidio Guarnacci|Guarnacci]] (34)
+|presenze totale = Guarnacci (38)
+|marcatore campionato = [[Pedro Manfredini|Manfredini]] (16)
+|marcatore totale = Manfredini (17)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]<br />[[Stadio Flaminio|Flaminio]]<ref>7ª, 14ª, 23ª, 25ª, 27ª, 28ª, 32ª e 34ª giornata.</ref>
+|stagione prima = [[Associazione Sportiva Roma 1958-1959|1958-1959]]
+|stagione dopo = [[Associazione Sportiva Roma 1960-1961|1960-1961]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1959-1960'''.
+
+== Stagione ==
+[[File:AS Roma - Pedro Waldemar Manfredini.jpg|thumb|Il neoacquisto argentino [[Pedro Manfredini]], miglior marcatore giallorosso della stagione.]]
+Nonostante le speranze alimentate all'inizio del campionato dai nuovi acquisti, su tutti quello del cannoniere argentino [[Pedro Waldemar Manfredini]], la squadra, i cui campioni vengono accusati di dedicarsi troppo alla ''[[Dolce vita (periodo)|Dolce vita]]'' della [[Roma]] dei primi anni sessanta più che agli allenamenti, finisce con un nono posto in classifica. È il primo anno da capitano di [[Giacomo Losi]], dopo la rinuncia di [[Egidio Guarnacci]] indignato a seguito di una multa comminata dall'allenatore ai giocatori per il poco impegno sul campo.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con colletto a polo, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. I portieri hanno due divise, una costituita da maglia bianca con colletto a polo giallorosso, pantaloncini viola e calze rosse bordate di giallo, l'altra con maglia nera con colletto a polo giallorosso, pantaloncini neri e calzettoni bianchi bordati di giallorosso.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 81-83}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma5051h
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_asroma4748a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asromaa
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma5960gk1
+|leftarm = 858585
+|pattern_b =_asroma5960gk1
+|body = 858585
+|pattern_ra =_asroma5960gk1
+|rightarm = 858585
+|shorts = 6964cb
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma3334gk
+|body = 858585
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma6566a
+|socks = 030347
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente generale: Anacleto Gianni
+* Presidente Sez. Calcio: Augusto D'Arcangeli, da ''marzo'' Anacleto Gianni
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Alfredo Foni]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 59/60">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1959|titolo=Rosa AS Roma - Saison 59/60|accesso=9 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Cudicini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Panetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giorgio Bernardin]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giulio Corsini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Romano Di Bari]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Griffith]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|altro=c|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Marcellini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giosuè Stucchi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mario David]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Giuliano (calciatore)|Luigi Giuliano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Egidio Guarnacci]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Quintino Giovannini<ref name=p/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Orlando]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Pestrin]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Tenente]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Zaglio]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Gualtiero Brunelli<ref name=p>Aggregato dalla squadra giovanile.</ref>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mario Castellazzi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Dino da Costa]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alcides Ghiggia]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Pedro Manfredini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Arne Selmosson]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 59/60"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D ||[[Giorgio Bernardin]]|| {{Calcio Triestina|N}} || ''definitivo'' (15 Mln £)
+|-
+| D ||[[Romano Di Bari]]|| {{Calcio Sambenedettese|N}} || ''definitivo''
+|-
+| D ||[[Antonio Marcellini]]|| {{Calcio Catania|N}}|| ''definitivo'' (15 Mln £)
+|-
+| C ||[[Giampaolo Menichelli]]|| {{Calcio Sambenedettese|N}}|| ''fine prestito''
+|-
+| C ||[[Alberto Orlando]]|| {{Calcio Riunite Messina|N}} || ''fine prestito''
+|-
+| A ||[[Mario Castellazzi]]|| {{Calcio Spezia|N}} || ''definitivo''
+|-
+| A ||[[Pedro Manfredini]]|| {{Calcio Racing Avellaneda|N}} || ''definitivo'' (75 Mln £)
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Luciano Tessari]]||| - || ''fine carriera''
+|-
+| D ||[[Silvio Franchi]]|| {{Calcio Lecco|N}} || ''definitivo''
+|-
+| D ||[[Carlo Mazzone]]|| {{Calcio SPAL|N}} || ''definitivo''
+|-
+| C ||[[Lamberto Leonardi]]|| {{Calcio Cosenza|N}} || ''definitivo''
+|-
+| C ||[[Enzo Menegotti]]|| - || ''fine carriera''
+|-
+| C ||[[Giampaolo Menichelli]]|| {{Calcio Parma|N}}|| ''prestito''
+|-
+| C ||[[Maurizio Thermes]]|| {{Calcio Sambenedettese|N}} || ''definitivo''
+|-
+| A ||[[Severino Lojodice]]||| {{Calcio Juventus|N}} || ''definitivo'' (80 Mln £)<ref>{{Cita web|url=http://www.asromaultras.org/5960_28-11-59_CorrSport_af.JPG|titolo=Lojodice alla Juventus, Corriere dello sport}}</ref>
+|-
+| A ||[[Filippo Tasso]]|| {{Calcio Sambenedettese|N}} || ''definitivo''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1959-1960}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 settembre
+|Anno = 1959
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaGenoa_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Paolo Pestrin|Pestrin]] {{Goal|68}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 1959
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960MilanRoma_CorrSport_01_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Alfio Fontana|Fontana]] {{Goal|23}}
+|Marcatori 2 = {{Goal|1}} [[Franco Zaglio|Zaglio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 ottobre
+|Anno = 1959
+|Ora = 15:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960RomaPalermo_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Pietro Leita]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 = [[Franco Zaglio|Zaglio]] {{Goal|49|rig.}}
+|Marcatori 2 = {{Goal|80}} [[Ricciotti Greatti|Greatti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 ottobre
+|Anno = 1959
+|Ora = 15:30
+|Turno = 4ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960FiorentinaRoma_CorrSport_01_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Giosuè Stucchi|Stucchi]] {{Goal|12|aut.}}<br />[[Guido Gratton|Gratton]] {{Goal|37||49}}
+|Marcatori 2 = {{Goal|4}} [[Pedro Manfredini|Manfredini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 ottobre
+|Anno = 1959
+|Ora = 15:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaLazie_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 85.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|2||42}}<br />[[Arne Selmosson|Selmosson]] {{Goal|86}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 ottobre
+|Anno = 1959
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960PadovaRoma_CorrSport_01_af.JPG
+|Città = [[Padova]]
+|Stadio = [[Stadio Silvio Appiani]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Ugo Famulari]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Marino Perani|Perani]] {{Goal|55}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960RomaSpal_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|14}}
+|Marcatori 2 = {{Goal|51}} [[Gianni Corelli|Corelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 novembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5960BariRoma_CorrSport_01_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Carlo Tagnin|Tagnin]] {{Goal|17}}<br />[[Luigi Buglioni|Buglioni]] {{Goal|68}}
+|Marcatori 2 = {{Goal|2||72}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|67}} [[Franco Zaglio|Zaglio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 novembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960RomaInter_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Paolo Pestrin|Pestrin]] {{Goal|9}}<br />[[Franco Zaglio|Zaglio]] {{Goal|51|rig.}}<br />[[Arne Selmosson|Selmosson]] {{Goal|59}}
+|Marcatori 2 = {{Goal|62}} [[Bengt Lindskog|Lindskog]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Alessandria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960AlessandriaRoma_CorrSport_01_af.JPG
+|Città = [[Alessandria (Italia)|Alessandria]]
+|Stadio = [[Stadio Giuseppe Moccagatta]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 dicembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960AtalantaRoma_CorrSport_01_af.JPG
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Humberto Maschio|Maschio]] {{Goal|29}}<br />[[Enrico Nova|Nova]] {{Goal|60}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960RomaBologna_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|57}}
+|Marcatori 2 = {{Goal|61}} [[Ettore De Marco|De Marco]]<br />{{Goal|77}} [[Antonio Renna|Renna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 dicembre
+|Anno = 1959
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960JuventusRoma_CorrSport_01_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Pietro Leita]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 = [[Omar Sívori|Sívori]] {{Goal|26||88}}<br />[[Gino Stacchini|Stacchini]] {{Goal|75}}<br />[[Giampiero Boniperti|Boniperti]]  {{Goal|89}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960RomaVicenza_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Dino Panzanato|Panzanato]] {{Goal|34|aut.}}<br />[[Arne Selmosson|Selmosson]] {{Goal|68||74}}
+|Marcatori 2 = {{Goal|44|aut.}} [[Giacomo Losi|Losi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960SampdoriaRoma_CorrSport_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Silvio Ferrari (arbitro)|Silvio Ferrari]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Ernst Ocwirk|Ocwirk]] {{Goal|47}}<br />[[Lennart Skoglund|Skoglund]] {{Goal|48}}<br />[[Ernesto Cucchiaroni|Cucchiaroni]] {{Goal|82}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaNapoli_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Mario Castellazzi|Castellazzi]] {{Goal|9}}<br />[[Arne Selmosson|Selmosson]] {{Goal|41}}<br />[[Mario David|David]] {{Goal|45}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5960UdineseRoma_CorrSport_01_af.JPG
+|Città = [[Udine]]
+|Stadio = [[Stadio Moretti]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Carlo Babini]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Luis Pentrelli|Pentrelli]] {{Goal|58||61}}<br />[[Luigi Milan|Milan]] {{Goal|87}}
+|Marcatori 2 = {{Goal|17||81}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|30}} [[Alcides Ghiggia|Ghiggia]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960GenoaRoma_La_Stampa_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Leonello Leoni|Leoni]] {{Goal|57}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960RomaMilan_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Mario David|David]] {{Goal|33}}<br />[[Alberto Orlando|Orlando]] {{Goal|53}}
+|Marcatori 2 = {{Goal|9}} [[Giancarlo Danova|Danova]]<br />{{Goal|43}} [[José Altafini|Altafini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 febbraio
+|Anno = 1960
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960PalermoRoma_CorrSport_01_af.JPG
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Dionisio Arce|Arce]] {{Goal|29}}<br />[[Stefano Bernini|Bernini]] {{Goal|36||89}}<br />[[Santiago Vernazza|Vernazza]] {{Goal|69|rig.}}
+|Marcatori 2 = {{Goal|3}} [[Arne Selmosson|Selmosson]]<br />{{Goal|88}} [[Franco Zaglio|Zaglio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 1960
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960RomaFiorentina_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|42}}
+|Marcatori 2 = {{Goal|59||68}} [[Kurt Hamrin|Hamrin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 1960
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960LazieRoma_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|32|aut.}} [[Francesco Janich|Janich]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 1960
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaPadova_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|49}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 marzo
+|Anno = 1960
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960SpalRoma_CorrSport_01_af.JPG
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Egidio Morbello|Morbello]] {{Goal|11}}<br />[[Gianni Corelli|Corelli]] {{Goal|34}}
+|Marcatori 2 = {{Goal|84}} [[Arne Selmosson|Selmosson]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 aprile
+|Anno = 1960
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960RomaBari_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 32.000 circa
+|Arbitro = [[Pietro Leita]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 = [[Mario Castellazzi|Castellazzi]] {{Goal|35||64}}<br />[[Dino da Costa|Da Costa]] {{Goal|38}}
+|Marcatori 2 = {{Goal|80}} [[Mario Mazzoni|Mazzoni]]<br />{{Goal|86|aut.}} [[Giulio Corsini|Corsini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 1960
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5960InterRoma_CorrSport_01_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Antonio Valentín Angelillo|Angelillo]] {{Goal|56}}
+|Marcatori 2 = {{Goal|44}} [[Alberto Orlando|Orlando]]<br />{{Goal|52||54}} [[Pedro Manfredini|Manfredini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 1960
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Alessandria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaAlessandria_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Paolo Pestrin|Pestrin]] {{Goal|13}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 aprile
+|Anno = 1960
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaAtalanta_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|23||38}}<br />[[Dino da Costa|Da Costa]] {{Goal|68}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º maggio
+|Anno = 1960
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960BolognaRoma.html
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Eugenio Stanzione]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Gino Pivatelli|Pivatelli]] {{Goal|28||69||74}}
+|Marcatori 2 = {{Goal|63}} [[Alberto Orlando|Orlando]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 maggio
+|Anno = 1960
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960RomaJuventus_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 80.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|2||9}}
+|Marcatori 2 = {{Goal|59}} [[Omar Sívori|Sívori]]<br />{{Goal|78}} [[John Charles|Charles]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 maggio
+|Anno = 1960
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960VicenzaRoma_CorrSport_01_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Mario Butti]]
+|Cittarbitro = [[Como]]
+|Marcatori 1 = [[Renzo Cappellaro|Cappellaro]] {{Goal|4}}<br />[[Giulio Savoini|Savoini]] {{Goal|6||64}}<br />[[Oliviero Conti|Conti]] {{Goal|16||88}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 maggio
+|Anno = 1960
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 6
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5960RomaSampdoria_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Florenzo Annoscia]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|11||33}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|18||67}}<br />[[Egidio Guarnacci|Guarnacci]] {{Goal|44}}<br />[[Alberto Orlando|Orlando]] {{Goal|51}}
+|Marcatori 2 = {{Goal|84}} [[Ernesto Cucchiaroni|Cucchiaroni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 maggio
+|Anno = 1960
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960NapoliRoma_CorrSport_01_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 80.000 circa
+|Arbitro = [[Alfeo Grignani]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Emanuele Del Vecchio|Del Vecchio]] {{Goal|10|rig.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 giugno
+|Anno = 1960
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960romaudineseDSCN2808.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|16}}<br />[[Franco Zaglio|Zaglio]] {{Goal|30|rig.}}
+|Marcatori 2 = {{Goal|21}} [[Lorenzo Bettini|Bettini]]<br />{{Goal|61|rig.}} [[Umberto Pinardi|Pinardi]]
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1959-1960}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 settembre
+|Anno = 1959
+|Ora = 16:30
+|Turno = Primo turno
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaCagliari_CI_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Piero Angelini (arbitro)|Piero Angelini]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|16}}<br />[[Dino da Costa|da Costa]] {{Goal|21}}<br />[[Franco Zaglio|Zaglio]] {{Goal|41}}<br />[[Paolo Pestrin|Pestrin]] {{Goal|44}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 settembre
+|Anno = 1959
+|Ora = 15:30
+|Turno = Secondo turno
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5960RomaSampdoria_CI_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 = [[Bruno Mora|Mora]] {{Goal|4}}<br />[[Lennart Skoglund|Skoglund]] {{Goal|8}}
+|Sfondo = on
+}}
+
+===Coppa delle Alpi===
+{{Vedi anche|Coppa delle Alpi 1960}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 giugno
+|Anno = 1960
+|Ora = 21:30
+|Turno = Andata
+|Squadra 1 = Roma
+|Squadra 2 = Young Boys
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5960RomaYoungBoys_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 15000 circa
+|Arbitro = [[Gottfried Dienst]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Arne Selmosson|Selmosson]] {{Goal|3}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 giugno
+|Anno = 1960
+|Turno = Ritorno
+|Squadra 1 = Young Boys
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto =http://www.asromaultras.org/5960YoungBoysRoma_CorrSport_01_af.JPG
+|Città = [[Berna]]
+|Stadio = [[Wankdorfstadion]]
+|Spettatori = 32.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Nazarbitro = ITA
+|Marcatori 1 = [[Anton Allemann|Allemann]] {{Goal|8}}<br/>[[Heinz Schneiter|Schneiter]] {{Goal|87}}
+|Marcatori 2 = {{Goal|20}}, {{Goal|53}} [[Paolo Pestrin|Pestrin]]
+|Sfondo=on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1959-1960|Serie A]]
+|punti1=34
+|cv1=10
+|cn1=5
+|cp1=2
+|cgf1=37
+|cgs1=17
+|tv1=3
+|tn1=3
+|tp1=11
+|tgf1=16
+|tgs1=36
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1959-1960|Coppa Italia]]
+|punti2=
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=4
+|cgs2=2
+|tv2=0
+|tn2=0
+|tp2=0
+|tgf2=0
+|tgs2=0
+|comp3=[[Coppa delle Alpi 1960|Coppa delle Alpi]]
+|punti3=
+|cv3=1
+|cn3=0
+|cp3=0
+|cgf3=1
+|cgs3=0
+|tv3=0
+|tn3=1
+|tp3=0
+|tgf3=2
+|tgs3=2
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo  |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=T |m12=C |m13=T |m14=C |m15=T |m16=C |m17=T |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=C |m29=T |m30=C |m31=T |m32=C |m33=T |m34=C }}
+{{Andamento/Risultato 	|m1=V |m2=N |m3=N |m4=P |m5=V |m6=P |m7=N |m8=V |m9=V |m10=N |m11=P |m12=P |m13=P |m14=V |m15=P |m16=V |m17=N |m18=P |m19=N |m20=P |m21=P |m22=V |m23=V |m24=P |m25=V |m26=V |m27=V |m28=V |m29=P |m30=N |m31=P |m32=V |m33=P |m34=N }}
+{{Andamento/Posizione |r=17 |m1=1 |m2=4 |m3=3 |m4=11 |m5=6 |m6=8 |m7=8 |m8=7 |m9=6 |m10=5 |m11=7 |m12=8 |m13=8 |m14=7 |m15=8 |m16=8 |m17=7 |m18=8 |m19=8 |m20=9 |m21=11 |m22=9 |m23=9 |m24=9 |m25=8 |m26=7 |m27=7 |m28=6 |m29=7 |m30=8 |m31=9 |m32=7 |m33=9 |m34=9 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]].<ref>A completamento dei dati vanno conteggiati due autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa delle<br />Alpi
+| Cartellini = no
+| {{Sortname|G.|Bernardin|Giorgio Bernardin}} {{Sommastat|C=no |4|0|?|? |2|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Brunelli|Gualtiero Brunelli|nolink=1}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Castellazzi|Mario Castellazzi}} {{Sommastat|C=no |9|3|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Corsini|Giulio Corsini}} {{Sommastat|C=no |20|0|?|? |2|0|?|? |1|0|?|?}}
+| {{Sortname|F.|Cudicini|Fabio Cudicini}} {{Sommastat|C=no |4|-10|?|? |2|-2|?|? |2|-3|?|?}}
+| {{Sortname|D.|da Costa|Dino da Costa}} {{Sommastat|C=no |17|2|?|? |2|1|?|? |0|0|?|?}}
+| {{Sortname|R.|Di Bari|Romano Di Bari}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |1|0|?|?}}
+| {{Sortname|M.|David|Mario David}} {{Sommastat|C=no |22|2|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Ghiggia|Alcides Ghiggia}} {{Sommastat|C=no |17|1|?|? |2|0|?|? |0|0|?|?}}
+| {{Sortname|Q.|Giovannini|Quintino Giovannini|nolink=1}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |1|0|?|?}}
+| {{Sortname|L.|Giuliano|Luigi Giuliano (calciatore)}} {{Sommastat|C=no |14|0|?|? |0|0|?|? |2|0|?|?}}
+| {{Sortname|G.|Griffith|Giovanni Griffith}} {{Sommastat|C=no |30|0|?|? |2|0|?|? |2|0|?|?}}
+| {{Sortname|E.|Guarnacci|Egidio Guarnacci}} {{Sommastat|C=no |34|1|?|? |2|0|?|? |2|0|?|?}}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |34|0|?|? |0|0|?|? |2|0|?|?}}
+| {{Sortname|P.|Manfredini|Pedro Manfredini}} {{Sommastat|C=no |24|16|?|? |2|1|?|? |0|0|?|?}}
+| {{Sortname|A.|Marcellini|Antonio Marcellini}} {{Sommastat|C=no |2|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Orlando|Alberto Orlando}} {{Sommastat|C=no |24|4|?|? |1|0|?|? |1|0|?|?}}
+| {{Sortname|L.|Panetti|Luciano Panetti}} {{Sommastat|C=no |30|-43|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|P.|Pestrin|Paolo Pestrin}} {{Sommastat|C=no |27|3|?|? |2|1|?|? |2|2|?|?}}
+| {{Sortname|A.|Selmosson|Arne Selmosson}} {{Sommastat|C=no |31|13|?|? |2|0|?|? |2|1|?|?}}
+| {{Sortname|G.|Stucchi|Giosuè Stucchi}} {{Sommastat|C=no |4|0|?|? |0|0|?|? |2|0|?|?}}
+| {{Sortname|S.|Tenente|Sergio Tenente}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |1|0|?|?}}
+| {{Sortname|F.|Zaglio|Franco Zaglio}} {{Sommastat|C=no |27|6|?|? |2|1|?|? |2|0|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Torneo di Viareggio 1960|Torneo di Viareggio]]: ottavi di finale
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital60.html|Serie A 1959-1960 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1959|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1959-1960}}
+{{Portale|calcio}}

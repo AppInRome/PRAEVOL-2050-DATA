@@ -1,0 +1,1449 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|immagine =
+|didascalia = Una formazione della Roma in Champions League
+|stagione = 2010-2011
+|allenatore1 = {{Bandiera|ITA}} [[Claudio Ranieri]] <small>(1ª-26ª)</small><br/>{{Bandiera|ITA}} [[Vincenzo Montella]] <small>(27ª-38ª)</small>
+|allenatore2 = {{Bandiera|FRA}} [[Christian Damiano]] <small>(1ª-26ª)</small><br/>{{Bandiera|ITA}} [[Daniele Russo (calciatore 1973)|Daniele Russo]] <small>(27ª-38ª)</small>
+|presidente = {{Bandiera|ITA}} [[Rosella Sensi]]
+|campionato = [[Serie A 2010-2011|Serie A]]
+|campionato posizione = 6º (in Europa League)
+|coppa1 = [[Coppa Italia 2010-2011|Coppa Italia]]
+|coppa1 posizione = Semifinalista
+|coppa2 = [[Supercoppa italiana 2010|Supercoppa Italiana]]
+|coppa2 posizione = Finalista
+|coppa3 = [[UEFA Champions League 2010-2011|Champions League]]
+|coppa3 posizione = Ottavi di finale
+|presenze campionato = [[Jérémy Ménez|Ménez]] (29)
+|presenze totale = [[Marco Borriello|Borriello]] (40)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|marcatore campionato = [[Francesco Totti|Totti]] (15)
+|marcatore totale = Borriello, Totti (17)
+|spettatori max = {{formatnum:58083}}<ref name=stadiapost/> vs {{Calcio Milan|N}}<br/>(7 maggio 2011)
+|spettatori min = {{formatnum:22365}} vs {{Calcio Basilea|N}}<br/>(19 ottobre 2010)
+|spettatori media = {{formatnum:33952}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A10-11.htm|titolo=Statistiche Spettatori Serie A 2010-2011|lingua=inglese}}</ref>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:18617}}<ref name=stadiapost/>
+|stagione prima = [[Associazione Sportiva Roma 2009-2010|2009-2010]]
+|stagione dopo = [[Associazione Sportiva Roma 2011-2012|2011-2012]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2010-2011'''.
+== Stagione ==
+La stagione 2010-2011 è la 78ª stagione in [[Serie A]] della Roma e la 82ª nel campionato di massima serie [[italia]]no. L'allenatore è [[Claudio Ranieri]], commissario tecnico [[roma]]no originario di San Saba, che ha guidato la squadra anche nella [[Serie A 2009-2010|stagione precedente]].
+
+Il primo impegno ufficiale della Roma è la [[Supercoppa italiana]]. La gara, tuttavia, vede imporsi l'{{Calcio Inter|N}} a [[Milano]] per 3-1.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Inter/21-08-2010/supercoppa-roma-spreca-71864477191.shtml|titolo=Supercoppa, la Roma spreca Eto'o la punisce: 3-1 Inter|accesso=14 novembre 2012}}</ref> In [[Serie A 2010-2011|campionato]], i giallorossi cominciano con il pareggio interno per 0-0 con il neopromosso {{Calcio Cesena|N}} e nella giornata seguente vengono pesantemente sconfitti dal {{Calcio Cagliari|N}} per 5-1 in trasferta.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/28-08-2010/cesena-spaventa-olimpico-71944631979.shtml|titolo=Il Cesena spaventa l'Olimpico Roma, subito due punti persi|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Cagliari/11-09-2010/cagliari-serata-magica-711100996894.shtml|titolo=Cagliari, serata magica La Roma è travolta 5-1|accesso=14 novembre 2012}}</ref>
+
+Dopo un pareggio per 2-2 in casa con il {{Calcio Bologna|N}} (con gli emiliani che rimontano uno svantaggio di due gol) e una discussa sconfitta per 2-1 con il {{Calcio Brescia|N}}, la Roma ottiene, all'[[Stadio Olimpico (Roma)|Olimpico]], la prima vittoria stagionale, battendo, con un gol di [[Mirko Vučinić]] allo scadere, l'Inter.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/19-09-2010/roma-si-illude-711184402466.shtml|titolo=La Roma si illude Di Vaio la sveglia|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Brescia/22-09-2010/roma-crisi-nerissima-711218251290.shtml|titolo=Roma, ora la crisi è nerissima Il Brescia la stende: è secondo|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.ilmessaggero.it/sport/calcio/la_roma_risorge_battuta_inter_con_una_perla_di_vucinic_nel_recupero/notizie/120335.shtml|titolo=La Roma risorge: battuta l'Inter con una perla di Vucinic nel recupero|accesso=14 novembre 2012}}</ref> Dopo aver perso per 2-0 in esterna con il {{Calcio Napoli|N}}, la Roma rimane imbattuta per 7 partite, vincendo anche il [[Derby di Roma]] per 2-0, contro la Fiorentina per 3-2 e pareggiando per 1-1 a [[Torino]] contro la {{Calcio Juventus|N}} e salendo dalla zona retrocessione al quinto posto.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Napoli/03-10-2010/napoli-sale-podio-711344054659.shtml|titolo=Il Napoli sale sul podio Roma sempre più giù|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/16-10-2010/roma-riprende-corsa-711487882381.shtml|titolo=La Roma riprende la corsa Borriello & Brighi: Genoa k.o.|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Parma/24-10-2010/parma-roma-digiuno-711575139924.shtml|titolo=Parma e Roma a digiuno Totti sostituito dopo 45'|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/30-10-2010/roma-bivio-lecce-711643962375.shtml|titolo=La Roma torna al successo Ma perde Totti per il derby|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Lazio/07-11-2010/due-rigori-rilanciano-roma-711734052096.shtml|titolo=Due rigori rilanciano la Roma La Lazio cade e protesta|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/10-11-2010/roma-si-esalta-olimpico-711772554593.shtml|titolo=La Roma si esalta all'Olimpico Fiorentina superata 3-2|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Juventus/13-11-2010/juve-roma-si-stoppano-711807304792.shtml|titolo=Juve e Roma si stoppano Iaquinta gol, Totti si sblocca|accesso=14 novembre 2012}}</ref> Persa la partita seguente per 3-1 con il {{Calcio Palermo|N}} in [[Sicilia]] e pareggiata per 2-2 la partita esterna con il {{Calcio Chievo|N}} (con i clivensi che, anche qui, rimontano uno svantaggio di due gol), la Roma ottiene una vittoria di misura sul {{Calcio Bari|N}} (1-0) e quindi vince lo scontro diretto con il {{Calcio Milan|N}} per 1-0 a [[Stadio Giuseppe Meazza|San Siro]].<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/20-11-2010/menez-illumina-olimpico-711882480380.shtml|titolo=Menez illumina l'Olimpico Udinese battuta, Roma terza|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Palermo/28-11-2010/palermo-vittoria-sorpasso-711971476963.shtml|titolo=Palermo, vittoria e sorpasso La Roma si ritrova settima|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.ilsussidiario.net/News/Calcio-e-altri-Sport/AS-Roma/2010/12/5/PAGELLE-Chievo-Verona-Roma-2-2-la-cronaca-il-tabellino-e-le-pagelle-quindicesima-giornata-/131892/|titolo=Chievo-Verona-Roma-2-2-la-cronaca-il-tabellino-e-le-pagelle-quindicesima-giornata|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/12-12-2010/roma-col-bari-basta-juan-712124091295.shtml|titolo=Roma, col Bari basta Juan E Menez delizia l'Olimpico|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Milan/18-12-2010/titolo-712190504152.shtml|titolo=Milan, lo scherzo dell'ex Borriello esalta la Roma|accesso=14 novembre 2012}}</ref>
+
+Dopo la pausa invernale, la Roma sconfigge 4-2 il Catania in casa e entra in zona Champions, per poi perdere contro la {{Calcio Sampdoria|N}} a [[Genova]], con i blucerchiati vincenti per 2-1 in rimonta. Inizia quindi il girone di ritorno, che per la Roma comincia con tre risultati utili, due vittorie contro Cesena fuori casa (1-0) e Cagliari in casa (3-0) e un pareggio, sempre in casa, con il Brescia (1-1).<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/06-01-2011/borriello-vucinic-volare-712384608599.shtml|titolo=Borriello e Vucinic per volare Ma la Roma soffre col Catania|data=14 novembre 2012|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Sampdoria/09-01-2011/cuore-samp-disastro-roma-712418692616.shtml|titolo=Cuore Samp, disastro Roma Pozzi-Guberti firmano il 2-1|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Cesena/16-01-2011/roma-tre-punti-d-oro-90--712502034091.shtml|titolo=Roma, tre punti d'oro al 90' Pellegrino condanna il Cesena|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/22-01-2011/roma-tre-schiaffi-cagliari-712575010462.shtml|titolo=Roma, tre schiaffi al Cagliari E per una notte è seconda|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/02-02-2011/eder-ferma-roma-8014284166.shtml|titolo=Eder ferma la Roma Non basta Borriello|accesso=14 novembre 2012}}</ref> Viene poi però sconfitta per 5-3 dall'Inter a Milano.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Inter/06-02-2011/eterna-inter-roma-8062773930.shtml|titolo=Inter a -5 dal Milan Roma battuta 5-3|accesso=14 novembre 2012}}</ref> Seguono quindi la prima sconfitta interna della stagione, per 2-0 con il Napoli, e poi una incredibile sconfitta esterna per 4-3 con il {{Calcio Genoa|N}}, con la Roma che, avanti per 3-0, subisce ben 4 gol negli ultimi 40 minuti di partita.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/12-02-2011/derby-sud-che-fascino-80132306852.shtml|titolo=Cavani inarrestabile Roma-Napoli 0-2|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Genoa/20-02-2011/roma-si-illude-marassi-80224243397.shtml|titolo=Roma da non credere a Marassi Avanti 3-0, perde 4-3 col Genoa|accesso=14 novembre 2012}}</ref> A seguito di questo risultato, vista la cattiva posizione di classifica della Roma  (ottavo posto) , [[Claudio Ranieri]] si dimette dal ruolo di allenatore, che viene affidato a [[Vincenzo Montella]], allenatore delle giovanili e bandiera romanista, che esordisce con una vittoria esterna per 1-0 contro il Bologna, nel recupero della terza giornata di ritorno.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/23-02-2011/roma-totti-panchina-80260359944.shtml|titolo=Prima gioia per Montella De Rossi abbatte il Bologna|accesso=14 novembre 2012}}</ref> Dopo un pareggio interno per 2-2 con il {{Calcio Parma|N}}, anche in questo caso con i ducali che rimontano due reti di svantaggio, e una vittoria esterna per 2-1 con il {{Calcio Lecce|N}}, la Roma vince il terzo derby stagionale, battendo per 2-0 {{Calcio Lazio|N}} con una doppietta di [[Francesco Totti]] e portandosi a - 4 dal 4º posto.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/27-02-2011/roma-fa-disfa-80304352418.shtml|titolo=La Roma si sgonfia ancora E Amauri l'acciuffa: 2-2|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Magic_Cup/04-03-2011/magic-ultimissime-80362239834.shtml|titolo=Lecce-Roma 1-2 Pizarro di rigore!|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/13-03-2011/derby-totti-festa-roma-80471159660.shtml|titolo=Il derby di Totti, festa Roma! Lazio al tappeto: finisce 2-0|accesso=14 novembre 2012}}</ref>
+
+Per la seconda volta nella sua storia, la Roma vince 5 derby di fila (ma in due stagioni). La giornata successiva, a [[Firenze]], la Roma pareggia 2-2 con i padroni di casa grazie a un'altra doppietta di Totti, che si sblocca nello stadio dove non aveva mai segnato.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Fiorentina/20-03-2011/totti-bis-salva-roma-80554163659.shtml|titolo=Totti-bis salva la Roma Due traverse per i viola|accesso=14 novembre 2012}}</ref> Poi la Roma fa 13 punti nelle ultime partite di campionato ma dopo la sconfitta contro il Catania per 2-1, la Roma rimane fuori dalla Champions League. La stagione si chiude con un 3-1 in favore dei giallorossi all'Olimpico contro la Sampdoria, la quale retrocede in [[Serie B]] e si qualifica ai preliminari di Europa League con il sesto posto.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/22-05-2011/roma-europa-league-801302080387.shtml|titolo=La Roma in Europa League Il tridente affonda la Samp|accesso=14 novembre 2012}}</ref> In [[Coppa Italia 2010-2011|Coppa Italia]] la Roma comincia dagli ottavi, dove sconfigge la Lazio per 2-1 nel secondo derby cittadino stagionale.<ref>{{cita news|url=http://www.corrieredellosport.it/calcio/coppa_italia/2011/01/19-150805/Coppa+Italia,+festa+Roma.+Lazio+battuta+nel+derby|titolo=Coppa Italia, festa Roma Lazio battuta nel derby|accesso=14 novembre 2012|urlmorto=sì|pubblicazione=|urlarchivio=https://web.archive.org/web/20160304211100/http://www.corrieredellosport.it/calcio/coppa_italia/2011/01/19-150805/Coppa+Italia,+festa+Roma.+Lazio+battuta+nel+derby|dataarchivio=4 marzo 2016}}</ref> Ai quarti elimina la Juventus, vincendo per 2-0 fuori casa.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Juventus/27-01-2011/juve-roma-obiettivo-coppa-712633839529.shtml|titolo=Coppa, Roma in semifinale Juve battuta in casa 2-0|accesso=14 novembre 2012}}</ref> In semifinale viene eliminata dall'Inter.<ref>{{cita news|url=http://www.repubblica.it/sport/calcio/serie-a/roma/2011/04/19/news/roma_inter-15150851/|titolo=Stankovic fredda la Roma Inter, finale più vicina|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Inter/11-05-2011/inter-roma-caccia-finale-801160236414.shtml|titolo=Inter in finale coi brividi Con la Roma finisce 1-1|accesso=14 novembre 2012}}</ref>
+
+In [[UEFA Champions League 2010-2011|Champions League]] la Roma è sorteggiata nel gruppo E con {{Calcio Bayern Monaco|N}}, [[Fotbal Club CFR 1907 Cluj|Cluj]] e {{Calcio Basilea|N}}. La Roma comincia con una sconfitta esterna per 2-0 con i tedeschi del Bayern Monaco, per poi vincere la partita seguente per 2-1 con i romeni del Cluj.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/15-09-2010/roma-continua-momentaccio-711142752439.shtml|titolo=Roma, continua il momentaccio Perde 2-0 col Bayern Monaco|accesso=14 novembre 2012}}</ref><ref>{{cita web|url=http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002842/postmatch/report/index.html|titolo=La Roma vince e torna in corsa|accesso=14 novembre 2012}}</ref> La terza giornata vede la Roma perdere un'altra partita, in casa per 3-1 con gli svizzeri del Basilea.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/19-10-2010/roma-che-combini-711522074025.shtml|titolo=Roma, che combini? Sconfitta 3-1 dal Basilea|accesso=14 novembre 2012}}</ref> Tuttavia, nella partita seguente, sempre contro il Basilea, ma in [[Svizzera]], i giallorossi vincono per 3-2 e si rimettono in corsa per gli ottavi.<ref>{{cita news|url=http://www.gazzetta.it/Calcio/SerieA/Roma/03-11-2010/roma-finalmente-totti-711689151313.shtml|titolo=Roma, finalmente Totti Il Basilea è domato 3-2|accesso=14 novembre 2012}}</ref> Quindi, la Roma trionfa contro il Bayern Monaco in casa, vincendo 3-2 in rimonta, dopo essere passati in svantaggio di due gol.<ref>{{cita news|url=http://www.tuttosport.com/calcio/serie_a/roma/2010/11/23-95328/Roma,+rimonta+da+sogno+col+Bayern+Monaco%3A+3-2|titolo=Roma, rimonta da sogno col Bayern Monaco: 3-2|accesso=14 novembre 2012|urlmorto=sì|pubblicazione=|urlarchivio=https://web.archive.org/web/20101127065118/http://www.tuttosport.com/calcio/serie_a/roma/2010/11/23-95328/Roma,+rimonta+da+sogno+col+Bayern+Monaco:+3-2|dataarchivio=27 novembre 2010}}</ref> Nell'ultima giornata dei gironi, la Roma pareggia 1-1 in [[Romania]] con il Cluj, qualificandosi agli ottavi.<ref>{{cita news|url=http://www.corrieredellosport.it/adnkronos/sport/2010/12/08-143602/Champions,+Roma-Cluj+1-1+e+giallorossi+agli+ottavi.+Milan+battuto+0-2+dall'Ajax|titolo=Champions, Roma-Cluj 1-1 e giallorossi agli ottavi. Milan battuto 0-2 dall'Ajax|accesso=14 novembre 2012|urlmorto=sì|pubblicazione=|urlarchivio=https://web.archive.org/web/20160304224355/http://www.corrieredellosport.it/adnkronos/sport/2010/12/08-143602/Champions%2C+Roma-Cluj+1-1+e+giallorossi+agli+ottavi.+Milan+battuto+0-2+dall%27Ajax|dataarchivio=4 marzo 2016}}</ref> Qui viene sorteggiata contro gli ucraini dello {{Calcio Shakhtar|N}}, che eliminano i giallorossi vincendo 3-2 a [[Roma]] e 3-0 in [[Ucraina]].<ref>{{cita web|url=http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000119/match=2003751/postmatch/report/index.html|titolo=La Roma inciampa sullo Shakhtar|accesso=14 novembre 2012}}</ref><ref>{{cita news|url=http://www.ilmessaggero.it/home_sport/calcio/la_roma_ci_prova_ma_addio_champions_montella_risparmia_totti_per_il_derby/notizie/141247.shtml|titolo=La Roma ci prova, ma addio Champions Montella risparmia Totti per il derby|accesso=14 novembre 2012|dataarchivio=4 marzo 2016|urlarchivio=https://web.archive.org/web/20160304205803/http://www.ilmessaggero.it/home_sport/calcio/la_roma_ci_prova_ma_addio_champions_montella_risparmia_totti_per_il_derby/notizie/141247.shtml|urlmorto=sì}}</ref>
+== Divise e sponsor ==
+Lo sponsor tecnico per la stagione 2010-2011 è [[Kappa (azienda)|Kappa]], mentre lo sponsor ufficiale è [[Wind Telecomunicazioni|Wind]].
+
+La prima divisa è costituita da maglia rossa con bordi manica e colletto gialli, pantaloncini bianchi e calzettoni neri. In trasferta i Lupi usano una costituita da maglia bianca con dettagli giallorossi e il "Lupetto" di [[Piero Gratton]] al posto dello stemma societario, pantaloncini bianchi, calzettoni bianchi. Come terza divisa viene usato un kit nero con dettagli gialli. I portieri usano tre divise: una nera, una rossa, una grigia, tutte con dettagli gialli.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 242-244}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_b = _asroma1011h
+|body = 900010
+|pattern_la = _asroma1011h
+|leftarm = 900010
+|pattern_ra = _asroma1011h
+|rightarm = 900010
+|shorts = FFFFFF
+|socks = 111111
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_b = _asroma1011a
+|body = ffffff
+|pattern_la = _asroma1011a
+|leftarm = ffffff
+|pattern_ra = _asroma1011a
+|rightarm = ffffff
+|shorts = ffffff
+|socks = ffffff
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_b = _asroma1011t
+|body = 000000
+|pattern_la = _asroma1011t
+|leftarm = 000000
+|pattern_ra = _asroma1011t
+|rightarm = 000000
+|shorts = 000000
+|socks = 000000
+|title = Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_b =
+|body = 000000
+|pattern_la = _asroma0708t
+|leftarm = 000000
+|pattern_ra = _asroma0708t
+|rightarm = 000000
+|shorts = 000000
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_b =
+|body = d7d7d7
+|pattern_la = _asromagk2
+|leftarm = d7d7d7
+|pattern_ra = _asromagk2
+|rightarm = d7d7d7
+|shorts = d7d7d7
+|socks = d7d7d7
+|title = 2ª portiere
+}}
+|{{Divisa Calcio
+|pattern_b =
+|body = a00000
+|pattern_la = _asromagk3
+|leftarm = a00000
+|pattern_ra = _asromagk3
+|rightarm = a00000
+|shorts = a00000
+|socks = a00000
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref>{{cita web |url=http://www.asroma.it/StaffTecnico.aspx |titolo=Staff tecnico sul sito ufficiale |editore=asroma.it |<!--data=24 luglio 2009 -->|accesso=24 luglio 2009}}</ref><ref>{{cita web |url=http://www.asroma.it/List.aspx?Categoria=45|titolo=Organigramma societario dal sito ufficiale |editore=asroma.it |<!--data=24 luglio 2009 -->|accesso=24 luglio 2009}}</ref>
+{{Colonne}}
+'''''Area direttiva'''''
+*Presidente e amministratore delegato: [[Rosella Sensi]]
+*Vice Presidenti: [[Ciro Di Martino]], Giovanni Ferreri
+'''''Area organizzativa'''''
+*Coordinatore e ottimizzatore delle risorse umane dell'area sportiva: [[Gian Paolo Montali]]
+*Responsabile organizzativo e logistica: [[Antonio Tempestilli]]
+*Responsabile organizzazione e stadio: Maurizio Cenci
+*Team manager: Salvatore Scaglia
+*Dirigente addetto agli arbitri: Vittorio Benedetti
+'''''Area comunicazione'''''
+*Responsabile comunicazione: Elena Turra
+{{Colonne spezza}}
+'''''Area tecnica'''''
+*Direttore sportivo: [[Daniele Pradè]]
+*Direttore tecnico e responsabile Settore Giovanile: [[Bruno Conti]]
+*Allenatore: [[Claudio Ranieri]] (fino al 21 febbraio [[2011]], [[Vincenzo Montella]] (dal 21 febbraio [[2011]])
+*Allenatore in seconda: [[Christian Damiano]] (fino al 21 febbraio [[2011]]), [[Aurelio Andreazzoli]] (dal 21 febbraio [[2011]])
+*Collaboratori tecnici: [[Paolo Benetti]] (fino al 21 febbraio [[2011]]), [[Daniele Russo (calciatore 1973)|Daniele Russo]] (dal 21 febbraio [[2011]])
+*Preparatori atletici: Luca Franceschi, Vito Scala, Paolo Bertelli
+*Allenatore dei portieri: [[Giorgio Pellizzaro]] (fino al 21 febbraio [[2011]]), Guido Nanni
+'''''Area sanitaria'''''
+*Responsabile sanitario: Vincenzo Affinito
+*Massaggiatore: Giorgio Rossi
+*Medico Responsabile Prima Squadra: Luca Pengue
+*Fisioterapista: Silio Musa, Silvano Cotti, Vincenzo Buzzi, Umberto Mei, Alessandro Cardini
+*Servizio di Fisioterapia: Francesco Di Pilla (coord.), Marco Di Giovanbattista, Enrico Damiani, Marco Mafrica
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 10/11">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2010|titolo=Rosa AS Roma - Saison 10/11|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=ROU|nome=[[Bogdan Lobonț]]|ruolo=P}}
+{{Calciatore in rosa|n=''2''|nazione=BRA|nome=''[[Cicinho]]''<ref name="Cessione inverno">Ceduto durante la sessione invernale di calciomercato</ref>|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=ITA|nome=[[Paolo Castellini]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=BRA|nome=[[Juan Silveira dos Santos|Juan]]|ruolo=D}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Philippe Mexès]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=CHL|nome=[[David Pizarro]]|ruolo=C}}
+{{Calciatore in rosa|n=''8''|nazione=BRA|nome=''[[Adriano Leite Ribeiro|Adriano]]''<ref name="Cessione inverno"/>|ruolo=A}}
+{{Calciatore in rosa|n=9|nazione=MNE|nome=[[Mirko Vučinić]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A|altro=c}}
+{{Calciatore in rosa|n=11|nazione=BRA|nome=[[Rodrigo Taddei]]|ruolo=C}}
+{{Calciatore in rosa|n=''13''|nazione=PRT|nome=''[[Vitorino Antunes]]''<ref name="Cessione inverno"/>|ruolo=D}}
+{{Calciatore in rosa|n=15|nazione=ITA|nome=[[Simone Loria]]|ruolo=D}}
+{{Calciatore in rosa|n=16|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C|altro=v}}
+{{Calciatore in rosa|n=17|nazione=NOR|nome=[[John Arne Riise]]|ruolo=D}}
+{{Calciatore in rosa|n=''19''|nazione=BRA|nome=''[[Júlio Baptista]]''<ref name="Cessione inverno"/>|ruolo=A}}
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Simone Perrotta]]|ruolo=C}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Marco Borriello]]|ruolo=A}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Leandro Greco]]|ruolo=C}}
+{{Calciatore in rosa|n=25|nazione=ARG|nome=[[Guillermo Burdisso]]|ruolo=D}}
+{{Calciatore in rosa|n=27|nazione=BRA|nome=[[Júlio Sérgio Bertagnoli|Júlio Sérgio]]|ruolo=P}}
+{{Calciatore in rosa|n=29|nazione=ARG|nome=[[Nicolás Burdisso]]|ruolo=D}}
+{{Calciatore in rosa|n=30|nazione=BRA|nome=[[Fábio Simplício]]|ruolo=C}}
+{{Calciatore in rosa|n=32|nazione=BRA|nome=[[Doniéber Alexander Marangon|Doni]]|ruolo=P}}
+{{Calciatore in rosa|n=33|nazione=ITA|nome=[[Matteo Brighi]]|ruolo=C}}
+{{Calciatore in rosa|n=40|nazione=ROU|nome=Alexandru Pena|ruolo=P}}
+{{Calciatore in rosa|n=45|nazione=ITA|nome=[[Stefano Pettinari]]|ruolo=C}}
+{{Calciatore in rosa|n=47|nazione=ITA|nome=[[Gianluca Caprari]]|ruolo=A}}
+{{Calciatore in rosa|n=48|nazione=ITA|nome=[[Alessandro Florenzi]]|ruolo=C}}
+{{Calciatore in rosa|n=77|nazione=ITA|nome=[[Marco Cassetti]]|ruolo=D}}
+{{Calciatore in rosa|n=87|nazione=ITA|nome=[[Aleandro Rosi]]|ruolo=D}}
+{{Calciatore in rosa|n=''89''|nazione=ITA|nome=''[[Stefano Okaka]]''<ref name="Cessione inverno"/>|ruolo=A}}
+{{Calciatore in rosa|n=94|nazione=FRA|nome=[[Jérémy Ménez]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Valerio Virga]]''|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 10/11"/>
+=== Sessione estiva ''(dall'1/7 al 31/8)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P || [[Bogdan Lobonț]] || {{Calcio Dinamo Bucarest|N}} || ''riscatto prestito'' (0,8 mln €)<ref>{{cita web|url=http://www.asroma.it/UserFiles/1187.pdf|titolo=Acquisto a titolo definitivo del diritto alle prestazioni sportive del calciatore Bodgan Ionut Lobont|editore=AS Roma}}</ref>
+|-
+| D || [[Vitorino Antunes]] || {{Calcio Leixoes|N}} || ''fine prestito''
+|-
+| D || [[Guillermo Burdisso]] || {{Calcio Rosario Central|N}} || ''prestito con diritto di riscatto'' (0,5 mln €)<ref>{{cita web|url=http://www.asroma.it/UserFiles/1205.pdf|titolo=Acquisizione a titolo temporaneo dei diritti sportivi del calciatore Guillermo Burdisso|editore=AS Roma}}</ref>
+|-
+| D ||[[Nicolás Burdisso]] || {{Calcio Inter|N}} || ''definitivo (8 mln €)''<ref>{{cita web|url=http://www.asroma.it/UserFiles/1223.pdf|titolo=Acquisizione a titolo definitivo dei diritti alle prestazioni sportive del calciatore Nicolas Andres Burdisso|editore=AS Roma}}</ref>
+|-
+| D || [[Paolo Castellini]] || {{Calcio Parma|N}} || ''prestito gratuito con diritto di riscatto<ref>{{cita web|url=http://www.asroma.it/UserFiles/1217.pdf|titolo=Acquisto a titolo temporaneo con diritto di opzione per l'acquisizione a titolo definitivo dei diritti alle prestazioni sportive del calciatore Paolo Castellini|editore=AS Roma}}</ref>''
+|-
+| D || [[Cicinho]] || {{Calcio San Paolo|N}} || ''fine prestito''
+|-
+| D || [[Alessandro Crescenzi (calciatore)|Alessandro Crescenzi]] || {{Calcio Grosseto|N}} || ''fine prestito''
+|-
+| D || [[Simone Loria]] || {{Calcio Torino|N}} || ''fine prestito''
+|-
+| C || [[Ahmed Barusso]] || {{Calcio Rimini|N}} || ''riscatto comproprietà'' (0,1 mln €)<ref name="mercatoGiugno">{{cita web|url=http://www.asroma.it/UserFiles/1176.pdf|titolo=Operazioni di mercato realizzate|editore=AS Roma}}</ref>
+|-
+| C || [[Andrea Bertolacci]] || {{Calcio Lecce|N}} || ''fine prestito''
+|-
+| C || [[Marco D'Alessandro]] || {{Calcio Grosseto|N}} || ''fine prestito''
+|-
+| C || [[Leandro Greco]] || {{Calcio Piacenza|N}} || ''fine prestito''
+|-
+| C || [[Stefano Guberti]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|-
+| C || Massimiliano Marsili || {{Calcio Cosenza|N}} || ''fine prestito''
+|-
+| C || [[Adrian Piț]] || {{Calcio Triestina|N}} || ''fine prestito''
+|-
+| C || [[Aleandro Rosi]] || {{Calcio Siena|N}} || ''rinnovo comproprietà<ref name="mercatoGiugno"/>''
+|-
+| C || [[Fábio Simplício]] || {{Calcio Palermo|N}} || ''svincolato<ref>{{cita web|url=http://www.corrieredellosport.it/calcio/serie_a/roma/2010/06/01-114295/Roma,+Simplicio+%C3%A8+ufficiale.+Ha+firmato+un+triennale|titolo=Roma, Simplicio è ufficiale. Ha firmato un triennale|editore=Corriere dello Sport|urlmorto=sì|accesso=3 agosto 2010|urlarchivio=https://web.archive.org/web/20160304201625/http://www.corrieredellosport.it/calcio/serie_a/roma/2010/06/01-114295/Roma,+Simplicio+%C3%A8+ufficiale.+Ha+firmato+un+triennale|dataarchivio=4 marzo 2016}}</ref>''
+|-
+| C || [[Valerio Virga]] || {{Calcio Cosenza|N}} || ''fine prestito''
+|-
+| A || [[Adriano Leite Ribeiro]] || {{Calcio Flamengo|N}} || ''svincolato<ref>{{cita web|url=http://www.asroma.it/UserFiles/1167.pdf|titolo=Sottoscritto il contratto economico per le prestazioni sportive del calciatore Leite Ribeiro Adriano|editore=AS Roma}}</ref>''
+|-
+| A || [[Marco Borriello]] || {{Calcio Milan|N}} || ''prestito gratuito con obbligo di riscatto'' (10 mln €)<ref>{{cita web|url=http://www.asroma.it/UserFiles/1225.pdf|titolo=Acquisizione a titolo temporaneo, con obbligo di riscatto per l’acquisizione a titolo definitivo dei diritti alle prestazioni sportive del calciatore Marco Borriello|editore=AS Roma}}</ref>
+|-
+| A || [[Mauro Esposito]] || {{Calcio Grosseto|N}} || ''fine prestito''
+|-
+| A || [[Stefano Okaka]] || {{Calcio Fulham|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P || [[Artur Moraes]] || {{Calcio Braga|N}} || ''svincolato''<ref>{{cita web|url=http://www.demotix.com/news/392789/braga-signs-brasilian-keeper-artur-moraes-roma|titolo=Braga signs brasilian keeper Artur Moraes from AS Roma|editore=Demotix|urlmorto=sì|urlarchivio=https://web.archive.org/web/20100725064148/http://www.demotix.com/news/392789/braga-signs-brasilian-keeper-artur-moraes-roma|dataarchivio=25 luglio 2010}}</ref>
+|-
+| D || [[Marco Andreolli]] || {{Calcio Chievo|N}} || ''definitivo'' (0,8 milioni € + bonus 0,4 milioni €)<ref>{{cita web|url=http://www.datasport.it/news/2010/agosto/23/35235/andreolli-chievo-ecco-cifre.html|titolo=Andreolli al Chievo: ecco le cifre|editore=DataSport|urlmorto=sì}}</ref>
+|-
+| D || [[Alessandro Crescenzi (calciatore)|Alessandro Crescenzi]] || {{Calcio Crotone|N}} || ''prestito diritto riscatto metà''<ref>{{cita web|url=http://www.tuttomercatoweb.com/?action=read&id=219067|titolo=Ufficiale: Aiman Napoli e Crescenzi al Crotone|editore=TuttoMercatoWeb}}</ref>
+|-
+| D || Alessandro Malomo || {{Calcio Verona|N}} || ''prestito diritto riscatto''<ref>{{cita web|url=http://www.hellasverona.it/news.php?id=9804|titolo=Calciomercato, ufficiale l'arrivo di Alessandro Malomo|editore=Hellas Verona FC|accesso=20 settembre 2010|dataarchivio=1 febbraio 2016|urlarchivio=https://web.archive.org/web/20160201011101/http://www.hellasverona.it/news.php?id=9804|urlmorto=sì}}</ref>
+|-
+| D || [[Marco Motta]] || {{Calcio Udinese|N}} || ''riscatto comproprietà'' (1,45 mln €)<ref>{{cita web|url=http://www.tuttomercatoweb.com/juventus/?action=read&idnet=dHV0dG9qdXZlLmNvbS0yNDAxNw|titolo=Gli esiti delle buste: Motta va all'Udinese|editore=TuttoMercatoWeb}}</ref>
+|-
+| D || [[Simone Sini]] || {{Calcio Lecce|N}} || ''prestito diritto riscatto metà''<ref>{{cita web|url=http://www.laroma24.it/index.php?show=article&artid=24284|titolo=Mercato Roma, ufficiale: Sini e Bertolacci in prestito al Lecce|editore=LaRoma24}}</ref>
+|-
+| D || [[Max Tonetto]] || || ''fine carriera''<ref>{{cita web|url=http://sportitalia.com/shownews.aspx?id=16207|titolo=L'esercito degli svincolati|editore=SportItalia|urlmorto=sì}}</ref>
+|-
+| C || [[Ahmed Barusso]] || {{Calcio Livorno|N}} || ''prestito''<ref>{{cita web|url=http://www.corrieredellosport.it/serie_a/roma/2010/08/31-126872/Ufficiale%3A+la+Roma+cede+Barusso+al+Livorno|titolo=Barusso in prestito al Livorno|editore=Corriere dello Sport|urlmorto=sì|urlarchivio=https://web.archive.org/web/20160304201259/http://www.corrieredellosport.it/serie_a/roma/2010/08/31-126872/Ufficiale:+la+Roma+cede+Barusso+al+Livorno|dataarchivio=4 marzo 2016}}</ref>
+|-
+| C || [[Alessio Cerci]] || {{Calcio Fiorentina|N}} || ''definitivo'' (4 mln €)<ref>{{cita web|url=http://www.asroma.it/UserFiles/1221.pdf|titolo=Cessione a titolo definitivo dei diritti alle prestazioni sportive del calciatore Alessio Cerci|editore=AS Roma}}</ref>
+|-
+| C || [[Marco D'Alessandro]] || {{Calcio Bari|N}} || ''prestito diritto riscatto metà''<ref>{{cita web|url=http://www.asbari.it/societa/altre-news/2780-preso-marco-dalessandro.html|titolo=Preso Marco D'Alessandro|editore=AS Bari|urlmorto=sì|urlarchivio=https://web.archive.org/web/20100719130704/http://www.asbari.it/societa/altre-news/2780-preso-marco-dalessandro.html|dataarchivio=19 luglio 2010}}</ref>
+|-
+| C || [[Ricardo Faty]] || {{Calcio Aris Salonicco|N}} || ''definitivo'' (0 mln € + bonus)<ref>{{cita web|url=http://www.laroma24.it/archivio/25812/faty-all-aris-salonicco.html|titolo=Faty all'Aris Salonicco|editore=LaRoma24}}</ref>
+|-
+| C || [[Stefano Guberti]] || {{Calcio Sampdoria|N}} || ''comproprietà'' (1,5 milioni €)<ref>{{cita web|url=http://www.asroma.it/UserFiles/1203.pdf|titolo=Cessione con accordo di partecipazione dei diritti sportivi del calciatore Stefano Guberti|editore=AS Roma}}</ref>
+|-
+| C || [[Stefano Pettinari]] || {{Calcio Siena|N}} || ''prestito diritto riscatto''<ref>{{cita web|url=http://www.acsiena.it/dettaglionews_2.php?id=8552|titolo=Pettinari in prestito dalla Roma|editore=AC Siena|urlmorto=sì}}</ref>
+|-
+| C || [[Adrian Stoian]] || {{Calcio Pescara|N}} || ''prestito diritto riscatto metà''<ref>{{cita web|url=http://www.tuttomercatoweb.com/?action=read&id=219075|titolo=Ufficiale: Adrian Stoian al Pescara|editore=TuttoMercatoWeb}}</ref>
+|-
+| C || [[Adrian Piț]] || {{Calcio U Cluj|N}} || ''definitivo'' (0 mln €)
+|-
+| A || [[Mauro Esposito]] || {{Calcio Atletico Roma|N}} || ''svincolato''<ref>{{cita web|url=http://www.corrieredellosport.it/lega_pro_serie_d/lega_pro/2010/09/13-128719/Atletico+Roma+che+colpi%3A+ecco+Baronio+ed+Esposito|titolo=Atletico Roma, che colpi: ecco Baronio ed Esposito|editore=Corriere dello Sport|urlmorto=sì}}</ref>
+|-
+| A || Filippo Scardina || {{Calcio Como|N}} || ''prestito''<ref>{{cita web|url=http://www.calciocomo1907.it/it/news.aspx?id=1116|titolo=Anche Da Dalt ha firmato|editore=Calcio Como 1907|urlmorto=sì|urlarchivio=https://web.archive.org/web/20110722030336/http://www.calciocomo1907.it/it/news.aspx?id=1116|dataarchivio=22 luglio 2011}}</ref>
+|-
+| A || [[Luca Toni]] || {{Calcio Bayern Monaco|N}} || ''fine prestito''
+|}
+{{colonne fine}}
+
+=== Sessione invernale ''(dal 3/1 al 31/1)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| -|| -|| - || -
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Vitorino Antunes]] || {{Calcio Livorno|N}} || ''prestito''<ref name="livorno">{{cita web|url=http://www.corrieredellosport.it/serie_a/roma/2011/01/31-153326/Roma,+ceduti+al+Livorno+D%27Alessandro+e+Antunes|titolo=Roma, ceduti al Livorno D'Alessandro e Antunes|editore=Corriere dello Sport|urlmorto=sì|accesso=26 marzo 2011|urlarchivio=https://web.archive.org/web/20160305073109/http://www.corrieredellosport.it/serie_a/roma/2011/01/31-153326/Roma%2C+ceduti+al+Livorno+D%27Alessandro+e+Antunes|dataarchivio=5 marzo 2016}}</ref>
+|-
+| D || [[Cicinho]] || {{Calcio Villarreal|N}} || ''prestito''<ref name="mercatoGennaio">{{cita web|url=http://www.asroma.it/UserFiles/1385.pdf|titolo=Operazioni di mercato al 14 gennaio 2011|editore=AS Roma|urlmorto=sì|accesso=15 gennaio 2011|dataarchivio=28 giugno 2023|urlarchivio=https://web.archive.org/web/20230628174140/http://www.asroma.it/UserFiles/1385.pdf}}</ref>
+|-
+| A || [[Adriano Leite Ribeiro]] || {{Calcio Corinthians|N}} || ''rescissione''<ref>{{cita web|url=http://www.corrieredellosport.it/adnkronos/sport/2011/03/08-159686/Adriano,+addio+alla+Roma%3A+risoluzione+consensuale+del+contratto+per+il+brasiliano|titolo=Adriano, addio alla Roma|editore=Corriere dello Sport|urlmorto=sì|accesso=31 marzo 2011|urlarchivio=https://web.archive.org/web/20160304123841/http://www.corrieredellosport.it/adnkronos/sport/2011/03/08-159686/Adriano,+addio+alla+Roma:+risoluzione+consensuale+del+contratto+per+il+brasiliano|dataarchivio=4 marzo 2016}}</ref><ref>{{cita web|url=http://www.corrieredellosport.it/speciale_derby/2011/03/31-164140/Corinthians%2C+ecco+Adriano%3A+%C2%ABAdesso+sono+guarito%C2%BB|titolo=Corinthians, ecco Adriano|editore=Corriere dello Sport|urlmorto=sì}}</ref>
+|-
+| C || [[Marco D'Alessandro]] || {{Calcio Livorno|N}} || ''prestito''<ref name="livorno"/>
+|-
+| A || [[Júlio Baptista]] || {{Calcio Malaga|N}} || ''definitivo (2.5 mln €)''<ref name="mercatoGennaio"/>
+|-
+| A || [[Stefano Okaka]] || {{Calcio Bari|N}} || ''prestito''<ref name="mercatoGennaio"/>
+|}
+{{colonne fine}}
+== Risultati ==
+=== Supercoppa italiana ===
+{{Vedi anche|Supercoppa italiana 2010}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 agosto
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = Finale, gara unica
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2010-2011/SupercoppaItalia/Inter-Roma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Goran Pandev|Pandev]] {{Goal|41}}<br />[[Samuel Eto'o|Eto'o]] {{Goal|70||80}}
+|Marcatori 2 = {{Goal|21}} [[John Arne Riise|Riise]]
+|Sfondo = 
+}}
+
+=== Serie A ===
+{{Vedi anche|Serie A 2010-2011}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 agosto
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cesena
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/1/ROMCES
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 33.000
+|Arbitro = [[Gabriele Gava]]
+|Cittarbitro = [[Conegliano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 settembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/2/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Domenico Celi]]
+|Cittarbitro = [[Campobasso]]
+|Marcatori 1 = [[Daniele Conti|Conti]] {{Goal|8}}<br />[[Alessandro Matri|Matri]] {{Goal|23|rig.|47}}<br />[[Robert Acquafresca|Acquafresca]] {{Goal|38}}<br />[[Andrea Lazzari (calciatore)|Lazzari]] {{Goal|88}}
+|Marcatori 2 = {{Goal|18}} [[Daniele De Rossi|De Rossi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 2010
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/3/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.488
+|Arbitro = [[Sebastiano Peruzzo]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|7}}<br />[[Matteo Rubin|Rubin]] {{Goal|59|aut.}}
+|Marcatori 2 = {{Goal|77||90}} [[Marco Di Vaio|Di Vaio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/4/BREROM
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = 11.600
+|Arbitro = [[Carmine Russo]]
+|Cittarbitro = [[Nola]]
+|Marcatori 1 = [[Përparim Hetemaj|Hetemaj]] {{Goal|13}}<br />[[Andrea Caracciolo|Caracciolo]] {{Goal|65|rig.}}
+|Marcatori 2 = {{Goal|83}} [[Marco Borriello|Borriello]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/5/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 38.998
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno|Ascoli]]
+|Marcatori 1 = [[Mirko Vučinić|Vučinić]] {{Goal|90+1}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 2010
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/6/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 50.832
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Marek Hamšík|Hamšík]] {{Goal|72}}<br />[[Juan Silveira dos Santos|Juan]] {{Goal|83|aut.}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/7/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 31.230
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|34}}<br/>[[Matteo Brighi|Brighi]] {{Goal|53}}
+|Marcatori 2 = {{Goal|78}} [[Gergely Rudolf|Rudolf]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 2010
+|Ora = 12:30 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/8/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = 13.937
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 2010
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/9/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 29.581
+|Arbitro = [[Andrea Gervasoni]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Nicolás Andrés Burdisso|Burdisso]] {{Goal|62}}<br/>[[Mirko Vučinić|Vučinić]] {{Goal|76}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 2010
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/10/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 52.121
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 2 = {{Goal|52|rig.}} [[Marco Borriello|Borriello]]<br/>{{Goal|87|rig.}} [[Mirko Vučinić|Vučinić]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 novembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/11/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.804
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Fábio Simplício|Simplício]] {{Goal|45}}<br />[[Marco Borriello|Borriello]] {{Goal|51}}<br />[[Simone Perrotta|Perrotta]] {{Goal|77}}
+|Marcatori 2 = {{Goal|69}} [[Alberto Gilardino|Gilardino]]<br />{{Goal|89}} [[Gaetano D'Agostino|D'Agostino]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 novembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/12/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Olimpico di Torino]]
+|Spettatori = 23.869
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Vincenzo Iaquinta|Iaquinta]] {{Goal|35}}
+|Marcatori 2 = {{Goal|45+5|rig.}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 2010
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/13/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.863
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Jérémy Ménez|Ménez]] {{Goal|24}}<br/>[[Marco Borriello|Borriello]] {{Goal|56}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/14/PALROM
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera]]
+|Spettatori = 29.597
+|Arbitro = [[Christian Brighi]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 1 = [[Fabrizio Miccoli|Miccoli]] {{Goal|20}}<br/>[[Josip Iličič|Iličič]] {{Goal|61}}<br/>[[Antonio Nocerino|Nocerino]] {{Goal|65}}
+|Marcatori 2 = {{Goal|90+2}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 2010
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/15/CHIROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = 11.447
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Davide Moscardelli|Moscardelli]] {{Goal|61}}<br/>[[Pablo Granoche|Granoche]] {{Goal|85}}
+|Marcatori 2 = {{Goal|26||44}} [[Fábio Simplício|Simplício]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Anno = 2010
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/16/ROMBAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.187
+|Arbitro = [[Andrea Romeo (arbitro)|Andrea Romeo]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Juan Silveira dos Santos|Juan]] {{Goal|30}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/17/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 53.769
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 2 = {{Goal|69}} [[Marco Borriello|Borriello]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/18/ROMCAT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.148
+|Arbitro = [[Christian Brighi]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|5||47}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|86||90+4}}
+|Marcatori 2 = {{Goal|29}} [[Matías Silvestre|Silvestre]]<br />{{Goal|38}} [[Maxi López|Lopez]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 2011
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/19/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 22.802
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Nicola Pozzi|Pozzi]] {{Goal|58|rig.}}<br />[[Stefano Guberti|Guberti]] {{Goal|83}}
+|Marcatori 2 = {{Goal|17}} [[Mirko Vučinić|Vučinić]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2011
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Cesena
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/20/CESROM
+|Città = [[Cesena]]
+|Stadio = [[Stadio Dino Manuzzi]]
+|Spettatori = 21.000
+|Arbitro = [[Antonio Danilo Giannoccaro]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 2 = {{Goal|89|aut.}} [[Maximiliano Pellegrino|Pellegrino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/21/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.249
+|Arbitro = [[Gabriele Gava]]
+|Cittarbitro = [[Conegliano Veneto]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|22|rig.}}<br />[[Simone Perrotta|Perrotta]] {{Goal|70}}<br />[[Jérémy Ménez|Ménez]] {{Goal|90+2}}
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 2011
+|Ora = 18:30 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/22/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = 18.000
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 2 = {{Goal|45}} [[Daniele De Rossi|De Rossi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 febbraio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/23/ROMBRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 26.590
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|58}}
+|Marcatori 2 = {{Goal|69}} [[Éder Citadin Martins|Éder]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/24/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 62.344
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Wesley Sneijder|Sneijder]] {{Goal|3}}<br />[[Samuel Eto'o|Eto'o]] {{Goal|35||63|rig.}}<br />[[Thiago Motta|Motta]] {{Goal|71}}<br />[[Esteban Cambiasso|Cambiasso]] {{Goal|90}}
+|Marcatori 2 = {{Goal|13}} [[Fábio Simplício|Simplício]]<br />{{Goal|75}} [[Mirko Vučinić|Vučinić]]<br />{{Goal|81}} [[Simone Loria|Loria]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/25/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.354
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 2 = {{Goal|49|rig.|83}} [[Edinson Cavani|Cavani]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 2011
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/26/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 22.180
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Rodrigo Palacio|Palacio]] {{Goal|52||74}}<br />[[Alberto Paloschi|Paloschi]] {{Goal|68||85}}
+|Marcatori 2 = {{Goal|6}} [[Nicolás Burdisso|Burdisso]]<br />{{Goal|16}} [[Philippe Mexès|Mexès]]<br />{{Goal|51}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 2011
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/27/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.499
+|Arbitro = [[Christian Brighi]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|19|rig.}}<br />[[Juan Silveira dos Santos|Juan]] {{Goal|37}}
+|Marcatori 2 = {{Goal|74||79}} [[Amauri]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 28ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/28/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = 10.450
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Guillermo Giacomazzi|Giacomazzi]] {{Goal|75}}
+|Marcatori 2 = {{Goal|32}} [[Mirko Vučinić|Vučinić]]<br />{{Goal|90|rig.}} [[David Pizarro|Pizarro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 2011
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/29/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 48.955
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|69||90+2|rig.}}
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 2011
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 30ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/30/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = 23.634
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Adrian Mutu|Mutu]] {{Goal|21}}<br />[[Alessandro Gamberini|Gamberini]] {{Goal|35}}
+|Marcatori 2 = {{Goal|27|rig.|52}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 aprile
+|Anno = 2011
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/31/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.952
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 2 = {{Goal|59}} [[Miloš Krasić|Krasić]]<br />{{Goal|74}} [[Alessandro Matri|Matri]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 aprile
+|Anno = 2011
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/32/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = 24.981
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Antonio Di Natale|Di Natale]] {{Goal|87}}
+|Marcatori 2 = {{Goal|57|rig.|90+4}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 2011
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/33/ROMPAL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 33.851
+|Arbitro = [[Andrea Romeo (arbitro)|Andrea Romeo]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|20|rig.}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|90+2}}
+|Marcatori 2 = {{Goal|43|rig.}} [[Mauricio Pinilla|Pinilla]]<br />{{Goal|84||90}} [[Abel Hernández|Hernández]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 aprile
+|Anno = 2011
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/34/ROMCHI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 27.319
+|Arbitro = [[Nicola Pierpaoli]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Simone Perrotta|Perrotta]] {{Goal|4}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º maggio
+|Anno = 2011
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/35/BARROM
+|Città = [[Bari]]
+|Stadio = [[Stadio San Nicola]]
+|Spettatori = 15.649
+|Arbitro = [[Carmine Russo]]
+|Cittarbitro = [[Nola]]
+|Marcatori 1 = [[Simone Bentivoglio|Bentivoglio]] {{Goal|25|rig.}}<br />[[Erik Huseklepp|Huseklepp]] {{Goal|42}}
+|Marcatori 2 = {{Goal|18|rig.|65}} [[Francesco Totti|Totti]]<br />{{Goal|90+4}} [[Aleandro Rosi|Rosi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Anno = 2011
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/36/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 58.083
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 maggio
+|Anno = 2011
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/37/CATROM
+|Città = [[Catania]]
+|Stadio = [[Stadio Angelo Massimino]]
+|Spettatori = 19.083
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Gonzalo Bergessio|Bergessio]] {{Goal|78}}<br />[[Alejandro Darío Gómez|Gómez]] {{Goal|90+5}}
+|Marcatori 2 = {{Goal|14}} [[Simone Loria|Loria]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 maggio
+|Anno = 2011
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2010-11/UNICO/UNI/38/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.944
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|30}}<br />[[Mirko Vučinić|Vučinić]] {{Goal|70}}<br />[[Marco Borriello|Borriello]] {{Goal|86}}
+|Marcatori 2 = {{Goal|26}} [[Daniele Mannini|Mannini]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 2010-2011}}
+====Fase finale====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 gennaio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Referto = https://web.archive.org/web/20110121131454/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Lazio/33671
+|Città = [[Roma]]
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.637
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|53|rig.}}<br />[[Fábio Simplício|Simplício]] {{Goal|77}}
+|Marcatori 2 = {{Goal|57|rig.}} [[Hernanes]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Quarti di finale
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Referto = https://web.archive.org/web/20110129111307/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Juventus-Roma/33687
+|Città = [[Torino]]
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Olimpico di Torino]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 2 = {{Goal|65}} [[Mirko Vučinić|Vučinić]]<br />{{Goal|90+1}} [[Rodrigo Taddei|Taddei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 aprile
+|Anno = 2011
+|Ora = 20:45
+|Turno = Semifinale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://web.archive.org/web/20110503204302/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Inter/33690
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 23.979
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 2 = {{Goal|45}} [[Dejan Stanković|Stanković]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 maggio
+|Anno = 2011
+|Ora = 20:45
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://web.archive.org/web/20110514182150/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Inter-Roma/33691
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 33.094
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Samuel Eto'o|Eto'o]] {{Goal|58}}
+|Marcatori 2 = {{Goal|84}} [[Marco Borriello|Borriello]]
+|Sfondo = on
+}}
+
+=== Champions League ===
+{{Vedi anche|UEFA Champions League 2010-2011}}
+==== Fase a gironi ====
+{{Vedi anche|UEFA Champions League 2010-2011 (fase a gironi)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Bayern Monaco
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002817/postmatch/lineups/index.html
+|Città = [[Monaco di Baviera]]
+|Stadio = [[Allianz Arena]]
+|Spettatori = 66.000 circa
+|Arbitro = [[Stéphane Lannoy]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Thomas Müller (calciatore)|Müller]] {{Goal|79}}<br />[[Miroslav Klose|Klose]] {{Goal|83}}
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = CFR Cluj
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002842/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Jonas Eriksson (arbitro)|Jonas Eriksson]]
+|Nazarbitro = SWE
+|Marcatori 1 = [[Philippe Mexès|Mexès]] {{Goal|69}}<br />[[Marco Borriello|Borriello]] {{Goal|71}}
+|Marcatori 2 = {{Goal|78}} [[Ionuț Rada (1982)|Rada]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 2010
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Basilea
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002857/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 22.365
+|Arbitro = [[Aleksei Nikolaev]]
+|Nazarbitro = RUS
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|21}}
+|Marcatori 2 = {{Goal|12}} [[Alexander Frei|Frei]]<br />{{Goal|44}} [[Samuel Inkoom|Inkoom]]<br />{{Goal|90+3}} [[Adilson Tavares Varela|Cabral]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 4ª giornata
+|Squadra 1 = Basilea
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002865/postmatch/lineups/index.html
+|Città = [[Basilea]]
+|Stadio = [[St. Jakob-Park]]
+|Spettatori = 36.675
+|Arbitro = [[Björn Kuipers]]
+|Nazarbitro = NLD
+| Marcatori 1 = [[Alexander Frei|Frei]] {{Goal|69}}<br />[[Xherdan Shaqiri|Shaqiri]] {{Goal|83}}
+| Marcatori 2 = {{Goal|16}} [[Jérémy Ménez|Ménez]]<br />{{Goal|26|rig.}} [[Francesco Totti|Totti]]<br />{{Goal|76}} [[Leandro Greco|Greco]]
+| Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 novembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bayern Monaco
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002889/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Alberto Undiano Mallenco]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Marco Borriello|Borriello]] {{Goal|49}}<br />[[Daniele De Rossi|De Rossi]] {{Goal|81}}<br />[[Francesco Totti|Totti]] {{Goal|84|rig.}}
+|Marcatori 2 = {{Goal|33||39}} [[Mario Gómez|Gómez]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 2010
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = CFR Cluj
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000118/match=2002898/postmatch/lineups/index.html
+|Città = [[Cluj Napoca]]
+|Stadio = [[Stadio Dr. Constantin Rădulescu]]
+|Spettatori = 10.000 circa
+|Arbitro = [[William Collum]]
+|Nazarbitro = SCO
+|Marcatori 1 = [[Lacina Traoré|Traoré]] {{Goal|88}}
+|Marcatori 2 = {{Goal|21}} [[Marco Borriello|Borriello]]
+|Sfondo = on
+}}
+
+==== Fase a eliminazione diretta ====
+{{Vedi anche|UEFA Champions League 2010-2011 (fase a eliminazione diretta)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Shakhtar
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000119/match=2003751/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.873
+|Arbitro = [[Olegário Benquerença]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Răzvan Raț|Raț]] {{Goal|28|aut.}}<br />[[Jérémy Ménez|Ménez]] {{Goal|61}}
+|Marcatori 2 = {{Goal|29}} [[Jádson]]<br />{{Goal|36}} [[Douglas Costa]]<br />{{Goal|41}} [[Luiz Adriano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 2011
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Shakhtar
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2011/matches/round=2000119/match=2003761/postmatch/lineups/index.html
+|Città = [[Donec'k]]
+|Stadio = [[Donbas Arena]]
+|Spettatori = 40.000
+|Arbitro = [[Howard Webb]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Willian]] {{Goal|18||58}}<br />[[Eduardo Alves da Silva|Eduardo]] {{Goal|87}}
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 2010-2011|Serie A]]
+|punti1=63
+|cv1=11
+|cn1=5
+|cp1=3
+|cgf1=31
+|cgs1=18
+|tv1=7
+|tn1=4
+|tp1=8
+|tgf1=28
+|tgs1=34
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 2010-2011|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=2
+|cgs2=2
+|tv2=1
+|tn2=1
+|tp2=0
+|tgf2=3
+|tgs2=1
+|comp3={{simbolo|Super coppa italiana.svg|15}} [[Supercoppa italiana 2010|Supercoppa italiana]]
+|punti3=-
+|cv3=-
+|cn3=-
+|cp3=-
+|cgf3=-
+|cgs3=-
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=1
+|tgs3=3
+|comp4={{simbolo|Coppa Campioni.svg|15}} [[UEFA Champions League 2010-2011|Champions League]]
+|punti4=-
+|cv4=2
+|cn4=0
+|cp4=2
+|cgf4=8
+|cgs4=9
+|tv4=1
+|tn4=1
+|tp4=2
+|tgf4=4
+|tgs4=8
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=38}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=T |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T |m31=C |m32=T |m33=C |m34=C |m35=T |m36=C |m37=T |m38=C}}
+{{Andamento/Risultato |m1=N |m2=P |m3=N |m4=P |m5=V |m6=P |m7=V |m8=N |m9=V |m10=V |m11=V |m12=N |m13=V |m14=P |m15=N |m16=V |m17=V |m18=V |m19=P |m20=V |m21=V |m22=V |m23=N |m24=P |m25=P |m26=P |m27=N |m28=V |m29=V |m30=N |m31=P |m32=V |m33=P |m34=V |m35=V |m36=N |m37=P |m38=V}}
+{{Andamento/Posizione |m1=14 |m2=19 |m3=17 |m4=19 |m5=18 |m6=19 |m7=13 |m8=14 |m9=9 |m10=7 |m11=6 |m12=6 |m13=5 |m14=7 |m15=8 |m16=7 |m17=6 |m18=5 |m19=5 |m20=5 |m21=4 |m22=4 |m23=4 |m24=5 |m25=6 |m26=6 |m27=6 |m28=6 |m29=6 |m30=6 |m31=6 |m32=6 |m33=6 |m34=6 |m35=6 |m36=6 |m37=6 |m38=6}}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Sono in ''corsivo'' i calciatori che hanno lasciato la società a stagione in corso. Tra parentesi le autoreti.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Champions League
+| ''{{Sortname||Adriano|Adriano Leite Ribeiro}}'' {{Sommastat|5|0|0|0 |1|0|0|0 |1|0|0|0}}
+| ''{{Sortname|V.|Antunes|Vitorino Antunes}}'' {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| ''{{Sortname|J.|Baptista|Júlio Baptista}}'' {{Sommastat|7|0|0|0 |0|0|0|0 |1|0|0|0}}
+| {{Sortname|M.|Borriello|Marco Borriello}} {{Sommastat|34|11|0|0 |4|2|0|0 |8|4|0|0}}
+| {{Sortname|M.|Brighi|Matteo Brighi}} {{Sommastat|25|1|1|0 |2|0|0|0 |5|0|0|0}}
+| {{Sortname|G.|Burdisso|Guillermo Burdisso}} {{Sommastat|2|0|0|0 |0|0|0|0 |1|0|0|0}}
+| {{Sortname|N.|Burdisso|Nicolás Burdisso}} {{Sommastat|28|2|3|2 |4|0|0|0 |8|0|0|0}}
+| {{Sortname|G.|Caprari|Gianluca Caprari}} {{Sommastat|2|0|0|0 |1|0|0|0 |1|0|0|0}}
+| {{Sortname|M.|Cassetti|Marco Cassetti}} {{Sommastat|32|0|6|0 |3|0|0|0 |7|0|1|0}}
+| {{Sortname|P.|Castellini|Paolo Castellini}} {{Sommastat|8|0|0|0 |0|0|0|0 |4|0|0|0}}
+| ''{{Sortname||Cicinho}}'' {{Sommastat|6|0|0|0 |0|0|0|0 |2|0|0|0}}
+| {{Sortname|D.|De Rossi|Daniele De Rossi}} {{Sommastat|28|2|0|0 |4|0|0|0 |7|1|0|0}}
+| {{Sortname||Doni|Doniéber Alexander Marangon}} {{Sommastat|16|-17|0|0 |2|-2|0|0 |2|-6|0|0}}
+| {{Sortname|A.|Florenzi|Alessandro Florenzi}} {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|L.|Greco|Leandro Greco}} {{Sommastat|14|0|0|0 |2|0|0|0 |3|1|0|0}}
+| {{Sortname||Juan|Juan Silveira dos Santos}} {{Sommastat|31|2 (1)|0|0 |3|0|0|0 |3|0|0|0 |reti=2 (1)}}
+| {{Sortname||Júlio Sérgio|Júlio Sérgio Bertagnoli}} {{Sommastat|19|-31|1|1 |2|-1|0|0 |3|-6|0|0}}
+| {{Sortname|B.|Lobonț|Bogdan Lobonț}} {{Sommastat|6|-4|0|0 |0|0|0|0 |3|-5|0|0}}
+| {{Sortname|S.|Loria|Simone Loria}} {{Sommastat|6|2|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|J.|Ménez|Jérémy Ménez}} {{Sommastat|32|2|1|0 |4|0|0|0 |6|2|0|0}}
+| {{Sortname|P.|Mexès|Philippe Mexès}} {{Sommastat|22|1|0|1 |2|0|0|0 |6|1|1|0}}
+| ''{{Sortname|S.|Okaka|Stefano Okaka Chuka}}'' {{Sommastat|4|0|1|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|S.|Perrotta|Simone Perrotta}} {{Sommastat|26|3|5|0 |3|0|0|0 |6|1|0|0}}
+| {{Sortname|D.|Pizarro|David Pizarro}} {{Sommastat|22|1|1|0 |2|0|0|0 |5|0|0|0}}
+| {{Sortname|J.A.|Riise|John Arne Riise}} {{Sommastat|32|0|0|0 |4|0|0|0 |5|0|0|0}}
+| {{Sortname|A.|Rosi|Aleandro Rosi}} {{Sommastat|16|1|2|0 |1|0|0|0 |2|0|0|0}}
+| {{Sortname|F.|Simplício|Fábio Simplício}} {{Sommastat|24|4|0|0 |4|1|0|0 |3|0|0|0}}
+| {{Sortname|R.|Taddei|Rodrigo Taddei}} {{Sommastat|23|0|0|0 |2|1|0|0 |3|0|0|0}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|32|15|1|1 |0|0|0|0 |7|2|0|0}}
+| {{Sortname|M.|Vučinić|Mirko Vučinić}} {{Sommastat|28|10|1|0 |4|1|0|0 |5|0|0|0}}
+}}
+== Giovanili ==
+=== Organigramma societario ===
+{{Colonne}}
+'''''Area direttiva'''''
+*Allenatore: Alberto De Rossi
+*Responsabile organizzativo: [[Bruno Conti]]
+{{Colonne fine}}
+=== Piazzamenti ===
+==== Primavera ====
+*[[Campionato Primavera 2010-2011|Campionato primavera]]: Vincitore<ref>Sconfitto il {{Calcio Varese|N}} in finale per 3-2 dopo i tempi supplementari.</ref>
+*[[Coppa Italia Primavera 2011-2012|Coppa Italia]]: Semifinale<ref>Sconfitta in semifinale dalla [[ACF Fiorentina|Fiorentina]] in finale con il risultato complessivo di 4-2.</ref>
+*[[Torneo di Viareggio 2012]]: Ottavi di finale<ref>Sconfitta negli ottavi di finale dalla [[Unione Calcio Sampdoria|Sampdoria]] 5-4 dopo i calci di rigore.</ref>
+== Note ==
+<references/>
+== Bibliografia ==
+*{{cita libro|autore=Paolo Castellani, Massimiliano Ceci, Riccardo de Conciliis|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri (libro ufficiale AS Roma)|editore=Goalbook Edizioni|anno=2012|ISBN=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+*{{Collegamenti esterni}}
+*{{cita web|http://www.rsssf.com/tablesi/ital2011.html|Serie A 2010-2011 su Rsssf.com|lingua=en}}
+*{{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2010|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2010-2011}}
+{{Portale|calcio}}

@@ -1,0 +1,1149 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1970-1971
+|allenatore1 = {{Bandiera|ARG}} [[Helenio Herrera]]<ref>Fino alla 24ª giornata.</ref>, poi<br />{{Bandiera|ITA}} [[Luciano Tessari]]<ref>Dalla 25ª in poi</ref>
+|presidente = {{Bandiera|ITA}} [[Alvaro Marchini]]
+|campionato = [[Serie A 1970-1971|Serie A]]
+|campionato posizione = 6º
+|coppa1 = [[Coppa Italia 1970-1971|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[Trofeo Nazionale di Lega Armando Picchi|Trofeo Picchi]]
+|coppa2 posizione = '''Vincitore'''
+|coppa3 = [[Coppa Anglo-Italiana 1971|Coppa Anglo-Italiana]]
+|coppa3 posizione = Fase a gironi
+|presenze campionato = [[Alberto Ginulfi|Ginulfi]], [[Aldo Bet|Bet]], [[Elvio Salvori|Salvori]] (30)
+|presenze totale = Bet (42)
+|marcatore campionato = [[Amarildo Tavares da Silveira|Amarildo]] (7)
+|marcatore totale = Amarildo, [[Renato Cappellini|Cappellini]] (8)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|spettatori media = {{formatnum:45551}}<ref>{{Cita web |url=http://www.stadiapostcards.com/a1.htm.htm |titolo=Media spettatori Serie A dal 62-63 al 73-74}}</ref>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1969-1970|1969-1970]]
+|stagione dopo = [[Associazione Sportiva Roma 1971-1972|1971-1972]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1970-1971'''.
+== Stagione ==
+[[File:1970–71 Serie A - AS Roma v SS Lazio - Chinaglia, Pellegrini, Cordova and Santarini.jpg|thumb|left|[[Stefano Pellegrini (1953)|Pellegrini]], [[Franco Cordova|Cordova]] e [[Sergio Santarini|Santarini]] scendono in campo per il [[Derby di Roma|derby]] del 14 marzo 1971 (2-2).]]
+Durante la campagna acquisti dell'estate 1970, il presidente [[Alvaro Marchini|Marchini]] cede alla {{Calcio Juventus|N}} i cosiddetti ''gioielli'' della squadra giallorossa, le tre giovani promesse: il terzino [[Luciano Spinosi]], il centrocampista [[Fabio Capello]] e l'attaccante [[Fausto Landini]]. Alla notizia, la reazione dei tifosi è rabbiosa, con manifestazioni di piazza e bandiere bruciate davanti alla sede sociale; le pesanti cessioni trovano il parere negativo anche dell'allenatore [[Helenio Herrera|Herrera]], che si trova tra le mani una squadra notevolmente indebolita.<ref name=cor3>{{cita|Romano|titolo=1965-1973 L'era dei maghi: da Oronzo Pugliese a Helenio Herrera}}.</ref>
+In cambio dei talenti giallorossi, il club torinese, oltre a un conguaglio di circa 700 milioni di lire, cede alla Roma anche quattro giocatori per rimpiazzare i partenti: il centrocampista [[Spagna|spagnolo]] [[Luis del Sol]], grande campione ma giunto ormai a fine carriera, il centrocampista avanzato [[Roberto Vieri]], giocatore virtuoso, eccentrico e dal carattere difficile, la punta [[Gianfranco Zigoni]], discreto attaccante rapido e imprevedibile, e il giovane difensore [[Paolo Viganò]]. Per tentare di placare gli umori del pubblico, il presidente porta inoltre un'altra stella verso il viale del tramonto: il [[Brasile|brasiliano]] [[Tavares de Silveira Amarildo|Amarildo]], dalla {{Calcio Fiorentina|N}}, sostituto di [[Pelé]] al {{WC|1962}}.<ref name=cor3/>
+[[File:AS Roma 1970-71 - Trofeo Nazionale di Lega Armando Picchi.jpg|thumb|La Roma posa a fine stagione con il Trofeo Picchi]]
+Una serie di accuse nei confronti dell'allenatore da parte del presidente incrinano definitivamente i rapporti tra i due e Herrera viene sostituito a stagione in corso da [[Luciano Tessari]] che traghetta la squadra fino alla fine del campionato, conclusosi con il sesto posto.<ref name=cor3/>
+== Divise ==
+Lo sponsor tecnico è [[Lacoste (azienda)|Lacoste]]. La divisa primaria è costituita da maglia bianca bordata di giallorosso, così come nei pantaloncini e calzettoni; in trasferta viene usata una maglia rossa bordata di giallo, pantaloncini bianchi e calzettoni rossi bordati di giallo. I portieri usano una maglia nera bordata di giallorosso abbinata a calzoncini neri e calzettoni rossi bordati di giallo.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 117-118}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asromaanni80a
+|leftarm = FFFFFF
+|pattern_b =_asroma1213a
+|body = FFFFFF
+|pattern_ra =_asromaanni80a
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma60s
+|socks = FFFFFF
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = 880000
+|pattern_b =_asroma5051h
+|body = 880000
+|pattern_ra =_asroma2728h
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 000000
+|pattern_b =_asroma6061gk
+|body = 000000
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor3/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Alvaro Marchini]]
+* Segretario: Alberto Lievore
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Helenio Herrera]], da aprile [[Luciano Tessari]]
+{{Colonne spezza}}
+;Area sanitaria
+* Medici sociali: Massimo Visalli
+* Massaggiatori: Roberto Minaccioni
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 70/71">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1970|titolo=Rosa AS Roma - Saison 70/71|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Ginulfi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Quintini]]<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni De Min (calciatore)|Giovanni De Min]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Bertini (calciatore)|Giovanni Bertini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Aldo Bet]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Cappelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Liborio Liguori]]<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Petrelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Rosa]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Santarini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Scaratti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Viganò]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=BRA 1968-1992|nome=[[Amarildo Tavares da Silveira|Amarildo]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Armando Colafrancesco|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Cordova]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=BRA|nome=''Francisco De Mecenas''<ref name="ced">Ceduto durante la sessione autunnale di calciomercato.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ESP 1945-1977|nome=[[Luis del Sol]]|ruolo=C|altro=c}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Franzot]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo La Rosa]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Elvio Salvori]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Claudio Ingrassia<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Renato Cappellini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Pellegrini (calciatore 1953)|Stefano Pellegrini]]<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Luigi Sanseverino]]''<ref name="ced"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Vieri]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gianfranco Zigoni]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 70/71"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Giovanni De Min (calciatore)|Giovanni De Min]]||| {{Calcio Verona|N}}|| ''definitivo''
+|-
+| D ||[[Angelo Rosa]]|| {{Calcio Ternana|N}}|| ''definitivo''
+|-
+| D ||[[Paolo Viganò]]|| {{Calcio Juventus|N}}|| ''prestito''<ref name="contropartita">Come parziale contropartita per la cessione di Spinosi, Capello e Landini.</ref>
+|-
+| C ||[[Amarildo Tavares da Silveira|Amarildo]]|| {{Calcio Fiorentina|N}} || ''definitivo''
+|-
+| C ||[[Luis del Sol]]|| {{Calcio Juventus|N}} || ''definitivo''<ref name="contropartita"/>
+|-
+| C ||Francisco De Mecenas|| {{Calcio Lecce|N}} || ''definitivo''
+|-
+| C ||[[Bruno Nobili]]|| {{Calcio Del Duca Ascoli|N}} || ''fine prestito''
+|-
+| C ||[[Roberto Vieri]]|| {{Calcio Juventus|N}} || ''comproprietà''<ref name="contropartita"/>
+|-
+| A ||[[Luigi Sanseverino]]|| {{Calcio Mantova|N}} || ''definitivo''
+|-
+| A ||[[Gianfranco Zigoni]]|| {{Calcio Juventus|N}} || ''definitivo''<ref name="contropartita"/>
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Adriano Zanier]]|| {{Calcio Casertana|N}} || ''definitivo''
+|-
+| D ||[[Luciano Spinosi]]|| {{Calcio Juventus|N}} || ''definitivo''
+|-
+| C ||[[Víctor Morales Benítez]]|| - || ''svincolato''
+|-
+| C ||[[Fabio Capello]]||| {{Calcio Juventus|N}} || ''definitivo''
+|-
+| C ||Francisco De Mecenas|| {{Calcio Reggina|N}} ||''definitivo''<ref name="ced"/>
+|-
+| C ||[[Bruno Nobili]]|| {{Calcio Maceratese|N}} || ''definitivo''
+|-
+| A ||[[Joaquín Peiró]]|| {{Calcio Atletico Madrid|N}} || ''definitivo''
+|-
+| A ||[[Lucio Bertogna]]|| {{Calcio Monza|N}} || ''definitivo''
+|-
+| A ||[[Giorgio Braglia]]|| {{Calcio Brescia|N}} || ''definitivo''
+|-
+| A ||[[Fausto Landini]]|| {{Calcio Juventus|N}} || ''definitivo''
+|-
+| A ||[[Luigi Sanseverino]]|| {{Calcio Pisa|N}} || ''definitivo''<ref name="ced"/>
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1970-1971}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 1970
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaFiorentina_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|29}} [[Luciano Chiarugi|Chiarugi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 1970
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071InterRoma_CorrSport_02_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = circa 60.000
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 ottobre
+|Anno = 1970
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaVicenza_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Varese]]
+|Marcatori 1 = [[Tavares de Silveira Amarildo|Amarildo]] {{goal|41||67}}<br />[[Gianfranco Zigoni|Zigoni]] {{Goal|47}}<br />[[Franco Cordova|Cordova]] {{Goal|89}}
+|Marcatori 2 = {{Goal|54|rig.}} [[Mario Maraschi|Maraschi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 ottobre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 4ª giornata
+|Squadra 1 = Varese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071VareseRoma_CorrSport_02_af.jpg
+|Città = [[Varese]]
+|Stadio = [[Stadio Franco Ossola]]
+|Spettatori = circa 11.000
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaSampdoria_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Pavia]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 novembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071LazioRoma_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Paolo Toselli (arbitro)|Paolo Toselli]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Arrigo Dolso|Dolso]] {{goal|69}}
+|Marcatori 2 = {{goal|84}} [[Sergio Petrelli|Petrelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 novembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaFoggia_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Alberto Michelotti]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Tavares de Silveira Amarildo|Amarildo]] {{goal|49}}<br />[[Renato Cappellini|Cappellini]] {{Goal|80}}<br />[[Franco Cordova|Cordova]] {{Goal|81}}
+|Marcatori 2 = {{goal|70}} [[Paolo Garzelli|Garzelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 novembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071JuventusRoma_01_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino|Stadio Comunale]]
+|Spettatori = circa 35.000
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Helmut Haller|Haller]] {{goal|71||80}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 dicembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaCagliari_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071CataniaRoma_La_Stampa_af.JPG
+|Città = [[Catania]]
+|Stadio = [[Stadio Angelo Massimino|Stadio Cibali]]
+|Spettatori = circa 7.000
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Pietro Baisi|Baisi]] {{goal|22}}
+|Marcatori 2 = {{goal|28||78}} [[Luis del Sol|del Sol]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 dicembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaBologna_02_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Tavares de Silveira Amarildo|Amarildo]] {{goal|6|rig.}}
+|Marcatori 2 = {{goal|1}} [[Giuseppe Savoldi|Savoldi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 gennaio
+|Anno = 1971
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071RomaNapoli_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 78.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 = [[Luis del Sol|del Sol]] {{goal|74}}<br />[[Liborio Liguori|Liguori]] {{goal|83}}
+|Marcatori 2 = {{goal|11}} [[Kurt Hamrin|Hamrin]]<br />{{goal|41}} [[Gian Piero Ghio|Ghio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1971
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071TorinoRoma_01_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino|Stadio Comunale]]
+|Spettatori = circa 25.000
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Varese]]
+|Marcatori 1 = [[Paolino Pulici|Pulici]] {{goal|42}}<br />[[Rosario Rampanti|Rampanti]] {{goal|67}}<br />[[Claudio Sala|Sala]] {{goal|80||90}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1971
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaVerona_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Paolo Toselli (arbitro)|Paolo Toselli]]
+|Cittarbitro = [[Cormons]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1971
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071MilanRoma_La_Stampa_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = circa 45.000
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|38||57}}
+|Marcatori 2 = {{goal|29}} [[Walter Franzot|Franzot]]<br />{{goal|65}} [[Luis del Sol|del Sol]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1971
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071FiorentinaRoma_La_Stampa_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 45.000
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 = [[Dino D'Alessi|D'Alessi]] {{goal|34}}<br />[[Alessandro Vitali (1945)|Vitali]] {{goal|85}}
+|Marcatori 2 = {{goal|17|rig.}} [[Tavares de Silveira Amarildo|Amarildo]]<br />{{goal|59}} [[Pietro Ghedin|Ghedin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 1971
+|Ora = 15:00
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaInter_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1971
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071VicenzaRoma_La_Stampa_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 14.898
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Pavia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 1971
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Varese
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaVarese_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Antonio Trono]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Renato Cappellini|Cappellini]] {{goal|20||69}}<br />[[Tavares de Silveira Amarildo|Amarildo]] {{goal|65|rig.}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1971
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071SampdoriaRoma_La_Stampa_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 18.000
+|Arbitro = [[Gaetano Mascali]]
+|Cittarbitro = [[Desenzano del Garda]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 marzo
+|Anno = 1971
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071RomaLazio_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Gianfranco Zigoni|Zigoni]] {{goal|39}}<br />[[Elvio Salvori|Salvori]] {{goal|75}}
+|Marcatori 2 = {{goal|30|aut.}} [[Sergio Santarini|Santarini]]<br />{{goal|60}} [[Giorgio Chinaglia|Chinaglia]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 marzo
+|Anno = 1971
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071FoggiaRoma_Unita_01_af.jpg
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Spettatori = circa 12.500
+|Arbitro = [[Luciano Giunti]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Alberto Bigon|Bigon]] {{goal|45}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 marzo
+|Anno = 1971
+|Ora = 15:30
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaJuventus_01_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile
+|Anno = 1971
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071CagliariRoma_La_Stampa_af.JPG
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = circa 40.000
+|Arbitro = [[Fernando Lazzaroni]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|50}} [[Renato Cappellini|Cappellini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 1971
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaCatania_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Alberto Picasso]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Tavares de Silveira Amarildo|Amarildo]] {{goal|15}}<br />[[Gianfranco Zigoni|Zigoni]] {{goal|42||78|rig.}}<br />[[Roberto Vieri|Vieri]] {{goal|46}}<br />[[Renato Cappellini|Cappellini]] {{goal|50}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1971
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071BolognaRoma_La_Stampa_af.JPG
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = circa 20.000
+|Arbitro = [[Giangaetano Vacchini]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1971
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071NapoliRoma_Unita_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 53.340
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Varese]]
+|Marcatori 1 = [[Angelo Sormani|Sormani]] {{goal|11}}
+|Marcatori 2 = {{goal|27}} [[Renato Cappellini|Cappellini]]<br />{{goal|60}} [[Elvio Salvori|Salvori]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 maggio
+|Anno = 1971
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaTorino_01_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Gianfranco Zigoni|Zigoni]] {{Goal|35}}
+|Marcatori 2 = {{Goal|46}} [[Carlo Petrini (calciatore)|Petrini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1971
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071VeronaRoma_La_Stampa_af.JPG
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 20.000
+|Arbitro = [[Giangaetano Vacchini]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Sergio Clerici|Clerici]] {{Goal|52}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 maggio
+|Anno = 1971
+|Ora = 17:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaMilan_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Pasquale Gialluisi]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Giacomo La Rosa|La Rosa]] {{Goal|34}}
+|Marcatori 2 = {{Goal|4}} [[Pierino Prati|Prati]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1970-1971}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 agosto
+|Anno = 1970
+|Ora = 17:30
+|Turno = 1ª giornata
+|Squadra 1 = Catanzaro
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071CatanzaroRoma_CI_CorrSport_02_af.jpg
+|Città = [[Catanzaro]]
+|Stadio = [[Stadio Nicola Ceravolo|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Pasquale Gialluisi]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Pierluigi Busatta|Busatta]] {{goal|33}}
+|Marcatori 2 = {{goal|28}} [[Franco Cordova|Cordova]]<br />{{goal|75|aut.}} [[Gianfranco Bertoletti|Bertoletti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 settembre
+|Anno = 1970
+|Ora = 21:15
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaLazie_CI_CorrSport_04_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 80.000
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Giuseppe Wilson|Wilson]] {{goal|44|aut.}}<br />[[Roberto Vieri|Vieri]] {{goal|68}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 settembre
+|Anno = 1970
+|Ora = 16:30
+|Turno = 3ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/7071PalermoRoma_CI_CorrSport_02_af.jpg
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|Spettatori = circa 15.000
+|Arbitro = [[Luciano Giunti]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|28}} [[Tavares de Silveira Amarildo|Amarildo]]
+}}
+
+==== Fase a eliminazione diretta ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 settembre
+|Anno = 1970
+|Ora = 16:30
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071TorinoRoma_CI_CorrSport_02_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino|Stadio Comunale]]
+|Spettatori = 25.399
+|Arbitro = [[Alberto Picasso]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Paolino Pulici|Pulici]] {{goal|60}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 1970
+|Ora = 14:30
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/7071RomaTorino_CI_CorrSport_4-11-70_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 40.000
+|Arbitro = [[Luciano Giunti]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|46}} [[Stanislao Bozzi|Bozzi]]
+|Sfondo = 
+}}
+
+=== Trofeo Nazionale di Lega Armando Picchi ===
+{{vedi anche|Trofeo Nazionale di Lega Armando Picchi}}
+==== Girone all'italiana ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 giugno
+|Anno = 1971
+|Ora = 18:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/1971%20giu_trofeo_picchi_roma-cagliari%203-2.bmp
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Enzo Barbaresco]]
+|Cittarbitro = [[Cormons]]
+|Marcatori 1 = [[Roberto Vieri|Vieri]] {{Goal|73}}<br />[[Giacomo La Rosa|La Rosa]] {{Goal|74}}<br />[[Walter Franzot|Franzot]] {{Goal|84}}
+|Marcatori 2 = {{Goal|65||88}} [[Mario Brugnera|Brugnera]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 giugno
+|Anno = 1971
+|Ora = 21:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/7071RomaJuventus_Picchi_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 35.000
+|Arbitro = [[Francesco Panzino]]
+|Cittarbitro = [[Catanzaro]]
+|Marcatori 1 = [[Giacomo La Rosa|La Rosa]] {{Goal|6}}<br />[[Francesco Scaratti|Scaratti]] {{Goal|45}}
+|Marcatori 2 = {{Goal|4|aut.}} [[Aldo Bet|Bet]]<br />{{Goal|41}} [[Roberto Bettega|Bettega]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 giugno
+|Anno = 1971
+|Ora = 21:00
+|Turno = 3ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto =
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Antonio Trono]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Roberto Boninsegna|Boninsegna]] {{goal|80||85}}
+|Marcatori 2 = {{goal|86}} [[Sergio Santarini|Santarini]]
+|Sfondo = on
+}}
+
+==== Finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 giugno
+|Anno =1971
+|Ora = 21:15
+|Turno = Finale
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/7071RomaInter_Picchi_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 61.915
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Renato Cappellini|Cappellini]] {{goal|7}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+
+===Coppa Anglo-Italiana===
+{{vedi anche|Coppa Anglo-Italiana 1971}}
+==== Fase a gruppi ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 maggio
+|Anno = 1971
+|Ora = 19:30 [[UTC+1]]
+|Città = [[Stoke on Trent]]
+|Turno = 1ª giornata
+|Squadra 1 = Stoke City
+|Squadra 2 = Roma
+|Arbitro = [[Luciano Giunti]]
+|Nazarbitro=ITA
+|Stadio = [[Victoria Ground]]
+|Spettatori = 10.500 circa
+|Referto = http://www.asromaultras.org/7071StokeCityRoma_26-5-71_CorrSport_02_af.jpg
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Marcatori 1 = [[Jimmy Greenhoff|Greenhoff]] {{gol|13}}<br /> [[Denis Smith|Smith]] {{gol|58}}
+|Marcatori 2 = {{gol|62}} [[Giacomo La Rosa|La Rosa]]<br /> {{gol|75}} [[Roberto Vieri|Vieri]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 maggio
+|Anno = 1971
+|Ora = 15:00 [[UTC+1]]
+|Città = [[Blackpool]]
+|Turno = 2ª giornata
+|Squadra 1 = Blackpool
+|Squadra 2 = Roma
+|Arbitro = [[Concetto Lo Bello]]
+|Nazarbitro=ITA
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Stadio = [[Bloomfield Road]]
+|Referto = http://www.asromaultras.org/1971%20mag_trofeo_angloitaliano_blackpool-roma%201-3.bmp
+|Marcatori 1 = [[Giovanni Bertini (calciatore)|Bertini]] {{gol|3|aut.}}
+|Marcatori 2 = {{gol|45||83}} [[Roberto Vieri|Vieri]]<br /> {{gol|68}} [[Renato Cappellini|Cappellini]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º giugno
+|Anno = 1971
+|Ora=21:00 [[UTC+2]]
+|Città = [[Roma]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Stoke City
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[John Homewood]]
+|Referto = http://www.asromaultras.org/7071RomaStokeCity_1-6-71_CorrSport_03_af.jpg
+|Nazarbitro=ENG
+|Spettatori = 40.000 circa
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Marcatori 2 = {{gol|56}} [[John Ritchie|Ritchie]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 giugno
+|Anno = 1971
+|Ora=21:00 [[UTC+2]]
+|Città = [[Roma]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Blackpool
+|Arbitro = [[David William Smith]]
+|Nazarbitro=ENG
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Referto = http://www.asromaultras.org/7071RomaBlacpool_4-6-71_CorrSport_03_af.jpg
+|Spettatori = 15.000 circa
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Marcatori 1 = [[Sergio Petrelli|Petrelli]] {{gol|89}}
+|Marcatori 2 = {{gol|60}} [[Bill Bentley|Bentley]]<br /> {{gol|87}} [[Tommy Hutchison|Hutchinson]]
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor3/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1970-1971|Serie A]]
+|punti1=32
+|cv1=4
+|cn1=10
+|cp1=1
+|cgf1=22
+|cgs1=10
+|tv1=3
+|tn1=8
+|tp1=4
+|tgf1=10
+|tgs1=15
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1970-1971|Coppa Italia]]
+|punti2=
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=2
+|cgs2=1
+|tv2=2
+|tn2=0
+|tp2=1
+|tgf2=3
+|tgs2=2
+|comp3=[[Trofeo Nazionale di Lega Armando Picchi]]
+|punti3=
+|cv3=2
+|cn3=1
+|cp3=0
+|cgf3=6
+|cgs3=4
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=1
+|tgs3=2
+|comp4=[[Coppa Anglo-Italiana 1971|Coppa Anglo-Italiana]]
+|punti4=
+|cv4=0
+|cn4=0
+|cp4=2
+|cgf4=1
+|cgs4=3
+|tv4=1
+|tn4=1
+|tp4=0
+|tgf4=5
+|tgs4=3
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=C |m13=T |m14=C |m15=T |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=T |m28=C |m29=T |m30=C }}
+{{Andamento/Risultato 	|m1=P |m2=N |m3=V |m4=N |m5=N |m6=N |m7=V |m8=P |m9=N |m10=V |m11=N |m12=N |m13=P |m14=N |m15=N |m16=N |m17=N |m18=N |m19=V |m20=N |m21=N |m22=P |m23=N |m24=V |m25=V |m26=N |m27=V |m28=N |m29=P |m30=N }}
+{{Andamento/Posizione |r=14 |m1=7 |m2=10 |m3=8 |m4=5 |m5=5 |m6=6 |m7=5 |m8=6 |m9=7 |m10=6 |m11=6 |m12=6 |m13=6 |m14=7 |m15=7 |m16=7 |m17=7 |m18=7 |m19=5 |m20=5 |m21=6 |m22=7 |m23=7 |m24=6 |m25=6 |m26=6 |m27=5 |m28=6 |m29=6 |m30=6 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 1 autogol in campionato e 2 autogol in Coppa Italia.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Trofeo Nazionale di<br />Lega Armando Picchi
+| Competizione4 = Coppa<br />Anglo-Italiana
+| Cartellini = no
+| {{Sortname||Amarildo|Tavares de Silveira Amarildo}} {{Sommastat|C=no |21|7|?|? |4|1|?|? |2|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Bertini|Giovanni Bertini (calciatore)}} {{Sommastat|C=no |3|0|?|? |3|0|?|? |0|0|?|? |2|0|?|?}}
+| {{Sortname|A.|Bet|Aldo Bet}} {{Sommastat|C=no |30|0|?|? |5|0|?|? |4|0|?|? |3|0|?|?}}
+| {{Sortname|F.|Cappelli|Francesco Cappelli}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |3|0|?|?}}
+| {{Sortname|R.|Cappellini|Renato Cappellini}} {{Sommastat|C=no |20|6|?|? |5|0|?|? |3|1|?|? |4|1|?|?}}
+| {{Sortname|A.|Colafrancesco|Armando Colafrancesco|nolink=1}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Cordova|Franco Cordova}} {{Sommastat|C=no |29|2|?|? |4|1|?|? |4|0|?|? |3|0|?|?}}
+| ''{{Sortname|F.|De Mecenas|Francisco De Mecenas|nolink=1}}'' {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|De Min|Giovanni De Min (calciatore)}} {{Sommastat|C=no |0|-0|?|? |0|-0|?|? |2|-2|?|? |1|-1|?|?}}
+| {{Sortname|L.|del Sol|Luis del Sol}} {{Sommastat|C=no |23|4|?|? |3|0|?|? |3|0|?|? |2|0|?|?}}
+| {{Sortname|W.|Franzot|Walter Franzot}} {{Sommastat|C=no |19|1|?|? |4|0|?|? |2|1|?|? |3|0|?|?}}
+| {{Sortname|A.|Ginulfi|Alberto Ginulfi}} {{Sommastat|C=no |30|-25|?|? |5|-3|?|? |3|-4|?|? |3|-5|?|?}}
+| {{Sortname|C.|Ingrassia|Claudio Ingrassia|nolink=1}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|La Rosa|Giacomo La Rosa}} {{Sommastat|C=no |4|1|?|? |1|0|?|? |4|2|?|? |3|1|?|?}}
+| {{Sortname|L.|Liguori|Liborio Liguori}} {{Sommastat|C=no |16|1|?|? |0|0|?|? |3|0|?|? |0|0|?|?}}
+| {{Sortname|S.|Pellegrini|Stefano Pellegrini (calciatore 1953)}} {{Sommastat|C=no |1|0|?|? |0|0|?|? |1|0|?|? |0|0|?|?}}
+| {{Sortname|S.|Petrelli|Sergio Petrelli}} {{Sommastat|C=no |21|1|?|? |4|0|?|? |3|0|?|? |4|1|?|?}}
+| {{Sortname|F.|Quintini|Francesco Quintini}} {{Sommastat|C=no |0|-0|?|? |0|-0|?|? |0|-0|?|? |0|0|?|?}}
+| {{Sortname|A.|Rosa|Angelo Rosa}} {{Sommastat|C=no |3|0|?|? |1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|E.|Salvori|Elvio Salvori}} {{Sommastat|C=no |30|2|?|? |5|0|?|? |2|0|?|? |4|0|?|?}}
+| ''{{Sortname|L.|Sanseverino|Luigi Sanseverino}}'' {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|S.|Santarini|Sergio Santarini}} {{Sommastat|C=no |28|0|?|? |4|0|?|? |4|1|?|? |4|0|?|?}}
+| {{Sortname|F.|Scaratti|Francesco Scaratti}} {{Sommastat|C=no |23|0|?|? |5|0|?|? |4|1|?|? |3|0|?|?}}
+| {{Sortname|R.|Vieri|Roberto Vieri}} {{Sommastat|C=no |18|1|?|? |4|1|?|? |4|1|?|? |4|3|?|?}}
+| {{Sortname|P.|Viganò|Paolo Viganò}} {{Sommastat|C=no |1|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Zigoni|Gianfranco Zigoni}} {{Sommastat|C=no |25|5|?|? |5|0|?|? |1|0|?|? |4|0|?|?}}
+}}
+
+== Giovanili ==
+[[File:AC Roma (Primavera) - Torneo di Viareggio 1971.jpg|thumb|La squadra Primavera giallorossa al [[Torneo di Viareggio 1971|Torneo di Viareggio]]]]
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1970-1971|Campionato Primavera]]: ?
+** [[Torneo di Viareggio 1971|Torneo di Viareggio]]: quarti di finale
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital71.html|Serie A 1970-1971 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1970|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1970-1971}}
+{{Portale|calcio}}

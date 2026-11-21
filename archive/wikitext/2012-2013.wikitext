@@ -1,0 +1,1321 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|stagione = 2012-2013
+|immagine =
+|didascalia = Una formazione della Roma nella stagione 2012-2013
+|presidente = {{Bandiera|USA}} [[James Pallotta]]
+|allenatore1 = {{Bandiera|CZE}} {{Bandiera|ITA}} [[Zdeněk Zeman]] <small>(1ª-23ª)</small><br/>{{Bandiera|ITA}} [[Aurelio Andreazzoli]] <small>(24ª-38ª)</small><ref>''ad interim</ref>
+|allenatore2 = {{Bandiera|ITA}} Vincenzo Cangelosi <small>(1ª-23ª)</small><br/>{{Bandiera|ITA}} [[Roberto Muzzi]] <small>(24ª-38ª)</small>
+|campionato = [[Serie A 2012-2013|Serie A]]
+|campionato posizione = 6º
+|coppa1 = [[Coppa Italia 2012-2013|Coppa Italia]]
+|coppa1 posizione = Finalista
+|coppa2 =
+|coppa2 posizione =
+|presenze campionato = [[Alessandro Florenzi|Florenzi]] (36)
+|presenze totale = Florenzi (39)
+|marcatore campionato = [[Daniel Osvaldo|Osvaldo]] (16)
+|marcatore totale = Osvaldo (17)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|spettatori max = {{formatnum:54981}} vs {{Calcio Juventus|N}}<br/>(16 febbraio 2013)
+|spettatori min = {{formatnum:9769}} vs {{Calcio Atalanta|N}}<br/>(11 dicembre 2012)
+|spettatori media = {{formatnum:40179}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A12-13.htm|titolo=Statistiche Spettatori Serie A 2012-2013|lingua=inglese}}</ref>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:24822}}<ref name=stadiapost/>
+|stagione prima = [[Associazione Sportiva Roma 2011-2012|2011-2012]]
+|stagione dopo = [[Associazione Sportiva Roma 2013-2014|2013-2014]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2012-2013'''.
+
+== Stagione ==
+La stagione 2012-2013 è l'80ª stagione in [[Serie A]] della Roma e la 84ª nel campionato di massima serie [[italia]]no.<ref>{{Cita|Almanacco Panini 2015|p. 638|Almantris}}.</ref>
+Il primo impegno di campionato per la Roma finisce 2-2 contro il {{Calcio Catania|N}} con gli ospiti che vanno in vantaggio al 29' con [[Giovanni Marchese (calciatore)|Marchese]]. Pareggia con un gol in rovesciata [[Pablo Osvaldo|Osvaldo]] al 59', ma dopo 10 minuti tornano in vantaggio i rosso-azzurri con [[Alejandro Gómez|Gómez]]. Nei minuti di recupero [[Nicolás López (calciatore 1993)|Nicolás López]] pareggia nuovamente, segnando all'esordio. Nella seconda giornata allo [[Stadio Giuseppe Meazza]], la Roma affronta l'{{Calcio Inter|N}} e vince per 3-1 grazie alle reti di [[Alessandro Florenzi|Florenzi]], Osvaldo e [[Marco Antônio de Mattos Filho|Marquinho]]. Il 23 settembre in vantaggio di 2 reti a 0 contro il {{Calcio Bologna|N}}, si fa rimontare e perde per 2-3 in casa. Una settimana più tardi vince a tavolino contro il {{Calcio Cagliari|N}}, dopo che la partita non è stata disputata per problemi di ordine pubblico. Dopo la vittoria a tavolino a Cagliari, nelle successive 3 partite la Roma conquista 1 vittoria contro l'{{Calcio Atalanta|N}} (2-0), 1 pareggio contro la {{Calcio Sampdoria|N}} (1-1) e una sconfitta contro la {{Calcio Juventus|N}} (4-1). Il 21 ottobre allo [[Stadio Luigi Ferraris|Stadio Marassi]] contro il {{Calcio Genoa|N}} sotto di due reti, riesce a vincere per 4-2 grazie alle reti di [[Francesco Totti|Totti]], [[Erik Lamela|Lamela]] e una doppietta di [[Pablo Osvaldo|Osvaldo]]. Intanto in [[Coppa Italia 2012-2013|Coppa Italia]], l'unica competizione che gioca la Roma oltre al campionato, riesce a passare gli ottavi di finale vincendo contro l'Atalanta per 3-0, e i quarti di finale riuscendo a vincere contro la {{Calcio Fiorentina|N}} (0-1) ai tempi supplementari grazie a un gol di [[Mattia Destro]].
+[[File:Zdenek Zeman.JPG|thumb|left|Il tecnico boemo [[Zdeněk Zeman]], reduce dalla vittoria del [[Serie B 2011-2012|campionato cadetto]] col [[Delfino Pescara 1936|Pescara]], ritorna a sedersi sulla panchina della Roma a distanza di 13 anni dalla [[Associazione Sportiva Roma 1998-1999|precedente esperienza]] in giallorosso.]]
+Dopo la vittoria in rimonta contro il Genoa la squadra di Zeman sembra in netta ripresa per tornare a sperare nella qualificazione in Champions League, lo testimoniano vittorie come quelle contro Fiorentina e {{Calcio Milan|N}}, entrambe terminate 4-2 a favore della squadra capitolina. Ciò nonostante arrivano sconfitte nel derby contro la {{Calcio Lazio|N}} (3-2), contro il {{Calcio Napoli|N}} (4-1), contro il {{Calcio Chievo|N}} (1-0) e contro {{Calcio Udinese|N}} e {{Calcio Parma|N}}, entrambe terminate 3-2, in rimonta.
+Dopo questo periodo che sembra poter rimettere la squadra in corsa per il 3º posto, il girone di ritorno comincia molto male, infatti nelle prime 4 partite la squadra romana conquista solo 2 punti contro {{Calcio Inter|N}} (1-1) e {{Calcio Bologna|N}} (3-3) e 2 sconfitte contro {{Calcio Catania|N}} (1-0) e {{Calcio Cagliari|N}} (2-4). Questi scarsi risultati portano la squadra di Zeman all'8º posto in classifica con 34 punti. Il 2 febbraio [[2013]] la società, visti gli scarsi risultati della Roma, decide di esonerare l'allenatore boemo che viene sostituito da [[Aurelio Andreazzoli]], che era stato il vice di [[Luciano Spalletti]] dal 2005 al 2009.
+La situazione continua a peggiorare anche dopo la prima partita da tecnico di Andrezzoli persa contro la {{Calcio Sampdoria|N}} (3-1), con Osvaldo che sbaglia un rigore (il giocatore sarà molto contestato dai tifosi in quanto considerato "usurpatore" del rigorista ufficiale della squadra, Totti<ref>[http://www.gazzetta.it/Calcio/Squadre/Roma/12-02-2013/roma-osvaldo-contestato-trigoria-tifoso-colpisce-sua-auto-914262508090.shtml Roma, Osvaldo contestato a Trigoria. Pallotta: "Attaccate solo me..."], ''[[La Gazzetta dello Sport]]'', 12 febbraio 2013</ref>). Questa sconfitta costa alla squadra capitolina la perdita di un'altra posizione in classifica per mano dell'Udinese, che invece trionfa contro il {{Calcio Torino|N}} 1-0, scendendo così al 9º posto in classifica a 10 punti dal 3º posto e a 6 punti dal 5º posto, che permette l'accesso ai preliminari dell'Europa League. La gara successiva il 16 febbraio arriva la prima vittoria della gestione Andreazzoli e del [[2013]], contro la Juventus prima in classifica (1-0), grazie a un gol di [[Francesco Totti]]; con questa vittoria la Roma ritorna a battere la Juventus dopo 3 anni (l'ultima vittoria risaliva al 2010, quando finì 2-1 per i giallorossi). Arrivano altre due vittorie di fila, sotto la neve a [[Bergamo]] contro l'Atalanta per 2-3 (goal di [[Marco Antônio de Mattos Filho|Marquinho]], [[Miralem Pjanić]] e [[Vasilīs Torosidīs]]), e contro il Genoa per 3-1.
+[[File:Mattia Destro - AS Roma - Ritiro 2014 (Bad Waltersdorf) - Edited (2).jpg|thumb|Il neoacquisto [[Mattia Destro]], capocannoniere della Coppa Italia 2012-2013 con 5 gol.]]
+In questa partita Totti segna su rigore il 225º goal in [[Serie A]], raggiungendo [[Gunnar Nordahl]] al secondo posto della [[classifica dei marcatori della Serie A]]. Gli altri goal sono del giovane Alessio Romagnoli e di [[Simone Perrotta]]. Si ha poi, dopo le insoddisfacenti prestazioni di Udine e di Palermo che portano rispettivamente a un pareggio e a una sconfitta i giallorossi, intercalate comunque dalla vittoria in casa per 2-0 sul Parma, il pareggio nel derby con i cugini laziali (risultato che non si registrava dall'aprile 2007 quando la partita terminò per 0-0). Continua poi la striscia positiva del girone di ritorno con la vittoria per 2-1 a Torino con i granata, il pessimo pareggio in casa con il {{Calcio Pescara|N}} e lo splendido poker all'Olimpico sul {{Calcio Siena|N}} con 3 reti di Osvaldo e 1 di Lamela che raggiungono entrambi quota 15 in campionato.
+Il 18 aprile, inoltre, la formazione capitolina, forte del successo a fine gennaio per 2-1 in casa, giocano la semifinale di ritorno di Coppa Italia con l'Inter di Stramaccioni, imponendosi, dopo un primo tempo blando, per 3-2 e conquistandosi la finale il 26 maggio alle ore 18 proprio contro i cugini laziali; la vittoria è soprattutto merito della doppietta di Mattia Destro, che si conferma capocannoniere della competizione con cinque reti in quattro partite. La formazione capitolina si porta poi a -3 punti dal quarto posto e quindi dall'Europa sicura con la difficile vittoria al 92' al Franchi contro la Fiorentina grazie allo stacco di testa di Osvaldo, che raggiunge quota 4 gol in 2 partite. La formazione capitolina però spreca tutto perdendo contro il Chievo, che così mantiene la partecipazione in Serie A, e pareggiando con il Milan: in entrambe le partite la prestazione offerta è mediocre. La formazione giallorossa conclude la propria stagione battendo 2-1 il Napoli: di Marquinho e di Mattia Destro (sesta rete stagionale per lui) i gol. La posizione finale della Roma in campionato è il 6º posto con 62 punti, un punto sopra ai rivali della Lazio, i quali tuttavia sconfiggono i giallorossi per 1-0 nella finale di [[Coppa Italia 2012-2013|Coppa Italia]], impedendo così alla ''Lupa'' di qualificarsi per l'[[UEFA Europa League 2013-2014|Europa League]].
+== Divise e sponsor ==
+Lo sponsor tecnico è [[Kappa (azienda)|Kappa]], mentre lo sponsor ufficiale è [[Wind Telecomunicazioni|Wind]]. La prima divisa è costituita da maglia rossa con bordi manica e colletto gialli, pantaloncini bianchi e calzettoni rossi bordati di giallo. In trasferta i Lupi usano una costituita da maglia bianca il "lupetto" di [[Piero Gratton]] al posto dello stemma societario con bordi manica e colletto giallorossi, pantaloncini bianchi, calzettoni bianchi. La terza divisa è una versione con il nero al posto del bianco della ''away''. I portieri usano tre divise: una nera, una verde, una grigia, tutte con dettagli giallorossi.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 248-250}}.</ref>
+{|
+|-
+|
+{{Divisa Calcio
+|pattern_la = _orange_border
+|pattern_b = _asroma1213h
+|pattern_ra = _orange_border
+|pattern_so = _asroma1213h
+|leftarm = 6a0c27
+|body = FFFFFF
+|rightarm = 6a0c27
+|shorts = FFFFFF
+|socks = 6a0c27
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1213a
+|pattern_b = _asroma1213a
+|pattern_ra = _asroma1213a
+|pattern_sh = _asroma1213a
+|pattern_so = _asroma1213a
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1213t
+|pattern_b = _asroma1213t
+|pattern_ra = _asroma1213t
+|pattern_sh = _asroma1213t
+|pattern_so = _asroma1213t
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = 000000
+|socks = FFFFFF
+|title = Terza
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1213gk2
+|pattern_b = _asroma1213gk2
+|pattern_ra = _asroma1213gk2
+|pattern_sh = _asroma1112gk2
+|pattern_so = _asroma1213gk2
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = 000000
+|socks = FFFFFF
+|title = 1ª Portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1213t
+|pattern_b = _asroma1213t
+|pattern_ra = _asroma1213t
+|pattern_sh = _asroma1213t
+|pattern_so = _asroma1213t
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = 000000
+|socks = FFFFFF
+|title = 2ª Portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la = _asroma1213gk3
+|pattern_b = _asroma1213gk3
+|pattern_ra = _asroma1213gk3
+|pattern_sh = _asroma1112gk3
+|pattern_so = _asroma1213gk3
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = 000000
+|socks = FFFFFF
+|title = 3ª Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente: [[James Pallotta]]
+* Vice Presidenti: Roberto Cappelli, [[Joe Tacopina|Joseph Tacopina]]
+* Comitato esecutivo: Paolo Fiorentino, [[James Pallotta]], Mark Pannes
+* Amministratore delegato: Mark Pannes
+* Direttore generale: [[Franco Baldini]]
+* Direttore sportivo: [[Walter Sabatini]]
+{{Colonne spezza}}
+'''''Area tecnica'''''<ref>{{cita web |titolo=Staff tecnico |url=http://www.asroma.it/it/team/staff_tecnico.html |editore=asroma.it |accesso=19 dicembre 2012 |urlarchivio=https://web.archive.org/web/20130214061634/http://www.asroma.it/it/team/staff_tecnico.html |dataarchivio=14 febbraio 2013 |urlmorto=sì }}</ref>
+* Allenatore: [[Zdeněk Zeman]] poi [[Aurelio Andreazzoli]]
+* Allenatore in seconda: Vincenzo Cangelosi poi [[Roberto Muzzi]]
+* Collaboratori tecnici: [[Giacomo Modica]], Aurelio Andreazzoli (Fino al 2/2/2013)
+* Preparatori atletici: Roberto Ferola (Fino al 2/2/2013), Vito Scala
+* Preparatore dei portieri: Guido Nanni
+* Team manager: Salvatore Scaglia
+'''''Area sanitaria'''''
+* Coordinatore dello staff sanitario: Michele Gemignani
+* Responsabile dello staff sanitario: Francesco Colautti
+* Medico sociale della prima squadra: Alessandro Fioretti
+* Recupero degli infortunati: Luca Franceschi, Francesco Chinnici
+* Fisioterapisti: Alessandro Cardini, Marco Ferrelli, Valerio Flammini, Umberto Mei, Damiano Stefanini
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 12/13">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2012|titolo=Rosa AS Roma - Saison 12/13|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=ROU|nome=[[Bogdan Lobonț]]|ruolo=P}}
+{{Calciatore in rosa|n=3|nazione=BRA|nome=[[Marcos Aoás Corrêa|Marquinhos]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=USA|nome=[[Michael Bradley (calciatore)|Michael Bradley]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=BRA|nome=[[Leandro Castán]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=BRA|nome=[[Marco Antônio de Mattos Filho|Marquinho]]|ruolo=C}}
+{{Calciatore in rosa|n=8|nazione=ARG|nome=[[Erik Lamela]]|ruolo=A}}
+{{Calciatore in rosa|n=9|nazione=ITA|nome=[[Pablo Osvaldo]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A|altro=c}}
+{{Calciatore in rosa|n=11|nazione=BRA|nome=[[Rodrigo Taddei]]|ruolo=C}}
+{{Calciatore in rosa|n=13|nazione=URY|nome=[[Mauro Goicoechea]]|ruolo=P}}
+{{Calciatore in rosa|n=15|nazione=BIH|nome=[[Miralem Pjanić]]|ruolo=C}}
+{{Calciatore in rosa|n=16|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C|altro=v}}
+{{Calciatore in rosa|n=17|nazione=URY|nome=[[Nicolás López (calciatore 1993)|Nico Lopez]]|ruolo=A}}
+{{Calciatore in rosa|n=19|nazione=ITA|nome=''[[Luca Antei]]''|ruolo=D}}<ref name="ReferenceA">Ceduto nella sessione invernale di calciomercato</ref>
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Simone Perrotta]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Mattia Destro]]|ruolo=A}}
+{{Calciatore in rosa|n=23|nazione=PRY|nome=[[Iván Piris]]|ruolo=D}}
+{{Calciatore in rosa|n=24|nazione=NLD|nome=[[Maarten Stekelenburg]]|ruolo=P}}
+{{Calciatore in rosa|n=26|nazione=CIV|nome=''[[Junior Tallo]]''|ruolo=A}}<ref name="ReferenceA"/>
+{{Calciatore in rosa|n=27|nazione=BRA|nome=[[Dodô (calciatore 1992)|Dodô]]|ruolo=D}}
+{{Calciatore in rosa|n=29|nazione=ARG|nome=[[Nicolás Burdisso]]|ruolo=D}}
+{{Calciatore in rosa|n=35|nazione=GRC|nome=[[Vasilīs Torosidīs]]|ruolo=D}}
+{{Calciatore in rosa|n=42|nazione=ITA|nome=[[Federico Balzaretti]]|ruolo=D}}
+{{Calciatore in rosa|n=43|nazione=FRA|nome=''[[Loïc Nego]]''|ruolo=D}}<ref name="ReferenceA"/>
+{{Calciatore in rosa|n=46|nazione=ITA|nome=[[Alessio Romagnoli]]|ruolo=D}}
+{{Calciatore in rosa|n=47|nazione=BRA|nome=[[Jonatan Lucca]]|ruolo=C}}
+{{Calciatore in rosa|n=48|nazione=ITA|nome=[[Alessandro Florenzi]]|ruolo=C}}
+{{Calciatore in rosa|n=55|nazione=LTU|nome=[[Tomas Švedkauskas]]|ruolo=P}}
+{{Calciatore in rosa|n=77|nazione=GRC|nome=[[Panagiōtīs Tachtsidīs]]|ruolo=C}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 12/13"/>
+=== Sessione estiva ''(dall'1/7 al 31/8)'' ===
+Il secondo anno della {{Calcio Roma|N}} targata [[Stati Uniti d'America|USA]] sul mercato parte con l'addio del tecnico [[Luis Enrique]], sostituito dal ceco [[Zdeněk Zeman]].
+Partono [[Juan Silveira dos Santos|Juan]], [[José Ángel Valdés|José Ángel]], [[Gianluca Curci]], [[Fábio Simplício]], [[Leandro Greco]] e [[Cicinho]]. Inoltre viene ceduto al {{Calcio Liverpool|N}} l'attaccante [[Fabio Borini]].
+[[Mattia Destro]] diventa invece giallorosso: il cartellino è per metà del {{Calcio Genoa|N}} e metà del [[Siena]]. Inoltre arrivano il mediano [[Grecia|greco]] [[Panagiōtīs Tachtsidīs]], il centrocampista [[Stati Uniti d'America|statunitense]] [[Michael Bradley (calciatore)|Michael Bradley]] e i [[Brasile|brasiliani]] [[Dodô (calciatore 1992)|Dodò]], [[Leandro Castán|Castán]] e [[Marcos Aoás Corrêa|Marquinhos]] (in prestito con diritto di riscatto); viene inoltre riscattato [[Alessandro Florenzi]]. Completano la squadra il paraguaiano [[Iván Piris]] e [[Federico Balzaretti]] dal {{Calcio Palermo|N}}. Il 7 agosto la Roma e [[Aleandro Rosi]] decidono in modo consensuale di rescindere il contratto, e due giorni dopo anche [[David Pizarro]] rescinde il suo contratto. Il 10 agosto rescinde il contratto anche [[Gabriel Heinze]] dopo solo un anno in maglia giallorossa. Il 29 agosto viene ceduto a titolo temporaneo l'attaccante ex-{{Calcio Barcellona|N}} [[Bojan Krkić]] al {{Calcio Milan|N}}.<ref>{{cita web|url=http://www.asroma.it/pdf/corporate/operazioni_di_mercato/2012-08-29_Bojan_Krkic.pdf|titolo=BOJAN KRKIC PEREZ Cessione a titolo temporaneo|editore=asroma.it|data=29 agosto 2012|accesso=1º novembre 2012}}</ref>
+
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P || [[Mauro Goicoechea]] || {{Calcio Danubio|N}} || ''prestito (0,1 mln €)''
+|-
+| P || [[Júlio Sérgio]] || {{Calcio Lecce|N}} || ''fine prestito''
+|-
+| P || Alex Pena || {{Calcio Dinamo Bucarest|N}} || ''fine prestito''
+|-
+| P || [[Tomas Švedkauskas]] || {{Calcio Suduva|N}} || ''definitivo (0,250 milioni €)''
+|-
+| D || [[Vitorino Antunes]] || {{Calcio Panionios|N}} || ''fine prestito''
+|-
+| D || [[Federico Balzaretti]] || {{Calcio Palermo|N}} || ''definitivo (4,5 milioni €)''
+|-
+| D || [[Leandro Castán]] || {{Calcio Corinthians|N}} || ''definitivo (5 milioni €)''
+|-
+| D || [[Dodô (calciatore 1992)|Dodò]] || {{Calcio Corinthians|N}} || ''svincolato''
+|-
+| D || Paolo Frascatore || {{Calcio Benevento|N}} || ''prestito''
+|-
+| D || Alessandro Malomo || {{Calcio Albinoleffe|N}} || ''partecipazione (0,1 milioni €)''
+|-
+| D || [[Marcos Aoás Corrêa|Marquinhos]] || {{Calcio Corinthians|N}} || ''prestito (1,5 milioni €)''
+|-
+| D || [[Sebastian Mladen]] || {{Calcio AFC Chindia Targoviste|N}} || ''prestito''
+|-
+| D || [[Iván Piris]] || {{Calcio San Paolo|N}} || ''prestito (1 milione €)''
+|-
+| C || [[Andrea Bertolacci]] || {{Calcio Lecce|N}} || ''fine prestito''
+|-
+| C || [[Michael Bradley (calciatore)|Michael Bradley]] || {{Calcio Chievo|N}} || ''definitivo (3,750 milioni €)''
+|-
+| C || [[Matteo Brighi]] || {{Calcio Atalanta|N}} || ''fine prestito''
+|-
+| C || [[Marco D'Alessandro]] || {{Calcio Verona|N}} || ''prestito''
+|-
+| C || [[Alessandro Florenzi]] || {{Calcio Crotone|N}} || ''definitivo (1,250 milioni €)''
+|-
+| C || [[Stefano Guberti]] || {{Calcio Torino|N}} || ''fine prestito''
+|-
+| C || [[Jonatan Lucca]] || {{Calcio Internacional|N}} || ''definitivo (0,7 milioni €)''
+|-
+| C || [[Marco Antônio de Mattos Filho|Marquinho]] || {{Calcio Fluminense|N}} || ''riscatto (3,5 milioni €)''
+|-
+| C || [[David Pizarro]] || {{Calcio Manchester City|N}} || ''fine prestito''
+|-
+| C || [[Adrian Stoian]] || {{Calcio Bari|N}} || ''riscatto (1 milione €)''
+|-
+| C || [[Panagiōtīs Tachtsidīs]] || {{Calcio Genoa|N}} || ''partecipazione (2,5 milione €)''
+|-
+| A || [[Fabio Borini]] || {{Calcio Parma|N}} || ''definitivo (5,3 milioni €)''
+|-
+| A || [[Marco Borriello]] || {{Calcio Juventus|N}} || ''fine prestito''
+|-
+| A || [[Mattia Destro]] || {{Calcio Genoa|N}} || ''prestito (11,5 milioni €)''
+|-
+| A || [[Stefano Okaka]] || {{Calcio Parma|N}} || ''fine prestito''
+|-
+| A || [[Junior Tallo]] || {{Calcio Chievo|N}} || ''riscatto (1,0 milione €)''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P || [[Gianluca Curci]] || {{Calcio Bologna|N}} || ''prestito''
+|-
+| P || Alex Pena || {{Calcio Bari|N}} || ''definitivo''
+|-
+| P || [[Mirko Pigliacelli]] || {{Calcio Parma|N}} || ''definitivo''
+|-
+| D || [[Vitorino Antunes]] || {{Calcio Pacos Ferreira|N}} || ''svincolato''
+|-
+| D || [[Marco Cassetti]] || {{Calcio Udinese|N}} || ''svincolato''
+|-
+| D || [[Alessandro Crescenzi (calciatore)|Alessandro Crescenzi]] || {{Calcio Pescara|N}} || ''prestito (0,2 milioni €)''
+|-
+| D || [[Cicinho]] || {{Calcio Sport Recife|N}} || ''svincolato''
+|-
+| D || Paolo Frascatore || {{Calcio Sassuolo|N}} || ''prestito''
+|-
+| D || [[Gabriel Heinze]] || {{Calcio Newell's|N}} || ''svincolato''
+|-
+| D || [[José Ángel Valdés|José Ángel]] || {{Calcio Real Sociedad|N}} || ''prestito''
+|-
+| D || [[Juan Silveira dos Santos|Juan]] || {{Calcio Internacional|N}} || ''svincolato''
+|-
+| D || Alessandro Malomo || {{Calcio Prato|N}} || ''prestito''
+|-
+| D || [[Simon Kjær]] || {{Calcio Wolfsburg|N}} || ''fine prestito''
+|-
+| D || [[Sebastian Mladen]] || {{Calcio Viitorul Costanza|N}} || ''prestito''
+|-
+| D || [[Aleandro Rosi]] || {{Calcio Parma|N}} || ''svincolato''
+|-
+| C || [[Ahmed Barusso]] || {{Calcio Genoa|N}} || ''svincolato''
+|-
+| C || [[Andrea Bertolacci]] || {{Calcio Genoa|N}} || ''partecipazione (1,2 milioni €)''
+|-
+| C || [[Matteo Brighi]] || {{Calcio Torino|N}} || ''prestito''
+|-
+| C || [[Marco D'Alessandro]] || {{Calcio Cesena|N}} || ''prestito''
+|-
+| C || [[Fernando Gago]] || {{Calcio Real Madrid|N}} || ''fine prestito''
+|-
+| C || [[Leandro Greco]] || {{Calcio Olympiacos|N}} || ''definitivo (0,850 milioni €)''
+|-
+| C || [[Stefano Pettinari]] || {{Calcio Crotone|N}} || ''partecipazione''
+|-
+| C || [[David Pizarro]] || {{Calcio Fiorentina|N}} || ''svincolato''
+|-
+| C || [[Fábio Simplício]] || {{Calcio Cerezo|N}} || ''svincolato''
+|-
+| C || [[Adrian Stoian]] || {{Calcio Chievo|N}} || ''partecipazione''
+|-
+| C || [[Valerio Verre]] || {{Calcio Genoa|N}} || ''partecipazione (1,5 milioni €)''
+|-
+| C || [[Federico Viviani]] || {{Calcio Padova|N}} || ''prestito''
+|-
+| A || [[Mattia Montini]] || {{Calcio Benevento|N}} || ''partecipazione''
+|-
+| A || [[Fabio Borini]] || {{Calcio Liverpool|N}} || ''definitivo (13,3 milioni €)''
+|-
+| A || [[Marco Borriello]] || {{Calcio Genoa|N}} || ''prestito (0,250 milioni €)''
+|-
+| A || [[Gianluca Caprari]] || {{Calcio Pescara|N}} || ''partecipazione (1,2 milioni €)''
+|-
+| A || [[Stefano Okaka]] || {{Calcio Parma|N}} || ''definitivo''
+|-
+| A || [[Giammario Piscitella]] || {{Calcio Genoa|N}} || ''partecipazione (1,5 milioni €)''
+|-
+| A || [[Bojan Krkić]] || {{Calcio Milan|N}} || ''prestito (0,250 milioni €)''
+|}
+{{colonne fine}}
+=== Sessione invernale ''(dal 3/1 al 31/1)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| D || [[Marcos Aoás Corrêa|Marquinhos]] || {{Calcio Corinthians|N}} || ''riscatto prestito (3 milioni €)''
+|-
+| D || [[Vasilīs Torosidīs]] || {{Calcio Olympiacos|N}} || ''definitivo (0,4 milioni €)''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4| Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Luca Antei]] || {{Calcio Sassuolo|N}} || ''prestito''
+|-
+| D || [[Alessandro Crescenzi (calciatore)|Alessandro Crescenzi]] || {{Calcio Novara|N}} || ''prestito''
+|-
+| D || [[Loïc Nego]] || {{Calcio Standard Liegi|N}} || ''prestito''
+|-
+| A || Filippo Scardina || {{Calcio Poggibonsi|N}} || ''prestito''
+|-
+| A || [[Junior Tallo]] || {{Calcio Bari|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 2012-2013}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 agosto
+|Anno = 2012
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/1/ROMCAT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Daniel Osvaldo|Osvaldo]] {{Goal|59}}<br />[[Nicolás López (calciatore 1993)|López]] {{Goal|90+1}}
+|Marcatori 2 = {{Goal|29}} [[Giovanni Marchese (calciatore)|Marchese]]<br />{{Goal|69}} [[Alejandro Gómez|Gómez]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Anno = 2012
+|Giornomese = 2 settembre
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/2/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 43.435
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|45+1}}
+|Marcatori 2 = {{Goal|15}} [[Alessandro Florenzi|Florenzi]]<br />{{Goal|67}} [[Daniel Osvaldo|Osvaldo]]<br />{{Goal|81}} [[Marco Antônio de Mattos Filho|Marquinho]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 2012
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/3/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 44.494
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Alessandro Florenzi|Florenzi]] {{Goal|6}}<br />[[Erik Lamela|Lamela]] {{Goal|16}}
+|Marcatori 2 = {{Goal|72||90}} [[Alberto Gilardino|Gilardino]]<br />{{Goal|73}} [[Alessandro Diamanti|Diamanti]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 settembre
+|Anno = 2012
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3 
+|Note = {{tavolino}}<ref>{{cita web|url=http://www.legaseriea.it/it/sala-stampa/archivio-dettaglio/-/news/GIUDICE_SPORTIVO___4_GIORNATA_DI_ANDATA/728469?v=1|titolo=Stangata Cagliari, la Roma vince 3-0 a tavolino|editore=legaseriea.it|accesso=24 settembre 2012|dataarchivio=26 settembre 2012|urlarchivio=https://web.archive.org/web/20120926201333/http://www.legaseriea.it/it/sala-stampa/archivio-dettaglio/-/news/GIUDICE_SPORTIVO___4_GIORNATA_DI_ANDATA/728469?v=1|urlmorto=sì}}</ref>
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/4/CAGROM
+|Città = [[Quartu Sant'Elena]]
+|Stadio = [[Stadio Is Arenas]]
+|Spettatori = 0<ref name="Inagibilità">Giocata a porte chiuse per inagibilità dello [[stadio Is Arenas]]</ref>
+|Arbitro = [[Antonio Giannoccaro]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 2012
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/5/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 37.125
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|34}}
+|Marcatori 2 = {{Goal|61}} [[Gianni Munari|Munari]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 2012
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/6/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Allianz Stadium (Torino)|Juventus Stadium]]
+|Spettatori = 39.221
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Andrea Pirlo|Pirlo]] {{Goal|11}}<br />[[Arturo Vidal|Vidal]] {{Goal|16|rig.}}<br />[[Alessandro Matri|Matri]] {{Goal|18}}<br />[[Sebastian Giovinco|Giovinco]] {{Goal|90}}
+|Marcatori 2 = {{Goal|68|rig.}} [[Daniel Osvaldo|Osvaldo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 2012
+|Ora = 12:30 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/7/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.155
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Erik Lamela|Lamela]] {{Goal|30}}<br />[[Michael Bradley (calciatore)|Bradley]] {{Goal|62}}
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 2012
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/8/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 19.254
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Juraj Kucka|Kucka]] {{Goal|7}}<br />[[Boško Janković|Janković]] {{Goal|15}}
+|Marcatori 2 = {{Goal|27}} [[Francesco Totti|Totti]]<br />{{Goal|44||55}} [[Daniel Osvaldo|Osvaldo]]<br />{{Goal|83}} [[Erik Lamela|Lamela]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 2012
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/9/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 36.470
+|Arbitro = [[Davide Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Erik Lamela|Lamela]] {{Goal|22||24}}
+|Marcatori 2 = {{Goal|32}} [[Maurizio Domizzi|Domizzi]]<br />{{Goal|50||88|rig.}} [[Antonio Di Natale|Di Natale]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 2012
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/10/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = 12.077
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Ishak Belfodil|Belfodil]] {{Goal|34}}<br />[[Marco Parolo|Parolo]] {{Goal|37}}<br />[[Cristian Zaccardo|Zaccardo]] {{Goal|65}}
+|Marcatori 2 = {{Goal|8}} [[Erik Lamela|Lamela]]<br />{{Goal|71}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 2012
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/11/ROMPAL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.598
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|11}}<br />[[Daniel Osvaldo|Osvaldo]] {{Goal|31}}<br />[[Erik Lamela|Lamela]] {{Goal|69}}<br />[[Mattia Destro|Destro]] {{Goal|79}}
+|Marcatori 2 = {{Goal|84}} [[Josip Iličić|Iličić]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 novembre
+|Anno = 2012
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/12/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 51.461
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Antonio Candreva|Candreva]] {{Goal|37}}<br />[[Miroslav Klose|Klose]] {{Goal|45}}<br />[[Stefano Mauri (calciatore)|Mauri]] {{Goal|46}}
+|Marcatori 2 = {{Goal|11}} [[Erik Lamela|Lamela]]<br />{{Goal|86}} [[Miralem Pjanić|Pjanić]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 2012
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/13/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34.011
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Daniel Osvaldo|Osvaldo]] {{Goal|71|rig.}}<br />[[Miralem Pjanić|Pjanić]] {{Goal|86}}
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 2012
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Pescara
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/14/PESROM
+|Città = [[Pescara]]
+|Stadio = [[Stadio Adriatico-Giovanni Cornacchia|Stadio Adriatico]]
+|Spettatori = 13.445
+|Arbitro = [[Andrea Gervasoni]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = 
+|Marcatori 2 = {{Goal|5}} [[Mattia Destro|Destro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 2012
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Siena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/15/SIEROM
+|Città = [[Siena]]
+|Stadio = [[Stadio Artemio Franchi (Siena)|Stadio Artemio Franchi]]
+|Spettatori = 10.291
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Luís Carlos Novo Neto|Neto]] {{Goal|25}}
+|Marcatori 2 = {{Goal|63||90+1}} [[Mattia Destro|Destro]]<br />{{Goal|86}} [[Simone Perrotta|Perrotta]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 2012
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/16/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 41.689
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Leandro Castán|Castán]] {{Goal|7}}<br />[[Francesco Totti|Totti]] {{Goal|19||45+1}}<br />[[Daniel Osvaldo|Osvaldo]] {{Goal|89}}
+|Marcatori 2 = {{Goal|14}} [[Facundo Roncaglia|Roncaglia]]<br />{{Goal|46}} [[Mounir El Hamdaoui|El Hamdaoui]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 2012
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/17/CHIROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = 12.000
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Sergio Pellissier|Pellissier]] {{Goal|87}}
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 dicembre
+|Anno = 2012
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/18/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.746
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Nicolás Burdisso|Burdisso]] {{Goal|13}}<br />[[Daniel Osvaldo|Osvaldo]] {{Goal|23}}<br />[[Erik Lamela|Lamela]] {{Goal|30||61}}
+|Marcatori 2 = {{Goal|87|rig.}} [[Giampaolo Pazzini|Pazzini]]<br />{{Goal|88}} [[Bojan Krkić|Bojan]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/19/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 42.091
+|Arbitro = [[Paolo Tagliavento]]
+|Cittarbitro = [[Terni]]
+|Marcatori 1 = [[Edinson Cavani|Cavani]] {{Goal|4||48||70}}<br />[[Christian Maggio|Maggio]] {{Goal|90}}
+|Marcatori 2 = {{Goal|72}} [[Daniel Osvaldo|Osvaldo]]
+|Sfondo = 
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 gennaio
+|Anno = 2013
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/20/CATROM
+|Città = [[Catania]]
+|Stadio = [[Stadio Angelo Massimino]]
+|Spettatori = 13.614
+|Arbitro = [[Antonio Damato]]
+|Cittarbitro = [[Barletta]]
+|Marcatori 1 = [[Alejandro Gómez|Gómez]] {{Goal|61}}
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 gennaio
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/21/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 42.052
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|22|rig.}}
+|Marcatori 2 = {{Goal|45+1}} [[Rodrigo Palacio|Palacio]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 2013
+|Ora = 12:30 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/22/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = 19.054
+|Arbitro = [[Antonio Giannoccaro]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Alberto Gilardino|Gilardino]] {{Goal|17}}<br />[[Manolo Gabbiadini|Gabbiadini]] {{Goal|26}}<br />[[Cristian Pasquato|Pasquato]] {{Goal|54}}
+|Marcatori 2 = {{Goal|9}} [[Alessandro Florenzi|Florenzi]]<br />{{Goal|18}} [[Daniel Osvaldo|Osvaldo]]<br />{{Goal|74}} [[Panagiōtīs Tachtsidīs|Tachtsidīs]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 2
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/23/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.820
+|Arbitro = [[Andrea Romeo (arbitro)|Andrea Romeo]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|35}}<br />[[Marco Antônio de Mattos Filho|Marquinho]] {{Goal|90+3}}
+|Marcatori 2 = {{Goal|3}} [[Radja Nainggolan|Nainggolan]]<br />{{Goal|46|aut.}} [[Mauro Goicoechea|Goicoechea]]<br />{{Goal|53}} [[Marco Sau|Sau]]<br />{{Goal|71}} [[Francesco Pisano|Pisano]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 febbraio
+|Anno = 2013
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/24/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 22.822
+|Arbitro = [[Domenico Celi]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Marcelo Estigarribia|Estigarribia]] {{Goal|56}}<br />[[Gianluca Sansone|Sansone]] {{Goal|73}}<br />[[Mauro Icardi|Icardi]] {{Goal|77}}
+|Marcatori 2 = {{Goal|75}} [[Erik Lamela|Lamela]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/25/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 54.981
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|58}}
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 febbraio
+|Anno = 2013
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/26/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Gewiss Stadium|Stadio Atleti Azzurri d'Italia]]
+|Spettatori = 12.160
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Marko Livaja|Livaja]] {{Goal|8||44}}
+|Marcatori 2 = {{Goal|12}} [[Marco Antônio de Mattos Filho|Marquinho]]<br />{{Goal|34}} [[Miralem Pjanić|Pjanić]]<br />{{Goal|71}} [[Vasilīs Torosidīs|Torosidīs]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/27/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.568
+|Arbitro = [[Andrea Gervasoni]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|16|rig.}}<br />[[Alessio Romagnoli|Romagnoli]] {{Goal|58}}<br />[[Simone Perrotta|Perrotta]] {{Goal|88}}
+|Marcatori 2 = {{Goal|42|rig.}} [[Marco Borriello|Borriello]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 marzo
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 28ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/28/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = 10.780
+|Arbitro = [[Marco Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Luis Muriel|Muriel]] {{Goal|62}}
+|Marcatori 2 = {{Goal|20}} [[Erik Lamela|Lamela]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 marzo
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/29/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34.667
+|Arbitro = [[Carmine Russo]]
+|Cittarbitro = [[Nola]]
+|Marcatori 1 = [[Erik Lamela|Lamela]] {{Goal|7}}<br />[[Francesco Totti|Totti]] {{Goal|70}}
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 marzo
+|Anno = 2013
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 30ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/30/PALROM
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera]]
+|Spettatori = 15.436
+|Arbitro = [[Gianpaolo Calvarese]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Josip Iličić|Iličić]] {{Goal|21}}<br />[[Fabrizio Miccoli|Miccoli]] {{Goal|35}}
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 2013
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/31/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 52.326
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|57|rig.}}
+|Marcatori 2 = {{Goal|16}} [[Hernanes]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 aprile
+|Anno = 2013
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/32/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino|Stadio Olimpico (Torino)]]
+|Spettatori = 17.129
+|Arbitro = [[Andrea Romeo (arbitro)|Andrea Romeo]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Rolando Bianchi|Bianchi]] {{Goal|31}}
+|Marcatori 2 = {{Goal|22}} [[Daniel Osvaldo|Osvaldo]]<br />{{Goal|60}} [[Erik Lamela|Lamela]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 aprile
+|Anno = 2013
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pescara
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/33/ROMPES
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 42.273
+|Arbitro = [[Davide Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Mattia Destro|Destro]] {{Goal|51}}
+|Marcatori 2 = {{Goal|14}} [[Gianluca Caprari|Caprari]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 aprile
+|Anno = 2013
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Siena
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/34/ROMSIE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 41.949
+|Arbitro = [[Carmine Russo]]
+|Cittarbitro = [[Nola]]
+|Marcatori 1 = [[Daniel Osvaldo|Osvaldo]] {{Goal|14||41||67}}<br />[[Erik Lamela|Lamela]] {{Goal|16}}
+|Marcatori 2 = 
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 maggio
+|Anno = 2013
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/35/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = 33.399
+|Arbitro = [[Paolo Silvio Mazzoleni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = 
+|Marcatori 2 = {{Goal|90+2}} [[Daniel Osvaldo|Osvaldo]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Anno = 2013
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/36/ROMCHI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 34.620
+|Arbitro = [[Sebastiano Peruzzo]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = 
+|Marcatori 2 = {{Goal|90}} [[Cyril Théréau|Théréau]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 maggio
+|Anno = 2013
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/37/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 50.983
+|Arbitro = [[Gianluca Rocchi]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = 
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 maggio
+|Anno = 2013
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2012-13/UNICO/UNI/38/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 32.454
+|Arbitro = [[Luca Banti]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Marco Antônio de Mattos Filho|Marquinho]] {{Goal|47}}<br />[[Mattia Destro|Destro]] {{Goal|58}}
+|Marcatori 2 = {{Goal|84}} [[Edinson Cavani|Cavani]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2012-2013}}
+====Fase finale====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Anno = 2012
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://web.archive.org/web/20121214225444/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Atalanta/48929
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 9.769
+|Arbitro = [[Carmine Russo]]
+|Cittarbitro = [[Nola]]
+|Marcatori 1 = [[Miralem Pjanić|Pjanić]] {{Goal|21}}<br />[[Daniel Osvaldo|Osvaldo]] {{Goal|31}}<br />[[Mattia Destro|Destro]] {{Goal|51}}
+|Marcatori 2 = 
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2013
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Quarti di finale
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Supplementari = X
+|Referto = https://web.archive.org/web/20140519225617/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Fiorentina-Roma/49589
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = 18.094
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = 
+|Marcatori 2 = {{Goal|97}} [[Mattia Destro|Destro]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 2013
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = Semifinale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://web.archive.org/web/20130528140836/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Inter/48940
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 28.415
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Alessandro Florenzi|Florenzi]] {{Goal|13}}<br />[[Mattia Destro|Destro]] {{Goal|33}}
+|Marcatori 2 = {{Goal|44}} [[Rodrigo Palacio|Palacio]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 2013
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = https://web.archive.org/web/20130529150241/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Inter-Roma/49596
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 52.634
+|Arbitro = [[Mauro Bergonzi]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Jonathan Cícero Moreira|Jonathan]] {{Goal|21}}<br />[[Ricardo Álvarez|Álvarez]] {{Goal|80}}
+|Marcatori 2 = {{Goal|55||69}} [[Mattia Destro|Destro]]<br />{{Goal|74}} [[Vasilīs Torosidīs|Torosidīs]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 maggio
+|Anno = 2013
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = Finale
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://web.archive.org/web/20130608053711/http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Lazio/48944
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 55.000
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = 
+|Marcatori 2 = {{Goal|71}} [[Senad Lulić|Lulić]]
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.
+
+{{Statistiche_squadra
+|comp1=[[Serie A 2012-2013|Serie A]]
+|punti1=62
+|cv1=10
+|cn1=5
+|cp1=4
+|cgf1=40
+|cgs1=24
+|tv1=8
+|tn1=3
+|tp1=8
+|tgf1=31
+|tgs1=32
+|comp2=[[Coppa Italia 2012-2013|Coppa Italia]]
+|punti2=-
+|cv2=2
+|cn2=0
+|cp2=1
+|cgf2=5
+|cgs2=2
+|tv2=2
+|tn2=0
+|tp2=0
+|tgf2=4
+|tgs2=2
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=38}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=T |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T |m31=C |m32=T |m33=C |m34=C |m35=T |m36=C |m37=T |m38=C}}
+{{Andamento/Risultato |m1=N |m2=V |m3=P |m4=V |m5=N |m6=P |m7=V |m8=V |m9=P |m10=P |m11=V |m12=P |m13=V |m14=V |m15=V |m16=V |m17=P |m18=V |m19=P |m20=P |m21=N |m22=N |m23=P |m24=P |m25=V |m26=V |m27=V |m28=N |m29=V |m30=P |m31=N |m32=V |m33=N |m34=V |m35=V |m36=P |m37=N |m38=V}}
+{{Andamento/Posizione |m1=10 |m2=6 |m3=7 |m4=5 |m5=6 |m6=7 |m7=5 |m8=5 |m9=6 |m10=7 |m11=6 |m12=7 |m13=6 |m14=6 |m15=6 |m16=5 |m17=6 |m18=6 |m19=6 |m20=6 |m21=7 |m22=8 |m23=8 |m24=9 |m25=8 |m26=8 |m27=7 |m28=7 |m29=6 |m30=7 |m31=7 |m32=5 |m33=6 |m34=5 |m35=5 |m36=6 |m37=7 |m38=6 }}
+{{Andamento/Fine |fonte={{cita web|url=http://sport.sky.it/sport/statistiche/calcio/serie_a/classifica.html|titolo=Serie A – Classifiche|editore=[[Sky Sport]]|accesso=12 aprile 2014|urlarchivio=https://web.archive.org/web/20140911055428/http://sport.sky.it/sport/statistiche/calcio/serie_a/classifica.html|dataarchivio=11 settembre 2014|urlmorto=sì}}}}
+
+== Giovanili ==
+=== Organigramma societario<ref>{{cita web|url=http://www.asroma.it/it/team/settore_giovanile.html|titolo=SETTORE GIOVANILE-ORGANIGRAMMA|accesso=16 dicembre 2012}}</ref> ===
+{{colonne}}
+'''''Area direttiva'''''
+* Responsabile Settore Giovanile: [[Bruno Conti|B. Conti]]
+'''''Pulcini 2003'''''
+* Allenatore: R. Rinaudo
+{{Colonne spezza}}
+'''''Primavera'''''
+* Allenatore: A. De Rossi
+'''''Giovanissimi Nazionali 1998'''''
+* Allenatore: F. Coppitelli
+'''''Esordienti 2001'''''
+* Allenatore: A. Mattei
+{{Colonne spezza}}
+'''''Allievi Nazionali 1996'''''
+* Allenatore: [[Sandro Tovalieri|S. Tovalieri]]
+'''''Pulcini 2002'''''
+* Allenatore: P. Donadio
+{{colonne fine}}
+=== Piazzamenti ===
+==== Primavera ====
+* [[Campionato Primavera 2012-2013|Campionato]]: Quarti<ref>Sconfitta nei quarti di finale dall'[[Football Club Internazionale Milano|Inter]] per 0-2.</ref>
+* [[Coppa Italia Primavera 2012-2013|Coppa Italia]]: Semifinali<ref>Sconfitta in semifinale dal {{Calcio Napoli|N}} per un risultato complessivo di 1-3.</ref>
+* [[Torneo di Viareggio 2013|Torneo di Viareggio]]: Ottavi<ref>Sconfitta negli ottavi di finale dal {{Calcio Torino|N}} ai rigori 3-4.</ref>
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|editore=Edizioni Panini|città=Modena|titolo=Almanacco illustrato del calcio 2015|anno=2015|isbn=978-88-912-1454-6|cid=Almantris}}
+* {{cita libro|autore=Paolo Castellani, Massimiliano Ceci, Riccardo de Conciliis|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri (libro ufficiale AS Roma)|editore=Goalbook Edizioni|anno=2012|ISBN=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital2013.html|Serie A 2012-2013 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2012|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2012-2013}}
+{{Portale|calcio}}

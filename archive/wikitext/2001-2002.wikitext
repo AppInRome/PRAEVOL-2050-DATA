@@ -1,0 +1,1375 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = Associazione Sportiva Roma 2001-02.jpg
+|stagione = 2001-2002
+|allenatore1 = {{Bandiera|ITA}} [[Fabio Capello]]
+|allenatore2 = {{Bandiera|ITA}} [[Italo Galbiati]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 2001-2002|Serie A]]
+|campionato posizione = 2º (in Champions League)
+|coppa1 = [[Coppa Italia 2001-2002|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[UEFA Champions League 2001-2002|Champions League]]
+|coppa2 posizione = Seconda fase a gironi
+|coppa3 = [[Supercoppa italiana 2001|Supercoppa Italiana]]
+|coppa3 posizione = '''Vincitore'''
+|presenze campionato = [[Damiano Tommasi|Tommasi]] (33)
+|presenze totale = Tommasi (46)
+|marcatore campionato = [[Vincenzo Montella|Montella]] (13)
+|marcatore totale = Montella (13)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:46510}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A01-02.htm|titolo=Statistiche Spettatori Serie A 2001-2002}}</ref>
+|spettatori max = {{formatnum:76528}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(28 ottobre 2001)
+|spettatori min = {{formatnum:51228}}<ref name=stadiapost/> vs {{Calcio Brescia|N}}<br/>(19 dicembre 2001)
+|spettatori media = {{formatnum:59402}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|aggiornato =
+|stagione prima = [[Associazione Sportiva Roma 2000-2001|2000-2001]]
+|stagione dopo = [[Associazione Sportiva Roma 2002-2003|2002-2003]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2001-2002'''.
+== Stagione ==
+[[File:Delvecchio, Cassano, Batistuta - AS Roma 2001-02.jpg|thumb|left|Il giovane neoacquisto [[Antonio Cassano]] tra i confermati [[Marco Delvecchio]] e [[Gabriel Batistuta]] nel precampionato]]
+Trascorsi un paio di mesi dalla vittoria dello [[Scudetto (sport)|scudetto]], la Roma può fregiarsi anche della [[Supercoppa italiana 2001|Supercoppa italiana]], conquistata per la prima volta nella sua storia ai danni della {{Calcio Fiorentina|N}}.<ref>{{cita web|url=http://www.repubblica.it/online/calciomercato/supercoppa/supercoppa/supercoppa.html|titolo=La Roma non si ferma più vince la Supercoppa|autore=Mattia Chiusano|data=20 agosto 2001}}</ref>
+Più complicata è, in avvio, la difesa del titolo nazionale: la squadra rimane all'asciutto di vittorie nei primi 3 turni di [[Serie A 2001-2002|campionato]]<ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/veroroma/veroroma/veroroma.html|titolo=Il Verona spaventa i campioni della Roma|data=26 agosto 2001}}</ref><ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/romaudinese/romaudinese/romaudinese.html|titolo=La Roma lotta ma non c'è l'Udinese agguanta il pari|data=8 settembre 2001}}</ref>, rimediando anche una sconfitta al debutto in [[UEFA Champions League 2001-2002|Champions League]].<ref>{{cita web|url=http://www.repubblica.it/online/calcio_coppe/romareal/romareal/romareal.html|titolo=La Roma stecca il debutto il Real passa all'Olimpico|data=11 settembre 2001}}</ref> Il primo successo è ancora contro i viola, cui seguono le affermazioni su {{Calcio Juventus|N}} e {{Calcio Lazio|N}}.<ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/juveroma/juveroma/juveroma.html|titolo=Batistuta e Totti affondano la Juventus|data=29 settembre 2001}}</ref><ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/romalazio/romalazio/romalazio.html|titolo=Totti e Delvecchio affondano la Lazio|data=27 ottobre 2001}}</ref> Qualificati per la seconda fase a gironi della coppa, i giallorossi conoscono un rilancio anche per lo scudetto tanto che – dopo una giornata vissuta al vertice il 16 dicembre<ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/romamilan/romamilan/romamilan.html|titolo=La Roma supera il Milan e torna in testa alla classifica|data=16 dicembre 2001}}</ref> – bissano il titolo d'inverno grazie alla vittoria contro il {{Calcio Torino|N}} del 6 gennaio.<ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/romatorino/romatorino/romatorino.html|titolo=Totti inventa e la Roma vince|data=6 gennaio 2002}}</ref>
+Il percorso europeo, proseguito con 3 pari consecutivi, sembra giungere a una svolta quando il {{Calcio Barcellona|N}} è sconfitto per 3-0.<ref>{{cita web|url=http://www.repubblica.it/online/calcio_coppe/romabarce/romabarce/romabarce.html|titolo=Montella fa decollare la Roma Travolto il Barcellona|data=26 febbraio 2002}}</ref> La storica vittoria nel [[Derby di Roma|derby]] del 10 marzo, con [[Vincenzo Montella|Montella]] autore di 4 dei 5 gol, fa salire l'entusiasmo<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2002/marzo/11/Montellissima_Roma__ga_0_0203114899.shtml|titolo=Montellissima Roma!|autore=Ruggiero Palombo|pubblicazione=[[La Gazzetta dello Sport]]|data=11 marzo 2002|città=Roma}}</ref>: nel corso della settimana successiva, però, i k.o. ad opera di {{Calcio Liverpool|N}} e {{Calcio Inter|N}} comportano il fallimento di entrambi gli obiettivi.<ref>{{cita web|url=http://www.repubblica.it/online/calcio_coppe/liveroma/liveroma/liveroma.html|titolo=Roma, ossessione Liverpool giallorossi ko ed eliminati|data=19 marzo 2002}}</ref><ref>{{cita news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2002/03/25/la-partitissima.html|titolo=LA PARTITISSIMA|autore=Corrado Sannucci|pubblicazione=[[la Repubblica (quotidiano)|la Repubblica]]|data=25 marzo 2002|p=36|città=Milano}}</ref>
+Nell'ultimo turno, a causa della sconfitta nerazzurra contro i rivali laziali, la formazione di [[Fabio Capello|Capello]] agguanta il 2º posto ottenendo – per il secondo anno consecutivo – l'accesso diretto alla Champions.<ref>{{cita web|url=http://www.repubblica.it/online/calcio_partite/torinoroma/torinoroma/torinoroma.html|titolo=La Roma in Champions con un rimpianto|data=5 maggio 2002}}</ref>
+
+== Divise e sponsor ==
+[[File:AS Roma - 5 dicembre 2001.webp|thumb|La squadra in campo con la speciale divisa ''[[Partito (araldica)|halved]]'' per le gare di UEFA Champions League]]
+Lo sponsor tecnico è [[Kappa (azienda)|Kappa]], lo sponsor ufficiale è [[INA Assitalia]].
+La prima divisa è costituita da maglia rossa con colletto giallo, pantaloncini bianchi e calzettoni neri. In trasferta i Lupi usano una costituita da maglia bianca, pantaloncini bianchi, calzettoni bianchi, tutti e tre con dettagli rossi. Come terza divisa viene usato un kit blu con dettagli gialli, mentre nella quarta divisa i colori sono invertiti. In [[UEFA Champions League]] i giallorossi usano una inedita divisa ''[[Partito (araldica)|halved]]'' giallorossa – colloquialmente nota come «la maglia del [[palio di Siena]]» per via della caratteristica partizione verticale<ref>{{cita web|url=https://www.asroma.com/it/notizie/2022/02/le-9-partite-giocate-dalla-roma-con-la-maglia-champions-2001-02|titolo=Le 9 partite giocate dalla Roma con la maglia Champions 2001-02|data=2022-02-24|accesso=11 agosto 2022|dataarchivio=11 agosto 2022|urlarchivio=https://web.archive.org/web/20220811001400/https://www.asroma.com/it/notizie/2022/02/le-9-partite-giocate-dalla-roma-con-la-maglia-champions-2001-02|urlmorto=sì}}</ref> – con colletto, pantaloncini e calzettoni blu. I portieri usano tre divise: oltre a kit uguali alla ''third'' e alla ''fourth'', in Champions viene indossata una divisa costituita da maglia verde con dettagli rossi, calzettoni e calzoncini blu.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 212-215}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la = _roma0102h
+|pattern_b = _roma0102h
+|pattern_ra = _roma0102h
+|pattern_sh = _roma0001h
+|leftarm = A00000
+|body =
+|rightarm = A00000
+|shorts = FFFFFF
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0102e
+|leftarm = ed8d10
+|pattern_b =_roma0102e
+|body = FFFFFF
+|pattern_ra = _roma0102e
+|rightarm = A00000
+|shorts = 030347
+|pattern_sh = _roma0001t
+|pattern_so =
+|socks = 030347
+|title = Casa<br/><small>(Champions)</small>
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0102a
+|pattern_b = _roma0102a
+|body = FFFFFF
+|pattern_sh = _roma0001h
+|leftarm = FFFFFF
+|pattern_ra = _roma0102a
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0102t
+|leftarm = 030347
+|pattern_b =_roma0102t
+|body = 030347
+|pattern_ra = _roma0102t
+|rightarm = 030347
+|pattern_sh = _roma0001t
+|shorts = 030347
+|pattern_so =
+|socks = 030347
+|title = Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0102f
+|leftarm = ed8d10
+|pattern_b =_roma0102f
+|body = FF8000
+|pattern_ra = _roma0102f
+|pattern_sh = _roma0001t
+|rightarm = ed8d10
+|shorts = 030347
+|pattern_so =
+|socks = 030347
+|title = Quarta divisa
+}}
+|-
+|{{Divisa Calcio
+|pattern_la = _roma0102t
+|leftarm = 030347
+|pattern_b =_roma0102t
+|body = 030347
+|pattern_ra = _roma0102t
+|rightarm = 030347
+|pattern_sh = _roma0001t
+|shorts = 030347
+|pattern_so =
+|socks = 030347
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0102f
+|leftarm = ed8d10
+|pattern_b =_roma0102f
+|body = FF8000
+|pattern_ra = _roma0102f
+|rightarm = ed8d10
+|shorts = 030347
+|pattern_sh = _roma0001t
+|pattern_so =
+|socks = 030347
+|title = 2ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma0102gk
+|leftarm = ed8d10
+|pattern_b =_asroma0102gk
+|body = FFFFFF
+|pattern_ra =_asroma0102gk
+|rightarm = A00000
+|shorts = 030347
+|pattern_sh = _roma0001t
+|pattern_so =
+|socks = 030347
+|title = Portiere<br/><small>(Champions)</small>
+}}
+|}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 01/02">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2001|titolo=Rosa AS Roma - Saison 01/02|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=ITA|nome=[[Francesco Antonioli]]|ruolo=P}}
+{{Calciatore in rosa|n=2|nazione=BRA|nome=[[Cafu]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=BRA|nome=[[Antônio Carlos Zago]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ARG|nome=[[Leandro Damián Cufré]]|ruolo=D}}
+{{Calciatore in rosa|n=5|nazione=BRA|nome=[[Francisco Govinho Lima]]|ruolo=C}}
+{{Calciatore in rosa|n=6|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=ITA|nome=[[Diego Fuser]]|ruolo=C}}
+{{Calciatore in rosa|n=8|nazione=BRA|nome=[[Marcos Assunção]]|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=ITA|nome=[[Vincenzo Montella]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=11|nazione=BRA|nome=[[Emerson Ferreira da Rosa|Emerson]]|ruolo=C}}
+{{Calciatore in rosa|n=13|nazione=ITA|nome=''[[Daniele Martinetti]]''|ruolo=A}}<ref name=SessInv/>
+{{Calciatore in rosa|n=14|nazione=ITA|nome=[[Christian Panucci]]|ruolo=D}}
+{{Calciatore in rosa|n=15|nazione=FRA|nome=[[Jonathan Zebina]]|ruolo=D}}
+{{Calciatore in rosa|n=16|nazione=ARG|nome=[[Abel Balbo]]|ruolo=A}}
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Damiano Tommasi]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Antonio Cassano]]|ruolo=A}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=19|nazione=ARG|nome=[[Walter Samuel]]|ruolo=D}}
+{{Calciatore in rosa|n=20|nazione=ARG|nome=[[Gabriel Batistuta]]|ruolo=A}}
+{{Calciatore in rosa|n=21|nazione=CIV|nome=[[Saliou Lassissi]]|ruolo=D}}
+{{Calciatore in rosa|n=22|nazione=ARG|nome=''[[Sebastián Cejas]]''|ruolo=P}}<ref name=SessInv>Ceduto durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=23|nazione=SCG|nome=[[Ivan Tomić]]|ruolo=C}}
+{{Calciatore in rosa|n=24|nazione=ITA|nome=[[Marco Delvecchio]]|ruolo=A}}
+{{Calciatore in rosa|n=25|nazione=URY|nome=[[Gianni Guigou]]|ruolo=C}}
+{{Calciatore in rosa|n=27|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C}}
+{{Calciatore in rosa|n=28|nazione=ARG|nome=[[Gustavo Bartelt]]|ruolo=C}}
+{{Calciatore in rosa|n=29|nazione=ITA|nome=[[Sebastiano Siviglia]]|ruolo=D}}
+{{Calciatore in rosa|n=30|nazione=ITA|nome=[[Cesare Bovo]]|ruolo=D}}
+{{Calciatore in rosa|n=31|nazione=ITA|nome=''[[Simone Pepe]]''|ruolo=C}}<ref name=SessInv/><ref name="Aggregatoprimavera">Aggregato alla prima squadra dalla formazione [[Primavera (calcio)|Primavera]].</ref>
+{{Calciatore in rosa|n=32|nazione=FRA|nome=[[Vincent Candela]]|ruolo=D}}
+{{Calciatore in rosa|n=33|nazione=ITA|nome=[[Carlo Zotti]]|ruolo=P}}
+{{Calciatore in rosa|n=34|nazione=ITA|nome=[[Marco Paoloni]]|ruolo=P}}<ref name="Aggregatoprimavera"/>
+{{Calciatore in rosa|n=80|nazione=ITA|nome=[[Ivan Pelizzoli]]|ruolo=P}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 01/02"/>
+=== Sessione estiva ''(dal 1/7 all'31/8)'' ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |da
+! width=36% |Modalità
+|-
+|P ||[[Ivan Pelizzoli]] ||{{Calcio Atalanta|N}} ||''definitivo''  (27 miliardi £)<ref name="pel">{{cita web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/06/27/pelizzoli-si-presenta-si-realizza-il.html|titolo= E Pelizzoli si presenta 'Si realizza il mio sogno' |editore=repubblica.it}}</ref>
+|-
+|D ||[[Christian Panucci]] ||{{Calcio Monaco|N}} ||''prestito oneroso'' (3 miliardi £)<ref>{{cita web|url=http://archivio.agi.it/articolo/e0517bbc26a01fc242b67de7a865684c_20010912_calcio-christian-panucci-alla-roma-accordo-fatto/?query=christian_panucci|titolo=Calcio: Christian Panucci alla roma, accordo fatto|editore=agi.it|data=12 settembre 2001|urlmorto=sì|urlarchivio=https://web.archive.org/web/20160204142244/http://archivio.agi.it/articolo/e0517bbc26a01fc242b67de7a865684c_20010912_calcio-christian-panucci-alla-roma-accordo-fatto/?query=christian_panucci|dataarchivio=4 febbraio 2016}}</ref>
+|-
+|D ||[[Sebastiano Siviglia]] ||{{Calcio Atalanta|N}} ||-
+|-
+|D ||[[Saliou Lassissi]] ||{{Calcio Fiorentina|N}} ||''definitivo''
+|-
+|D ||[[Maurizio Lanzaro]] ||{{Calcio Verona|N}} ||''fine prestito''
+|-
+|D ||[[Marco Quadrini]] ||{{Calcio Palermo|N}} ||''fine prestito''
+|-
+|D ||[[Leandro Cufré]] ||{{Calcio Gimnasia La Plata|N}} ||''definitivo''<ref>Acquistato a settembre 2001.</ref>
+|-
+|D ||[[Jonathan Zebina]] ||{{Calcio Cagliari|N}} ||''riscatto compartecipazione''  (12 miliardi £)<ref name=pel/>
+|-
+|C ||[[Manuele Blasi]] ||{{Calcio Perugia|N}} ||''fine prestito''
+|-
+|C ||[[Diego Fuser]] ||{{Calcio Parma|N}} ||''svincolato''
+|-
+|C ||[[Francisco Lima]] ||{{Calcio Bologna|N}} ||''svincolato''
+|-
+|A ||[[Gustavo Vassallo (calciatore)|Gustavo Vassallo]] ||{{Calcio Nizza|N}} ||''definitivo''
+|-
+|A ||[[Antonio Cassano]] ||{{Calcio Bari|N}} ||''definitivo'' (50 miliardi £)<ref name="Roma60milioni">{{cita web |url=http://archiviostorico.corriere.it/2001/marzo/06/Cassano_alla_Roma_mercato_cambia_co_0_0103065778.shtml|urlarchivio=https://web.archive.org/web/20160101000000/http://archiviostorico.corriere.it/2001/marzo/06/Cassano_alla_Roma_mercato_cambia_co_0_0103065778.shtml |dataarchivio=1º gennaio 2016|autore=Stefano Petrucci |titolo=Cassano alla Roma, ma il mercato cambia. Al Bari 60 miliardi, al giocatore 36 in 5 anni. Sui trasferimenti accordo tra Ue e il calcio |editore=[[Corriere della Sera]] |data=6 marzo 2001 |accesso=4 gennaio 2011}}</ref>
+|-
+|A ||[[Gustavo Bartelt]] ||{{Calcio Rayo Vallecano|N}} ||''fine prestito''
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|P ||[[Cristiano Lupatelli]] ||{{Calcio Chievo|N}} ||''definitivo''
+|-
+|P ||[[Marco Amelia]] ||{{Calcio Livorno|N}} ||''svincolato''
+|-
+|D ||[[Alessandro Zamperini]] ||{{Calcio Portsmouth|N}} ||-
+|-
+|D ||[[Maurizio Lanzaro]] ||{{Calcio Palermo|N}} ||''prestito''
+|-
+|D ||[[Alessandro Rinaldi]] ||{{Calcio Atalanta|N}} ||''definitivo''
+|-
+|D ||[[Amedeo Mangone]] ||{{Calcio Parma|N}} ||''definitivo''
+|-
+|D ||[[Marco Quadrini]] ||{{Calcio Napoli|N}} ||''compartecipazione''
+|-
+|C ||[[Cristiano Zanetti]] ||{{Calcio Inter|N}} ||''definitivo''
+|-
+|C ||[[Manuele Blasi]] ||{{Calcio Perugia|N}} ||''definitivo''
+|-
+|C ||[[Hidetoshi Nakata]] ||{{Calcio Parma|N}} ||''svincolato''
+|-
+|C ||[[Gaetano D'Agostino]] ||{{Calcio Bari|N}} ||''compartecipazione'' (10 miliardi £)<ref name="Roma60milioni"/>
+|-
+|C ||[[Daniele De Vezze]] ||{{Calcio Palermo|N}} ||''prestito''
+|-
+|C ||[[Eusebio Di Francesco]] ||{{Calcio Piacenza|N}} ||''definitivo''
+|-
+|A ||[[Alessandro Tulli]] ||{{Calcio Vicenza|N|1991}} ||''prestito''
+|-
+|A ||[[Gustavo Vassallo (calciatore)|Gustavo Vassallo]] ||{{Calcio Palermo|N}} ||''prestito''
+|}
+{{colonne fine}}
+
+=== Sessione invernale ''(dal 3/1 al 31/1)'' ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |da
+! width=36% |Modalità
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|P ||[[Sebastián Cejas]] ||{{Calcio Siena|N}} ||''definitivo''
+|-
+|A ||[[Daniele Martinetti]] ||{{Calcio Sora|N}} ||-
+|-
+|A ||[[Simone Pepe]] ||{{Calcio Lecco|N}} ||''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Supercoppa italiana ===
+{{vedi anche|Supercoppa italiana 2001}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 agosto
+|Anno = 2001
+|Ora = 20:30
+|Turno = Finale
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.footballdatabase.eu/football.coupe.as-rome.fiorentina.103506.en.html
+|Marcatori 1 = [[Vincent Candela|Candela]] {{Goal|6}}<br />[[Vincenzo Montella|Montella]] {{Goal|53}}<br />[[Francesco Totti|Totti]] {{Goal|83}}
+|Marcatori 2 =
+}}
+
+=== Serie A ===
+{{vedi anche|Serie A 2001-2002}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 agosto
+|Anno = 2001
+|Ora = 20:30
+|Turno = 1ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Hellas%20Verona-Roma/10175
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Marcatori 1 = [[Massimo Oddo|Oddo]] {{Goal|75}}
+|Marcatori 2 = {{Goal|45+1}} [[Walter Samuel|Samuel]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 settembre
+|Anno = 2001
+|Ora = 20:30
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Udinese/10189
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Marcatori 1 = [[Damiano Tommasi|Tommasi]] {{Goal|66}}
+|Marcatori 2 = {{Goal|90+1}} [[Roberto Muzzi|Muzzi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Piacenza-Roma/10207
+|Marcatori 1 = [[Dario Hübner|Hübner]] {{Goal|39}}<br />[[Eusebio Di Francesco|Di Francesco]] {{Goal|50}}
+|Marcatori 2 =
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 settembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Fiorentina/10225
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|12|rig.}}<br />[[Christian Panucci|Panucci]] {{Goal|87}}
+|Marcatori 2 = {{Goal|7}} [[Daniele Adani|Adani]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 2001
+|Ora = 20:30
+|Turno = 5ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Juventus-Roma/10237
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|37}} [[Gabriel Batistuta|Batistuta]]<br />{{Goal|90+3}} [[Marcos Assunção|Assunção]]
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 6ª giornata<ref>Prevista per il 6 e 7 ottobre 2001, la giornata di campionato fu rinviata per la sovrapposizione con il calendario della Champions League.</ref>
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Brescia/10261
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 ottobre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Perugia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Perugia-Roma/10279
+|Città = [[Perugia]]
+|Stadio = [[Stadio Renato Curi]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Lecce/10297
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|8||78|rig.}}<br />[[Walter Samuel|Samuel]] {{Goal|38}}<br />[[Vincent Candela|Candela]] {{Goal|70}}<br />[[Gabriel Batistuta|Batistuta]] {{Goal|86}}
+|Marcatori 2 = {{Goal|64}} [[Ernesto Chevantón|Chevantón]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 2001
+|Ora = 20:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Lazio/10317
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|49}}<br />[[Francesco Totti|Totti]] {{Goal|90+2}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 10ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Atalanta-Roma/10321
+|Marcatori 1 = [[Cristiano Doni|Doni]] {{Goal|75|rig.}}
+|Marcatori 2 = {{Goal|54}} [[Marcos Assunção|Assunção]]
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Arbitro = [[Gennaro Borriello]]
+|Cittarbitro = [[Mantova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 novembre
+|Anno = 2001
+|Ora = 20:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Inter/10351
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 12ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Bologna-Roma/10357
+|Marcatori 1 = [[Pierre Womé|Womé]] {{Goal|38}}
+|Marcatori 2 = {{Goal|3}} [[Walter Samuel|Samuel]]<br />{{Goal|16}} [[Gabriel Batistuta|Batistuta]]<br />{{Goal|40}} [[Marcos Assunção|Assunção]]
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Unione%20Venezia/10387
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Marcatori 1 = [[Diego Fuser|Fuser]] {{Goal|90+1}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 dicembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = 14ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Parma-Roma/10401
+|Marcatori 1 = [[Marco Di Vaio|Di Vaio]] {{Goal|31}}
+|Marcatori 2 = {{Goal|49}} [[Marcos Assunção|Assunção]]<br />{{Goal|77}} [[Diego Fuser|Fuser]]
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 2001
+|Ora = 20:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Milan/10423
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|44}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 dicembre
+|Anno = 2001
+|Ora = 20:30
+|Turno = 16ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/ChievoVerona-Roma/10431
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|26}} [[Emerson Ferreira da Rosa|Emerson]]<br />{{Goal|76}} [[Walter Samuel|Samuel]]<br />{{Goal|90+2}} [[Damiano Tommasi|Tommasi]]
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Torino/10459
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|24}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 gennaio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Hellas%20Verona/10176
+|Marcatori 1 = [[Marcos Assunção|Assunção]] {{Goal|54}}<br />[[Antonio Cassano|Cassano]] {{Goal|63}}<br />[[Gabriel Batistuta|Batistuta]] {{Goal|90}}
+|Marcatori 2 = {{Goal|44||53}} [[Adrian Mutu|Mutu]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 gennaio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Udinese-Roma/10190
+|Marcatori 1 = [[David Di Michele|Di Michele]] {{Goal|48}}
+|Marcatori 2 = {{Goal|82}} [[Gabriel Batistuta|Batistuta]]
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Piacenza/10208
+|Marcatori 1 = [[Marcos Assunção|Assunção]] {{Goal|15}}<br />[[Gabriel Batistuta|Batistuta]] {{Goal|77}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 febbraio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = {{Calcio Fiorentina|BD|2001}}
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Fiorentina-Roma/10226
+|Marcatori 1 = [[Domenico Morfeo|Morfeo]] {{Goal|16}}<br />[[Adriano Leite Ribeiro|Adriano]] {{Goal|18}}
+|Marcatori 2 = {{Goal|54}} [[Antonio Cassano|Cassano]]<br />{{Goal|75}} [[Emerson Ferreira da Rosa|Emerson]]
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 febbraio
+|Anno = 2002
+|Ora = 20:30
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Juventus/10238
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 febbraio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Brescia-Roma/10262
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 2002
+|Ora = 20:30
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Perugia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Perugia/10280
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|59}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Cosimo Bolognino]]
+|Cittarbitro = [[Milano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 2002
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Lecce-Roma/10298
+|Marcatori 1 = [[Davor Vugrinec|Vugrinec]] {{Goal|74}}
+|Marcatori 2 = {{Goal|34}} [[Vincent Candela|Candela]]
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 2002
+|Ora = 20:30
+|Turno = 26ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 5
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Lazio-Roma/10318
+|Marcatori 1 = [[Dejan Stanković|Stanković]] {{Goal|53}}
+|Marcatori 2 = {{Goal|13||30||37||64}} [[Vincenzo Montella|Montella]]<br />{{Goal|72}} [[Francesco Totti|Totti]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 2002
+|Ora = 20:30
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Atalanta/10322
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|17||68}}<br />[[Massimo Carrera|Carrera]] {{Goal|29|aut.}}
+|Marcatori 2 = {{Goal|84}} [[Cristiano Doni|Doni]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 marzo
+|Anno = 2002
+|Ora = 20:30
+|Turno = 28ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Inter-Roma/10352
+|Marcatori 1 = [[Álvaro Recoba|Recoba]] {{Goal|2||71}}<br />[[Christian Vieri|Vieri]] {{Goal|43}}
+|Marcatori 2 = {{Goal|57}} [[Francesco Totti|Totti]]
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 marzo
+|Anno = 2002
+|Ora = 15:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Bologna/10358
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|33}}<br />[[Emerson Ferreira da Rosa|Emerson]] {{Goal|42||52}}
+|Marcatori 2 = {{Goal|82}} [[Julio Cruz|Cruz]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 aprile
+|Anno = 2002
+|Ora = 15:00
+|Turno = 30ª giornata
+|Squadra 1 = Venezia
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Unione%20Venezia-Roma/10388
+|Marcatori 1 = [[Filippo Maniero|Maniero]] {{Goal|61}}<br />[[Ivone De Franceschi|De Franceschi]] {{Goal|80}}
+|Marcatori 2 = {{Goal|87|rig.|90|rig.}} [[Vincenzo Montella|Montella]]
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pierluigi Penzo]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 aprile
+|Anno = 2002
+|Ora = 15:00
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-Parma/10402
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|7}}<br />[[Antonio Cassano|Cassano]] {{Goal|41}}<br />[[Walter Samuel|Samuel]] {{Goal|46}}
+|Marcatori 2 = {{Goal|43|aut.}} [[Walter Samuel|Samuel]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 aprile
+|Anno = 2002
+|Ora = 15:00
+|Turno = 32ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Milan-Roma/10424
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 aprile
+|Anno = 2002
+|Ora = 15:00
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Roma-ChievoVerona/10432
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|25||34||50|rig.}}<br />[[Emerson Ferreira da Rosa|Emerson]] {{Goal|74}}<br />[[Antonio Cassano|Cassano]] {{Goal|81}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 maggio
+|Anno = 2002
+|Ora = 15:00
+|Turno = 34ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/-/match-report/Torino-Roma/10460
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|68}} [[Antonio Cassano|Cassano]]
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2001-2002}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 novembre
+|Anno = 2001
+|Ora = 15:00
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.footballdatabase.eu/football.coupe.plaisance.as-rome.69120.en.html
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli]]
+|Arbitro = [[Danilo Nucini]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Nicola Caccia|Caccia]] {{Goal|7}}<br />[[Eusebio Di Francesco|Di Francesco]] {{Goal|26}}
+|Marcatori 2 = {{Goal|41}} [[Christian Panucci|Panucci]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 2001
+|Ora = 20:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 2 = Piacenza
+|Squadra 1 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.footballdatabase.eu/football.coupe.as-rome.plaisance.69128.en.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Christian Panucci|Panucci]] {{Goal|3}}<br />[[Antonio Cassano|Cassano]] {{Goal|35}}<br />[[Damiano Tommasi|Tommasi]] {{Goal|40}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 2001
+|Ora = 20:45
+|Turno = Quarti di finale - Andata
+|Squadra 2 = Brescia
+|Squadra 1 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.footballdatabase.eu/football.coupe.as-rome.brescia.69133.en.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|82}} [[Markus Schopp|Schopp]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 2002
+|Ora = 21:00
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.footballdatabase.eu/football.coupe.brescia.as-rome.69136.en.html
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 1 = [[Antonio Filippini|Filippini]] {{Goal|6}}<br />[[Markus Schopp|Schopp]] {{Goal|27}}<br />[[Luca Toni|Toni]] {{Goal|71}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+=== UEFA Champions League ===
+{{vedi anche|UEFA Champions League 2001-2002}}
+==== Prima fase a gironi ====
+{{vedi anche|UEFA Champions League 2001-2002 (prima fase a gironi)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 settembre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Real Madrid
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1545/match=1008522/postmatch/lineups/index.html
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|73|rig.}}
+|Marcatori 2 = {{Goal|50}} [[Luís Figo|Figo]]<br />{{Goal|63}} [[José María Gutiérrez|Guti]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graham Poll]]
+|Nazarbitro = ENG
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 2ª giornata
+|Squadra 1 = Anderlecht
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1545/match=1008538/postmatch/lineups/index.html
+|Città = [[Bruxelles]]
+|Stadio = [[Stadio Constant Vanden Stock]]
+|Arbitro = [[Karl-Erik Nilsson (arbitro)|Karl-Erik Nilsson]]
+|Nazarbitro = SWE
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lokomotiv Mosca
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1545/match=1008555/postmatch/lineups/index.html
+|Marcatori 1 = [[Igor' Čugajnov|Čugajnov]] {{Goal|69|aut.}}<br />[[Francesco Totti|Totti]] {{Goal|79}}
+|Marcatori 2 = {{Goal|59}} [[Milan Obradović|Obradović]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Hartmut Strampe]]
+|Nazarbitro = DEU
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 4ª giornata
+|Squadra 1 = Lokomotiv Mosca
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1545/match=1008571/postmatch/lineups/index.html
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|78}} [[Cafu]]
+|Città = [[Mosca (Russia)|Mosca]]
+|Stadio = [[Stadio Dinamo (Mosca)|Stadio Dinamo]]
+|Arbitro = [[Dick Jol]]
+|Nazarbitro = NLD
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 5ª giornata
+|Squadra 1 = Real Madrid
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1545/match=1008586/postmatch/lineups/index.html
+|Marcatori 1 = [[Luís Figo|Figo]] {{Goal|75|rig.}}
+|Marcatori 2 = {{Goal|35}} [[Francesco Totti|Totti]]
+|Città = [[Madrid]]
+|Stadio = [[Stadio Santiago Bernabéu]]
+|Arbitro = [[Hellmut Krug]]
+|Nazarbitro = DEU
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Anderlecht
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1545/match=1008602/postmatch/lineups/index.html
+|Marcatori 1 = [[Marco Delvecchio|Delvecchio]] {{Goal|52}}
+|Marcatori 2 = {{Goal|11}} [[Ivica Mornar|Mornar]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Eric Poulat]]
+|Nazarbitro = FRA
+|Sfondo = on
+}}
+
+==== Seconda fase a gironi ====
+{{vedi anche|UEFA Champions League 2001-2002 (seconda fase a gironi)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 1ª giornata
+|Squadra 1 = Galatasaray
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1546/match=1018314/postmatch/lineups/index.html
+|Marcatori 1 = [[Sébastien Pérez|Pérez]] {{Goal|22}}
+|Marcatori 2 = {{Goal|90+2}} [[Emerson Ferreira da Rosa|Emerson]]
+|Città = [[Istanbul]]
+|Stadio = [[Stadio Ali Sami Yen]]
+|Arbitro = [[Claude Colombo]]
+|Nazarbitro = FRA
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 2001
+|Ora = 20:45
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Liverpool
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1546/match=1018321/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Dick Jol]]
+|Nazarbitro = NLD
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 2002
+|Ora = 20:45
+|Turno = 3ª giornata
+|Squadra 1 = Barcellona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1546/match=1018329/postmatch/lineups/index.html
+|Marcatori 1 = [[Patrick Kluivert|Kluivert]] {{Goal|82}}
+|Marcatori 2 = {{Goal|57}} [[Christian Panucci|Panucci]]
+|Città = [[Barcellona]]
+|Stadio = [[Camp Nou]]
+|Arbitro = [[Gilles Veissière]]
+|Nazarbitro = FRA
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 2002
+|Ora = 20:45
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Barcellona
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1546/match=1018337/postmatch/lineups/index.html
+|Marcatori 1 = [[Emerson Ferreira da Rosa|Emerson]] {{Goal|61}}<br />[[Vincenzo Montella|Montella]] {{Goal|74}}<br />[[Damiano Tommasi|Tommasi]] {{Goal|90+2}}
+|Marcatori 2 =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Kim Milton Nielsen]]
+|Nazarbitro = DNK
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 2002
+|Ora = 20:45
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Galatasaray
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1546/match=1018346/postmatch/lineups/index.html
+|Marcatori 1 = [[Cafu]] {{Goal|52}}
+|Marcatori 2 = {{Goal|45}} [[Ümit Karan|Karan]]
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Anders Frisk]]
+|Nazarbitro = SWE
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 2002
+|Ora = 20:45
+|Turno = 6ª giornata
+|Squadra 1 = Liverpool
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://it.uefa.com/uefachampionsleague/season=2001/matches/round=1546/match=1018353/postmatch/lineups/index.html
+|Marcatori 1 = [[Jari Litmanen|Litmanen]] {{Goal|7|rig.}}<br />[[Emile Heskey|Heskey]] {{Goal|64}}
+|Marcatori 2 =
+|Città = [[Liverpool]]
+|Stadio = [[Anfield]]
+|Arbitro = [[Rune Pedersen (arbitro)|Rune Pedersen]]
+|Nazarbitro = NOR
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+{{Statistiche_squadra
+|comp1=[[Serie A 2001-2002|Serie A]]
+|punti1=70
+|cv1=13
+|cn1=4
+|cp1=0
+|cgf1=33
+|cgs1=8
+|tv1=6
+|tn1=9
+|tp1=2
+|tgf1=25
+|tgs1=16
+|comp2=[[Coppa Italia 2001-2002|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=3
+|cgs2=1
+|tv2=0
+|tn2=0
+|tp2=2
+|tgf2=1
+|tgs2=5
+|comp3=[[Supercoppa italiana 2001|Supercoppa Italiana]]
+|punti3=-
+|cv3=1
+|cn3=0
+|cp3=0
+|cgf3=3
+|cgs3=0
+|tv3=0
+|tn3=0
+|tp3=0
+|tgf3=0
+|tgs3=0
+|comp4=[[UEFA Champions League 2001-2002|Champions League]]
+|punti4=-
+|cv4=2
+|cn4=3
+|cp4=1
+|cgf4=8
+|cgs4=5
+|tv4=1
+|tn4=4
+|tp4=1
+|tgf4=4
+|tgs4=5
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=C |m16=T |m17=C |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=T |m27=C |m28=T |m29=C |m30=T |m31=C |m32=T |m33=C |m34=T}}
+{{Andamento/Risultato |m1=N |m2=N |m3=P |m4=V |m5=V |m6=N |m7=N |m8=V |m9=V |m10=N |m11=N |m12=V |m13=V |m14=V |m15=V |m16=V |m17=V |m18=V |m19=N |m20=V |m21=N |m22=N |m23=N |m24=V |m25=N |m26=V |m27=V |m28=P |m29=V |m30=N |m31=V |m32=N |m33=V |m34=V}}
+{{Andamento/Posizione |r=15 |m1=9 |m2=11 |m3=15 |m4=11 |m5=6 |m6=6 |m7=7 |m8=5 |m9=3 |m10=3 |m11=4 |m12=3 |m13=3 |m14=3 |m15=3 |m16=2 |m17=1 |m18=1 |m19=2 |m20=1 |m21=1 |m22=1 |m23=3 |m24=2 |m25=3 |m26=1 |m27=1 |m28=2 |m29=2 |m30=2 |m31=2 |m32=3 |m33=3 |m34=2}}
+{{Andamento/Fine |fonte={{cita web |url=https://www.worldfootball.net/schedule/ita-serie-a-2001-2002-spieltag/1/ |titolo=Italy » Serie A 2001/2002 » Results & Tables |editore=worldfootball.net}}}}
+=== Statistiche dei giocatori ===
+{{Statistiche dei giocatori
+|Competizione1 = Serie A<ref name=sea>{{cita web|url=https://www.worldfootball.net/team_performance/as-roma/ita-serie-a-2001-2002/|titolo=AS Roma » Appearances Serie A 2001/2002|editore=worldfootball.net|lingua=en|accesso=30 aprile 2019|dataarchivio=30 aprile 2019|urlarchivio=https://web.archive.org/web/20190430032531/https://www.worldfootball.net/team_performance/as-roma/ita-serie-a-2001-2002/|urlmorto=sì}}</ref>
+|Competizione2 = Coppa Italia<ref name=co>{{cita web|url=https://www.worldfootball.net/team_performance/as-roma/ita-coppa-italia-2001-2002/|titolo=AS Roma » Appearances Coppa Italia 2001/2002|editore=worldfootball.net|lingua=en|accesso=30 aprile 2019|dataarchivio=30 aprile 2019|urlarchivio=https://web.archive.org/web/20190430032540/https://www.worldfootball.net/team_performance/as-roma/ita-coppa-italia-2001-2002/|urlmorto=sì}}</ref>
+|Competizione3 = Champions League<ref name=cha>{{cita web|url=https://www.worldfootball.net/team_performance/as-roma/champions-league-2001-2002/|titolo=AS Roma » Appearances Champions League 2001/2002|editore=worldfootball.net|lingua=en|accesso=30 aprile 2019|dataarchivio=30 aprile 2019|urlarchivio=https://web.archive.org/web/20190430032242/https://www.worldfootball.net/team_performance/as-roma/champions-league-2001-2002/|urlmorto=sì}}</ref>
+|Competizione4 = Supercoppa italiana<ref name=sc>{{cita web|url=https://www.worldfootball.net/report/supercoppa-2001-finale-as-roma-acf-fiorentina/|titolo=Italy » Supercoppa 2001 » Final » AS Roma - ACF Fiorentina 3:0|editore=worldfootball.net|lingua=en}}</ref><ref name=scp>{{cita web|url=https://www.worldfootball.net/team_performance/as-roma/ita-supercoppa-2001/|titolo=AS Roma » Appearances Supercoppa 2001|editore=worldfootball.net|lingua=en|accesso=30 aprile 2019|dataarchivio=30 aprile 2019|urlarchivio=https://web.archive.org/web/20190430032301/https://www.worldfootball.net/team_performance/as-roma/ita-supercoppa-2001/|urlmorto=sì}}</ref>
+|{{Sortname||Aldair|Aldair}} {{Sommastat|16|0|4|1 |1|0|1|0 |6|0|1|0 |-|-|-|-}}
+|{{Sortname|F.|Antonioli|Francesco Antonioli}} {{Sommastat|30|-20|0|1 |2|-2|0|0 |10|-7|0|0 |0|-0|0|0}}
+|{{Sortname|M.|Assunção|Marcos Assunção}} {{Sommastat|22|6|4|0 |4|0|2|0 |9|0|0|0 |1|0|0|0}}
+|{{Sortname|A.|Balbo|Abel Balbo}} {{Sommastat|1|0|0|0 |4|0|0|0 |2|0|0|0 |1|0|0|0}}
+|{{Sortname|G.|Batistuta|Gabriel Batistuta}} {{Sommastat|23|6|3|1 |0|0|0|0 |11|0|1|0 |1|0|0|0}}
+|{{Sortname|C.|Bovo|Cesare Bovo}} {{Sommastat|-|-|-|- |1|0|0|0 |-|-|-|- |-|-|-|-}}
+|{{Sortname||Cafu|Cafu}} {{Sommastat|27|0|4|0 |1|0|0|0 |10|2|3|0 |-|-|-|-}}
+|{{Sortname|V.|Candela|Vincent Candela}} {{Sommastat|31|2|8|0 |1|0|0|0 |10|0|0|0 |1|1|0|0}}
+|{{Sortname|A.|Cassano|Antonio Cassano}} {{Sommastat|22|5|1|0 |3|1|1|0 |5|0|0|0 |0|0|0|0}}
+|''{{Sortname|S.|Cejas|Sebastián Cejas}}'' {{Sommastat|0|0|0|0 |2|-2|0|0 |0|0|0|0 |-|-|-|-}}
+|{{Sortname|L.|Cufré|Leandro Cufré}} {{Sommastat|0|0|0|0 |3|0|0|0 |0|0|0|0 |-|-|-|-}}
+|{{Sortname|D.|De Rossi|Daniele De Rossi}} {{Sommastat|-|-|-|- |3|0|0|0 |1|0|0|0 |-|-|-|-}}
+|{{Sortname|M.|Delvecchio|Marco Delvecchio}} {{Sommastat|27|2|4|0 |2|0|0|0 |7|1|1|0 |1|0|0|0}}
+|{{Sortname||Emerson|Emerson Ferreira da Rosa}} {{Sommastat|28|5|2|1 |2|0|0|0 |11|2|1|0 |-|-|-|-}}
+|{{Sortname|D.|Fuser|Diego Fuser}} {{Sommastat|12|2|1|0 |3|0|1|0 |3|0|0|0 |1|0|0|0}}
+|{{Sortname|G.|Guigou|Gianni Guigou}} {{Sommastat|7|0|0|0 |1|0|0|0 |5|0|0|0 |1|0|0|0}}
+|{{Sortname|F.|Lima|Francisco Govinho Lima}} {{Sommastat|28|0|2|1 |3|0|0|0 |11|0|1|0 |0|0|0|0}}
+|{{Sortname|V.|Montella|Vincenzo Montella}} {{Sommastat|19|13|1|0 |-|-|-|- |6|1|1|0 |1|1|0|0}}
+|{{Sortname|C.|Panucci|Christian Panucci}} {{Sommastat|31|1|3|0 |4|2|1|0 |4|1|1|0 |-|-|-|-}}
+|{{Sortname|M.|Paoloni|Marco Paoloni}} {{Sommastat|-|-|-|- |0|0|0|0 |-|-|-|- |-|-|-|-}}
+|{{Sortname|I.|Pelizzoli|Ivan Pelizzoli}} {{Sommastat|5|-4|0|0 |1|-3|0|0 |2|-3|0|0 |1|-0|0|0}}
+|''{{Sortname|S.|Pepe|Simone Pepe}}'' {{Sommastat|0|0|0|0 |0|0|0|0 |-|-|-|- |-|-|-|-}}
+|{{Sortname|W.|Samuel|Walter Samuel}} {{Sommastat|30|5|7|0 |2|0|0|0 |12|0|3|0 |1|0|0|0}}
+|{{Sortname|S.|Siviglia|Sebastiano Siviglia}} {{Sommastat|5|0|1|0 |1|0|0|0 |1|0|0|0 |0|0|0|0}}
+|{{Sortname|I.|Tomić|Ivan Tomić}} {{Sommastat|2|0|0|0 |3|0|0|0 |1|0|0|0 |-|-|-|-}}
+|{{Sortname|D.|Tommasi|Damiano Tommasi}} {{Sommastat|33|2|3|0 |3|1|0|0 |9|1|2|0 |1|0|0|0}}
+|{{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|24|8|5|0 |-|-|-|- |11|3|1|0 |1|1|0|0}}
+|{{Sortname|A.C.|Zago|Antônio Carlos Zago}} {{Sommastat|12|0|3|0 |2|0|1|0 |5|0|2|0 |1|0|0|0}}
+|{{Sortname|J.|Zebina|Jonathan Zebina}} {{Sommastat|24|0|6|1 |2|0|2|1 |10|0|1|0 |1|0|0|0}}
+}}
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital02.html|Italy 2001/02|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2001|Profilo e statistiche|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2001-2002}}
+{{Portale|calcio}}

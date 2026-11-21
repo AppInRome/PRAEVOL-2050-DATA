@@ -1,0 +1,997 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|stagione = 1927-1928
+|immagine = 1927–28 Associazione Sportiva Roma.jpg
+|didascalia =
+|presidente = {{Bandiera|ITA 1861-1946}} [[Italo Foschi]], poi<br />{{Bandiera|ITA 1861-1946}} [[Renato Sacerdoti]]
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Pietro Piselli]] e {{Bandiera|HUN 1918-1940}} [[József Ging]]<ref>Da luglio ad agosto.</ref>, poi<br/>{{Bandiera|ENG}} [[William Garbutt]]
+|campionato = [[Divisione Nazionale 1927-1928|Divisione Nazionale]]
+|campionato posizione = 8º nel girone B
+|coppa1 = [[Coppa CONI 1928|Coppa CONI]]
+|coppa1 posizione = '''Vincitore'''
+|presenze campionato = [[Giovanni Corbjons|Corbjons]], [[Attilio Ferraris|Ferraris]], [[Arturo Chini Ludueña|Chini]] (20)
+|presenze totale = Chini, Ferraris (35)
+|marcatore campionato = [[Mario Bussich|Bussich]] (10)
+|marcatore totale = Chini (14)
+|stagione dopo = [[Associazione Sportiva Roma 1928-1929|1928-1929]]
+|stadio = [[Motovelodromo Appio]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1927-1928'''.
+
+== Stagione ==
+[[File:1928 CONI Cup Award Ceremony (edited).jpg|thumb|La premiazione ufficiale nel febbraio 1929 per la Coppa CONI, il primo trofeo della storia giallorossa, vinto il precedente 29 luglio 1928.]]
+La Roma nel 1927 partecipa al massimo campionato pochi mesi dopo la sua fondazione; il 7 giugno viene infatti trovato l'accordo tra {{Calcio Alba Roma|N|1926}}, {{Calcio Roman|N}} e {{Calcio Fortitudo Pro Roma|N}}. Dalla fusione resta fuori l'altra squadra della Capitale, la {{Calcio Lazio|N}}. La società viene ammessa alla massima serie nazionale grazie all'allargamento del torneo nel quale l'anno prima l'Alba e la Fortitudo non erano riuscite a salvarsi: nei primi anni di girone unico per garantire una discreta rappresentanza alle squadre del centro-sud queste vengono sovente salvate d'ufficio dalla retrocessione.<ref name=izzi/>
+La fusione delle tre società sortisce comunque gli effetti sperati, la Roma è infatti l'unica delle società provenienti dalla Lega Sud a salvarsi sul campo. Al termine della stagione vi è inoltre il successo in [[Coppa CONI 1928|Coppa CONI]], una sorta di torneo di consolazione per le squadre non ammesse alla fase finale della [[Divisione Nazionale]].<ref name=izzi/>
+
+== Divise ==
+Le primissime maglie indossate dalla Roma nelle amichevoli in pre-campionato sono quelle del Roman, in seguito viene adottata una divisa con collo a V giallo, calzoncini bianchi e calzettoni rossi con fascia gialla. La seconda maglia era un completo interamente bianco con i calzettoni identici a quelli della prima divisa.<ref>{{cita|Castellani, Ceci, de Conciliis|p. 18}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma2728h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asroma2728
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_asroma2728a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma2728
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma20sgk
+|leftarm = 030347
+|pattern_b =
+|body = 858585
+|pattern_ra =_asroma20sgk
+|rightarm = 030347
+|shorts = 000000
+|pattern_so =_asroma20s
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=izzi/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Italo Foschi]], [[Renato Sacerdoti]]
+* Vice Presidente: [[Renato Sacerdoti]]
+* Direttori: Piero Crostarosa, Giorgio Crostarosa, Ugo Barbiani, Renato Turchi
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Pietro Piselli]] e [[József Ging]] (lug.-ago.) poi [[William Garbutt]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name=izzi>{{cita|Izzi, Valitutti|p. 8}}.</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Bruno Ballanti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giuseppe Ernesto Rapetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Angelo Bianchi (calciatore)|Angelo Bianchi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giorgio Carpi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giovanni Corbjons]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giovanni Degni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario De Micheli (calciatore)|Mario De Micheli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Attilio Mattei]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Bossi (calciatore 1909)|Mario Bossi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Cappa]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Augusto Fasanelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Attilio Ferraris]]|ruolo=C|altro=[[Capitano (calcio)|capitano]]}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giacomo Narizzano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Bruno Ricci]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Pierino Rovida]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giulio Scardola]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Corrado Scocco]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Carlo Zamporlini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Ziroli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Bianchi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Bussich]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fernando Canestrelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Arturo Chini Ludueña]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Maddaluno]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+La Roma nel suo primo campionato non fa una vera e propria campagna acquisti, la rosa viene formata da una selezione dei giocatori provenienti dalle squadre che danno vita al club. Il solo giocatore ad essere acquistato è [[Mario Bussich]] proveniente dalla {{Calcio Triestina|N}}.<ref name=izzi/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Bruno Ballanti]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| P ||[[Giuseppe Ernesto Rapetti]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+| D ||[[Angelo Bianchi (calciatore)|Angelo Bianchi]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| D ||[[Giorgio Carpi]] || {{Calcio Roman|N}} || ''acquisito dalla fusione''
+|-
+| D ||[[Giovanni Corbjons]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+| D ||[[Giovanni Degni]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| D ||[[Mario De Micheli (calciatore)|Mario De Micheli]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+| D ||[[Attilio Mattei]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Antonio Bianchi]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Mario Bossi (calciatore 1909)|Mario Bossi]] || {{Calcio Roman|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Mario Cappa]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+|C
+|[[Attilio Ferraris|Attilio Ferraris IV]]
+|{{Calcio Fortitudo|N}}
+|''acquisito dalla fusione''
+|-
+| C ||[[Giacomo Narizzano]] || {{Calcio Genoa|N}} || ''definitivo''
+|-
+| C ||[[Bruno Ricci]] || {{Calcio Roman|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Pierino Rovida]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Giulio Scardola]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Corrado Scocco]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+| C ||[[Luigi Ziroli]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| A ||[[Mario Bussich]] || {{Calcio Triestina|N}} || ''definitivo''
+|-
+| A ||[[Fernando Canestrelli]] || {{Calcio Fortitudo|N}} || ''acquisito dalla fusione''
+|-
+|A
+|[[Cesare Augusto Fasanelli]]
+|{{Calcio Alba Roma|N}}
+|''acquisito dalla fusione''
+|-
+| A ||[[Antonio Maddaluno]] || {{Calcio Roman|N}} || ''acquisito dalla fusione''
+|-
+| A ||[[Arturo Chini Ludueña]] || {{Calcio Alba Roma|N}} || ''acquisito dalla fusione''
+|-
+| A ||[[Carlo Zamporlini]]|| {{Calcio Fortitudo|N}}|| ''acquisito dalla fusione''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Divisione Nazionale ===
+{{vedi anche|Divisione Nazionale 1927-1928}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 1927
+|Ora =
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728RomaLivorno.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Umberto Gama]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Luigi Ziroli|Ziroli]] {{Goal|58}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|78}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 1927
+|Ora = 15:00 [[CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Dominante
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728DominanteRoma.html
+|Città = [[Cornigliano]]
+|Stadio = [[Stadio del Littorio]]
+|Spettatori =
+|Arbitro = [[Nino Sganzetta]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 ottobre
+|Anno = 1927
+|Ora =
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Hellas Verona
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728RomaVerona.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Felice Rovida]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Mario Cappa|Cappa]] {{Goal|7}}<br />[[Mario Bussich|Bussich]] {{Goal|20}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|27}}
+|Marcatori 2 = {{Goal|89|rig.}} [[Arnaldo Porta|Porta]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 1927
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Novara
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/2728NovaraRoma.html
+|Città = [[Novara]]
+|Stadio = [[Campo di via Lombroso]]
+|Spettatori =
+|Arbitro = [[Carlo Garbieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Carlo Crotti|Crotti]] {{Goal|26}}<br />[[Mario Meneghetti|Meneghetti]] {{Goal|73|rig.}}
+|Marcatori 2 = {{Goal|51}} [[Mario Bussich|Bussich]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 1927
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/2728BolognaRoma.html
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio del Littoriale]]
+|Spettatori =
+|Arbitro = [[Mario Casetta]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Angelo Schiavio|Schiavio]] {{Goal|31}}<br/>[[Antonio Busini|Busini]] {{Goal|61||81}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 novembre
+|Anno = 1927
+|Ora = 14:30 [[CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/2728RomaJuventus.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Cesare Lenti]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 1927
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728ModenaRoma.html
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia|Campo di Via Fontanelli]]
+|Spettatori =
+|Arbitro = [[Agostino Montessoro]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Guglielmo Zanasi|Zanasi]] {{Goal|60}}<br />[[Alfredo Mazzoni|Mazzoni]] {{Goal|72}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 1927
+|Ora = 14:30 [[CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Casale
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728RomaCasale.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Giuseppe Turbiani]]
+|Cittarbitro = [[Ferrara]]
+|Marcatori 1 = [[Fernando Canestrelli|Canestrelli]] {{Goal|36}}
+|Marcatori 2 = {{Goal|23}} [[Angelo Mattea|Mattea]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 1927
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Pro Patria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto =https://www.asromaultras.org/2728ProPatriaRoma.html
+|Città = [[Busto Arsizio]]
+|Stadio = [[Stadio Carlo Speroni|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Natale Beretta]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 2 = {{Goal|8||81}} [[Mario Bussich|Bussich]]<br/>{{Goal|41}} [[Cesare Augusto Fasanelli|Fasanelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 1927
+|Ora =
+|Turno = 10ª giornata<ref name="riposo">Turno di riposo</ref>
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Anno = 1927
+|Ora =
+|Turno = 11ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/2728InterRoma.html
+|Città = [[Milano]]
+|Stadio = [[Campo di via Goldoni]]
+|Spettatori =
+|Arbitro = [[Agostino Montessoro]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Marco Zanotto|Zanotto]] {{Goal|16}}<br />[[Alessandro Savelli|Savelli]] {{Goal|82}}<br />[[Silvio Pietroboni|Pietroboni]] {{Goal|85}}
+|Marcatori 2 = {{Goal|38||50}} [[Mario Bussich|Bussich]]<br />{{Goal|76}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Anno = 1927
+|Ora =
+|Turno = 12ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728LivornoRoma.html
+|Città = [[Livorno]]
+|Stadio = [[Campo di Villa Chayes]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Mario Magnozzi|Magnozzi]] {{Goal|68}}<br />[[Plinio Paolini|Paolini]] {{Goal|70}}
+|Marcatori 2 = {{Goal|6}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 dicembre
+|Anno = 1927
+|Ora =14:30 [[CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Dominante
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/2728RomaDominante.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Luigi Ziroli|Ziroli]] {{Goal|25||90}}<br />[[Mario Bussich|Bussich]] {{Goal|73||88}}
+|Marcatori 2 = {{Goal|60}} [[Luigi Derchi|Derchi]]<br />{{Goal|63}} [[Giuseppe Raggio|Raggio]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 1928
+|Ora =
+|Turno = 14ª giornata
+|Squadra 1 = Hellas Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/2728VeronaRoma.html
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi (1906-1963)|Campo di Piazza Cittadella]]
+|Spettatori =
+|Arbitro = [[Alfredo Medica]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Arnaldo Porta|Porta]] {{Goal|9}}<br/>[[Mario Froncillo|Froncillo]] {{Goal|87}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 1928
+|Ora = 14:30 [[CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Novara
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728RomaNovara.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Giacomo Narizzano|Narizzano]] {{Goal|5}}<br />[[Arturo Chini Ludueña|Chini]] {{Goal|53||56}}<br />[[Mario Bussich|Bussich]] {{Goal|76}}
+|Marcatori 2 = {{Goal|67}} [[Ignazio Testa|Testa]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 1928
+|Ora =14:30 [[CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/2728RomaBologna.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Cesare Lenti]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Arturo Chini Ludueña|Chini]] {{Goal|84}}
+|Marcatori 2 = {{Goal|5}} [[Bernardo Perin|Perin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Anno = 1928
+|Ora =
+|Turno = 17ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728JuventusRoma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio di Corso Marsiglia]]
+|Spettatori =
+|Arbitro = [[Piero Giorgi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giuseppe Galluzzi|Galluzzi]] {{Goal|8||31}}<br />[[Federico Munerati|Munerati]] {{Goal|75}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 febbraio
+|Anno = 1928
+|Ora = 14:30 [[CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/2728RomaModena.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Aldo Aimi|Aimi]] {{Goal|48|aut.}}<br />[[Arturo Chini Ludueña|Chini]] {{Goal|54}}<br />[[Giovanni Corbjons|Corbjons]] {{Goal|90|rig.}}
+|Marcatori 2 = {{Goal|14||22}} [[Francesco Rier|Rier]]<br />{{Goal|69}} [[Otello Bellei|Bellei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 1928
+|Ora =
+|Turno = 19ª giornata
+|Squadra 1 = Casale
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/2728CasaleRoma.html
+|Città = [[Casale Monferrato]]
+|Stadio = [[Stadio Natale Palli]]
+|Spettatori =
+|Arbitro = [[Cesare Lenti]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Carlo Buscaglia|Buscaglia]] {{Goal|28}}<br />[[Enrico Migliavacca|Migliavacca]] {{Goal|30}}<br />[[Giovanni Zanni|Zanni]] {{Goal|38}}
+|Marcatori 2 = {{Goal|54}} [[Mario Cappa|Cappa]]<br />{{Goal|71}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 1928
+|Ora = 14:30 [[CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Patria
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728RomaProPatria.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Carlo Osti (arbitro)|Carlo Osti]]
+|Cittarbitro = [[Ferrara]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|52}} [[Carlo Reguzzoni|Reguzzoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 1928
+|Ora =
+|Turno = 21ª giornata<ref name="riposo"/>
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1928
+|Ora =
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728RomaInter.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Mario Cappa|Cappa]] {{Goal|9||49}}<br/>[[Mario Bussich|Bussich]] {{Goal|83}}
+|Sfondo = on
+}}
+
+=== Coppa CONI ===
+{{Vedi anche|Coppa CONI 1928}}
+==== Fase a gironi ====
+===== Girone di andata =====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1928
+|Ora =
+|Turno = 1ª giornata<ref name="riposo"/>
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 1928
+|Ora = 15:00 [[CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728RomaNapoli_CoppaConi.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Carlo Osti]]
+|Cittarbitro = [[Ferrara]]
+|Marcatori 1 = [[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|34||69||74}}<br />[[Mario Cappa|Cappa]] {{Goal|42}}
+|Marcatori 2 = {{Goal|8}} [[Gastone Innocenti|Innocenti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1928
+|Ora =
+|Turno = 3ª giornata
+|Squadra 1 = Dominante
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728DominanteRoma_CoppaConi.html
+|Città = [[Genova]]
+|Stadio = [[Stadio del Littorio]]
+|Spettatori =
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Casale Monferrato]]
+|Marcatori 1 = [[Ettore Fontana|Fontana]] {{Goal|34}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 1928
+|Ora =15:00 [[CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728RomaCremonese_CoppaConi.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Giovanni Bruna]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Mario Cappa|Cappa]] {{Goal|17}}<br />[[Attilio Mattei|Mattei]] {{Goal|89}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 maggio<ref>Gara prevista per il 29 aprile 1928 e rinviata al 17 maggio.</ref>
+|Anno = 1928
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/2728BresciaRoma_CoppaConi.html
+|Città = [[Brescia]]
+|Stadio = [[Stadium di Viale Piave]]
+|Spettatori =
+|Arbitro = [[Piero Giorgi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Evaristo Frisoni|Frisoni]] {{Goal|74|rig.}}
+|Marcatori 2 = {{Goal|4}} [[Attilio Ferraris|Ferraris]]<br />{{Goal|85}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 1928
+|Ora =
+|Turno = 6ª giornata
+|Squadra 1 = Pro Patria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/2728ProPatriaRoma_CoppaConi.html
+|Città = [[Busto Arsizio]]
+|Stadio = [[Stadio Carlo Speroni|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Umberto Gama]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Valentino Crosta|Crosta]] {{Goal|88}}
+|Marcatori 2 = {{Goal|46}} [[Mario Cappa|Cappa]]<br />{{Goal|63}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 maggio
+|Anno = 1928
+|Ora = 15:00 [[CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Novara
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/2728RomaNovara_CoppaConi.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Cesare Lenti]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Arturo Chini Ludueña|Chini]] {{Goal|63}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+
+===== Girone di ritorno =====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 maggio
+|Anno = 1928
+|Ora =
+|Turno = 8ª giornata<ref name="riposo"/>
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 giugno
+|Anno = 1928
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728NapoliRoma_CoppaConi.html
+|Città = [[Napoli]]
+|Stadio = [[Stadio Militare dell'Arenaccia]]
+|Spettatori =
+|Arbitro = [[Umberto Gama]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Pino Ghisi|Ghisi]] {{Goal|10}}<br />[[Biagio Zoccola|Zoccola]] {{Goal|53}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 giugno
+|Anno = 1928
+|Ora =18:00 [[CEST]]
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Dominante
+|Punteggio 1 = 6
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728RomaDominante_CoppaConi.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Arturo Chini Ludueña|Chini]] {{Goal|47}}<br/>[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|66||78||79||89}}<br/>[[Mario Bussich|Bussich]] {{Goal|77}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º luglio
+|Anno = 1928
+|Ora =17:00 [[CEST]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto =https://www.asromaultras.org/2728RomaBrescia_CoppaConi.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Renato Bonello]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Arturo Chini Ludueña|Chini]] {{Goal|12}}<br/>[[Giovanni Degni|Degni]] {{Goal|68}}
+|Marcatori 2 = {{Goal|64}} [[Luigi Giuseppe Giuliani|Giuliani]]<br/>{{Goal|78}} [[Bruno Bianchi (calciatore 1910)|Bianchi]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 luglio
+|Anno = 1928
+|Ora = 18:00 [[CEST]]
+|Turno = 12ª giornata
+|Squadra 1 = Cremonese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/2728CremoneseRoma_CoppaConi.html
+|Città = [[Cremona]]
+|Stadio = [[Stadio Giovanni Zini]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Renato Bodini|Bodini]] {{Goal|17}}<br/>[[Alfredo Guanzini|Guanzini]] {{Goal|38}}
+|Marcatori 2 = {{Goal|16||40}} [[Arturo Chini Ludueña|Chini]]<br/>{{Goal|77}} [[Mario Bussich|Bussich]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 luglio
+|Anno = 1928
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Novara
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto =https://www.asromaultras.org/2728NovaraRoma_CoppaConi.html
+|Città = [[Novara]]
+|Stadio = [[Campo di via Lombroso]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Carlo Crotti|Crotti]] {{Goal|8}}<br/>[[Giuseppe Grabbi|Grabbi]] {{Goal|57}}
+|Marcatori 2 = {{Goal|20}} [[Attilio Mattei|Mattei]]<br/>{{Goal|76}} [[Cesare Augusto Fasanelli|Fasanelli]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 luglio
+|Anno = 1928
+|Ora = 17:00 [[CEST]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Patria
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto =https://www.asromaultras.org/2728RomaProPatria_CoppaConi.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Domenico Enrietti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Mario Bossi (calciatore 1909)|Bossi]] {{Goal|5}}<br/>[[Antonio Maddaluno|Maddaluno]] {{Goal|18||44}}<br/>[[Antonio Bianchi|Bianchi]] {{Goal|34}}<br/>[[Bruno Ricci|Ricci]] {{Goal|57}}
+|Marcatori 2 = {{Goal|66}} Masera
+|Sfondo = on
+}}
+
+==== Finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 luglio
+|Anno = 1928
+|Ora = 17:00 [[CEST]]
+|Turno = Finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =https://www.asromaultras.org/2728RomaModenaCoppaConi_andata.html
+|Città = [[Roma]]
+|Stadio = [[Motovelodromo Appio]]
+|Spettatori =
+|Arbitro = [[Cesare Lenti]]
+|Cittarbitro = [[Genova]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 luglio
+|Anno = 1928
+|Ora =
+|Turno = Finale - Ritorno
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto =https://www.asromaultras.org/2728ModenaRoma_CoppaConi.html
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia|Campo di Via Fontanelli]]
+|Spettatori =
+|Arbitro = [[Umberto Gama]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Angelo Piccaluga|Piccaluga]] {{Goal|6}}<br/>[[Alfredo Mazzoni|Mazzoni]] {{Goal|57}}
+|Marcatori 2 = {{Goal|23}} [[Cesare Augusto Fasanelli|Fasanelli]]<br/>{{Goal|86}} [[Attilio Ferraris|Ferraris]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 luglio
+|Anno = 1928
+|Ora = 17:30 [[CEST]]
+|Turno = Finale - Spareggio
+|Squadra 2 = Roma
+|Squadra 1 = Modena
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/2728RomaModenaCoppaConi_Spareggio.html
+|Supplementari = X
+|Città = [[Firenze]]
+|Stadio = [[Velodromo Libertas]]
+|Spettatori =
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Casale Monferrato]]
+|Marcatori 1 = [[Alfredo Mazzoni|Mazzoni]] {{Goal|45}}
+|Marcatori 2 = [[Giovanni Corbjons|Corbjons]] {{Goal|22|rig.}}<br/>[[Mario Bussich|Bussich]] {{Goal|110}}
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=izzi/>
+{{Statistiche_squadra
+|comp1=[[Divisione Nazionale 1927-1928|Divisione Nazionale]]
+|punti1=18
+|cv1=5
+|cn1=4
+|cp1=1
+|cgf1=21
+|cgs1=10
+|tv1=1
+|tn1=2
+|tp1=7
+|tgf1=10
+|tgs1=20
+|comp2=[[Coppa CONI 1928|Coppa CONI]]
+|punti2=-
+|cv2=5
+|cn2=2
+|cp2=0
+|cgf2=20
+|cgs2=4
+|tv2=3
+|tn2=2
+|tp2=2
+|tgf2=11
+|tgs2=11
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=22}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=T |m6=C |m7=T |m8=C |m9=T |m10=-<ref name="riposo"/>|m11=T |m12=T |m13=C |m14=T |m15=C |m16=C |m17=T |m18=C |m19=T |m20=C |m21=-<ref name="riposo"/> |m22=C}}
+{{Andamento/Risultato |m1=V |m2=N |m3=V |m4=P |m5=P |m6=N |m7=P |m8=N |m9=V |m10=-|m11=N |m12=P |m13=V |m14=P |m15=V |m16=N |m17=P |m18=N |m19=P |m20=P |m21=- |m22=V }}
+{{Andamento/Posizione |r=9 |m1=1 |m2=2 |m3=1 |m4=3 |m5=5 |m6=5 |m7=6 |m8=7 |m9=5 |m10=6 |m11=7 |m12=8 |m13=7 |m14=7 |m15=7 |m16=7 |m17=7 |m18=7 |m19=8 |m20=8 |m21=8 |m22=8 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Presenze desunte dalle edizioni cartacee dei giornali dell'epoca.
+{{Statistiche dei giocatori
+| Competizione1 = Divisione Nazionale
+| Competizione2 = Coppa CONI
+| Totale =
+| Cartellini = no
+| {{Sortname|B.|Ballanti|Bruno Ballanti}} {{Sommastat|C=no |5|-8|?|? |14|-15|?|? }}
+| {{Sortname|G.|Rapetti|Giuseppe Rapetti}} {{Sommastat|C=no |15|-22|?|? |1|-1|?|? }}
+| {{Sortname|Ang.|Bianchi|Angelo Bianchi (calciatore)}} {{Sommastat|C=no |1|0|?|? |1|0|?|? }}
+| {{Sortname|G.|Carpi|Giorgio Carpi}} {{Sommastat|C=no |5|0|?|? |0|0|?|? }}
+| {{Sortname|G.|Corbjons|Giovanni Corbjons}} {{Sommastat|C=no |20|1|?|? |13|1|?|? }}
+| {{Sortname|G.|Degni|Giovanni Degni}} {{Sommastat|C=no |16|0|?|? |15|1|?|? }}
+| {{Sortname|M.|De Micheli|Mario De Micheli (calciatore)}} {{Sommastat|C=no |0|0|?|? |1|0|?|? }}
+| {{Sortname|A.|Mattei|Attilio Mattei}} {{Sommastat|C=no |19|0|?|? |15|2|?|? }}
+| {{Sortname|M.|Bossi|Mario Bossi (calciatore 1909)}} {{Sommastat|C=no |0|0|?|? |1|1|?|? }}
+| {{Sortname|M.|Cappa|Mario Cappa}} {{Sommastat|C=no |15|4|?|? |10|3|?|? }}
+| {{Sortname|C.|Fasanelli|Cesare Augusto Fasanelli}} {{Sommastat|C=no |18|3|?|? |14|9|?|? }}
+| {{Sortname|A.|Ferraris|Attilio Ferraris}} {{Sommastat|C=no |20|0|?|? |15|2|?|? }}
+| {{Sortname|G.|Narizzano|Giacomo Narizzano}} {{Sommastat|C=no |4|1|?|? |0|0|?|? }}
+| {{Sortname|B.|Ricci|Bruno Ricci}} {{Sommastat|C=no |0|0|?|? |1|1|?|? }}
+| {{Sortname|P.|Rovida|Pierino Rovida}} {{Sommastat|C=no |15|0|?|? |13|0|?|? }}
+| {{Sortname|G.|Scardola|Giulio Scardola}} {{Sommastat|C=no |3|0|?|? |0|0|?|? }}
+| {{Sortname|C.|Scocco|Corrado Scocco}} {{Sommastat|C=no |1|0|?|? |0|0|?|? }}
+| {{Sortname|C.|Zamporlini|Carlo Zamporlini}} {{Sommastat|C=no |4|0|?|? |2|0|?|? }}
+| {{Sortname|L.|Ziroli|Luigi Ziroli}} {{Sommastat|C=no |19|3|?|? |7|0|?|? }}
+| {{Sortname|Ant.|Bianchi|Antonio Bianchi}} {{Sommastat|C=no |0|0|?|? |4|1|?|? }}
+| {{Sortname|M.|Bussich|Mario Bussich}} {{Sommastat|C=no |19|10|?|? |15|3|?|? }}
+| {{Sortname|F.|Canestrelli|Fernando Canestrelli}} {{Sommastat|C=no |1|1|?|? |0|0|?|? }}
+| {{Sortname|A.|Chini|Arturo Chini Ludueña}} {{Sommastat|C=no |20|7|?|? |15|7|?|? }}
+| {{Sortname|A.|Maddaluno|Antonio Maddaluno }} {{Sommastat|C=no |0|0|?|? |8|2|?|? }}
+}}
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+* {{cita libro|autore=Massimo Izzi|autore2=Francesco Valitutti|titolo=Cronologia della grande Roma|città=Roma|editore=Newton Compton|isbn=88-8289-599-8|anno=2001|cid=Izzi, Valitutti}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital28.html|Serie A 1927-1928 su Rsssf.com|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1927|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1927-1928}}
+{{Portale|calcio}}

@@ -1,0 +1,1553 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|stagione = 2024-2025
+|immagine = Coreografia CurvaSud RomaAthleticClub.jpeg
+|didascalia = La sbandierata della Curva Sud durante Roma-Athletic Bilbao
+|allenatore1 = {{Bandiera|ITA}} [[Daniele De Rossi]]<ref>{{cita web|url=https://www.asroma.com/it/notizie/71903/nota-del-club|titolo=L'AS Roma comunica di aver sollevato Daniele De Rossi dall’incarico di allenatore responsabile della Prima Squadra|data=18 settembre 2024}}</ref> <small>(1ª-4ª)</small><br />{{Bandiera|HRV}} [[Ivan Jurić]]<ref name="asroma.com" /> <small>(5ª-12ª)</small><br />{{Bandiera|ITA}} [[Claudio Ranieri]]<ref>{{cita web|url=https://www.asroma.com/it/notizie/72288/claudio-ranieri-e-il-nuovo-responsabile-tecnico-dellas-roma|titolo=Claudio Ranieri è il nuovo responsabile tecnico dell'AS Roma|data=13 novembre 2024}}</ref> <small>(13ª-38ª)</small>
+|allenatore2 = {{Bandiera|URU}} [[Guillermo Giacomazzi]] <small>(1ª-4ª)</small><br/>{{Bandiera|ITA}} [[Matteo Paro]] <small>(5ª-12ª)</small><br />{{Bandiera|ITA}} [[Paolo Benetti]] <small>(13ª-38ª)</small>
+|presidente = {{Bandiera|USA}} [[Dan Friedkin]]
+|campionato = [[Serie A 2024-2025|Serie A]]
+|campionato posizione = 5º (in Europa League)
+|coppa1 = [[Coppa Italia 2024-2025|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[UEFA Europa League 2024-2025|Europa League]]
+|coppa2 posizione = Ottavi di finale
+|presenze campionato = [[Angeliño]], [[Evan Ndicka|Ndicka]], [[Mile Svilar|Svilar]] (38)
+|presenze totale = Angeliño, N'Dicka, Svilar (51)
+|marcatore campionato = [[Artem Dovbyk|Dovbyk]] (12)
+|marcatore totale = Dovbyk (17)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]] ({{formatnum:70634}})
+|spettatori max = {{formatnum:68143}} vs {{Calcio Milan|N}}<ref name="stadiapostcards">{{cita web|URL=https://www.stadiapostcards.com/A24-25.htm||titolo=Statistiche Spettatori Serie A 2024-25}}</ref><br/>(18 maggio 2025)
+|spettatori min = {{formatnum:55772}}<ref name="stadiapostcards" /> vs {{Calcio Atalanta|N}}<br/>(2 dicembre 2024)
+|spettatori media = {{formatnum:62152}}<ref name="stadiapostcards" />
+|stagione prima = [[Associazione Sportiva Roma 2023-2024|2023-2024]]
+|stagione dopo = [[Associazione Sportiva Roma 2025-2026|2025-2026]]
+}}
+
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2024-2025'''.
+
+== Stagione ==
+[[File:Artem Dovbyk 2025 (cropped).jpeg|thumb|upright|left|Il neoacquisto [[Artem Dovbyk]], migliore marcatore giallorosso della stagione]]
+
+Quella del 2024-2025 è la 96ª stagione nel torneo della [[Serie A|massima serie]] del campionato italiano, la 73ª consecutiva in Serie A. Il calciomercato, che vede l’addio di [[Romelu Lukaku]] che andrà al {{Calcio Napoli|N}}, è scoppiettante: in totale vengono spesi più di 100 milioni per [[Enzo Le Fée]] dal {{Calcio Rennes|N}}, [[Mathew Ryan]] dall'{{Calcio AZ|N}}, [[Artem Dovbyk]] dal {{Calcio Girona|N}}, [[Samuel Dahl]] dal {{Calcio Djurgarden|N}}, [[Saud Abdulhamid]] dall'{{Calcio Al Hilal|N}}, [[Matías Soulé|Matias Soulé]] dalla {{Calcio Juventus|N}} e [[Kouadio Koné]] dal {{Calcio Borussia Monchengladbach|N}}, più gli arrivi a parametro zero di [[Mario Hermoso]] e [[Mats Hummels]]. La stagione si apre poi con il rinnovo di [[Daniele De Rossi]] come [[allenatore]] fino al 2027 e la sua conferma. Tuttavia l'inizio di stagione è disastroso, complice anche un mercato estivo programmato in ritardo. Dopo avere ottenuto una sconfitta in [[Stadio Olimpico (Roma)|casa]] contro l'{{Calcio Empoli|N}} e tre pareggi contro [[Cagliari Calcio|Cagliari]], {{Calcio Juventus|N}} e {{Calcio Genoa|N}}, il 18 settembre la società esonera l'allenatore romano sostituendolo con [[Ivan Jurić]]<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71903/nota-del-club|titolo=Nota del Club|data=18 settembre 2024|accesso=18 settembre 2024}}</ref><ref>{{cita web|url=https://www.asroma.com/it/notizie/71905/ivan-juric-e-il-nuovo-responsabile-tecnico-dellas-roma|titolo=IVAN JURIC È IL NUOVO RESPONSABILE TECNICO DELL'AS ROMA|data=18 settembre 2024|accesso=18 settembre 2024}}</ref>. Il tecnico croato però non riesce a fare meglio, anzi, dopo aver collezionato soltanto quattro vittorie e ben cinque sconfitte in dodici partite, tra cui un umiliante 5-1 contro la {{Calcio Fiorentina|N}} ed un 1-0 in casa del modesto [[Elfsborg]], e nel bel mezzo di una pesante contestazione della tifoseria giallorossa nei confronti di squadra e società,<ref>{{cita web|url=https://www.gazzetta.it/Calcio/Serie-A/Roma/10-11-2024/roma-bologna-contestazione-della-curva-sud-alcuni-gruppi-fuori-all-intervallo.shtml|titolo="Avete rotto il c..". A Roma una parte della Curva Sud abbandona l'Olimpico all'intervallo|autore=Francesco Balzani|data=10 novembre 2024}}</ref> viene a sua volta esonerato il 10 novembre dopo l'ennesima sconfitta contro il {{Calcio Bologna|N}} all'Olimpico<ref name="asroma.com">{{cita web|url=https://www.asroma.com/it/notizie/72276/nota-del-club|titolo=Nota del club|data=10 novembre 2024}}</ref>. Quattro giorni dopo viene annunciato il ritorno (per la terza volta dopo 5 anni) di [[Claudio Ranieri]] sulla panchina giallorossa<ref>{{cita web|url=https://www.asroma.com/it/notizie/72288/claudio-ranieri-e-il-nuovo-responsabile-tecnico-dellas-roma|titolo=Claudio Ranieri è il nuovo responsabile tecnico dell'AS Roma|data=14 novembre 2024}}</ref>. Dopo un inizio traballante caratterizzato dalle sconfitte contro {{Calcio Napoli|N}} (1-0) e contro {{Calcio Atalanta|N}} (0-2) entrambi in alta classifica, Ranieri riporta la Roma ad una roboante vittoria contro il [[Parma Calcio 1913|Parma]] (5-0). Dopo un passo falso a Como e il passaggio del turno riuscito in Coppa Italia a scapito della {{Calcio Sampdoria|N}}, il club rimane imbattuto contro {{Calcio Milan|N}}, {{Calcio Lazio|N}} e {{Calcio Bologna|N}} a cavallo tra il 2024 e il 2025. Proprio nel derby con la Lazio quarta in classifica ottiene il punteggio migliore tornando a vincere due derby di fila in un anno solare dal 2016.
+
+Dopo la vittoria nel derby con la {{Calcio Lazio|N}}, la Roma prosegue la sua risalita in campionato. Ottenuta una vittoria in casa contro il {{Calcio Genoa|N}} (3-1) e una fondamentale vittoria in trasferta contro l'{{Calcio Udinese|N}} (1-2), segnando la prima vittoria in trasferta della stagione, procede anche in [[UEFA Europa League|Europa League]], dove, nonostante una sconfitta contro l'{{Calcio AZ|N}} (1-0), la squadra trionfa contro l’{{Calcio Eintracht Francoforte|N}} (2-0), assicurandosi la qualificazione ai playoff.
+
+In campionato, la Roma continua la sua striscia positiva con le vittorie in trasferta contro il {{Calcio Venezia|N}} e il {{Calcio Parma|N}} (entrambe 0-1). Nei playoff di [[UEFA Europa League|Europa League]], dopo il pareggio all’andata contro il {{Calcio Porto|N}} (1-1), vince al ritorno con una doppietta di [[Paulo Dybala]] (3-2), qualificandosi per gli ottavi di finale contro l'{{Calcio Atletico Bilbao|N}}.
+
+Successivamente, in [[Serie A]], la squadra continua la rincorsa alla "Zona Europa" tra febbraio e marzo, con una vittoria convincente contro il {{Calcio Monza|N}} (4-0) e due in rimonta per 2-1 contro il {{Calcio Como|N}} (2-1) e l'{{Calcio Atletico Bilbao|N}} (2-1) in [[UEFA Europa League|Europa League]]. Vince anche contro l’Empoli (0-1), con [[Matías Soulé]] che segna il gol più veloce della stagione. Viene però eliminata al ritorno in [[UEFA Europa League 2024-2025|Europa League]] con il risultato di 3-1, complice anche l'espulsione precoce di [[Mats Hummels]]. In campionato, riesce a conquistare altre due vittorie per 1-0 contro {{Calcio Cagliari|N}} e {{Calcio Lecce|N}}, completando un filotto di 7 vittorie consecutive in campionato per la prima volta dal [[Associazione Sportiva Roma 2015-2016|2016]] che riportano la squadra giallorossa in zona Europa League. Deve, però, rinunciare fino a fine stagione a [[Paulo Dybala]], infortunatosi contro il Cagliari, e seguono due pareggi per 1-1 contro Juventus e nel derby contro la Lazio e una vittoria per 1-0 contro il Verona, con quattro mesi consecutivi senza sconfitte in campionato. Vince per 1-0 due volte prima contro l'Inter in trasferta a San Siro e poi in casa all'[[Stadio Olimpico (Roma)|Olimpico]] contro la {{Calcio Fiorentina|N}}. Quest'ultima vittoria porta la striscia a 19 partite consecutive senza sconfitte in campionato. Alla successiva giornata i giallorossi perdono per 2-1 contro l'{{Calcio Atalanta|N}}, ma vincono per 3-1 contro il {{Calcio Milan|N}} alla penultima giornata; all'ultima, la Roma conclude il campionato vincendo per 2-0 contro il {{Calcio Torino|N}}, che però non basta per avanzare in quarta posizione e qualificarsi alla prossima Champions League, complice il contemporaneo successo della Juventus, di una piazza superiore, per 3-2 contro il {{Calcio Venezia|N}}.
+
+La Roma conclude, quindi, il campionato con 69 punti, il miglior dato dei precedenti 7 anni, con più punti conquistati in tutta la Serie per quanto riguarda il girone di ritorno e l'anno solare 2025, e con ben 56 punti conquistati nelle 26 partite sotto la guida di Claudio Ranieri.<ref>{{Cita web|lingua=it|autore=Sky Sport|url=https://sport.sky.it/calcio/serie-a/roma-classifica-con-ranieri|titolo=Con Ranieri in panchina nessuno ha fatto meglio della Roma|sito=sport.sky.it|data=2025-05-26|accesso=2025-05-28}}</ref>
+
+== Divise e sponsor ==
+Lo sponsor tecnico è [[Adidas]], il ''main sponsor'' è Riyadh Season, mentre il ''back sponsor'' è Auberge Resorts.
+{|
+|-
+|{{Divisa Calcio
+|pattern_la = _roma2425h
+|pattern_b = _roma2425h
+|pattern_ra = _roma2425h
+|pattern_sh = _roma2425h
+|socks = 8E1111
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma2425a
+|pattern_b = _roma2425a
+|pattern_ra = _roma2425a
+|pattern_sh = _roma2425a
+|pattern_so = _roma2425a
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la = _roma2425t
+|pattern_b = _roma2425t
+|pattern_ra = _roma2425t
+|pattern_sh = _roma2425t
+|pattern_so = _roma2425t
+|title = Terza divisa
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''<ref>{{cita web|url=http://www.asroma.com/it/club/organigramma-societario|titolo=Organigramma societario|editore=asroma.com|accesso=7 luglio 2017}}</ref>
+* Presidente: [[Dan Friedkin]]
+* Vicepresidente esecutivo: Ryan Friedkin
+* Chief Executive Officer: ''carica vacante''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71928/nota-del-club|titolo=Nota del Club|data=22 settembre 2024|accesso=22 settembre 2024}}</ref><ref>{{Cita news|url=https://www.sportmediaset.mediaset.it/calcio/roma/roma-l-amministratore-delegato-lina-souloukou-ha-rassegnato-le-dimissioni_87745944-202402k.shtml|titolo=Roma, l'Amministratore Delegato Lina Souloukou ha rassegnato le dimissioni|sito=[[Sport Mediaset]]|data=22 settembre 2024|accesso=22 settembre 2024}}</ref>
+* Chief Administrative Officer e General Counsel: Lorenzo Vitali
+* Chief Football Operating Officer: Maurizio Lombardo
+* Consiglieri: Marc Watts, Eric Williamson
+* General Manager: [[Florent Ghisolfi]]
+* Direttore Sportivo: Simone Ricchio
+'''''Area tecnica'''''<ref name=Org>{{cita web|titolo=All players and staff|url=https://www.asroma.com/it/team/players-and-staff|accesso=2 luglio 2019}}</ref>
+* Allenatore: [[Daniele De Rossi]], dal 18 settembre [[Ivan Jurić]], dal 14 novembre [[Claudio Ranieri]]
+* Allenatore in seconda: [[Guillermo Giacomazzi]], dal 18 settembre [[Matteo Paro]], dal 14 novembre [[Paolo Benetti]]
+* Assistente tecnico: Enrico Iodice, Emanuele Mancini, dal 18 settembre Stjepan Ostojić, dal 14 novembre Sergio Spalla
+* Match analyst: Francesco Checcucci, Simone Beccaccioli, dal 24 settembre Michele Salzarulo
+* Preparatore dei portieri: Simone Farelli
+* Preparatore atletico: Gianni Brignardello, dal 18 settembre Paolo Barbero, dal 14 novembre Carlo Spignoli, Massimo Catalano
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa (numerazione aggiornate al 18 gennaio 2025).<ref>{{cita web|url=https://www.asroma.com/it/team/players-and-staff|titolo=ALL PLAYERS AND STAFF|accesso=31 agosto 2021}}</ref><ref>{{cita web|url= https://img.legaseriea.it/vimages/66c19511/C.S.%208%20-%20Numerazioni%20Maglie%20Serie%20A%20Enilive%202024-2025.pdf|titolo=Numerazioni maglie Serie A Enilive 2024-2025|accesso=17 agosto 2024}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=2|nazione=NED|nome=[[Devyne Rensch]]<ref name="inverno_acq">Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=ESP|nome=[[Angeliño]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Bryan Cristante]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=CIV|nome=[[Evan Ndicka]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=ITA|nome=[[Lorenzo Pellegrini]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=''9''|nazione=ENG|nome=''[[Tammy Abraham]]''<ref name=cessest>Ceduto durante la sessione estiva di mercato, a stagione in corso</ref>|ruolo=A}}
+{{Calciatore in rosa|n=11|nazione=UKR|nome=[[Artem Dovbyk]]|ruolo=A}}
+{{Calciatore in rosa|n=12|nazione=SAU|nome=[[Saud Abdulhamid]]|ruolo=D}}
+{{Calciatore in rosa|n=14|nazione=UZB|nome=[[Eldor Shomurodov]]|ruolo=A}}
+{{Calciatore in rosa|n=15|nazione=DEU|nome=[[Mats Hummels]]|ruolo=D}}
+{{Calciatore in rosa|n=16|nazione=ARG|nome=[[Leandro Paredes]]|ruolo=C}}
+{{Calciatore in rosa|n=17|nazione=FRA|nome=[[Manu Koné]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ARG|nome=[[Matías Soulé]]|ruolo=A}}
+{{Calciatore in rosa|n=19|nazione=TUR|nome=[[Zeki Çelik]]|ruolo=D}}
+{{Calciatore in rosa|n=21|nazione=ARG|nome=[[Paulo Dybala]]|ruolo=A}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=''22''|nazione=ESP|nome=''[[Mario Hermoso]]''<ref name="inverno_ces" />|ruolo=D}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Gianluca Mancini]]|ruolo=D|altro=v}}
+{{Calciatore in rosa|n=25|nazione=DNK|nome=[[Victor Nelsson]]<ref name="inverno_acq">Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=''26''|nazione=SWE|nome=''[[Samuel Dahl]]''<ref name="inverno_ces" />|ruolo=D}}
+{{Calciatore in rosa|n=27|nazione=FRA|nome=[[Lucas Gourna-Douath]]<ref name="inverno_acq">Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=''28''|nazione=FRA|nome=''[[Enzo Le Fée]]''<ref name="inverno_ces">Ceduto durante la sessione invernale di calciomercato.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=34|nazione=NED|nome=[[Anass Salah-Eddine]]<ref name="inverno_acq">Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=35|nazione=ITA|nome=[[Tommaso Baldanzi]]|ruolo=A}}
+{{Calciatore in rosa|n=56|nazione=BEL|nome=[[Alexis Saelemaekers]]|ruolo=C}}
+{{Calciatore in rosa|n=''59''|nazione=POL|nome=''[[Nicola Zalewski]]''<ref name="inverno_ces" />|ruolo=C}}
+{{Calciatore in rosa|n=61|nazione=ITA|nome=[[Niccolò Pisilli]]|ruolo=C}}
+{{Calciatore in rosa|n=92|nazione=ITA|nome=[[Stephan El Shaarawy]]|ruolo=A}}
+{{Calciatore in rosa|n=95|nazione=ITA|nome=[[Pierluigi Gollini]]<ref name="inverno_acq"/>|ruolo=P}}
+{{Calciatore in rosa|n=''98''|nazione=AUS|nome=''[[Mathew Ryan]]''<ref name="inverno_ces" />|ruolo=P}}
+{{Calciatore in rosa|n=99|nazione=SRB|nome=[[Mile Svilar]]|ruolo=P}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+=== Sessione estiva ''(dal 1/7 al 1/9)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+| P || [[Mathew Ryan]] || || ''svincolato''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71539/mathew-ryan-e-un-nuovo-calciatore-giallorosso |titolo= Mathew Ryan è un nuovo calciatore giallorosso|accesso=17 luglio 2024}}</ref>
+|-
+| D || [[Angeliño]] || {{Calcio RB Lipsia|N}} || ''riscatto prestito'' (5,2 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71305/angelino-riscattato-dal-lipsia-il-giocatore-si-lega-al-club-a-titolo-definitivo |titolo= Angeliño riscattato dal Lipsia, il giocatore si lega al club a titolo definitivo|accesso=31 maggio 2024}}</ref>
+|-
+| D || [[Samuel Dahl]] || {{Calcio Djurgarden|N}} || ''definitivo'' (4,3 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71591/samuel-dahl-e-un-nuovo-calciatore-giallorosso |titolo= Samuel Dahl è un nuovo calciatore della Roma|accesso=28 luglio 2024}}</ref>
+|-
+| D || [[Saud Abdulhamid]] || {{Calcio Al Hilal|N}} || ''definitivo'' (2,5 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71736/saud-abdulhamid-e-un-nuovo-calciatore-giallorosso |titolo= Saud Abdulhamid è un nuovo calciatore giallorosso|accesso=27 agosto 2024}}</ref>
+|-
+| C || [[Enzo Le Fée]] || {{Calcio Rennes|N}} || ''definitivo'' (23 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71508/enzo-le-fee-e-un-nuovo-calciatore-della-roma |titolo= Enzo Le Fée è un nuovo calciatore della Roma|accesso=10 luglio 2024}}</ref>
+|-
+| C || [[Alexis Saelemaekers]] || {{Calcio Milan|N}} || ''prestito''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71763/alexis-saelemaekers-e-un-nuovo-calciatore-giallorosso |titolo= Alexis Saelemaekers è un nuovo calciatore giallorosso|accesso=30 agosto 2024}}</ref>
+|-
+| C || [[Manu Koné]] || {{Calcio Borussia Monchengladbach|N}} || ''prestito con obbligo di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71764/manu-kone-e-un-nuovo-calciatore-giallorosso |titolo= Manu Koné è un nuovo calciatore giallorosso|accesso=30 agosto 2024}}</ref>
+|-
+| A || [[Artem Dovbyk]] || {{Calcio Girona|N}} || ''definitivo'' (30,5 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71620/artem-dovbyk-e-un-nuovo-calciatore-giallorosso|titolo=Artem Dovbyk è un nuovo calciatore giallorosso|accesso=2 agosto 2024}}</ref>
+|-
+| A || [[Matías Soulé]] || {{Calcio Juventus|N}} || ''definitivo'' (25,6 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71606/matias-soule-e-un-nuovo-calciatore-giallorosso|titolo=Matías Soulé è un nuovo calciatore giallorosso|accesso=30 luglio 2024}}</ref>
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!da
+!Modalità
+|-
+| P || Davide Mastrantonio || {{Calcio Pro Vercelli|N}} || ''fine prestito''
+|-
+| D || [[Buba Sangaré]] || {{Calcio Levante|N}} || ''definitivo'' (1,5 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71372/buba-sangare-e-un-nuovo-calciatore-giallorosso |titolo= Buba Sangare è un nuovo calciatore giallorosso|accesso=1º luglio 2024}}</ref>
+|-
+| D || [[Marash Kumbulla]] || {{Calcio Sassuolo|N}} || ''fine prestito''
+|-
+| C || [[Ebrima Darboe]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|-
+| A || [[Andrea Belotti]] || {{Calcio Fiorentina|N}} || ''fine prestito''
+|-
+| A || [[Eldor Shomurodov]] || {{Calcio Cagliari|N}} || ''fine prestito''
+|-
+| A || [[Ola Solbakken]] || {{Calcio Red Diamonds|N}} || ''fine prestito''
+|-
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+| P || [[Rui Patrício]] || || ''svincolato''<ref>Trasferitosi all'{{Calcio Atalanta|N}} nella stessa sessione di mercato.</ref>
+|-
+| D || [[Rasmus Kristensen]] || {{Calcio Leeds|N}} || ''fine prestito''
+|-
+| D || [[Diego Llorente]] || {{Calcio Leeds|N}} || ''fine prestito''
+|-
+| D || [[Leonardo Spinazzola]] || || ''svincolato''<ref>Trasferitosi al {{Calcio Napoli|N}} nella stessa sessione di mercato.</ref>
+|-
+| D || [[Dean Huijsen]] || {{Calcio Juventus|N}} || ''fine prestito''
+|-
+| D || [[Rick Karsdorp]] || || ''rescissione consensuale''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71747/rick-karsdorp-rescinde-consensualmente-il-contratto-con-il-club|titolo= Rick Karsdorp rescinde consensualmente il contratto con il club|accesso=29 agosto 2024}}</ref>
+|-
+| D || [[Chris Smalling]] || {{Calcio Al Fayha|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71811/chris-smalling-ceduto-a-titolo-definitivo-allal-fayha|titolo= Chris Smalling ceduto a titolo definitivo all'Al-Fayha|accesso=2 settembre 2024}}</ref>
+|-
+| C || [[Renato Sanches]] || {{Calcio PSG|N}} || ''fine prestito''
+|-
+| C || [[Houssem Aouar]] || {{Calcio Al Ittihad|N}} || ''definitivo'' (12 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71524/houssem-aouar-ceduto-a-titolo-definitivo-allal-ittihad|titolo= Houssem Aouar ceduto a titolo definitivo all'Al-Ittihād|accesso=17 luglio 2024}}</ref>
+|-
+| C || [[Edoardo Bove]] || {{Calcio Fiorentina|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71760/edoardo-bove-ceduto-in-prestito-alla-fiorentina|titolo= Edoardo Bove ceduto in prestito alla Fiorentina|accesso=30 agosto 2024}}</ref>
+|-
+| A || [[Sardar Azmoun]] || {{Calcio Bayer Leverkusen|N}} || ''fine prestito''
+|-
+| A || [[Romelu Lukaku]] || {{Calcio Chelsea|N}} || ''fine prestito''
+|-
+| A || [[Tammy Abraham]] || {{Calcio Milan|N}} || ''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71765/tammy-abraham-ceduto-in-prestito-al-milan|titolo= Tammy Abraham ceduto in prestito al Milan|accesso=30 agosto 2024}}</ref>
+|-
+! colspan="4" |Altre Operazioni
+|-
+!R.
+!Nome
+!a
+!Modalità
+|-
+| P || Pietro Boer || {{Calcio Pianese|N}} || ''prestito''<ref>{{Cita web|url=https://uspianese.it/in-evidenza/un-nuovo-portiere-per-la-pianese-in-bianconero-arriva-pietro-boer/ |titolo= Un nuovo portiere per la Pianese, in bianconero arriva Pietro Boer|accesso=5 agosto 2024}}</ref>
+|-
+| P || Davide Mastrantonio || {{Calcio Milan Futuro|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://twitter.com/OfficialASRoma/status/1819417883275153917?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1819417883275153917%7Ctwgr%5E9fd0667822057ce6f2e0dc01c3366b3cde549a1e%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.ilromanista.eu%2Fnews%2Fas-roma%2F152898%2Ffoto-ufficiale-mastrantonio-ceduto-in-prestito-al-milan-futuro |titolo= Davide Mastrantonio ceduto a titolo temporaneo al Milan Futuro|accesso=2 agosto 2024}}</ref>
+|-
+| D || Jan Oliveras || {{Calcio Dinamo Zagabria|N}} || ''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71552/jan-oliveras-ceduto-a-titolo-temporaneo-alla-dinamo-zagabria |titolo= Jan Oliveras ceduto a titolo temporaneo alla Dinamo Zagabria|accesso=14 agosto 2024}}</ref>
+|-
+|-
+| D ||[[Marash Kumbulla]] || {{Calcio Espanyol|N}} || ''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71675/marash-kumbulla-ceduto-a-titolo-temporaneo-allespanyol |titolo= Marash Kumbulla ceduto a titolo temporaneo all'Espanyol|accesso=17 agosto 2024}}</ref>
+|-
+| C || [[Riccardo Pagano]] || {{Calcio Catanzaro|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71586/riccardo-pagano-ceduto-in-prestito-allus-catanzaro-1929 |titolo= Riccardo Pagano ceduto in prestito all'US Catanzaro 1929|accesso=26 luglio 2024}}</ref>
+|-
+| C || [[Ebrima Darboe]] || {{Calcio Frosinone|N}} || ''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71660/ebrima-darboe-ceduto-a-titolo-temporaneo-al-frosinone |titolo= Ebrima Darboe ceduto a titolo temporaneo al Frosinone|accesso=12 agosto 2024}}</ref>
+|-
+| A || [[Andrea Belotti]] || {{Calcio Como|N}} || ''definitivo'' (4,5 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71359/andrea-belotti-ceduto-a-titolo-definitivo-al-como |titolo= Andrea Belotti ceduto a titolo definitivo al Como|accesso=25 giugno 2024}}</ref>
+|-
+| A || [[Luigi Cherubini (calciatore)|Luigi Cherubini]] || {{Calcio Carrarese|N}} || ''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71595/luigi-cherubini-ceduto-in-prestito-alla-carrarese-calcio |titolo= Luigi Cherubini ceduto in prestito alla Carrarese Calcio|accesso=27 luglio 2024}}</ref>
+|-
+| A || [[Ola Solbakken]] || {{Calcio Empoli|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71663/ola-solbakken-ceduto-a-titolo-temporaneo-allempoli |titolo= Ola Solbakken ceduto a titolo temporaneo all'Empoli|accesso=14 agosto 2024}}</ref>
+|-
+| A || [[João Costa (calciatore 2005)|João Costa]] || {{Calcio Al Ettifaq|N}} || ''definitivo'' (9 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/71815/joao-costa-ceduto-a-titolo-definitivo-allal-ettifaq |titolo= João Costa ceduto a titolo definitivo all'Al-Ettifaq|accesso=2 settembre 2024}}</ref>
+|-
+|}
+{{colonne fine}}
+=== Operazioni esterne alle finestre di calciomercato ===
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+| D || [[Mario Hermoso]] || || ''svincolato''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71813/mario-hermoso-e-un-nuovo-calciatore-giallorosso |titolo= Mario Hermoso è un nuovo calciatore giallorosso|accesso=2 settembre 2024}}</ref>
+|-
+| D || [[Mats Hummels]] || || ''svincolato''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/71821/mats-hummels-e-un-nuovo-calciatore-giallorosso |titolo= Mats Hummels è un nuovo calciatore giallorosso|accesso=4 settembre 2024}}</ref>
+|-
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+|}
+{{colonne fine}}
+=== Sessione invernale ''(dal 2/1 al 3/2)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P || [[Pierluigi Gollini]] || {{Calcio Atalanta|N}} || ''definitivo'' (800 mila €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72643/pierluigi-gollini-e-un-nuovo-calciatore-giallorosso |titolo= Pierluigi Gollini è un nuovo calciatore giallorosso|accesso=24 gennaio 2025}}</ref>
+|-
+| D || [[Devyne Rensch]] || {{Calcio Ajax|N}} || ''definitivo'' (5 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72646/devyne-rensch-e-un-nuovo-calciatore-giallorosso |titolo= Devyne Rensch è un nuovo calciatore giallorosso|accesso=23 gennaio 2025}}</ref>
+|-
+| D || [[Victor Nelsson]] || {{Calcio Galatasaray|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72749/victor-nelsson-e-un-nuovo-calciatore-giallorosso |titolo= Victor Nelsson è un nuovo calciatore giallorosso|accesso=3 febbraio 2025}}</ref>
+|-
+| D || [[Anass Salah-Eddine]] || {{Calcio Twente|N}} || ''definitivo'' (8 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72748/anass-salah-eddine-e-un-nuovo-calciatore-giallorosso |titolo= Anass Salah-Eddine è un nuovo calciatore giallorosso|accesso=4 febbraio 2025}}</ref>
+|-
+| C || [[Lucas Gourna-Douath]] || {{Calcio Salisburgo|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72753/lucas-gourna-douath-e-un-nuovo-calciatore-giallorosso |titolo= Lucas Gourna-Douath è un nuovo calciatore giallorosso|accesso=4 febbraio 2025}}</ref>
+|-
+! colspan="4" | Altre operazioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| P || Davide Mastrantonio || {{Calcio Milan Futuro|N}} || ''fine prestito''
+|-
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P || [[Mathew Ryan]] || {{Calcio Lens|N}} || ''definitivo'' (800 mila €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72642/mathew-ryan-ceduto-a-titolo-definitivo-al-lens |titolo= Mathew Ryan ceduto a titolo definitivo al Lens|accesso=21 gennaio 2025}}</ref>
+|-
+| D || [[Mario Hermoso]] || {{Calcio Bayer Leverkusen|N}} || ''prestito''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72697/mario-hermoso-ceduto-a-titolo-temporaneo-al-bayer-leverkusen |titolo= Mario Hermoso ceduto a titolo temporaneo al Bayer Leverkusen|accesso=31 gennaio 2025}}</ref>
+|-
+| D || [[Samuel Dahl]] || {{Calcio Benfica|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72740/samuel-dahl-ceduto-a-titolo-temporaneo-al-benfica |titolo= Samuel Dahl ceduto a titolo temporaneo al Benfica|accesso=4 febbraio 2025}}</ref>
+|-
+| C || [[Enzo Le Fée]] || {{Calcio Sunderland|N}} || ''prestito con obbligo condizionato''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72585/enzo-le-fee-ceduto-a-titolo-temporaneo-al-sunderland |titolo= Enzo Le Fée ceduto a titolo temporaneo al Sunderland|accesso=10 gennaio 2025}}</ref>
+|-
+| C || [[Nicola Zalewski]] || {{Calcio Inter|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/72733/nicola-zalewski-ceduto-a-titolo-temporaneo-allinter |titolo= Nicola Zalewski ceduto a titolo temporaneo all'Inter|accesso=1º febbraio 2025}}</ref>
+|-
+! colspan="4" | Altre operazioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| P || Davide Mastrantonio || {{Calcio Triestina|N}} || ''prestito''<ref>{{Cita web|url=https://www.triestina1918.it/it/maschile-news/374/davide-mastrantonio-firma-con-la-triestina |titolo= Davide Mastrantonio firma con la Triestina|accesso=30 gennaio 2025}}</ref>
+|-
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 2024-2025}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 agosto
+|Anno = 2024
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni1cagrom
+|Città = [[Cagliari]]
+|Stadio = [[Unipol Domus]]
+|Spettatori = {{formatnum:16261}}
+|Arbitro = [[Livio Marinelli|Marinelli]]
+|Cittarbitro = [[Tivoli]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+|id = 1
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 agosto
+|Anno = 2024
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni2romemp
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:67517}}
+|Arbitro = [[Luca Zufferli|Zufferli]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 = [[Eldor Shomurodov|Shomurodov]] {{goal|80}}
+|Marcatori 2 = {{goal|45}} [[Emmanuel Gyasi|Gyasi]] <br> {{goal|61|rig}} [[Lorenzo Colombo|Colombo]]
+|Sfondo = on
+|id = 2
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º settembre
+|Anno = 2024
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni3juvrom
+|Città = [[Torino]]
+|Stadio = [[Juventus Stadium]]
+|Spettatori = {{formatnum:41375}}
+|Arbitro = [[Marco Guida|Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+|id = 3
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 2024
+|Ora = 12:30 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni4genrom
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:33009}}
+|Arbitro = [[Antonio Giua|Giua]]
+|Cittarbitro = [[Olbia]]
+|Marcatori 1 = [[Koni De Winter|De Winter]] {{goal|90+6}}
+|Marcatori 2 = {{goal|37}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo = on
+|id = 4
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 2024
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni5romudi
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63499}}
+|Arbitro = [[Ermanno Feliciani|Feliciani]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 =[[Artem Dovbyk|Dovbyk]] {{goal|19}} <br> [[Paulo Dybala|Dybala]] {{goal|49|rig}} <br> [[Tommaso Baldanzi|Baldanzi]] {{goal|70}}
+|Marcatori 2 =
+|Sfondo =
+|id = 5
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 settembre
+|Anno = 2024
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni6romven
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62165}}
+|Arbitro = [[Rosario Abisso|Abisso]]
+|Cittarbitro = [[Palermo]]
+|Marcatori 1 = [[Bryan Cristante|Cristante]] {{goal|75}} <br> [[Niccolò Pisilli|Pisilli]] {{goal|83}}
+|Marcatori 2 = {{goal|44}} [[Joel Pohjanpalo|Pohjanpalo]]
+|Sfondo = on
+|id = 6
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 ottobre
+|Anno = 2024
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Monza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni7monrom
+|Città = [[Monza]]
+|Stadio = [[Stadio Brianteo]]
+|Spettatori = {{formatnum:12021}}
+|Arbitro = [[Federico La Penna|La Penna]]
+|Cittarbitro = [[Roma|Roma 1]]
+|Marcatori 1 = [[Dany Mota|Mota]] {{goal|70}}
+|Marcatori 2 = {{goal|61}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo =
+|id = 7
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 ottobre
+|Anno = 2024
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni8romint
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64119}}
+|Arbitro = [[Davide Massa|Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|60}} [[Lautaro Martínez|Martínez]]
+|Sfondo = on
+|id = 8
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 2024
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 9ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni9fiorom
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = {{formatnum:20440}}
+|Arbitro = [[Simone Sozza|Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 = [[Moise Kean|Kean]] {{goal|9||41}}<br/>[[Lucas Beltrán|Beltrán]] {{goal|17|rig}}<br/>[[Edoardo Bove|Bove]] {{goal|52}}<br/>[[Mats Hummels|Hummels]] {{goal|71|aut}}
+|Marcatori 2 = {{goal|39}} [[Manu Koné|Koné]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 2024
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni10romtor
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60920}}
+|Arbitro = [[Michael Fabbri|Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|20}}
+|Marcatori 2 =
+|Sfondo = on
+|id = 10
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 2024
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni11verrom
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = {{formatnum:28185}}
+|Arbitro = [[Matteo Marcenaro|Marcenaro]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Casper Tengstedt|Tengstedt]] {{goal|13}}<br/>[[Giangiacomo Magnani|Magnani]] {{goal|34}}<br/>[[Abdou Harroui|Harroui]] {{goal|88}}
+|Marcatori 2 = {{goal|28}} [[Matías Soulé|Soulé]] <br> {{goal|53}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo =
+|id = 11
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 novembre
+|Anno = 2024
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni12rombol
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60681}}
+|Arbitro = [[Gianluca Manganiello|Manganiello]]
+|Cittarbitro = [[Pinerolo]]
+|Marcatori 1 = [[Stephan El Shaarawy|El Shaarawy]] {{goal|63||82}}
+|Marcatori 2 = {{goal|25}} [[Santiago Castro (calciatore 2004)|Castro]] <br> {{goal|66}} [[Riccardo Orsolini|Orsolini]] <br> {{goal|77}} [[Jesper Karlsson|Karlsson]]
+|Sfondo = on
+|id = 12
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 novembre
+|Anno = 2024
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni13naprom
+|Città = [[Napoli]]
+|Stadio = [[Stadio Diego Armando Maradona (Napoli)|Stadio Diego Armando Maradona]]
+|Spettatori = {{formatnum:51164}}
+|Arbitro = [[Davide Massa|Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Romelu Lukaku|Lukaku]] {{goal|54}}
+|Marcatori 2 =
+|Sfondo =
+|id = 13
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 2024
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni14romata/live
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:55772}}
+|Arbitro = [[Marco Guida|Guida]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|69}} [[Marten de Roon|De Roon]] <br> {{goal|88}} [[Nicolò Zaniolo|Zaniolo]]
+|Sfondo = on
+|id = 14
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Anno = 2024
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni15romlec
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:58213}}
+|Arbitro = [[Daniele Chiffi|Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Alexis Saelemaekers|Saelemaekers]] {{goal|13}} <br/> [[Gianluca Mancini|Mancini]] {{goal|59}} <br/> [[Niccolò Pisilli|Pisilli]] {{goal|66}} <br/> [[Manu Koné|Koné]] {{goal|86}}
+|Marcatori 2 = {{goal|40|rig}} [[Nikola Krstović|Krstović]]
+|Sfondo =
+|id = 15
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 dicembre
+|Anno = 2024
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Como
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni16comrom
+|Città = [[Como]]
+|Stadio = [[Stadio Giuseppe Sinigaglia]]
+|Spettatori = {{formatnum:10376}}
+|Arbitro = [[Antonio Rapuano|Rapuano]]
+|Cittarbitro = [[Rimini]]
+|Marcatori 1 = [[Alessandro Gabrielloni|Gabrielloni]] {{goal|90+3}} <br> [[Nico Paz|Paz]] {{goal|90+7}}
+|Marcatori 2 =
+|Sfondo = on
+|id = 16
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 dicembre
+|Anno = 2024
+|Ora = 12:30 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni17rompar
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62968}}
+|Arbitro = [[Marco Di Bello|Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|8|rig|51}} <br> [[Alexis Saelemaekers|Saelemaekers]] {{goal|13}} <br> [[Leandro Paredes|Paredes]] {{goal|74|rig}} <br> [[Artem Dovbyk|Dovbyk]] {{goal|83}}
+|Marcatori 2 =
+|Sfondo =
+|id = 17
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 dicembre
+|Anno = 2024
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni18milrom
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:74283}}
+|Arbitro = [[Michael Fabbri|Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Tijjani Reijnders|Reijnders]] {{goal|16}}
+|Marcatori 2 = {{goal|23}} [[Paulo Dybala|Dybala]]
+|Sfondo = on
+|id = 18
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 gennaio
+|Anno = 2025
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-lazio-serie-a-matchday-19
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:65042}}
+|Arbitro = [[Luca Pairetto|Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Lorenzo Pellegrini|Pellegrini]] {{goal|10}} <br> [[Alexis Saelemaekers|Saelemaekers]] {{goal|18}}
+|Sfondo =
+|id = 19
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 2025
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/bologna-roma-serie-a-matchday-20
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = {{formatnum:30226}}
+|Arbitro = [[Rosario Abisso|Abisso]]
+|Cittarbitro = [[Palermo]]
+|Marcatori 1 = [[Thijs Dallinga|Dallinga]] {{goal|61}} <br> [[Lewis Ferguson|Ferguson]] {{goal|65|rig}}
+|Marcatori 2 = {{goal|58}} [[Alexis Saelemaekers|Saelemaekers]] <br> {{goal|90+8|rig}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo = on
+|id = 20
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 2025
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-genoa-serie-a-matchday-21
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60000}}
+|Arbitro = [[Luca Zufferli|Zufferli]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 = [[Artem Dovbyk|Dovbyk]] {{goal|25}} <br> [[Stephan El Shaarawy|El Shaarawy]] {{goal|60}} <br> [[Nicola Leali|Leali]] {{goal|73|aut}}
+|Marcatori 2 = {{goal|33}} [[Patrizio Masini|Masini]]
+|Sfondo =
+|id = 21
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 gennaio
+|Anno = 2025
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni22udirom
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli|Bluenergy Stadium]]
+|Spettatori = {{formatnum:23853}}
+|Arbitro = [[Simone Sozza|Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 = [[Lorenzo Lucca|Lucca]] {{goal|38}}
+|Marcatori 2 = {{goal|50|rig}} [[Lorenzo Pellegrini|Pellegrini]] <br> {{goal|64|rig}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo = on
+|id = 22
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 febbraio
+|Anno = 2025
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni23romnap
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60788}}
+|Arbitro = [[Michael Fabbri|Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Angeliño]] {{goal|90+2}}
+|Marcatori 2 = {{goal|29}} [[Leonardo Spinazzola|Spinazzola]]
+|Sfondo =
+|id = 23
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 febbraio
+|Anno = 2025
+|Ora = 12:30 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Venezia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/venezia-roma-serie-a-matchday-24
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pierluigi Penzo]]
+|Spettatori = {{formatnum:9380}}
+|Arbitro = [[Luca Zufferli|Zufferli]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|57|rig}} [[Paulo Dybala|Dybala]]
+|Sfondo = on
+|id = 24
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio
+|Anno = 2025
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/parma-roma-serie-a-matchday-25
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = {{formatnum:20559}}
+|Arbitro = [[Daniele Chiffi|Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|33}} [[Matías Soulé|Soulé]]
+|Sfondo =
+|id = 25
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 febbraio
+|Anno = 2025
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Monza
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-monza-serie-a-matchday-26
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:56965}}
+|Arbitro = [[Fabio Maresca|Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Alexis Saelemaekers|Saelemaekers]] {{goal|10}} <br> [[Eldor Shomurodov|Shomurodov]] {{goal|32}} <br> [[Angeliño]] {{goal|73}} <br> [[Bryan Cristante|Cristante]] {{goal|88}}
+|Marcatori 2 =
+|Sfondo = on
+|id = 26
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 2025
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Como
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-como-serie-a-matchday-27
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62125}}
+|Arbitro = [[Luca Pairetto|Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Alexis Saelemaekers|Saelemaekers]] {{goal|61}} <br> [[Artem Dovbyk|Dovbyk]] {{goal|76}}
+|Marcatori 2 = {{goal|44}} [[Lucas Da Cunha|Da Cunha]]
+|Sfondo =
+|id = 27
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 marzo
+|Anno = 2025
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 28ª giornata
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/empoli-roma-serie-a-matchday-28
+|Città = [[Empoli]]
+|Stadio = [[Stadio Carlo Castellani]]
+|Spettatori = {{formatnum:12393}}
+|Arbitro = [[Marco Di Bello|Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|1}} [[Matías Soulé|Soulé]]
+|Sfondo = on
+|id = 28
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 2025
+|Ora = 16:00 [[Central European Time|CET]]<ref>La partita, inizialmente in programma alle ore 15:00 [[Central European Time|CET]], è stata posticipata di un'ora in ottemperanza alle decisioni del Comitato Provinciale per l'Ordine e la Sicurezza Pubblica, per la concomitanza con la [[Maratona di Roma]], cfr. {{cita web|url=https://acrobat.adobe.com/id/urn:aaid:sc:EU:e87c09b8-9a9a-4d6c-a3d5-7efa306e93ad|titolo=Variazione Anticipi e Posticipi Serie A Enilive Roma-Cagliari, Giornata 29|data=5 marzo 2025}}</ref>
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-cagliari-serie-a-matchday-29
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62911}}
+|Arbitro = [[Marco Piccinini (arbitro)|Piccinini]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Artem Dovbyk|Dovbyk]] {{goal|62}}
+|Marcatori 2 =
+|Sfondo =
+|id = 29
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 marzo
+|Anno = 2025
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 30ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/lecce-roma-serie-a-matchday-30
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del mare]]
+|Spettatori = {{formatnum:27207}}
+|Arbitro = [[Gianluca Manganiello|Manganiello]]
+|Cittarbitro = [[Pinerolo]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|80}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo = on
+|id = 30
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 aprile
+|Anno = 2025
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-juventus-serie-a-matchday-31
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:65778}}
+|Arbitro = [[Andrea Colombo (arbitro)|Colombo]]
+|Cittarbitro = [[Como]]
+|Marcatori 1 = [[Eldor Shomurodov|Shomurodov]] {{goal|49}}
+|Marcatori 2 = {{goal|40}} [[Manuel Locatelli|Locatelli]]
+|Sfondo =
+|id = 31
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 aprile
+|Anno = 2025
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/lazio-roma-serie-a-matchday-32
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63000}}
+|Arbitro = [[Simone Sozza|Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 = [[Alessio Romagnoli|Romagnoli]] {{goal|47}}
+|Marcatori 2 = {{goal|69}} [[Matías Soulé|Soulé]]
+|Sfondo = on
+|id = 32
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 aprile
+|Anno = 2025
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-hellas-verona-serie-a-matchday-33
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63435}}
+|Arbitro = [[Luca Pairetto|Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Eldor Shomurodov|Shomurodov]] {{goal|4}}
+|Marcatori 2 =
+|Sfondo =
+|id = 33
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 aprile
+|Anno = 2025
+|Ora = 15:00 [[Central European Summer Time|CEST]]<ref>La partita, inizialmente prevista il 26 aprile alle ore 18:00 [[Central European Summer Time|CEST]], è stata posticipata al giorno successivo per le esequie di [[Papa Francesco]], cfr. {{Cita web|url=https://img.legaseriea.it/vimages/6807e691/214%20-%20variazione%20programma%20gare%2034%5E%20giornata%20Serie%20A%20Enilive.pdf|titolo=Comunicato ufficiale n. 214|data=22 aprile 2022|accesso=22 aprile 2025|urlmorto=sì}}</ref>
+|Turno = 34ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25aunicouni34introm
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:70240}}
+|Arbitro = [[Michael Fabbri|Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|22}} [[Matías Soulé|Soulé]]
+|Sfondo = on
+|id = 34
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 maggio
+|Anno = 2025
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-fiorentina-serie-a-matchday-35
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63640}}
+|Arbitro = [[Daniele Chiffi|Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 =[[Artem Dovbyk|Dovbyk]] {{goal|45+5}}
+|Marcatori 2 =
+|Sfondo =
+|id = 35
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 maggio
+|Anno = 2025
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/atalanta-roma-serie-a-matchday-36
+|Città = [[Bergamo]]
+|Stadio = [[Gewiss Stadium]]
+|Spettatori = {{formatnum:23249}}
+|Arbitro = [[Simone Sozza|Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 = [[Ademola Lookman|Lookman]] {{goal|9}} <br> [[Ibrahim Sulemana|Sulemana]] {{goal|76}}
+|Marcatori 2 = {{goal|32}} [[Bryan Cristante|Cristante]]
+|Sfondo = on
+|id = 36
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 maggio
+|Anno = 2025
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-milan-serie-a-matchday-37
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:74283}}
+|Arbitro = [[Marco Piccinini (arbitro)|Piccinini]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Gianluca Mancini|Mancini]] {{goal|3}} <br> [[Leandro Paredes|Paredes]] {{goal|58}} <br> [[Bryan Cristante|Cristante]] {{goal|87}}
+|Marcatori 2 = {{goal|39}} [[João Félix]]
+|id = 37
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 maggio
+|Anno = 2025
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/torino-roma-serie-a-matchday-38
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino]]
+|Spettatori = {{formatnum:24252}}
+|Arbitro = [[Marco Di Bello|Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|18|rig}} [[Leandro Paredes|Paredes]] <br> {{goal|53}} [[Alexis Saelemaekers|Saelemaekers]]
+|Sfondo = on
+|id = 38
+}}
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2024-2025}}
+==== Fase finale ====
+{{Vedi anche|Coppa Italia 2024-2025 (fase finale)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Anno = 2024
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/2024-25cpitaottavuni1romsam
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:56858}}
+|Arbitro = [[Federico Dionisi (arbitro)|Dionisi]]
+|Cittarbitro = [[L'Aquila]]
+|Marcatori 1 = [[Artem Dovbyk|Dovbyk]] {{goal|9||19}}<br/>[[Tommaso Baldanzi|Baldanzi]] {{goal|24}}<br/>[[Eldor Shomurodov|Shomurodov]] {{goal|79}}
+|Marcatori 2 = {{goal|61}} [[Gerard Yepes|Yepes]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 febbraio
+|Anno = 2025
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Quarti di finale
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/milan-roma-coppa-italia-quarter-finals
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:57878}}
+|Arbitro = [[Marco Piccinini (arbitro)|Piccinini]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Tammy Abraham|Abraham]] {{goal|16||42}}<br/>[[João Félix]] {{goal|71}}
+|Marcatori 2 = {{goal|54}} [[Artem Dovbyk|Dovbyk]]
+|Sfondo = on
+}}
+=== UEFA Europa League ===
+{{vedi anche|UEFA Europa League 2024-2025}}
+==== Fase campionato ====
+{{vedi anche|UEFA Europa League 2024-2025 (fase campionato)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 2024
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Athletic Bilbao
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042088--roma-vs-athletic-club/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63072}}
+|Arbitro = [[Georgi Kabakov|Kabakov]]
+|Nazarbitro = BGR
+|Marcatori 1 = [[Artem Dovbyk|Dovbyk]] {{goal|32}}
+|Marcatori 2 = {{goal|85}} [[Aitor Paredes|Paredes]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 2024
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Elfsborg
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042114--elfsborg-vs-roma/
+|Città = [[Borås]]
+|Stadio = [[Borås Arena]]
+|Spettatori = {{formatnum:11978}}
+|Arbitro = [[Kristo Tohver|Tohver]]
+|Nazarbitro = EST
+|Marcatori 1 = [[Michael Baidoo|Baidoo]] {{goal|44|rig}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 2024
+|Ora = 18:45 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Dinamo Kiev
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042117--roma-vs-dynamo-kyiv/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61621}}
+|Arbitro = [[Serdar Gözübüyük|Gözübüyük]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Artem Dovbyk|Dovbyk]] {{goal|23|rig}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 2024
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = 4ª giornata
+|Squadra 1 = Union Saint-Gilloise
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042143--union-sg-vs-roma/
+|Città = [[Bruxelles]]
+|Stadio = [[Stadio Re Baldovino]]
+|Spettatori = {{formatnum:13875}}
+|Arbitro = [[Jérôme Brisard|Brisard]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Kevin Mac Allister|Mac Allister]] {{goal|77}}
+|Marcatori 2 = {{goal|62}} [[Gianluca Mancini|Mancini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 2024
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 5ª giornata
+|Squadra 1 = Tottenham
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042153--tottenham-vs-roma/
+|Città = [[Londra]]
+|Stadio = [[Tottenham Hotspur Stadium]]
+|Spettatori = {{formatnum:53378}}
+|Arbitro = [[Glenn Nyberg|Nyberg]]
+|Nazarbitro = SWE
+|Marcatori 1 = [[Son Heung-min|Son]] {{goal|5|rig}} <br> [[Brennan Johnson|Johnson]] {{goal|33}}
+|Marcatori 2 = {{goal|20}} [[Evan Ndicka|Ndicka]] <br> {{goal|90+1}} [[Mats Hummels|Hummels]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 2024
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Braga
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042170--roma-vs-braga/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:59085}}
+|Arbitro = [[Daniel Siebert|Siebert]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Lorenzo Pellegrini|Pellegrini]] {{goal|10}} <br> [[Saud Abdulhamid|Abdulhamid]] {{goal|47}} <br> [[Mario Hermoso|Hermoso]] {{goal|90+1}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 2025
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = 7ª giornata
+|Squadra 1 = AZ
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042193--az-alkmaar-vs-roma/
+|Città = [[Alkmaar]]
+|Stadio = [[AFAS Stadion]]
+|Spettatori = {{formatnum:18635}}
+|Arbitro = [[ Irfan Peljto| Peljto]]
+|Nazarbitro = BIH
+|Marcatori 1 = [[Troy Parrott|Parrott]] {{goal|80}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 2025
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Eintracht Francoforte
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2042205--roma-vs-frankfurt/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64458}}
+|Arbitro = [[Rade Obrenovič|Obrenovič]]
+|Nazarbitro = SVN
+|Marcatori 1 = [[Angeliño]] {{goal|44}} <br> [[Eldor Shomurodov|Shomurodov]] {{goal|69}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+==== Fase a eliminazione diretta ====
+{{vedi anche|UEFA Europa League 2024-2025 (fase a eliminazione diretta)}}
+{{Incontro di club
+|Sport = calcio
+|id =
+|Giornomese = 13 febbraio
+|Anno = 2025
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Spareggi - Andata
+|Squadra 1 = Porto
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2044495/
+|Città = [[Porto (Portogallo)|Porto]]
+|Stadio = [[Stadio do Dragão]]
+|Spettatori = {{formatnum:37129}}
+|Arbitro = [[Tobias Stieler|Stieler]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Francisco Moura|Moura]] {{goal|67}}
+|Marcatori 2 = {{goal|45+5}} [[Zeki Çelik|Çelik]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|id =
+|Giornomese = 20 febbraio
+|Anno = 2025
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = Spareggi - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Porto
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2044503/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:55286}}
+|Arbitro = [[François Letexier|Letexier]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|35||39}}<br/>[[Niccolò Pisilli|Pisilli]] {{goal|83}}
+|Marcatori 2 = {{goal|27}} [[Samu Aghehowa|Aghehowa]] <br> {{goal|90+6|aut}} [[Devyne Rensch|Rensch]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 2025
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Athletic Bilbao
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2044791/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62540}}
+|Arbitro = [[Sandro Schärer|Schärer]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Angeliño]] {{goal|56}}<br/>[[Eldor Shomurodov|Shomurodov]] {{goal|90+3}}
+|Marcatori 2 = {{goal|50}} [[Iñaki Williams|Williams]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 2025
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Athletic Bilbao
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2044799/
+|Città = [[Bilbao]]
+|Stadio = [[Stadio di San Mamés (2013)|Stadio San Mamés]]
+|Spettatori = {{formatnum:50666}}
+|Arbitro = [[Clément Turpin|Turpin]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Nico Williams|Williams]] {{goal|45+3||82}}<br/>[[Yuri Berchiche|Berchiche]] {{goal|68}}
+|Marcatori 2 = {{goal|90+3|rig}} [[Leandro Paredes|Paredes]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+
+{{Statistiche_squadra
+|comp1=[[Serie A 2024-2025|Serie A]]
+|punti1=69
+|cv1=13
+|cn1=2
+|cp1=4
+|cgf1=37
+|cgs1=15
+|tv1=7
+|tn1=7
+|tp1=5
+|tgf1=19
+|tgs1=20
+|comp2=[[Coppa Italia 2024-2025|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=0
+|cgf2=4
+|cgs2=1
+|tv2=0
+|tn2=0
+|tp2=1
+|tgf2=1
+|tgs2=3
+|comp3=[[UEFA Europa League 2024-2025|Europa League]]
+|punti3=12
+|cv3=5
+|cn3=1
+|cp3=0
+|cgf3=12
+|cgs3=4
+|tv3=0
+|tn3=3
+|tp3=3
+|tgf3=5
+|tgs3=9
+}}
+=== Andamento in campionato ===
+{{Andamento|nr=38|link=X}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=T |m5=C |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=C |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=T |m26=C |m27=C |m28=T |m29=C |m30=T |m31=C |m32=T |m33=C |m34=T |m35=C |m36=T |m37=C |m38=T}}
+{{Andamento/Risultato |m1=N |m2=P |m3=N |m4=N |m5=V |m6=V |m7=N |m8=P |m9=P |m10=V |m11=P |m12=P |m13=P |m14=P |m15=V |m16=P |m17=V |m18=N |m19=V |m20=N |m21=V |m22=V |m23=N|m24=V |m25=V |m26=V |m27=V |m28=V |m29=V |m30=V |m31=N |m32=N |m33=V |m34=V |m35=V |m36=P |m37=V |m38=V}}
+{{Andamento/Posizione |m1=5 |m2=15 |m3=15 |m4=14 |m5=9 |m6=9 |m7=8 |m8=10 |m9=11 |m10=10 |m11=12 |m12=12 |m13=12 |m14=15|m15=11 |m16=12 |m17=10 |m18=10 |m19=10 |m20=10 |m21=9 |m22=9 |m23=9 |m24=9 |m25=9 |m26=9 |m27=8 |m28=7 |m29=7 |m30=6|m31=7 |m32=7 |m33=7 |m34=6 |m35=4 |m36=6 |m37=5 |m38=5}}
+{{Andamento/Fine}}
+
+=== Statistiche dei giocatori ===
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Europa League
+| {{Sortname|S.|Abdulhamid|Saud Abdulhamid}} {{Sommastat|4|0|0|0 |0|0|0|0 |4|1|0|0}}
+| ''{{Sortname|T.|Abraham|Tammy Abraham}}'' {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname||Angeliño|Angeliño}} {{Sommastat|38|2|1|0 |2|0|0|0 |11|2|1|0}}
+| {{Sortname|T.|Baldanzi|Tommaso Baldanzi}} {{Sommastat|31|1|2|0 |1|1|0|0 |9|0|2|0}}
+| {{Sortname|Z.|Çelik|Zeki Çelik}} {{Sommastat|31|0|5|0 |2|0|0|0 |10|1|2|0}}
+| {{Sortname|B.|Cristante|Bryan Cristante}} {{Sommastat|30|4|8|0 |0|0|0|0 |8|0|2|1}}
+| ''{{Sortname|S.|Dahl|Samuel Dahl}}'' {{Sommastat|2|0|0|0 |1|0|0|0 |0|0|0|0}}
+| {{Sortname|G.|De Marzi|Giorgio De Marzi|nolink=1}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|A.|Dovbyk|Artem Dovbyk}} {{Sommastat|32|12|0|0 |2|3|0|0 |11|2|1|0}}
+| {{Sortname|P.|Dybala|Paulo Dybala}} {{Sommastat|24|6|2|0 |1|0|0|0 |11|2|2|0}}
+| {{Sortname|S.|El Shaarawy|Stephan El Shaarawy}} {{Sommastat|31|3|2|0 |1|0|0|0 |9|0|0|0}}
+| {{Sortname|P.|Gollini|Pierluigi Gollini}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|L.|Gourna-Douath|Lucas Gourna-Douath}} {{Sommastat|6|0|2|0 |0|0|0|0 |0|0|0|0}}
+| ''{{Sortname|M.|Hermoso|Mario Hermoso}}'' {{Sommastat|8|0|2|1 |1|0|0|0 |4|1|0|0}}
+| {{Sortname|M.|Hummels|Mats Hummels}} {{Sommastat|14|0|1|0 |1|0|0|0 |5|1|2|1}}
+| {{Sortname|M.|Koné|Manu Koné}} {{Sommastat|34|2|6|0 |1|0|1|0 |10|0|2|0}}
+| ''{{Sortname|E.|Le Fée|Enzo Le Fée}}'' {{Sommastat|6|0|1|0 |1|0|0|0 |3|0|0|0}}
+| {{Sortname|G.|Mancini|Gianluca Mancini}} {{Sommastat|37|2|8|0 |0|0|0|0 |9|1|0|0}}
+| {{Sortname|V.|Nelsson|Victor Nelsson}} {{Sommastat|4|0|0|0 |1|0|0|0 |0|0|0|0}}
+| {{Sortname|E.|Ndicka|Evan Ndicka}} {{Sommastat|38|0|2|0 |2|0|0|0 |11|1|0|0}}
+| {{Sortname|L.|Paredes|Leandro Paredes}} {{Sommastat|22|3|4|0 |2|0|0|0 |8|1|4|0}}
+| {{Sortname|L.|Pellegrini|Lorenzo Pellegrini}} {{Sommastat|25|2|4|0 |2|0|0|0 |7|1|1|0}}
+| {{Sortname|N.|Pisilli|Niccolò Pisilli}} {{Sommastat|28|2|7|0 |2|0|1|0 |11|1|0|0}}
+| {{Sortname|D.|Rensch|Devyne Rensch}} {{Sommastat|14|0|0|0 |1|0|0|0 |3|0|1|0}}
+| ''{{Sortname|M.|Ryan|Mathew Ryan}}'' {{Sommastat|0|0|0|0 |1|-1|0|0 |0|0|0|0}}
+| {{Sortname|A.|Saelemaekers|Alexis Saelemaekers}} {{Sommastat|22|7|4|0 |2|0|0|0 |7|0|3|0}}
+| {{Sortname|A.|Salah-Eddine|Anass Salah-Eddine}} {{Sommastat|3|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|B.|Sangaré|Buba Sangaré}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|E.|Shomurodov|Eldor Shomurodov}} {{Sommastat|27|4|1|0 |2|1|0|0 |8|2|2|0}}
+| {{Sortname|M.|Soulé|Matías Soulé}} {{Sommastat|27|5|3|0 |1|0|0|0 |11|0|1|0}}
+| {{Sortname|M.|Svilar|Mile Svilar}} {{Sommastat|38|-35|1|0 |1|-3|0|0 |12|-13|1|0}}
+| ''{{Sortname|N.|Zalewski|Nicola Zalewski}}'' {{Sommastat|12|0|0|0 |1|0|0|0 |4|0|0|0}}
+}}
+== Giovanili ==
+=== Organigramma ===
+{{colonne}}
+* Responsabile Settore Giovanile: [[Bruno Conti]]
+{{Colonne spezza}}
+'''''Primavera'''''
+* Allenatore: [[Gianluca Falsini]]
+{{colonne fine}}
+==== Giovanili ====
+{{colonne}}
+'''''Under 18'''''
+* Allenatore: Marco Ciaralli
+{{Colonne spezza}}
+'''''Under 17'''''
+* Allenatore: [[Alessandro Toti]]
+{{Colonne spezza}}
+'''''Under 16'''''
+* Allenatore: Mattia Scala
+{{Colonne spezza}}
+'''''Under 15'''''
+* Allenatore: Mirko Trombetti
+{{colonne fine}}
+=== Piazzamenti ===
+==== Primavera ====
+* [[Campionato Primavera 1 2024-2025|Campionato]]: 1º. Semifinalista nella Fase finale.
+* [[Coppa Italia Primavera 2024-2025|Coppa Italia]]: Ottavi di finale
+==== Under 18 ====
+* [[Campionato Nazionale Under-18|Campionato]]: 1º. Finalista nella Fase finale.
+==== Under 17 ====
+* [[Campionato Nazionale Under-17|Campionato]]: 1º. Quarti di finale nella Fase finale.
+==== Under 16 ====
+* [[Campionato Nazionale Under-16|Campionato]]: 2º. Semifinalista nella Fase finale.
+==== Under 15 ====
+* [[Campionato Nazionale Under-15|Campionato]]: 2º. Quarti di finale nella Fase finale.
+==== Under 14 Elìte Regionali ====
+* Campionato: 1º. Finalista nella Fase finale.
+== Note ==
+<references/>
+{{Calcio Roma storico}}
+{{Calcio in Italia 2024-2025}}
+{{Portale|calcio}}

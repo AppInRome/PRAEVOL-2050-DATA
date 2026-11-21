@@ -1,0 +1,917 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1951-1952
+|immagine = Associazione Sportiva Roma 1951-1952.jpg
+|didascalia = I giallorossi che conquistarono l'immediato ritorno in massima serie, qui con indosso la seconda divisa fasciata
+|allenatore1 = {{Bandiera|ITA}} [[Giuseppe Viani]]
+|presidente = {{Bandiera|ITA}} [[Pier Carlo Restagno]]
+|campionato = [[Serie B 1951-1952|Serie B]]
+|campionato posizione = '''1º''' (in Serie A)
+|presenze campionato = [[Amos Cardarelli|Cardarelli]], [[Arcadio Venturi|Venturi]] (37)
+|marcatore campionato = [[Carlo Galli (calciatore)|Galli]] (12)
+|stadio = [[Stadio Nazionale|Nazionale]]
+|stagione prima = [[Associazione Sportiva Roma 1950-1951|1950-1951]]
+|stagione dopo = [[Associazione Sportiva Roma 1952-1953|1952-1953]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1951-1952'''.
+== Stagione ==
+Questa stagione segna il punto più basso nella storia della squadra capitolina, che disputa il suo primo e unico campionato di [[Serie B]]. Il presidente [[Pier Carlo Restagno|Restagno]], nuovamente al potere dopo la gestione straordinaria di Sacerdoti e Baldassarre, allestisce comunque una squadra di primo livello acquistando giocatori già pronti per la futura e auspicabile partecipazione alla massima serie l'anno successivo. Arrivano giocatori del calibro di [[Raoul Bortoletto|Bortoletto]], [[Carlo Galli (calciatore)|Galli]] e [[Lorenzo Bettini|Bettini]] e vengono respinti i tentativi di acquistare [[Arcadio Venturi|Venturi]] da parte di {{Calcio Inter|N}}, {{Calcio Juventus|N}} e {{Calcio Napoli|N}}. La squadra è affidata a [[Giuseppe Viani|Viani]], l'inventore del [[Vianema]], con ottimi risultati. La squadra conquista la vetta solitaria della classifica già all'ottava giornata e ottiene l'immediata promozione in serie A concludendo il torneo al primo posto, nonostante la tenacia di un {{Calcio Brescia|N}} che, forte dei risultati negli scontri diretti (la Roma infatti perde a Brescia 1-0 e pareggia in casa 0-0), insidia la Roma fino all'ultima giornata.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a polo giallo, pantaloncini neri, calze nere con banda giallorossa orizzontale; in trasferta viene usata una maglia bianca con banda giallorossa orizzontale, pantaloncini e calzettoni uguali a quelli della ''home''. Vengono usate in alcune occasioni altre due divise nelle trasferte, una costituita da maglia verde con colletto e bordi manica giallorossi, pantaloncini bianchi e calze nere con banda giallorossa orizzontale, l'altra da maglia gialla decorata di rosso, pantaloncini neri e calzettoni neri con banda giallorossa orizzontale. I portieri hanno una divisa costituita da maglia nera con colletto a V giallorosso, pantaloncini neri e calze nere con banda giallorossa orizzontale.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 65-67}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma4950h
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = 000000
+|pattern_so =_asroma20s
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_asroma5152a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = 000000
+|pattern_so =_asroma20s
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma4849t
+|leftarm = 030347
+|pattern_b =_asroma4849t
+|body = 030347
+|pattern_ra =_asroma4849t
+|rightarm = 030347
+|shorts = ff
+|pattern_so =_asroma20s
+|socks = 030347
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = ff9a22
+|pattern_b =_asroma5152f
+|body = ff9a22
+|pattern_ra =
+|rightarm = ff9a22
+|shorts = 000000
+|pattern_so =_asroma20s
+|socks = 030347
+|title = Quarta divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma5152gk
+|body = 858585
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma20s
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Pier Carlo Restagno]]
+;Area tecnica
+* Allenatore: [[Giuseppe Viani]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name=cor2/>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Albani]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fosco Risorti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Pietro Benedetti (calciatore)|Pietro Benedetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Amos Cardarelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Eliani]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Aldo Nardi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Knut Nordahl]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Armando Tre Re]]|altro=[[Capitano (calcio)|capitano]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Italo Acconcia]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Sune Andersson]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Raoul Bortoletto]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Eolo Capacci|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Perissinotto (calciatore)|Giovanni Perissinotto]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Arcadio Venturi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lorenzo Bettini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Carlo Galli (calciatore)|Carlo Galli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Renzo Merlin]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Stig Sundqvist]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Adriano Zecca]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name=cor2/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| C ||[[Italo Acconcia]]|| {{Calcio Fiorentina|N}} || ''definitivo''
+|-
+| C ||[[Raoul Bortoletto]]|| {{Calcio Lucchese|N}}|| ''definitivo''
+|-
+| C ||Eolo Capacci|| ? || ''definitivo''
+|-
+| C ||[[Giovanni Perissinotto (calciatore)|Giovanni Perissinotto]]|| {{Calcio Udinese|N}} || ''definitivo''
+|-
+| A ||[[Lorenzo Bettini]]|| {{Calcio Brescia|N}} || ''definitivo''
+|-
+| A ||[[Carlo Galli (calciatore)|Carlo Galli]]|| {{Calcio Palermo|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Luciano Tessari]]|| {{Calcio Fiorentina|N}} || ''definitivo''
+|-
+| P ||[[Pietro Benedetti (calciatore)|Pietro Benedetti]]|| {{Calcio Grosseto|N}} || ''definitivo''
+|-
+| D ||[[Gianfranco Dell'Innocenti]]|| {{Calcio Lucchese|N}} || ''prestito''
+|-
+| C ||[[Luigi Ganassi]]|| {{Calcio Siracusa|N}} || ''definitivo''
+|-
+| C ||[[Tommaso Maestrelli]]|| {{Calcio Lucchese|N}} || ''definitivo''
+|-
+| C ||[[Ione Spartano]]|| {{Calcio Udinese|N}} || ''definitivo''
+|-
+| A ||[[Giancarlo Bacci]]|| {{Calcio Udinese|N}} || ''prestito''
+|-
+| A ||[[Carlo Lucchesi]]||| {{Calcio Lucchese|N}} || ''prestito''
+|-
+| A ||[[Mario Tontodonati]]||| {{Calcio Lucchese|N}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Campionato ===
+{{Vedi anche|Serie B 1951-1952}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 settembre
+|Anno = 1951
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fanfulla
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152RomaFanfulla_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Tommaso Corallo]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|8||16}}
+|Marcatori 2 = {{Goal|55}} [[Onorio Busnelli|Busnelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 1951
+|Turno = 2ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152VicenzaRoma_CorrSport_02_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Armando Marchetti]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Roberto Lerici (calciatore)|Lerici]] {{Goal|24}}
+|Marcatori 2 = {{Goal|5}} [[Stig Sundqvist|Sundqvist]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 settembre
+|Anno = 1951
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pisa
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152RomaPisa_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Sandro Buratti]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Raoul Bortoletto|Bortoletto]] {{Goal|21}}<br />[[Arcadio Venturi|Venturi]] {{Goal|30|rig.}}
+|Marcatori 2 = {{Goal|40}} M. Lenci
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 settembre
+|Anno = 1951
+|Turno = 4ª giornata
+|Squadra 1 = ACR Messina (1947-1998)
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152MessinaRoma_CorrSport_01_af.JPG
+|Città = [[Messina]]
+|Stadio = [[Stadio Giovanni Celeste]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Giovanni Occhinegro]]
+|Cittarbitro = [[Taranto]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|39|rig.}} [[Arcadio Venturi|Venturi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 1951
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Treviso
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152RomaTreviso_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 28.000 circa
+|Arbitro = [[Aldo Cartei]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Arcadio Venturi|Venturi]] {{Goal|21|rig.}}<br />[[Carlo Galli (calciatore)|Galli]] {{Goal|90+3}}
+|Marcatori 2 = {{Goal|26}} [[Mario Pantaleoni|Pantaleoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 ottobre
+|Anno = 1951
+|Turno = 6ª giornata
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5152ModenaRoma_CorrSport_02_af.JPG
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia|Stadio Comunale]]
+|Spettatori = 14.000 circa
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|77||85}} [[Giovanni Perissinotto (calciatore)|Perissinotto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 1951
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia (1907-1987)
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaVenezia_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 25.000
+|Arbitro = [[Battista Tibaldi]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Stig Sundqvist|Sundqvist]] {{Goal|55}}<br />[[Sune Andersson|Andersson]] {{Goal|79}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 1951
+|Turno = 8ª giornata
+|Squadra 1 = Marzotto Valdagno
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5152MarzottoRoma_CorrSport_01_af.JPG
+|Città = [[Valdagno]]
+|Stadio = [[Stadio dei Fiori]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Luigi Valsecchi (arbitro)|Luigi Valsecchi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Gustavo Scagliarini|Scagliarini]] {{Goal|9}}<br />[[Giancarlo Forlani|Forlani]] {{Goal|57|rig.}}
+|Marcatori 2 = {{Goal|42||87}} [[Adriano Zecca|Zecca]]<br />{{Goal|50}} [[Carlo Galli (calciatore)|Galli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 1951
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5152RomaGenoa_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 33.000 circa
+|Arbitro = [[Guido Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|16}}
+|Marcatori 2 = {{Goal|36}} [[Bruno Gremese|Gremese]]<br />{{Goal|64}} [[Silvano Pravisano|Pravisano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 novembre
+|Anno = 1951
+|Turno = 10ª giornata
+|Squadra 1 = Piombino
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152PiombinoRoma_CorrSport_02_af.JPG
+|Città = [[Piombino]]
+|Stadio = [[Stadio Magona d'Italia]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Leonello Bernardi]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = Montiani {{Goal|9}}<br />[[Pietro Biagioli|Biagioli]] {{Goal|40||76|rig.}}
+|Marcatori 2 = {{Goal|84|rig.}} [[Arcadio Venturi|Venturi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 1951
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Salernitana
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaSalernitana_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Osvaldo Savio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Sune Andersson|Andersson]] {{Goal|44}}<br />[[Carlo Galli (calciatore)|Galli]] {{Goal|79}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 1951
+|Turno = 12ª giornata
+|Squadra 1 = Monza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto =
+|Città = [[Monza]]
+|Stadio = [[Stadio Gino Alfonso Sada|Stadio San Gregorio]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Bruno Tassini]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|27}} [[Stig Sundqvist|Sundqvist]]<br/>{{Goal|82|rig.}} [[Arcadio Venturi|Venturi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 1951
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Stabia (1933-1953)
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaStabia_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Ermanno Silvano]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Romolo Sforza|Sforza]] {{Goal|23|aut.}}<br/>[[Carlo Galli (calciatore)|Galli]] {{Goal|41}}<br/>[[Lorenzo Bettini|Bettini]] {{Goal|63}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 dicembre
+|Anno = 1951
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggiana
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaReggiana_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Stig Sundqvist|Sundqvist]] {{Goal|1}}<br/>[[Adriano Zecca|Zecca]] {{Goal|29||52}}<br/>[[Sune Andersson|Andersson]] {{Goal|31}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 dicembre
+|Anno = 1951
+|Turno = 15ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.almanaccogiallorosso.it/1951-1952/Campionato/15Giornata/Brescia-Roma.html
+|Città = [[Brescia]]
+|Stadio = [[Stadium di viale Piave]]
+|Spettatori =
+|Arbitro = [[Bruno Tassini]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Francesco Malighetti|Malighetti]] {{Goal|44}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1952
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaLivorno_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 1 = [[Giovanni Perissinotto (calciatore)|Perissinotto]] {{Goal|13}}<br/>[[Adriano Zecca|Zecca]] {{Goal|46||84}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 gennaio
+|Anno = 1952
+|Turno = 17ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152CataniaRoma_CorrSport_01_af.JPG
+|Città = [[Catania]]
+|Stadio = [[Stadio Cibali]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Armando Marchetti]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = [[Armando Tre Re|Tre Re]] {{Goal|13}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 gennaio
+|Anno = 1952
+|Turno = 18ª giornata
+|Squadra 1 = Siracusa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152SiracusaRoma_CorrSport_01_af.JPG
+|Città = [[Siracusa]]
+|Stadio = [[Stadio Nicola De Simone|Stadio Vittorio Emanuele III]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 1952
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaVerona_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Osvaldo Savio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Adriano Zecca|Zecca]] {{Goal|15}}
+|Marcatori 2 =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 febbraio
+|Anno = 1952
+|Turno = 20ª giornata
+|Squadra 1 = Fanfulla
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152FanfullaRoma_CorrSport_01_af.JPG
+|Città = [[Lodi]]
+|Stadio = [[Stadio Dossenina]]
+|Spettatori = 7.000 circa
+|Arbitro = [[Riccardo Pieri]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Alfio Balbiano|Balbiano]] {{Goal|30}}
+|Marcatori 2 = {{Goal|85}} [[Giovanni Perissinotto (calciatore)|Perissinotto]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 febbraio
+|Anno = 1952
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaVicenza_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Tommaso Corallo]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Arcadio Venturi|Venturi]] {{Goal|49|rig.}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 febbraio
+|Anno = 1952
+|Turno = 22ª giornata
+|Squadra 1 = Pisa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152PisaRoma_CorrSport_02_af.JPG
+|Città = [[Pisa]]
+|Stadio = [[Stadio Arena Garibaldi]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Luigi Valsecchi (arbitro)|Luigi Valsecchi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Armando Cavazzuti|Cavazzuti]] {{Goal|58||63}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 1952
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = ACR Messina (1947-1998)
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaMessina_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Ermanno Silvano]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Sergio Calzavara|Calzavara]] {{Goal|57|aut.}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 marzo
+|Anno = 1952
+|Turno = 24ª giornata
+|Squadra 1 = Treviso
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152TrevisoRoma_CorrSport_01_af.JPG
+|Città = [[Treviso]]
+|Stadio = [[Stadio Omobono Tenni|Stadio Comunale]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Armando Marchetti]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Alberto Bonaretti|Bonaretti]] {{Goal|4}}<br/>[[Aldo Vascellari|Vascellari]] {{Goal|22}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 1952
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaModena_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 marzo
+|Anno = 1952
+|Turno = 26ª giornata
+|Squadra 1 = Venezia (1907-1987)
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5152VeneziaRoma_CorrSport_01_af.JPG
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pierluigi Penzo]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Giorgio Bernardi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Carlo Lenci|Lenci]] {{Goal|32|rig.}}<br/>[[Sergio Vergazzola|Vergazzola]] {{Goal|79}}
+|Marcatori 2 = {{Goal|3}} [[Giovanni Perissinotto (calciatore)|Perissinotto]]<br/>{{Goal|33}} [[Carlo Galli (calciatore)|Galli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 marzo
+|Anno = 1952
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Marzotto Valdagno
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5152RomaMarzotto_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Florindo Longagnani]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Lorenzo Bettini|Bettini]] {{Goal|21||76}}<br/>[[Carlo Galli (calciatore)|Galli]] {{Goal|73}}
+|Marcatori 2 = {{Goal|90}} [[Giancarlo Forlani|Forlani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 aprile
+|Anno = 1952
+|Turno = 28ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152GenoaRoma_CorrSport_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Pier Ugo Melandri|Melandri]] {{Goal|46}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 aprile
+|Anno = 1952
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piombino
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaPiombino_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 27.000 circa
+|Arbitro = [[Diego De Leo]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Lorenzo Bettini|Bettini]] {{Goal|60||82}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 aprile
+|Anno = 1952
+|Turno = 30ª giornata
+|Squadra 1 = Salernitana
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5152SalernitanaRoma_CorrSport_01_af.JPG
+|Città = [[Salerno]]
+|Stadio = [[Stadio Donato Vestuti|Stadio Comunale]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Giorgio Bernardi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Quinto Bertoloni|Bertoloni]] {{Goal|55}}<br/>[[Renato Fioravanti|Fioravanti]] {{Goal|83}}
+|Marcatori 2 = {{Goal|12}} [[Renzo Merlin|Merlin]]<br/>{{Goal|20}} [[Stig Sundqvist|Sundqvist]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 aprile
+|Anno = 1952
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Monza
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaMonza_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Aldo Cartei]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|19}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 maggio
+|Anno = 1952
+|Turno = 32ª giornata
+|Squadra 1 = Stabia (1933-1953)
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152StabiaRoma_CorrSport_01_af.JPG
+|Città = [[Castellammare di Stabia]]
+|Stadio = [[Stadio San Marco]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Diego De Leo]]
+|Cittarbitro = [[Mestre]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 maggio
+|Anno = 1952
+|Turno = 33ª giornata
+|Squadra 1 = Reggiana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 7
+|Referto = http://www.asromaultras.org/5152ReggianaRoma_CorrSport_01_af.JPG
+|Città = [[Reggio Emilia]]
+|Stadio = [[Stadio Comunale Mirabello]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|7||41||47||65}} [[Lorenzo Bettini|Bettini]]<br/>{{Goal|9||20||49}} [[Stig Sundqvist|Sundqvist]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 maggio
+|Anno = 1952
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaBrescia_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 32.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º giugno
+|Anno = 1952
+|Turno = 35ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152LivornoRoma_CorrSport_01_af.JPG
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Ardenza]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 1 = [[Michele Catalano|Catalano]] {{Goal|88}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 giugno
+|Anno = 1952
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaCatania_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 16.000 circa
+|Arbitro = [[Osvaldo Savio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|24}}<br/>[[Adriano Zecca|Zecca]] {{Goal|34}}<br/>[[Stig Sundqvist|Sundqvist]] {{Goal|41}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 giugno
+|Anno = 1952
+|Turno = 37ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Siracusa
+|Punteggio 1 = 6
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152RomaSiracusa_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 16.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Sune Andersson|Andersson]] {{Goal|7||49}}<br/>[[Amos Cardarelli|Cardarelli]] {{Goal|61}}<br/>[[Renzo Merlin|Merlin]] {{Goal|77}}<br/>[[Carlo Galli (calciatore)|Galli]] {{Goal|88}}<br/>[[Adriano Zecca|Zecca]] {{Goal|89}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 giugno
+|Anno = 1952
+|Turno = 38ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5152VeronaRoma_CorrSport_02_af.JPG
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi (1906-1963)|Stadio Marcantonio Bentegodi]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Florindo Longagnani]]
+|Cittarbitro = [[Modena]]
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1=[[Serie B 1951-1952|Serie B]]
+|punti1=53
+|cv1=16
+|cn1=2
+|cp1=1
+|cgf1=39
+|cgs1=6
+|tv1=6
+|tn1=7
+|tp1=6
+|tgf1=23
+|tgs1=18
+}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]].<ref>A completamento dei dati vanno conteggiati due autogol.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie B
+| Cartellini = no
+| Totale = no
+| {{Sortname|L.|Albani|Luigi Albani}} {{Sommastat|C=no |28|-13|?|? }}
+| {{Sortname|F.|Risorti|Fosco Risorti}} {{Sommastat|C=no |10|-11|?|? }}
+| {{Sortname|A.|Cardarelli|Amos Cardarelli}} {{Sommastat|C=no |37|1|?|? }}
+| {{Sortname|A.|Eliani|Alberto Eliani}} {{Sommastat|C=no |13|0|?|? }}
+| {{Sortname|A.|Nardi|Aldo Nardi}} {{Sommastat|C=no |0|0|?|? }}
+| {{Sortname|K.|Nordahl|Knut Nordahl}} {{Sommastat|C=no |23|0|?|? }}
+| {{Sortname|A.|Tre Re|Armando Tre Re}} {{Sommastat|C=no |33|1|?|? }}
+| {{Sortname|I.|Acconcia|Italo Acconcia}} {{Sommastat|C=no |33|0|?|? }}
+| {{Sortname|S.|Andersson|Sune Andersson}} {{Sommastat|C=no |24|5|?|? }}
+| {{Sortname|R.|Bortoletto|Raoul Bortoletto}} {{Sommastat|C=no |28|1|?|? }}
+| {{Sortname|E.|Capacci|Eolo Capacci}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|G.|Perissinotto|Giovanni Perissinotto (calciatore)}} {{Sommastat|C=no |19|5|?|? }}
+| {{Sortname|A.|Venturi|Arcadio Venturi}} {{Sommastat|C=no |37|6|?|? }}
+| {{Sortname|L.|Bettini|Lorenzo Bettini}} {{Sommastat|C=no |25|9|?|? }}
+| {{Sortname|C.|Galli|Carlo Galli (calciatore)}} {{Sommastat|C=no |29|12|?|? }}
+| {{Sortname|R.|Merlin|Renzo Merlin}} {{Sommastat|C=no |19|2|?|? }}
+| {{Sortname|S.|Sundqvist|Stig Sundqvist}} {{Sommastat|C=no |32|9|?|? }}
+| {{Sortname|A.|Zecca|Adriano Zecca}} {{Sommastat|C=no |27|9|?|? }}
+}}
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1951|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1951-1952}}
+{{Portale|calcio}}

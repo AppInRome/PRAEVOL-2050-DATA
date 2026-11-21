@@ -1,0 +1,1277 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1962-1963
+|immagine = AsRoma6263.jpg
+|didascalia = Una formazione della Roma nel 1962-1963
+|allenatore1 = {{Bandiera|ARG}} [[Luis Carniglia]]<ref>Fino alla 7ª giornata.</ref>, poi<br />{{Bandiera|ITA}} [[Alfredo Foni]]<ref>Dall'8ª in poi.</ref>
+|presidente = {{Bandiera|ITA}} Francesco Marini-Dettina
+|campionato = [[Serie A 1962-1963|Serie A]]
+|campionato posizione = 5º
+|coppa1 = [[Coppa Italia 1962-1963|Coppa Italia]]
+|coppa1 posizione = Ottavi di finale
+|coppa2 = [[Coppa delle Fiere 1962-1963|Coppa delle Fiere]]
+|coppa2 posizione = Semifinalista
+|coppa3 = [[Coppa delle Alpi 1963|Coppa delle Alpi]]
+|coppa3 posizione = 3º
+|presenze campionato = [[Alfio Fontana|Fontana]] (34)
+|presenze totale = [[Giacomo Losi|Losi]] (48)
+|marcatore campionato = [[Pedro Manfredini|Manfredini]] (19)
+|marcatore totale = Manfredini (28)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|spettatori media = {{formatnum:37248}}
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1961-1962|1961-1962]]
+|stagione dopo = [[Associazione Sportiva Roma 1963-1964|1963-1964]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1962-1963'''.
+== Stagione ==
+La stagione si apre con le dimissioni di Anacleto Gianni, unico presidente sino ad allora ad aver vinto con la squadra capitolina un [[Coppa delle Fiere 1960-1961|trofeo europeo]]. L'assemblea dei soci, due mesi dopo, elegge come presidente il conte Francesco Marini Dettina<ref>{{Cita web|titolo=MArini Dettina nuovo presidente|url=https://www.asromaultras.org/6263_02-07-62_CorrSport_03_af.JPG}}</ref>. Sul fronte del calciomercato si conferma la tendenza dell'epoca di acquistare celebrità ormai sul viale del tramonto: quest'anno tocca a [[John Charles]]<ref>{{Cita web|url=https://www.asromaultras.org/6263_30-10-62_CorrSport_af.JPG|titolo=La nuova Roma}}</ref> e a [[Orvar Bergmark]]<ref>{{Cita web|url=https://www.asromaultras.org/6263_02-08-62_CorrSport_02_af.JPG|titolo=È arrivato il pompiere giallorosso}}</ref> vestire, a 32 anni, la casacca giallorossa. Il campionato inizia in maniera deludente e ciò costringe la dirigenza a cambiare allenatore: dopo la sconfitta interna con il {{Calcio Vicenza|NB}}, si passa da [[Luis Carniglia]] ad [[Alfredo Foni]]<ref>{{Cita web|url=https://www.asromaultras.org/6263RomaVicenza_CorrSport_02_af.JPG|titolo=Crisi, esonerato Carniglia}}</ref>. Il cambio non giova molto alla compagine capitolina che arriva nuovamente quinta in campionato. Uniche soddisfazioni sono il titolo di capocannoniere della Serie A vinto da [[Pedro Manfredini]] con 19 reti e il buon cammino in [[Coppa delle Fiere 1961-1962|Coppa delle Fiere]], dove la Roma arriva in semifinale e viene sconfitta solo dal futuro vincitore della competizione, il {{Calcio Valencia|NB}}.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a polo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con colletto a polo e con una banda giallorossa obliqua, pantaloncini neri e calzettoni bianchi bordati di giallorosso. Come terza divisa viene usato un kit composto da maglia gialla con collo a V rosso, pantaloncini neri e calzettoni rossi bordati di giallo. I portieri hanno due divise, una costituita da maglia grigia con colletto a polo giallorosso abbinata a calzoncini neri e calzettoni rossi bordati di giallo, l'altra da maglia verde con colletto giallorosso abbinata agli stessi calzettoni e calzoncini.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 91-93}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = d00b26
+|pattern_b = _asroma6061h
+|body = d00b26
+|pattern_ra =
+|rightarm = d00b26
+|shorts = ffffff
+|pattern_so =_orangehorizontal
+|socks = d00b26
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma6269a
+|leftarm = FFFFFF
+|pattern_b =_asroma6269a
+|body = FFFFFF
+|pattern_ra =_asroma6269a
+|rightarm = FFFFFF
+|shorts = 000000
+|pattern_so =_asroma6269a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma6263t
+|leftarm = 05781d
+|pattern_b =_asroma6263t
+|body = 030347
+|pattern_ra =_asroma6263t
+|rightarm = 05781d
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma6263gk1
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma4849t
+|leftarm = 858585
+|pattern_b =_asroma6263gk2
+|body = 858585
+|pattern_ra =_asroma4849t
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: Francesco Marini-Dettina
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Luis Carniglia]], poi dalla ''8ª'' [[Alfredo Foni]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 62/63">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1962|titolo=Rosa AS Roma - Saison 62/63|accesso=9 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Cudicini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Ginulfi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Enzo Matteucci]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=''[[Orvar Bergmark]]''|ruolo=D}}<ref name="c">Ceduto a stagione iniziata.</ref>
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Carpanesi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Carpenetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giulio Corsini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alfio Fontana]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|ruolo=D|altro=c}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Leopoldo Raimondi]]''|ruolo=D}}<ref name="c"/>
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bartolomeo Tarantino]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giancarlo De Sisti]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Egidio Guarnacci]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=AUT|nome=[[Wilhelm Huberts]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Torbjörn Jonsson]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francisco Lojacono]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giampaolo Menichelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Orlando]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Pestrin]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Angelillo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=WAL|nome=[[John Charles]]|ruolo=A}}<ref>Acquistato a stagione iniziata.</ref>
+{{Calciatore in rosa|n=|nazione=ITA|nome=''Cataldo Di Virgilio''<ref name="c"/><ref>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lamberto Leonardi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Pedro Manfredini]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+Acquisti nella sessione estiva del 1963 (quindi nella stagione successiva a questa) e utilizzati nella Coppa delle Alpi
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mario Ardizzon]]|ruolo=D}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Frascoli]]|ruolo=C}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 62/63"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Alberto Ginulfi]]|| {{Calcio Tevere Roma|NB}} || ''definitivo''
+|-
+| D ||[[Orvar Bergmark]]|| {{Calcio Orebro|NB}}|| ''definitivo''
+|-
+| D ||[[Bartolomeo Tarantino]]|| {{Calcio Siracusa|NB}}|| ''definitivo''
+|-
+| D ||[[Francesco Carpenetti]]|| {{Calcio Triestina|NB}}|| ''definitivo''
+|-
+| C ||[[Wilhelm Huberts]]|| {{Calcio New York Hungaria|NB}} || ''definitivo''
+|-
+| A ||[[John Charles]]|| {{Calcio Leeds|NB}} || ''definitivo''<ref name="AcqInv">Acquistato durante la sessione invernale di calciomercato.</ref>
+|-
+| A||[[Lamberto Leonardi]]|| {{Calcio Modena|NB}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||Giannantonio La Bella||? || ''?''
+|-
+| D ||[[Orvar Bergmark]]|| {{Calcio Orebro|NB}} || ''definitivo''<ref name="CessInv">Ceduto durante la sessione invernale di calciomercato.</ref>
+|-
+| D ||[[Leopoldo Raimondi]]|| {{Calcio Brescia|NB}} || ''definitivo''<ref name="CessInv"/>
+|-
+| C ||[[Bruno Abbatini]]|| {{Calcio Cesena|NB}} || ''definitivo''
+|-
+| C ||[[Michele Chirico]]|| {{Calcio Modena|NB}} || ''definitivo''
+|-
+| C ||[[Luigi Giuliano (calciatore)|Luigi Giuliano]]|| - || ''fine carriera''
+|-
+| C ||[[Juan Alberto Schiaffino]]|| - || ''fine carriera''
+|-
+| A ||Cataldo Di Virgilio|| {{Calcio Salernitana|NB}} || ''definitivo''<ref name="CessInv"/>
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1962-1963}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 1962
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaNapoli_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 80.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Giampaolo Menichelli|Menichelli]] {{Goal|56}}<br />[[Torbjörn Jonsson|Jonsson]] {{goal|64||88}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 settembre
+|Anno = 1962
+|Ora = 15:30
+|Turno = 2ª giornata
+|Squadra 1 = Mantova
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263MantovaRoma_CorrSport_02_af.JPG
+|Città = [[Mantova]]
+|Stadio = [[Stadio Danilo Martelli]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Gustavo Giagnoni|Giagnoni]] {{Goal|50}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 settembre
+|Anno = 1962
+|Ora = 15:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaModena_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Antonio Di Tonno]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Alberto Orlando|Orlando]] {{Goal|34}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|43}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 1962
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263CataniaRoma_CorrSport_02_af.JPG
+|Città = [[Catania]]
+|Stadio = [[Stadio Cibali]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 ottobre
+|Anno = 1962
+|Ora = 15:30
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaJuventus_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 80.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|18}}
+|Marcatori 2 = {{Goal|36}} [[Armando Miranda|Miranda]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 1962
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263SpalRoma_CorrSport_02_af.JPG
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Alfeo Grignani]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Carlos Cezar de Souza|de Souza]] {{Goal|30}}<br />[[Adolfo Gori|Gori]] {{Goal|32}}<br />[[Carlo Dell'Omodarme|Dell'Omodarme]] {{Goal|62}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaVicenza_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Carlo Babini]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|15}} [[Giorgio Puia|Puia]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = https://www.asromaultras.org/6263PalermoRoma_CorrSport_02_af.JPG
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|1}} [[Antonio Angelillo|Angelillo]]<br />{{Goal|9||79||88|rig.}} [[Pedro Manfredini|Manfredini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaBologna_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 65.000 circa
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Alberto Orlando|Orlando]] {{Goal|3||10}}<br />[[John Charles|Charles]] {{Goal|58}}
+|Marcatori 2 = {{Goal|75}} [[Ezio Pascutti|Pascutti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 novembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6263RomaFiorentina_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[John Charles|Charles]] {{Goal|29}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|60}}
+|Marcatori 2 = {{Goal|62}} [[Francesco Canella|Canella]]<br />{{Goal|72}} [[Giancarlo Magi|Magi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6263TorinoRoma_CorrSport_02_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Marcos Locatelli|Locatelli]] {{Goal|54|rig.|70}}
+|Marcatori 2 = {{Goal|4||51}} [[Pedro Manfredini|Manfredini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 dicembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaMilan_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|55}} [[José Altafini|Altafini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6263GenoaRoma_CorrSport_02_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Gastone Bean|Bean]] {{Goal|26}}<br />[[Eddie Firmani|Firmani]] {{Goal|33}}
+|Marcatori 2 = {{Goal|4}} [[Torbjörn Jonsson|Jonsson]]<br />{{Goal|55}} [[John Charles|Charles]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 dicembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaSampdoria_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|23|rig.}}<br />[[John Charles|Charles]] {{Goal|38}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 dicembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263InterRoma_CorrSport_02_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 45.000 circa
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Sandro Mazzola|Mazzola]] {{Goal|27}}<br />[[Beniamino Di Giacomo|Di Giacomo]] {{Goal|72}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1963
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263AtalantaRoma_La_Stampa_af.JPG
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Salvador Calvanese|Calvanese]] {{Goal|17||87}}<br />[[Flemming Nielsen|Nielsen]] {{Goal|77}}
+|Marcatori 2 = {{Goal|44|rig.}} [[Francisco Lojacono|Lojacono]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 gennaio
+|Anno = 1963
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia (1907-1987)
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6263RomaVenezia_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Giovanni Sebastio]]
+|Cittarbitro = [[Taranto]]
+|Marcatori 1 = [[Antonio Angelillo|Angelillo]] {{goal|18}}<br />[[Alberto Orlando|Orlando]] {{Goal|29}}
+|Marcatori 2 = {{Goal|47||87}} [[Gino Raffin|Raffin]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 gennaio
+|Anno = 1963
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6263NapoliRoma_La_Stampa_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Gianni Corelli|Corelli]] {{Goal|70|rig.|73|rig.}}<br />[[Achille Fraschini|Fraschini]] {{Goal|79}}
+|Marcatori 2 = {{Goal|42||48|rig.|72}} [[Pedro Manfredini|Manfredini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 1963
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Mantova
+|Punteggio 1 = 7
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaMantova_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Antonio Angelillo|Angelillo]] {{goal|6}}<br />[[Giampaolo Menichelli|Menichelli]] {{Goal|40||47}}<br />[[Torbjörn Jonsson|Jonsson]] {{Goal|75}}<br />[[Alberto Orlando|Orlando]] {{Goal|79||88}}<br />[[Pedro Manfredini|Manfredini]] {{Goal|84}}
+|Marcatori 2 = {{goal|10}} [[Angelo Sormani|Sormani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 febbraio
+|Anno = 1963
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6263ModenaRoma_Unita_01_af.jpg
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia]]
+|Spettatori =
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Gianni Goldoni|Goldoni]] {{Goal|4}}
+|Marcatori 2 = {{goal|8}} [[Antonio Angelillo|Angelillo]]<br />{{goal|43}} [[Lamberto Leonardi|Leonardi]]<br />{{Goal|90}} [[Pedro Manfredini|Manfredini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 febbraio
+|Anno = 1963
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaCatania_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{Goal|3||60}}<br />[[Antonio Angelillo|Angelillo]] {{goal|39}}<br />[[Remo Bicchierai|Bicchierai]] {{Goal|71|aut.}}<br />[[Alberto Orlando|Orlando]] {{Goal|73}}
+|Marcatori 2 = {{Goal|59|rig.}} [[Adelmo Prenna|Prenna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 febbraio
+|Anno = 1963
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263JuventusRoma_Unita_01_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Carlo Gambarotta]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Luis del Sol|del Sol]] {{goal|60}}<br />[[Armando Miranda|Miranda]] {{goal|67}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 febbraio
+|Anno = 1963
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaSpal_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 1963
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263VicenzaRoma_Unita_af.jpg
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Luciano Politano]]
+|Cittarbitro = [[Cuneo]]
+|Marcatori 1 =
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 1963
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaPalermo_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Renzo Righetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giorgio Sereni|Sereni]] {{Goal|48|aut.}}<br />[[Giampaolo Menichelli|Menichelli]] {{goal|55}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 marzo
+|Anno = 1963
+|Ora = 15:00
+|Turno = 26ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263BolognaRoma_Unita_01_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 =
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 marzo
+|Anno = 1963
+|Ora = 15:00
+|Turno = 27ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263FiorentinaRoma_Unita_01_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Priamo Varazzani]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Pasquale Cavicchia|Cavicchia]] {{Goal|57}}
+|Marcatori 2 = {{Goal|10}} [[Torbjörn Jonsson|Jonsson]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 aprile
+|Anno = 1963
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaTorino_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{goal|12||61|rig.|64}}<br />[[Giancarlo De Sisti|De Sisti]] {{goal|7||78}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 aprile
+|Anno = 1963
+|Ora = 15:30
+|Turno = 29ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263MilanRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|22}} [[Antonio Angelillo|Angelillo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 aprile
+|Anno = 1963
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaGenoa_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Torbjörn Jonsson|Jonsson]] {{goal|12}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 aprile
+|Anno = 1963
+|Ora = 15:30
+|Turno = 31ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263SampdoriaRoma_Unita_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 maggio
+|Anno = 1963
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaInter_Unita_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 90.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{goal|29||62|rig.}}<br />[[Giampaolo Menichelli|Menichelli]] {{Goal|76}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 maggio
+|Anno = 1963
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaAtalanta_Unita_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Giuseppe Cirone]]
+|Cittarbitro = [[Palermo]]
+|Marcatori 1 = [[Alberto Orlando|Orlando]] {{Goal|80}}
+|Marcatori 2 = {{Goal|56}} [[Enrico Nova|Nova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 maggio
+|Anno = 1963
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Venezia (1907-1987)
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263VeneziaRoma_Unita_01_af.JPG
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pierluigi Penzo]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Franco Dori|Dori]] {{Goal|16}}
+|Marcatori 2 = {{Goal|50}} [[Giampaolo Menichelli|Menichelli]]
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1962-1963}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 settembre
+|Anno = 1962
+|Ora = 16:30
+|Turno = Primo turno
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 5
+|Referto = https://www.asromaultras.org/6263CagliariRoma_CI_CorrSport_02_af.JPG
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Amsicora]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Antonio Congiu|Congiu]] {{Goal|20}}
+|Marcatori 2 = {{Goal|5}} [[Pedro Manfredini|Manfredini]]<br />{{Goal|12|aut.}} [[Mario Martiradonna|Martiradonna]]<br />{{Goal|31}} [[Paolo Pestrin|Pestrin]]<br />{{Goal|64||80}} [[Torbjörn Jonsson|Jonsson]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 1962
+|Ora = 15:30
+|Turno = Qualificazione
+|Squadra 1 = Roma
+|Squadra 2 = Catanzaro
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaCatanzaro_CI_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Giovanni Sebastio]]
+|Cittarbitro = [[Taranto]]
+|Marcatori 1 = Di Virgilio {{Goal|18}}<br />[[Francisco Lojacono|Lojacono]] {{Goal|20|rig.}}<br />[[Alberto Orlando|Orlando]] {{Goal|29}}
+|Marcatori 2 = {{Goal|48}} Galli
+|Sfondo = on
+}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 5
+|Referto = https://www.asromaultras.org/6263RomaGenoa_CI_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Gastone Roversi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Francisco Lojacono|Lojacono]] {{Goal|37}}<br />[[Giampaolo Menichelli|Menichelli]] {{Goal|83}}
+|Marcatori 2 = {{Goal|13}} [[Carlo Galli (calciatore)|Galli]]<br />{{Goal|25|aut.}} [[Egidio Guarnacci|Guarnacci]]<br />{{Goal|34|aut.}} [[Giulio Corsini|Corsini]]<br />{{Goal|74}} [[José Germano de Sales|Germano]]<br />{{Goal|85}} [[Giancarlo Bagnasco|Bagnasco]]
+}}
+
+=== Coppa delle Fiere ===
+{{vedi anche|Coppa delle Fiere 1962-1963}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 1962
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Altay
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6263AltayIzmirRoma_CorrSport_02_af.JPG
+|Città = [[Istanbul]]
+|Stadio = [[Stadio Mustafa Denizli di Alsancak|Mustafa Denizli di Alsancak]]
+|Spettatori = 12.000 circa
+|Arbitro = Talù
+|Nazarbitro = TUR
+|Marcatori 1 = [[Nazmi Bilge|Nazmi]] {{goal|19}} {{goal|55}}
+|Marcatori 2 = {{goal|20}} [[Alberto Orlando|Orlando]]<br />{{goal|32}} [[Francisco Lojacono|Lojacono]]<br />{{goal|41}} [[Giampaolo Menichelli|Menichelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Altay
+|Punteggio 1 = 10
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaAltay_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Živko Bajić|Bajić]]
+|Nazarbitro = YUG
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{goal|1||41||57||82}}<br />[[Torbjörn Jonsson|Jonsson]] {{goal|16||21}}<br />[[Francisco Lojacono|Lojacono]] {{goal|30|pen.|73||89}}<br />[[Antonio Angelillo|Angelillo]] {{goal|69}}
+|Marcatori 2 = {{goal|56}} Nail
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 1962
+|Ora = 16:15
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Real Saragozza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 4
+|Referto = https://www.asromaultras.org/6263RealSaragozzaRoma_CorrSport_af.JPG
+|Città = [[Saragozza]]
+|Stadio = [[La Romareda]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Henri Faucheux]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Juan Manuel Villa|Villa]] {{goal|30}}<br />[[Marcelino Martínez|Marcelino]] {{goal|84}}
+|Marcatori 2 = {{goal|1}} [[Francisco Lojacono|Lojacono]]<br />{{goal|60}} [[Pedro Manfredini|Manfredini]]<br />{{goal|62}} [[Giancarlo De Sisti|De Sisti]]<br />{{goal|80}} [[John Charles|Charles]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 1962
+|Ora = 14:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Real Saragozza
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6263RomaRealSaragoza_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 16.000 circa
+|Arbitro = [[Aleksandar Škorić|Škorić]]
+|Nazarbitro = YUG
+|Marcatori 1 = [[Antonio Angelillo|Angelillo]] {{goal|6}}
+|Marcatori 2 = {{goal|41|aut.}} [[Giulio Corsini|Corsini]]<br />{{goal|82}} [[José Sigifrido Martínez Ramírez|Sigi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 1963
+|Ora =
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Stella Rossa
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaStellaRossa_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = Gerő
+|Nazarbitro = HUN 1957-1989
+|Marcatori 1 = [[Pedro Manfredini|Manfredini]] {{goal|22}}<br />[[Francisco Lojacono|Lojacono]] {{goal|24}}<br />[[Giampaolo Menichelli|Menichelli]] {{goal|47}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 1963
+|Ora = 19:45
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Stella Rossa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263StellaRossaRoma_Unita_02_af.jpg
+|Città = [[Belgrado]]
+|Stadio = [[Stadio Partizan|JNA Stadion]]
+|Spettatori =
+|Arbitro = Tschenteschel
+|Nazarbitro = FRG
+|Marcatori 1 = [[Luka Malešev|Malešev]] {{goal|12||74}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1963
+|Ora = 20:15
+|Turno = Semifinale - Andata
+|Squadra 1 = Valencia
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263ValenciaRoma_Unita_af.jpg
+|Città = [[Valencia]]
+|Stadio = [[Estadio de Mestalla]]
+|Spettatori = 50.000 circa
+|Arbitro = Watson
+|Nazarbitro = SCO
+|Marcatori 1 = [[Francisco Amancio dos Santos|Chicão]] {{goal|78}}<br />[[Héctor Núñez|Núñez]] {{goal|84}}<br />[[Vicente Guillot|Guillot]] {{goal|88}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1963
+|Ora = 21:15
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Valencia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6263RomaValencia_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Rudolf Kreitlein]]
+|Nazarbitro = FRG
+|Marcatori 1 = [[Antonio Angelillo|Angelillo]] {{goal|25}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+===Coppa delle Alpi===
+{{Vedi anche|Coppa delle Alpi 1963}}
+====Fase a gironi====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 giugno
+|Anno = 1963
+|Turno = 1ª giornata
+|Squadra 1 = Grasshopper
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 7
+|Referto=https://www.asromaultras.org/6263grasshoppersroma_Gazzetta.jpg
+|Città = [[Zurigo]]
+|Stadio = [[Hardturm]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Aurelio Angonese]]
+|Nazarbitro = ITA
+|Marcatori 1 = [[Raymond Duret|Duret]] {{goal|5}}
+|Marcatori 2 = {{goal|12}} [[John Charles|Charles]]<br />{{goal|15}} [[Lamberto Leonardi|Leonardi]]<br />{{goal|41}} [[Giancarlo De Sisti|De Sisti]]<br /> {{goal|47}} [[Torbjörn Jonsson|Jonsson]]<br />{{goal|56||73||78}} [[Antonio Angelillo|Angelillo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 giugno
+|Anno = 1963
+|Turno = 2ª giornata
+|Ore = 21:15
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto=https://www.asromaultras.org/6263JuventusRoma_Alpi_Unita_af.jpg
+|Città = [[Zurigo]]
+|Stadio = [[Hardturm]]
+|Spettatori =
+|Arbitro = Keller
+|Nazarbitro = CHE
+|Marcatori 1 = [[Omar Sívori|Sivori]] {{goal|43||51}}
+|Marcatori 2 =
+|Sfondo=on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 giugno
+|Anno = 1963
+|Turno = 3ª giornata
+|Squadra 1 = Basilea
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto=https://www.asromaultras.org/6263BasileaRoma_Unita_01_af.jpg
+|Città = [[Basilea]]
+|Stadio = [[St. Jakob Stadium]]
+|Spettatori =
+|Arbitro = [[Daniel Mellet]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Hans Weber (calciatore)|Weber]] {{goal|85}}
+|Marcatori 2 = {{goal|16||70}} [[Pedro Manfredini|Manfredini]]<br />{{goal|31||51}} [[Antonio Angelillo|Angelillo]]
+}}
+
+====Finale 3º posto====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 giugno
+|Anno = 1963
+|Turno = Finale 3º posto
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6263RomaInter_Alpi_Unita_af.jpg
+|Città = [[Basilea]]
+|Stadio = [[St. Jakob Stadium]]
+|Arbitro = [[Gennaro Marchese]]
+|Nazarbitro = ITA
+|Marcatori 1 = [[Lamberto Leonardi|Leonardi]] {{Goal|1}}<br />[[Egidio Guarnacci|Guarnacci]] {{Goal|25}}<br />[[Torbjörn Jonsson|Jonsson]] {{Goal|42||51}}<br />[[Antonio Angelillo|Angelillo]] {{Goal|78}}
+|Marcatori 2 = {{Goal|77}} [[Franco Zaglio|Zaglio]]
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1962-1963|Serie A]]
+|punti1=40
+|cv1=10
+|cn1=5
+|cp1=2
+|cgf1=39
+|cgs1=11
+|tv1=3
+|tn1=9
+|tp1=5
+|tgf1=18
+|tgs1=21
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1962-1963|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=5
+|cgs2=6
+|tv2=1
+|tn2=0
+|tp2=0
+|tgf2=5
+|tgs2=1
+|comp3=[[Coppa delle Fiere 1962-1963|Coppa delle Fiere]]
+|punti3=-
+|cv3=3
+|cn3=0
+|cp3=1
+|cgf3=15
+|cgs3=3
+|tv3=2
+|tn3=0
+|tp3=2
+|tgf3=7
+|tgs3=9
+|comp4=[[Coppa delle Alpi 1963|Coppa delle Alpi]]
+|punti4=-
+|cv4=0
+|cn4=0
+|cp4=0
+|cgf4=0
+|cgs4=0
+|tv4=3
+|tn4=0
+|tp4=1
+|tgf4=16
+|tgs4=5
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=C |m11=T |m12=C |m13=T |m14=C |m15=T |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=T |m28=C |m29=T |m30=C |m31=T |m32=C |m33=C |m34=T }}
+{{Andamento/Risultato |m1=V |m2=P |m3=V |m4=N |m5=N |m6=P |m7=P |m8=V |m9=V |m10=N |m11=N |m12=P |m13=N |m14=V |m15=P |m16=P |m17=N |m18=N |m19=V |m20=V |m21=V |m22=P |m23=N |m24=N |m25=V |m26=N |m27=N |m28=V |m29=V |m30=V |m31=N |m32=V |m33=N |m34=N }}
+{{Andamento/Posizione |r=16 |m1=1 |m2=10 |m3=4 |m4=3 |m5=4 |m6=8 |m7=12 |m8=8 |m9=5 |m10=6 |m11=5 |m12=7 |m13=9 |m14=9 |m15=9 |m16=10 |m17=9 |m18=10 |m19=8 |m20=8 |m21=7 |m22=8 |m23=8 |m24=8 |m25=8 |m26=7 |m27=7 |m28=5 |m29=5 |m30=5 |m31=5 |m32=5 |m33=5 |m34=5 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 2 autogol in campionato e 1 in Coppa Italia.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa delle<br />Fiere
+| Competizione4 = Coppa delle<br />Alpi
+| Cartellini = no
+| {{Sortname|A.|Angelillo|Antonio Valentín Angelillo}} {{Sommastat|C=no |31|6|?|? |2|0|?|? |8|3|?|? |4|6|?|?}}
+| {{Sortname|J.|Charles|John Charles}} {{Sommastat|C=no |10|4|?|? |0|0|?|? |2|1|?|? |2|1|?|?}}
+| {{Sortname|F.|Cudicini|Fabio Cudicini}} {{Sommastat|C=no |28|-24|?|? |2|-6|?|? |6|-10|?|? |1|-1|?|?}}
+| {{Sortname|O.|Bergmark|Orvar Bergmark}} {{Sommastat|C=no |2|0|?|? |1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|S.|Carpanesi|Sergio Carpanesi}} {{Sommastat|C=no |26|0|?|? |3|0|?|? |5|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Carpenetti|Francesco Carpenetti}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Corsini|Giulio Corsini}} {{Sommastat|C=no |12|0|?|? |2|0|?|? |3|0|?|? |4|0|?|?}}
+| {{Sortname|G.|De Sisti|Giancarlo De Sisti}} {{Sommastat|C=no |18|2|?|? |0|0|?|? |5|1|?|? |4|1|?|?}}
+| {{Sortname|C.|Di Virgilio|Cataldo Di Virgilio|nolink=1}} {{Sommastat|C=no |0|0|?|? |1|1|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Fontana|Alfio Fontana}} {{Sommastat|C=no |34|0|?|? |1|0|?|? |8|0|?|? |4|0|?|?}}
+| {{Sortname|A.|Ginulfi|Alberto Ginulfi}} {{Sommastat|C=no |3|-2|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|E.|Guarnacci|Egidio Guarnacci}} {{Sommastat|C=no |23|0|?|? |3|0|?|? |3|0|?|? |2|1|?|?}}
+| {{Sortname|W.|Huberts|Wilhelm Huberts}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|T.|Jonsson|Torbjörn Jonsson}} {{Sommastat|C=no |25|6|?|? |3|2|?|? |7|2|?|? |3|3|?|?}}
+| {{Sortname|L.|Leonardi|Lamberto Leonardi}} {{Sommastat|C=no |6|1|?|? |2|0|?|? |1|0|?|? |4|2|?|?}}
+| {{Sortname|F.|Lojacono|Francisco Lojacono }} {{Sommastat|C=no |12|3 (-3)<ref>Nella partita SPAL - Roma sostituì Cudicini in porta sul risultato di 0-0</ref>|?|? |2|2|?|? |5|6|?|? |0|0|?|?}}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |33|0|?|? |3|0|?|? |8|0|?|? |4|0|?|?}}
+| {{Sortname|P.|Manfredini|Pedro Manfredini}} {{Sommastat|C=no |25|19|?|? |2|1|?|? |7|6|?|? |2|2|?|?}}
+| {{Sortname|E.|Matteucci|Enzo Matteucci}} {{Sommastat|C=no |3|-3|?|? |1|-1|?|? |2|-2|?|? |2|-3|?|?}}
+| {{Sortname|L.|Raimondi|Leopoldo Raimondi}} {{Sommastat|C=no |0|0|?|? |1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|B.|Tarantino|Bartolomeo Tarantino}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Menichelli|Giampaolo Menichelli}} {{Sommastat|C=no |26|6|?|? |1|1|?|? |5|2|?|? |0|0|?|?}}
+| {{Sortname|A.|Orlando|Alberto Orlando}} {{Sommastat|C=no |31|8|?|? |2|1|?|? |6|1 |?|? |0|0|?|?}}
+| {{Sortname|P.|Pestrin|Paolo Pestrin}} {{Sommastat|C=no |26|0|?|? |2|1|?|? |7|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Ardizzon|Mario Ardizzon}}<ref name=a>Acquisti nella sessione estiva del 1963 (quindi nella stagione successiva a questa) e utilizzati nella Coppa delle Alpi</ref> {{Sommastat|C=no |-|-|?|? |-|-|?|? |-|-|?|? |4|0|?|?}}
+| {{Sortname|S.|Frascoli|Sergio Frascoli}}<ref name=a/> {{Sommastat|C=no |-|-|?|? |-|-|?|? |-|-|?|? |4|0|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+{{...|stagioni delle società calcistiche italiane}}
+* '''''Primavera''''':
+** [[Campionato Primavera 1962-1963|Campionato Primavera]]:
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital63.html|Serie A 1962-1963 su Rsssf.com|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1962|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1962-1963}}
+{{Portale|calcio}}

@@ -1,0 +1,992 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1945-1946
+|immagine = AsRoma4546.jpg
+|didascalia = Una formazione della Roma nel 1945-1946
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Giovanni Degni]]
+|presidente = {{Bandiera|ITA 1861-1946}} Pietro Baldassarre
+|campionato = [[Divisione Nazionale 1945-1946|Divisione Nazionale]]
+|campionato posizione = 6º
+|coppa1 =
+|coppa1 posizione =
+|presenze campionato =
+|presenze totale = [[Amedeo Amadei|Amadei]] (34)
+|marcatore campionato =
+|marcatore totale = Amadei (14)
+|stadio = [[Stadio Nazionale|Nazionale]]
+|stagione prima = [[Associazione Sportiva Roma 1944-1945|1944-1945]]
+|stagione dopo = [[Associazione Sportiva Roma 1946-1947|1946-1947]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1945-1946'''.
+
+== Stagione ==
+Finita la [[Seconda guerra mondiale|guerra]], il campionato italiano riprende con la vecchia formula della divisione a due gironi per il nord e per il centro-sud. Molti giocatori che facevano parte della vecchia rosa abbandonano la squadra e altri, come il vecchio [[Miguel Ángel Pantó|Pantò]], fanno ritorno nella [[Roma|capitale]]. Sulla panchina [[Guido Masetti|Masetti]] viene sostituito da [[Giovanni Degni]]. La squadra si classifica terza nel girone del centro-sud, mentre nel girone finale, con le squadre del nord, arriva solo sesta. Il 7 luglio [[1946]], per la gara contro la {{Calcio Juventus|NB}}, la Roma utilizza per la prima volta l'aereo per andare in trasferta.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+
+== Divise ==
+La divisa primaria è costituita da maglia rossa con collo a V giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca, pantaloncini neri e calzettoni rossi bordati di giallo. Vengono usate in alcune occasioni altre divise nelle trasferte: una maglia grigia con colletto rosso e banda rossa orizzontale con pantaloncini neri e calze a strisce orizzontali gialle e rosse e una costituita da maglia verde, pantaloncini bianchi e gli stessi calzettoni della ''home''. I portieri hanno due divise: una costituita da maglia grigia con colletto a polo, pantaloncini neri e calzettoni rossi bordati di giallo, l'altra presenta gli stessi calzettoni e calzoncini della terza divisa, abbinati con maglia verde decorata da una V gialla e rossa.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 50-52}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma40sh
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_vneck
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = bfbfbf
+|pattern_b =_asroma4647t
+|body = 030347
+|pattern_ra =
+|rightarm = bfbfbf
+|shorts = 000000
+|pattern_so =_asroma4647t
+|socks = 030347
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 05781d
+|pattern_b =
+|body = 05781d
+|pattern_ra =
+|rightarm = 05781d
+|shorts = ff
+|pattern_so =_asromah
+|socks = 030347
+|title = Quarta divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma3031gk
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª div. portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 8eff99
+|pattern_b =_asroma4647gk2
+|body = 858585
+|pattern_ra =
+|rightarm = 8eff99
+|shorts = 000000
+|pattern_so =_asroma4647t
+|socks = 030347
+|title = 2ª div. portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Pietro Baldassarre]]
+;Area tecnica
+* Allenatore: [[Giovanni Degni]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name=cor2/>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Francalancia]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fosco Risorti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Sergio Andreoli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Brunella]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Corrado Contin]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Vittorio Dagianti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Di Pasquale]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Paolo Jacobini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Claudio Matteini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ALB 1944-1946|nome=[[Naim Krieziu]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ruggero Salar]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Enrico Schiavetti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Amedeo Amadei]]|altro=[[Capitano (calcio)|capitano]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Benedetti (calciatore 1920-2002)|Cesare Benedetti (II)]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giuliano Borin]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Enzo Cozzolini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Fusco (calciatore)|Antonio Fusco]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Miguel Ángel Pantó]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Omero Urilli]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Fosco Risorti]]|| {{Calcio Montecatini|NB}} || ''definitivo''
+|-
+| D ||[[Luigi Brunella]]|| {{Calcio Vigevano|NB}} ||''definitivo''
+|-
+| D ||[[Corrado Contin]]|| {{Calcio Cormonese|NB}} || ''definitivo''
+|-
+| C ||[[Luigi Di Pasquale]]|| {{Calcio Udinese|NB}} || ''definitivo''
+|-
+| C ||[[Ruggero Salar]]|| {{Calcio Triestina|NB}} || ''definitivo''
+|-
+| D ||[[Cesare Benedetti (calciatore 1920-2002)|Cesare Benedetti]] (II)||{{Calcio Treviso|NB}} || ''definitivo''
+|-
+| A ||[[Giuliano Borin]]|| {{Calcio Italia Libera|NB}} ||
+|-
+| A ||[[Antonio Fusco (calciatore)|Antonio Fusco]]|| {{Calcio Italia Libera|NB}} || ''definitivo''
+|-
+| A ||[[Miguel Ángel Pantó]]|| - || ''svincolato''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Ippolito Ippoliti]]|| {{Calcio Rieti|NB}} || ''definitivo''
+|-
+| D ||[[Arvisto Ferioli]]|| ? ||
+|-
+| D ||[[Renato Pastori]]|| {{Calcio Bologna|NB}}|| ''definitivo''
+|-
+| D ||[[Alberto Piccinini]]||{{Calcio Salernitana|NB}} || ''definitivo''
+|-
+| C ||[[Ermes Borsetti]]||{{Calcio Lecco|NB}} || ''definitivo''
+|-
+| C ||[[Edmondo Mornese]]|| - || ''fine carriera''
+|-
+| C ||[[Giuseppe Salvioli (calciatore)|Giuseppe Salvioli]]|| ? ||
+|-
+| A ||[[Nazzareno Celestini]]|| - || ''fine carriera''
+|-
+| A ||[[Nicola Fusco (calciatore)|Nicola Fusco]]||{{Calcio Rieti|NB}} || ''definitivo''
+|-
+| A ||[[Balilla Lombardi]]||{{Calcio Forlì|NB}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Divisione Nazionale 1945-1946 - Serie mista A-B Centro-Sud ===
+{{vedi anche|Divisione Nazionale 1945-1946#Serie mista A-B Centro-Sud}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 1945
+|Ora =
+|Turno = 1ª giornata
+|Squadra 1 = Anconitana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546AnconitanaRoma_CorrSport_03_af.JPG
+|Città = [[Ancona]]
+|Stadio = [[Stadio Dorico]]
+|Spettatori = 9.000 circa
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 2 = {{Goal|60}} [[Amedeo Amadei|Amadei]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 1945
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pescara
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546RomaPescara_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Nino Mosca]]
+|Cittarbitro = [[Napoli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 1945
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Siena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/4546RomaSiena_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori =
+|Arbitro = [[Otello Piselli]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Enzo Cozzolini|Cozzolini]] {{Goal|20}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 novembre
+|Anno = 1945
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Pro Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546LivornoRoma_CorrSport_02_af.JPG
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Comunale]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Giorgio Bernardi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Pietro Degano|Degano]] {{Goal|17}}
+|Marcatori 2 = {{Goal|3}} [[Omero Urilli|Urilli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 novembre
+|Anno = 1945
+|Ora =
+|Turno = 5ª giornata
+|Note = Primo turno di riposo della ROMA
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 1945
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Spettatori = 17.000 circa
+|Referto = http://www.asromaultras.org/4546RomaFiorentina_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Enzo Cozzolini|Cozzolini]] {{Goal|53}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 dicembre
+|Anno = 1945
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Spettatori = 20.000 circa
+|Referto = http://www.asromaultras.org/4546BariRoma_CorrSport_03_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Arbitro = [[Agostino Gamba]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Sabino Cavone|Cavone]] {{Goal|60}}
+}}
+{{Incontro di club
+|Sport =calcio
+|Giornomese = 9 dicembre
+|Anno = 1945
+|Ora =
+|Turno = 8ª giornata
+|Squadra 1 = Salernitana
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/4546SalernitanaRoma_CorrSport_02_af.JPG
+|Città = [[Salerno]]
+|Stadio = [[Stadio Donato Vestuti|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Romeo Catalucci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Paolo Jacobini|Jacobini]] {{Goal|48|aut.}}
+|Marcatori 2 = {{Goal|3||84}} [[Amedeo Amadei|Amadei]]<br/>{{Goal|30}} [[Naim Krieziu|Krieziu]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 1945
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546RomaNapoli_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 23.000 circa
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 dicembre
+|Anno = 1945
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Spettatori = 13.000 circa
+|Referto = http://www.asromaultras.org/4546LazieRoma_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Arbitro = [[Agostino Gamba]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Petar Manola|Manola]] {{Goal|69}}
+|Marcatori 2 = {{Goal|32}} [[Omero Urilli|Urilli]]<br/>{{Goal|73}} [[Giuliano Borin|Borin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 dicembre
+|Anno = 1945
+|Ora =
+|Turno = 11ª giornata
+|Note = Secondo turno di riposo della ROMA
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 1946
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546RomaPalermo_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Ruggero Altomare]]
+|Cittarbitro = [[Taranto]]
+|Marcatori 1 = [[Omero Urilli|Urilli]] {{Goal|23}}<br/>[[Naim Krieziu|Krieziu]] {{Goal|86}}
+|Marcatori 2 = {{Goal|70}} [[Luigi Perugini|Perugini]]
+|Sfondo = on
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 gennaio
+|Anno = 1946
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Anconitana
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546RomaAnconitana_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Rocco De Paola]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|48}}<br/>[[Naim Krieziu|Krieziu]] {{Goal|80||86}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 1946
+|Ora =
+|Turno = 14ª giornata
+|Squadra 1 = Pescara
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/4546PescaraRoma_CorrSport_02_af.JPG
+|Città = [[Pescara]]
+|Stadio = [[Stadio Rampigna]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Giuseppe Scotti (arbitro)|Giuseppe Scotti]]
+|Cittarbitro = [[Taranto]]
+|Marcatori 1 = [[Berardo Lanciaprima|Lanciaprima]] {{Goal|48}}<br/>[[Mario Tontodonati|Tontodonati]] {{Goal|75}}
+|Marcatori 2 = {{Goal|2||62}} [[Omero Urilli|Urilli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 febbraio
+|Anno = 1946
+|Ora =
+|Turno = 15ª giornata
+|Squadra 1 = Siena
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546SienaRoma_CorrSport_03_af.JPG
+|Città = [[Siena]]
+|Stadio = [[Stadio del Rastrello]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|87}} [[Naim Krieziu|Krieziu]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 febbraio
+|Anno = 1944
+|Ora = 15:00
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Livorno
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/4546RomaLivorno_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Agostino Gamba]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Enrico Schiavetti|Schiavetti]] {{Goal|15}}<br/>[[Naim Krieziu|Krieziu]] {{Goal|46}}
+|Marcatori 2 = {{Goal|20}} [[Teresio Piana|Piana]]<br/>{{Goal|34}} [[Antonio Zidarich|A. Zidarich]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 febbraio
+|Anno = 1946
+|Ora =
+|Turno = 17ª giornata
+|Note = Terzo turno di riposo della ROMA
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 febbraio
+|Anno = 1946
+|Ora =
+|Turno = 18ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Spettatori = 20.000 circa
+|Referto = http://www.asromaultras.org/4546FiorentinaRoma_CorrSport_03_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Romeo Menti|R. Menti]] {{Goal|61}}<br/>[[Mario Gritti|Gritti]] {{Goal|76}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 1946
+|Ora =
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Spettatori = 6.000 circa
+|Referto = http://www.asromaultras.org/4546RomaBari_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Sergio Andreoli|Andreoli]] {{Goal|83}}
+|Marcatori 2 = {{Goal|67}} [[Vincenzo Orlando|Orlando]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 1946
+|Ora = 15:30
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Salernitana
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/4546RomaSalernitana_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Lelio Coppolone]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Omero Urilli|Urilli]] {{Goal|2||47}}<br/>[[Amedeo Amadei|Amadei]] {{Goal|11||51}}
+|Marcatori 2 = {{Goal|7}} [[Renato Tori|Tori]]<br/>{{Goal|48}} [[Lelio Colaneri|Colaneri]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 marzo
+|Anno = 1946
+|Ora =
+|Turno = 21ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546NapoliRoma_CorrSport_03_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Arturo Collana|Stadio della Liberazione]]
+|Spettatori = 16.000 circa
+|Arbitro = [[Otello Piselli]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Michele Andreolo|Andreolo]] {{Goal|39}}
+|Marcatori 2 = {{Goal|50}} [[Vittorio Dagianti|Dagianti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 marzo
+|Anno = 1946
+|Ora = 15:30
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Spettatori = 26.000 circa
+|Referto = http://www.asromaultras.org/4546RomaLazie_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Arbitro = [[Demetrio Stampacchia]]
+|Cittarbitro = [[Nola]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|25}} [[Engelbert Koenig|Koenig]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 marzo
+|Anno = 1946
+|Ora =
+|Turno = 23ª giornata
+|Note = Quarto turno di riposo della ROMA
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 aprile
+|Anno = 1946
+|Ora =
+|Turno = 24ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/4546PalermoRoma_CorrSport_03_af.JPG
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio La Favorita]]
+|Spettatori = 13.000 circa
+|Arbitro = [[Giuseppe Vannini]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Luigi Perugini|Perugini]] {{Goal|85}}
+|Marcatori 2 = {{Goal|21}} [[Amedeo Amadei|Amadei]]<br/>{{Goal|44}} [[Paolo Jacobini|Jacobini]]<br/>{{Goal|66}} [[Naim Krieziu|Krieziu]]
+|Sfondo = on
+}}
+
+=== Divisione Nazionale 1945-1946 - Girone finale Divisione Nazionale ===
+{{vedi anche|Divisione Nazionale 1945-1946#Girone finale Divisione Nazionale}}
+
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 aprile
+|Anno = 1946
+|Ora = 16:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 7
+|Referto = http://www.asromaultras.org/4546RomaTorino_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|5}} [[Eusebio Castigliano|Castigliano]]<br />{{Goal|6||18}} [[Valentino Mazzola|Mazzola]]<br />{{Goal|7}} [[Franco Ossola|Ossola]]<br />{{Goal|9}} [[Pietro Ferraris|Ferraris]]<br />{{Goal|15}} [[Ezio Loik|Loik]]<br />{{Goal|46}} [[Giuseppe Grezar|Grezar]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 maggio
+|Anno = 1946
+|Ora =
+|Turno = 2ª giornata
+|Squadra 1 = Pro Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546LivornoRoma_finali_CorrSport_02_af.JPG
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Comunale]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Mario Stua|Stua]] {{Goal|22}}
+|Marcatori 2 = {{Goal|77}} [[Amedeo Amadei|Amadei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 maggio
+|Anno = 1946
+|Ora =
+|Turno = 3ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546MilanRoma_CorrSport_03_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori = 13.000
+|Arbitro = [[Ermanno Silvano]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Carlo Annovazzi|Annovazzi]] {{Goal|23||61}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 maggio
+|Anno = 1946
+|Ora = 16:30
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546RomaJuventus_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 22.000 circa
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 maggio
+|Anno = 1946
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546NapoliRoma_CorrSport_finali_04_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Arturo Collana|Stadio del Vomero]]
+|Spettatori = 3.000 circa
+|Arbitro = [[Ferruccio Bonivento]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Carlo Barbieri (calciatore 1922)|Barbieri]] {{Goal|8||39}}
+|Marcatori 2 = {{Goal|16}} [[Amedeo Amadei|Amadei]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 maggio
+|Anno = 1946
+|Ora = 16:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Spettatori = 8.000 circa
+|Referto = http://www.asromaultras.org/4546RomaBari_CorrSport_finali_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Paolo Jacobini|Jacobini]] {{Goal|78}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 giugno
+|Anno = 1946
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Spettatori = 20.000 circa
+|Referto = http://www.asromaultras.org/4546InterRoma_CorrSport_03_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Arbitro = [[Agostino Gamba]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Luigi Brunella|Brunella]] {{Goal|5|aut.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 giugno
+|Anno = 1946
+|Ora =
+|Turno = 8ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/4546TorinoRoma_CorrSport_02_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = 12.000 circa
+|Arbitro = [[Ferruccio Bellè]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Giuseppe Grezar|Grezar]] {{Goal|37}}<br />[[Eusebio Castigliano|Castigliano]] {{Goal|41||67|rig.}}
+|Marcatori 2 = {{Goal|39|rig.|51}} [[Amadeo Amadei|Amadei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 giugno
+|Anno = 1946
+|Ora = 17:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Livorno
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/4546RomaLivorno_finali_CorrSport_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 9.000 circa
+|Arbitro = [[Ermanno Silvano]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Eto Soldani|Soldani]] {{Goal|25|aut.}}<br/>[[Amadeo Amadei|Amadei]] {{Goal|41}}<br/>[[Naim Krieziu|Krieziu]] {{Goal|64}}
+|Marcatori 2 = {{Goal|38|rig.}} [[Mario Zidarich|M. Zidarich]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 giugno
+|Anno = 1945
+|Ora = 17:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Spettatori = 10.000 circa
+|Referto = http://www.asromaultras.org/roma%20milan%2045-46zz.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Naim Krieziu|Krieziu]] {{Goal|35}}<br/>[[Amadeo Amadei|Amadei]] {{Goal|39}}
+|Marcatori 2 = {{Goal|48}} [[Giuseppe Antonini (calciatore)|Antonini]]<br/>{{Goal|56}} [[Ettore Puricelli|Puricelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 luglio
+|Anno = 1946
+|Ora =
+|Turno = 11ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Spettatori =
+|Referto = http://www.asromaultras.org/4546JuventusRoma_CorrSport_02_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Arbitro = [[Giuseppe Carpani (arbitro)|Giuseppe Carpani]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Pietro Rava|Rava]] {{Goal|49|rig.|75|rig.}}
+|Marcatori 2 = {{Goal|23}} [[Naim Krieziu|Krieziu]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 luglio
+|Anno = 1946
+|Ora = 18:00
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546RomaNapoli_finali_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori =
+|Arbitro = [[Eliseo Camiolo]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Vittorio Dagianti|Dagianti]] {{Goal|17}}<br/>[[Naim Krieziu|Krieziu]] {{Goal|23}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 luglio
+|Anno = 1946
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546BariRoma_finali_CorrSport_02_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Rocco De Paola]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Dante Di Benedetti|Di Benedetti]] {{Goal|54}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 luglio
+|Anno = 1946
+|Ora = 17:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/4546RomaInter_CorrSport_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Guido Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Luigi Di Pasquale|Di Pasquale]] {{Goal|42}}<br/>[[Naim Krieziu|Krieziu]]  {{Goal|45}}<br/>[[Amedeo Amadei|Amadei]] {{Goal|67}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1=[[Divisione Nazionale 1945-1946#Serie mista A-B Centro-Sud|Divisione Nazionale mista A-B Centro-Sud]]
+|punti1=27
+|cv1=5
+|cn1=4
+|cp1=1
+|cgf1=14
+|cgs1=7
+|tv1=5
+|tn1=3
+|tp1=2
+|tgf1=14
+|tgs1=10
+|comp2={{simbolo|Scudetto.svg|15}} [[Divisione Nazionale 1945-1946#Girone finale Divisione Nazionale|Girone finale Divisione Nazionale]]
+|punti2=11
+|cv2=4
+|cn2=2
+|cp2=1
+|cgf2=11
+|cgs2=10
+|tv2=0
+|tn2=1
+|tp2=6
+|tgf2=5
+|tgs2=12
+}}
+=== Andamento in campionato ===
+==== Serie mista A-B Centro-Sud ====
+{{Andamento |nr=24}}
+{{Andamento/Luogo |m1=T |m2=C |m3=C |m4=T |m5= |m6=C |m7=T |m8=T |m9=C |m10=T |m11= |m12=C |m13=C |m14=T |m15=T |m16=C |m17= |m18=T |m19=C  |m20=C  |m21=T  |m22=C  |m23=-  |m24=T  }}
+{{Andamento/Risultato 	|m1=V |m2=N |m3=V |m4=N |m5=- |m6=V |m7=P |m8=V |m9=N |m10=V |m11=- |m12=V |m13=V |m14=N |m15=V |m16=N |m17=- |m18=P |m19=N  |m20=V  |m21=N  |m22=P  |m23=-  |m24=V  }}
+{{Andamento/Posizione 	|m1=1 |m2=2 |m3=2 |m4=1 |m5=1 |m6=1 |m7=2 |m8=1 |m9=1 |m10=1 |m11=1 |m12=1 |m13=1 |m14=1 |m15=1 |m16=1 |m17=1 |m18=1 |m19=1  |m20=1  |m21=1  |m22=1  |m23=4  |m24=3  }}
+{{Andamento/Fine}}
+
+==== Girone finale Divisione Nazionale ====
+{{Andamento |nr=14}}
+{{Andamento/Luogo |m1=C |m2=T |m3=T |m4=C |m5=T |m6=C |m7=T |m8=T |m9=C |m10=C |m11=T |m12=C |m13=T |m14=C }}
+{{Andamento/Risultato 	|m1=P |m2=N |m3=P |m4=N |m5=P |m6=V |m7=P |m8=P |m9=V |m10=N |m11=P |m12=V |m13=P |m14=V }}
+{{Andamento/Posizione 	|m1=5 |m2=5 |m3=6 |m4=6 |m5=7 |m6=6 |m7=6 |m8=7 |m9=6 |m10=6 |m11=6 |m12=6 |m13=7 |m14=6 }}
+{{Andamento/Fine}}
+
+=== Statistiche dei giocatori ===
+Desunte dalle testate giornalistiche dell'epoca.<ref>A completamento delle statistiche va conteggiato un autogol nel girone finale di Divisione Nazionale.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Divisione Nazionale<br />Divisione mista A-B Centro-Sud
+| Competizione2 = Divisione Nazionale<br />Girone finale
+| Totale =
+| Cartellini = no
+| {{Sortname|C.|Francalancia|Cesare Francalancia}}{{Sommastat|C=no|0|-0|?|? |7|-6|?|?}}
+| {{Sortname|F.|Risorti|Fosco Risorti}}{{Sommastat|C=no|20|-17|?|? |7|-16|?|?}}
+| {{Sortname|S.|Andreoli|Sergio Andreoli}}{{Sommastat|C=no|19|1|?|? |7|0|?|?}}
+| {{Sortname|L.|Brunella|Luigi Brunella}}{{Sommastat|C=no|7|0|?|? |14|0|?|?}}
+| {{Sortname|C.|Contin|Corrado Contin}}{{Sommastat|C=no|14|0|?|? |7|0|?|?}}
+| {{Sortname|V.|Dagianti|Vittorio Dagianti}}{{Sommastat|C=no|17|1|?|? |14|1|?|?}}
+| {{Sortname|L.|Di Pasquale|Luigi Di Pasquale}}{{Sommastat|C=no|2|0|?|? |4|1|?|?}}
+| {{Sortname|P.|Jacobini|Paolo Jacobini}}{{Sommastat|C=no|20|1|?|? |9|1|?|?}}
+| {{Sortname|C.|Matteini|Claudio Matteini}}{{Sommastat|C=no|16|0|?|? |14|0|?|?}}
+| {{Sortname|N.|Krieziu|Naim Krieziu}}{{Sommastat|C=no|20|7|?|? |13|5|?|?}}
+| {{Sortname|R.|Salar|Ruggero Salar}}{{Sommastat|C=no|19|0|?|? |13|0|?|?}}
+| {{Sortname|E.|Schiavetti|Enrico Schiavetti}}{{Sommastat|C=no|11|1|?|? |13|0|?|?}}
+| {{Sortname|A.|Amadei|Amedeo Amadei}}{{Sommastat|C=no|20|7|?|? |14|7|?|?}}
+| {{Sortname|C.|Benedetti (II)|Cesare Benedetti (calciatore 1920-2002)}}{{Sommastat|C=no|5|0|?|? |1|0|?|?}}
+| {{Sortname|G.|Borin|Giuliano Borin}}{{Sommastat|C=no|5|1|?|? |1|0|?|?}}
+| {{Sortname|E.|Cozzolini|Enzo Cozzolini}}{{Sommastat|C=no|7|2|?|? |2|0|?|?}}
+| {{Sortname|A.|Fusco|Antonio Fusco (calciatore)}}{{Sommastat|C=no|1|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Pantó|Miguel Ángel Pantó}}{{Sommastat|C=no|0|0|?|? |11|0|?|?}}
+| {{Sortname|O.|Urilli|Omero Urilli}}{{Sommastat|C=no|17|7|?|? |2|0|?|?}}
+}}
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital46.html|Serie A 1945-1946 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1945|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1945-1946}}
+{{Portale|calcio}}

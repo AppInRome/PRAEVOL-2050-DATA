@@ -1,0 +1,899 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1955-1956
+|immagine = AsRoma5556.jpg
+|didascalia = Una formazione della Roma nel 1955-1956
+|allenatore1 = {{Bandiera|HUN 1949-1956}} [[György Sárosi]]
+|presidente = {{Bandiera|ITA}} [[Renato Sacerdoti]]
+|campionato = [[Serie A 1955-1956|Serie A]]
+|campionato posizione = 6º
+|coppa1 = [[Pequeña Copa del Mundo]]
+|coppa1 posizione = 4º
+|presenze campionato = [[Luigi Giuliano (calciatore)|Giuliano]], [[Dino da Costa|Da Costa]] (34)
+|marcatore campionato = [[Dino da Costa|Da Costa]] (12)
+|spettatori media = {{formatnum:35795}}
+|spettatori media legenda = campionato
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1954-1955|1954-1955]]
+|stagione dopo = [[Associazione Sportiva Roma 1956-1957|1956-1957]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1955-1956'''.
+== Stagione ==
+Dopo la deludente eliminazione dalla [[Coppa Mitropa 1955|Coppa Mitropa]], [[Renato Sacerdoti|Sacerdoti]] decide di cambiare allenatore e al posto di [[Jesse Carver]] ingaggia l'ungherese [[György Sárosi]]. È l'anno della consacrazione di [[Giacomo Losi]] e del neo acquisto [[Dino Da Costa]]. La stagione si conclude con un sesto posto.<ref name=cor2>{{cita|Romano|titolo=1942-1964 Gli assi dell'Olimpico}}.</ref>
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a V giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con colletto a polo, pantaloncini bianchi e calzettoni rossi bordati di giallo. Viene usata in alcune occasioni un'altra divisa nelle trasferte, costituita da maglia verde con colletto e bordi manica giallorossi, pantaloncini bianchi e calze nere con banda giallorossa orizzontale. I portieri hanno due divise, una costituita da maglia grigia con colletto a polo giallorosso, pantaloncini neri e calze rosse bordate di giallo, l'altra con maglia con colletto a girocollo giallorosso e gli stessi abbinamenti.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 74-77}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =_asroma40sh
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_asroma4748a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = ff
+|pattern_so =_asromah
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma4849t
+|leftarm = 030347
+|pattern_b =_asroma4849t
+|body = 030347
+|pattern_ra =_asroma4849t
+|rightarm = 030347
+|shorts = ff
+|pattern_so =_asroma20s
+|socks = 030347
+|title = Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma20sgk
+|leftarm = 858585
+|pattern_b =_asroma5051gk
+|body = 858585
+|pattern_ra =_asroma20sgk
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª div. portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma20sgk
+|leftarm = 858585
+|pattern_b =_asroma5455gk2
+|body = 858585
+|pattern_ra =_asroma20sgk
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 2ª div. portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor2/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Renato Sacerdoti]]
+;Area tecnica
+* Allenatore: [[György Sárosi]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 55/56">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1955|titolo=Rosa AS Roma - Saison 55/56|accesso=9 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Panetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Tessari]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Amos Cardarelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gabriele De Toni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Eliani]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giosuè Stucchi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Piero Betello]]<ref name="P">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Piero Biagini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Raoul Bortoletto]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Armando Cavazzuti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Giuliano (calciatore)|Luigi Giuliano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Egisto Pandolfini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Romano Pontrelli<ref name="P"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Arcadio Venturi]]|altro=c|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=BRA 1889-1960|nome=[[Dino da Costa]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Carlo Galli (calciatore)|Carlo Galli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alcides Ghiggia]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=HUN 1949-1956|nome=[[István Nyers]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Adelmo Prenna]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 55/56"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Luciano Panetti]]|| {{Calcio Modena|N}} || ''definitivo''
+|-
+| P ||[[Luciano Tessari]]|| {{Calcio Palermo|N}}|| ''definitivo''
+|-
+| D ||[[Gabriele De Toni]]|| {{Calcio Verona|N}} || ''definitivo''
+|-
+| C ||[[Piero Biagini]]|| {{Calcio Genoa|N}} || ''definitivo''
+|-
+| A ||[[Dino da Costa]]|| {{Calcio Botafogo|N}} || ''definitivo''
+|-
+| A ||[[Adelmo Prenna]]|| {{Calcio B.P.D. Colleferro|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Luigi Albani]]|| {{Calcio Palermo|N}} || ''definitivo''
+|-
+| P ||[[Giuseppe Moro]]|| {{Calcio Verona|N}} || ''definitivo''
+|-
+| D ||[[Alberto Bertuccelli]]|| - || ''fine carriera''
+|-
+| C ||[[Celestino Celio]]|| {{Calcio Inter|N}} || ''definitivo''
+|-
+| C ||[[Egidio Guarnacci]]|| {{Calcio B.P.D. Colleferro|N}} || ''prestito''
+|-
+| A ||[[Enore Boscolo]]|| {{Calcio Vicenza|N|1954}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1955-1956}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 settembre
+|Anno = 1955
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaVicenza_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 60.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[István Nyers|Nyers]] {{Goal|4||38|rig.}}<br />[[Dino da Costa|Da Costa]] {{Goal|25}}<br />[[Carlo Galli (calciatore)|Galli]] {{Goal|48}}
+|Marcatori 2 = {{Goal|40}} [[Américo Murolo|Murolo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 1955
+|Ora = 16
+|Turno = 2ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/5556GenoaRoma_CorrSport_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori =
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Ivan Firotto|Firotto]] {{Goal|30||47}}<br />[[Fulvio Fonda|Fonda]] {{Goal|60}}
+|Marcatori 2 = {{Goal|40|rig.|46}} [[István Nyers|Nyers]]<br />{{Goal|68}} [[Egisto Pandolfini|Pandolfini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 1955
+|Ora = 15:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaSpal_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[István Nyers|Nyers]] {{Goal|78}}
+|Marcatori 2 = {{Goal|44}} [[Carlo Novelli|Novelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 ottobre
+|Anno = 1955
+|Ora = 15:30
+|Turno = 4ª giornata
+|Squadra 1 = Novara
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5556NovaraRoma_CorrSport_01_af.JPG
+|Città = [[Novara]]
+|Stadio = Stadio Comunale
+|Spettatori = 10.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Carlo Piccioni|Piccioni]] {{Goal|35}}<br />[[Helge Bronée|Bronée]] {{Goal|54}}
+|Marcatori 2 = {{Goal|18}} [[Luigi Giuliano (calciatore)|Giuliano]]<br />{{Goal|40}} [[Alcides Ghiggia|Ghiggia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 1955
+|Ora = 15
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556RomaLazie_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 80.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Anno = 1955
+|Ora = 15:30
+|Turno = 6ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556NapoliRoma_CorrSport_01_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Arturo Collana|Stadio della Liberazione]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 1 = [[Giulio Castelli (calciatore)|Castelli]] {{Goal|62}}
+|Marcatori 2 = {{Goal|81}} [[Carlo Galli (calciatore)|Galli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 1955
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaJuventus_SorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000 circa
+|Arbitro = [[Giorgio Bernardi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Adelmo Prenna|Prenna]] {{Goal|54}}
+|Marcatori 2 = {{Goal|43}} [[Guglielmo Oppezzo|Oppezzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 1955
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaPadova_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Ettore Perego]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|74}}
+|Marcatori 2 = {{Goal|78}} [[Amedeo Bonistalli|Bonistalli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 1955
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Pro Patria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 5
+|Referto = http://www.asromaultras.org/5556ProPatriaRoma_Unita_af.jpg
+|Città = [[Busto Arsizio]]
+|Stadio = [[Stadio Carlo Speroni|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Guglielmo Toros|Toros]] {{Goal|61||64||89}}
+|Marcatori 2 = {{Goal|1|aut.}} [[Sergio Frascoli|Frascoli]]<br />{{Goal|22||50||70}} [[Dino da Costa|Da Costa]]<br />{{Goal|75}} [[Carlo Galli (calciatore)|Galli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 1955
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556RomaInter_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 60.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|30}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 1955
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556FiorentinaRoma_CorrSport_01_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = 70.000 circa
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Giuseppe Virgili (calciatore)|Virgili]] {{Goal|32}}<br />[[Giacomo Losi|Losi]] {{Goal|83|aut.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 dicembre
+|Anno = 1955
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556TorinoRoma_CorrSport_01_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Giorgio Bernardi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Horst Buhtz|Buhtz]] {{Goal|50}}<br />[[Quinto Bertoloni|Bertoloni]] {{Goal|79}}
+|Marcatori 2 = {{Goal|1}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Anno = 1955
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5556RomaAtalanta_Unita_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 65.000 circa
+|Arbitro = [[Tommaso Corallo]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Carlo Galli (calciatore)|Galli]] {{Goal|33}}<br />[[Alcides Ghiggia|Ghiggia]] {{Goal|37}}<br />[[Giulio Corsini|Corsini]] {{Goal|67|aut.}}
+|Marcatori 2 = {{Goal|65||76}} [[Adriano Bassetto|Bassetto]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 1956
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556MilanRoma_CorrSport_01_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Juan Alberto Schiaffino|Schiaffino]] {{Goal|22}}<br />[[Gunnar Nordahl|Nordahl]] {{Goal|26||77}}<br />[[Eduardo Ricagni|Ricagni]] {{Goal|71}}
+|Marcatori 2 = {{Goal|63}} [[István Nyers|Nyers]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 1956
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556RomaBologna_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Luigi Giuliano (calciatore)|Giuliano]] {{Goal|28}}<br />[[Dino da Costa|Da Costa]] {{Goal|80}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 1956
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556TriestinaRoma_CorrSport_01_af.JPG
+|Città = [[Trieste]]
+|Stadio = [[Stadio Giuseppe Grezar|Stadio Comunale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Anno = 1956
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556SampdoriaRoma_CorrSport_01_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Eddie Firmani|Firmani]] {{Goal|54}}
+|Marcatori 2 =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 1956
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556VicenzaRoma_CorrSport_01_af.JPG
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Gennaro Marchese]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Enore Boscolo|Boscolo]] {{Goal|6||76}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 1956
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556RomaGenoa_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Alcides Ghiggia|Ghiggia]] {{Goal|11}}<br />[[Egisto Pandolfini|Pandolfini]] {{Goal|80}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 1956
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556SpalRoma_Unita_01_af.jpg
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Beniamino Di Giacomo|Di Giacomo]] {{Goal|27}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1956
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Novara
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaNovara_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 30.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 1 = [[Adelmo Prenna|Prenna]] {{Goal|6}}<br />[[Alcides Ghiggia|Ghiggia]] {{Goal|72}}
+|Marcatori 2 = {{Goal|48}} [[Andrea Marzani|Marzani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile<ref>Prevista l'11 marzo, rinviata per neve.</ref>
+|Anno = 1956
+|Ora = 15:30
+|Turno = 22ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556LazieRoma_Recupero_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 70.000 circa
+|Arbitro = [[Vincenzo Orlandini]]
+|Cittarbitro = [[Roma]]
+|Marcatori 1 = [[Ermes Muccinelli|Muccinelli]] {{Goal|46}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1956
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaNapoli_CorrSport_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[István Nyers|Nyers]] {{Goal|18}}<br />[[Dino da Costa|Da Costa]] {{Goal|61}}
+|Marcatori 2 = {{Goal|44}} [[Celso Posio|Posio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 marzo
+|Anno = 1956
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556JuventusRoma_La_Stampa_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = 1.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1956
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556PadovaRoma_CorrSport_01_af.JPG
+|Città = [[Padova]]
+|Stadio = [[Stadio Silvio Appiani]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Friedrich Seipelt]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Amedeo Bonistalli|Bonistalli]] {{Goal|64}}<br />[[Giorgio Stivanello|Stivanello]] {{Goal|66}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 1956
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Patria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556RomaProPatria_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Florenzo Annoscia]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Adelmo Prenna|Prenna]] {{Goal|31}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1956
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556InterRoma_CorrSport_01_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Iginio Rigato]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Roger Vonlanthen|Vonlanthen]] {{Goal|8}}
+|Marcatori 2 = {{Goal|90}} [[Dino da Costa|Da Costa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 1956
+|Ora = 15:15
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaFiorentina_CorrSport_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 50.000
+|Arbitro = [[Francesco Liverani]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|28}}
+|Marcatori 2 = {{Goal|63}} [[Giuseppe Virgili (calciatore)|Virgili]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 1956
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556RomaTorino_CorrSport_02_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.000 circa
+|Arbitro = Meyer
+|Nazarbitro = AUT
+|Marcatori 1 = [[Adelmo Prenna|Prenna]] {{Goal|11||81}}
+|Marcatori 2 = {{Goal|28}} [[Quinto Bertoloni|Bertoloni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 maggio
+|Anno = 1956
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/5556AtalantaRoma_CorrSport_01_af.JPG
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Erminio Piemonte]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 1 = [[Adriano Bassetto|Bassetto]] {{Goal|46}}
+|Marcatori 2 = {{Goal|63|rig.}} [[István Nyers|Nyers]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 maggio
+|Anno = 1956
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556RomaMilan_CorrSport_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 35.000 circa
+|Arbitro = [[Pietro Bonetto]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 maggio
+|Anno = 1956
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/5556BolognaRoma_CorrSport_01_af.JPG
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Cesare Jonni]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Gino Pivatelli|Pivatelli]] {{Goal|30}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 maggio
+|Anno = 1956
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Alfeo Grignani]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|30||34}}<br/>[[Adelmo Prenna|Prenna]] {{Goal|64}}<br/>[[István Nyers|Nyers]] {{Goal|88}}
+|Marcatori 2 = {{Goal|33}} [[Mario Renosto|Renosto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 giugno
+|Anno = 1956
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/5556RomaSampdoria_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Tommaso Corallo]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Dino da Costa|Da Costa]] {{Goal|57}}
+|Marcatori 2 = {{Goal|71}} [[Pierluigi Ronzon|Ronzon]]<br />{{Goal|83}} [[Eddie Firmani|Firmani]]
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor2/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1955-1956|Serie A]]
+|punti1=35
+|cv1=10
+|cn1=6
+|cp1=1
+|cgf1=28
+|cgs1=13
+|tv1=1
+|tn1=7
+|tp1=9
+|tgf1=15
+|tgs1=27
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo     |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=C |m9=T |m10=C |m11=T |m12=T |m13=C |m14=T |m15=C |m16=T |m17=T |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=T |m26=C |m27=T |m28=C |m29=C |m30=T |m31=C |m32=T |m33=C |m34=C }}
+{{Andamento/Risultato 	|m1=V |m2=N |m3=N |m4=N |m5=N |m6=N |m7=N |m8=N |m9=V |m10=V |m11=P |m12=P |m13=V |m14=P |m15=V |m16=N |m17=P |m18=P |m19=V |m20=P |m21=V |m22=P |m23=V |m24=N |m25=P |m26=V |m27=N |m28=N |m29=V |m30=N |m31=N |m32=P |m33=V |m34=P }}
+{{Andamento/Posizione |r=17 |m1=1 |m2=2 |m3=4 |m4=5 |m5=5 |m6=4 |m7=7 |m8=5 |m9=3 |m10=2 |m11=2 |m12=5 |m13=3 |m14=6 |m15=4 |m16=4 |m17=6 |m18=9 |m19=7 |m20=9 |m21=6 |m22=8 |m23=6 |m24=5 |m25=9 |m26=4 |m27=6 |m28=6 |m29=5 |m30=5 |m31=5 |m32=6 |m33=6 |m34=6 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]].<ref>A completamento dei dati vanno conteggiati due autogol.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Cartellini = no
+| Totale = no
+| {{Sortname|L.|Panetti|Luciano Panetti}} {{Sommastat|C=no |28|-34|?|? }}
+| {{Sortname|L.|Tessari|Luciano Tessari}} {{Sommastat|C=no |6|-6|?|? }}
+| {{Sortname|A.|Cardarelli|Amos Cardarelli}} {{Sommastat|C=no |27|0|?|? }}
+| {{Sortname|G.|De Toni|Gabriele De Toni}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|A.|Eliani|Alberto Eliani}} {{Sommastat|C=no |14|0|?|? }}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |30|0|?|? }}
+| {{Sortname|G.|Stucchi|Giosuè Stucchi}} {{Sommastat|C=no |26|0|?|? }}
+| {{Sortname|P.|Betello|Piero Betello}} {{Sommastat|C=no |2|0|?|? }}
+| {{Sortname|P.|Biagini|Piero Biagini}} {{Sommastat|C=no |11|0|?|? }}
+| {{Sortname|R.|Bortoletto|Raoul Bortoletto}} {{Sommastat|C=no |14|0|?|? }}
+| {{Sortname|A.|Cavazzuti|Armando Cavazzuti}} {{Sommastat|C=no |12|0|?|? }}
+| {{Sortname|L.|Giuliano|Luigi Giuliano (calciatore)}} {{Sommastat|C=no |34|2|?|? }}
+| {{Sortname|E.|Pandolfini|Egisto Pandolfini}} {{Sommastat|C=no |20|2|?|? }}
+| {{Sortname|R.|Pontrelli|Romano Pontrelli}} {{Sommastat|C=no |1|0|?|? }}
+| {{Sortname|A.|Venturi|Arcadio Venturi}} {{Sommastat|C=no |24|0|?|? }}
+| {{Sortname|D.|da Costa|Dino da Costa}} {{Sommastat|C=no |34|12|?|? }}
+| {{Sortname|C.|Galli|Carlo Galli (calciatore)}} {{Sommastat|C=no |20|6|?|? }}
+| {{Sortname|A.|Ghiggia|Alcides Ghiggia}} {{Sommastat|C=no |28|4|?|? }}
+| {{Sortname|I.|Nyers|István Nyers}} {{Sommastat|C=no |29|9|?|? }}
+| {{Sortname|A.|Prenna|Adelmo Prenna}} {{Sommastat|C=no |13|6|?|? }}
+}}
+==Note==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital56.html|Serie A 1955-1956 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1955|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1955-1956}}
+{{Portale|calcio}}

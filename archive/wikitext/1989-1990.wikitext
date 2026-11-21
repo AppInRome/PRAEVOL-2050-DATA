@@ -1,0 +1,1112 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1989-1990
+|immagine = Associazione Sportiva Roma 1989-1990.jpg
+|allenatore1 = {{Bandiera|ITA}} [[Luigi Radice]]
+|presidente = {{Bandiera|ITA}} [[Dino Viola]]
+|campionato = [[Serie A 1989-1990|Serie A]]
+|campionato posizione = 6º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 1989-1990|Coppa Italia]]
+|coppa1 posizione = Semifinalista
+|presenze campionato = [[Ruggiero Rizzitelli|Rizzitelli]] (34)
+|presenze totale = Rizzitelli (40)
+|marcatore campionato = [[Rudi Völler|Völler]] (14)
+|marcatore totale = Völler (16)
+|stadio = [[Stadio Flaminio|Flaminio]]<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A89-90.htm|titolo=Statistiche Spettatori Serie A 1989-1990|lingua=inglese}}</ref>
+|spettatori max = {{formatnum:27124}} vs {{Calcio Milan|N}}<br/>(25 febbraio 1990)<ref name=stadiapost/>
+|spettatori min = {{formatnum:16460}} vs {{Calcio Ascoli|N}}<br/>(3 settembre 1989)<ref name=stadiapost/><ref name=pescara>Gara disputata a Pescara.</ref>
+|spettatori media = {{formatnum:23995}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:10071}}<ref name=stadiapost/>
+|stagione prima = [[Associazione Sportiva Roma 1988-1989|1988-1989]]
+|stagione dopo = [[Associazione Sportiva Roma 1990-1991|1990-1991]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1989-1990'''.
+
+== Stagione ==
+Sfumata la qualificazione in [[UEFA Europa League|Coppa UEFA]] dopo lo spareggio con la {{Calcio Fiorentina|N}} al termine del [[Serie A 1988-1989|campionato precedente]], dopo il definitivo addio di [[Nils Liedholm]] la società giallorossa ingaggia [[Luigi Radice]] come allenatore, il quale inizialmente non è ben visto dalla tifoseria, ma si guadagna ben presto un'ottima stima.<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1989/07/06/annuncio-sottovoce-radice-allenatore.html|titolo=Annuncio sottovoce Radice allenatore|pubblicazione=[[la Repubblica (quotidiano)|la Repubblica]]|data=6 luglio 1989|p=32}}</ref> I nuovi rinforzi sono il tedesco [[Thomas Berthold|Berthold]] proveniente dal {{Calcio Verona|N}}, il portiere [[Giovanni Cervone]], e il difensore [[Antonio Comi]].<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1989/07/09/tapie-maradona-ultimo-tentativo.html|titolo=Tapie-Maradona ultimo tentativo|autore=Marco E. Ansaldo|pubblicazione=la Repubblica|data=9 luglio 1989|p=32}}</ref> In [[Coppa Italia 1989-1990|Coppa Italia]], la Roma accedette alla fase a gironi eliminando {{Calcio Modena|N}} e {{Calcio Palermo|N}}.<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1989/08/31/quattro-volte-roma.html|titolo=Quattro volte Roma|autore=F.C.|pubblicazione=la Repubblica|data=31 agosto 1989|p=27}}</ref>
+
+In questa stagione, la squadra disputa tutte le gare interne allo [[Stadio Flaminio]], a causa della ristrutturazione dell'[[Stadio Olimpico (Roma)|Olimpico]] per il [[Campionato mondiale di calcio 1990|Mondiale di Italia '90]].<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1989/10/07/maledetto-flaminio.html|titolo=Maledetto flaminio|autore=Corrado Sannucci|pubblicazione=la Repubblica|data=7 ottobre 1989|p=37}}</ref> In campionato il Flaminio sembra portare fortuna alla squadra capitolina, che si ritrova quasi sempre a ridosso delle zone alte della classifica; inoltre Il [[Serie A 1989-1990|campionato]] regala ai giallorossi anche la soddisfazione di aver totalizzato 3 punti su 4 nei [[Derby di Roma|derby]].<ref name=Panini>{{cita libro|titolo=Almanacco illustrato del Calcio 1991|editore=[[Panini (azienda)|Panini Editore]]|anno=1990|pagine=659|città=Modena|ISSN=1129-3381}}</ref> In [[Coppa Italia 1989-1990|Coppa Italia]], nella fase a gruppi la Roma, abbinata ad {{Calcio Ascoli|N}} e [[Football Club Internazionale Milano|Inter]], supera i nerazzurri soltanto grazie al sorteggio<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/01/26/il-milan-chiede-scusa.html|titolo=Il Milan chiede scusa|autore=Antonio Dipollina|pubblicazione=la Repubblica|data=26 gennaio 1990|p=37}}</ref>; in semifinale, la squadra giallorossa viene eliminata dalla [[Juventus Football Club|Juventus]].<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/02/01/la-formula-casiraghi-manda-la-roma-in.html|titolo=La formula Casiraghi manda la Roma in tilt|autore=Licia Granello|pubblicazione=la Repubblica|data=1º febbraio 1990|p=27}}</ref><ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1990/02/15/sorride-la-juve-precaria.html|titolo=Sorride la Juve precaria|autore=Fulvio Bianchi|pubblicazione=la Repubblica|data=15 febbraio 1990|p=28}}</ref> La compagine capitolina termina il campionato al sesto posto, ottenendo la qualificazione in [[Coppa UEFA]].<ref name=Panini/><ref name=cor6>{{cita|Romano|titolo=1984-1991 La Roma formato Coppa Italia}}.</ref>
+
+== Divise e sponsor ==
+[[File:AS Roma - Memorial Baretti 1989.jpg|thumb|La squadra in precampionato al [[Memorial Pier Cesare Baretti]] con la seconda divisa bianca]]
+Lo sponsor tecnico è [[NR (Ennerre)|NR]], lo sponsor ufficiale è [[Barilla]]. La prima divisa è costituita da maglia rossa con colletto a polo giallo, pantaloncini rossi e calzettoni rossi bordati di giallo. In trasferta i Lupi usano una maglia bianca con colletto a polo rosso, pantaloncini bianchi, calzettoni bianchi bordati di rosso. I portieri usano una divisa costituita pantaloncini e calzettoni neri abbinati a maglie con colletto a polo grigia, in alternativa viene usata una divisa formata da maglia nera con maniche e decorazioni azzurre, pantaloncini neri e calzettoni bianchi.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 171-172}}.</ref>
+{|
+|{{Divisa calcio
+|pattern_la =_asroma80s90s
+|leftarm = 810b19
+|pattern_b = _asroma8491h
+|body = 6a0c27
+|pattern_ra =_asroma80s90s
+|rightarm = 810b19
+|shorts = 810b19
+|pattern_so =_asroma8491h
+|socks = 6a0c27
+|title = Casa
+}}
+|{{Divisa calcio
+|pattern_la =_asroma80s90s
+|leftarm = 810b19
+|pattern_b = _asroma9091h
+|body = 810b19
+|pattern_ra =_asroma80s90s
+|rightarm = 810b19
+|shorts = 810b19
+|pattern_so =_asroma8491h
+|socks = 810b19
+|title = Alternativa
+}}
+|{{Divisa calcio
+|pattern_la = _asroma8691a
+|pattern_b =_asroma8691a
+|pattern_ra = _asroma8691a
+|leftarm = FFFFFF
+|body = 900010
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so = _asroma8691a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|{{Divisa calcio
+|pattern_la =_blackborder
+|leftarm = 858585
+|pattern_b =_asroma8990gk1
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa calcio
+|pattern_la =_asroma8990gk2
+|leftarm = 858585
+|pattern_b =_asroma8990gk2
+|body =
+|pattern_ra =_asroma8990gk2
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =
+|socks = ff
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor6/>
+'''''Area direttiva'''''
+:Presidente: [[Dino Viola]]
+'''''Area tecnica'''''
+:Direttore sportivo: [[Emiliano Mascetti]]
+:Allenatore: [[Luigi Radice]]
+'''''Area sanitaria'''''
+:Medico sociale: Ernesto Alicicco
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 89/90">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1989|titolo=Rosa AS Roma - Saison 89/90|accesso=11 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Luca Alidori<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Cervone]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Tancredi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ferro Tontini]]<ref name="p"/>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=FRG|nome=[[Thomas Berthold]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Borsa]]<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Ugo Cipelli<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Comi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Manuel Gerolin]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gabriele Grossi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lionello Manfredonia]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sebastiano Nela]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Pellegrini (1967)|Stefano Pellegrini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Petruzzi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Tempestilli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Daniele Berretta]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bruno Conti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alessandro Cucciari]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Di Mauro]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Desideri]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|altro=[[Capitano (calcio)|capitano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Impallomeni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giampiero Maini]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Piacentini]]<ref>Acquistato durante la sessione autunnale.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alessio Scarchilli]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Statuto]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Leonardo Aiello|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Muzzi]]<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ruggiero Rizzitelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=FRG|nome=[[Rudi Völler]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Baldieri]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 89/90"/>
+=== Sessione estiva ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |da
+! width=36% |Modalità
+|-
+|P ||[[Giovanni Cervone]] ||{{Calcio Verona|N}} ||''definitivo''
+|-
+|D ||[[Antonio Comi]] ||{{Calcio Torino|N}} ||''definitivo''
+|-
+|D ||[[Thomas Berthold]] ||{{Calcio Verona|N}} ||''definitivo''
+|-
+|D ||[[Stefano Pellegrini (1967)|Stefano Pellegrini]] ||{{Calcio Sampdoria|N}} ||''definitivo''
+|-
+|C ||[[Stefano Impallomeni]] ||{{Calcio Parma|N}} ||''fine prestito''
+|-
+|A ||[[Paolo Baldieri]] ||{{Calcio Avellino|N}} ||''definitivo''
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|P ||Alberto Menotti ||? ||''?''
+|-
+|P ||[[Angelo Peruzzi]] ||{{Calcio Verona|N}} ||''prestito''
+|-
+|D ||[[Fulvio Collovati]] ||{{Calcio Genoa|N}} ||''definitivo''
+|-
+|D ||[[Moreno Ferrario]] ||{{Calcio Avellino|N}} ||''definitivo''
+|-
+|D ||[[Emidio Oddi]] ||{{Calcio Udinese|N}} ||''definitivo''
+|-
+|C ||[[Jorge Luís Andrade da Silva|Andrade]] ||{{Calcio Vasco da Gama|N}} ||''definitivo''
+|-
+|C ||[[Roberto Policano]] ||{{Calcio Torino|N}} ||''definitivo''
+|-
+|A ||[[Daniele Massaro]] ||{{Calcio Milan|N}} ||''fine prestito''
+|-
+|A ||[[Renato Portaluppi|Renato]] ||{{Calcio Flamengo|N}} ||''definitivo''
+|}
+{{colonne fine}}
+=== Sessione autunnale ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|C ||[[Giovanni Piacentini]] ||{{Calcio Padova|N}} ||''definitivo''
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1989-1990}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 agosto
+|Anno = 1989
+|Ora = 16:30
+|Turno = 1ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/1/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = circa 36.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Fulvio Simonini|Simonini]] {{Goal|45}}
+|Marcatori 2 = {{Goal|31}} [[Antonio Tempestilli|Tempestilli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1989
+|Ora = 16:30
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/2/ROMASC
+|Città = [[Pescara]]
+|Stadio = [[Stadio Adriatico]]<ref name=neutro>In campo neutro a seguito della squalifica inflitta al campo della Roma di tre giornate per le intemperanze dei tifosi durante la partita di spareggio valevole per un posto nella Coppa UEFA 1989-90 tra Roma e Fiorentina disputata al termine della stagione precedente.</ref>
+|Spettatori = circa 16.000
+|Arbitro = [[Bruno Di Cola]]
+|Cittarbitro = [[Avezzano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 settembre
+|Anno = 1989
+|Ora = 16:00
+|Turno = 3ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/3/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 27.000
+|Arbitro = [[Werther Cornieti]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 2 = {{Goal|60|rig.|82}} [[Rudi Völler|Völler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 settembre
+|Anno = 1989
+|Ora = 16:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/4/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 23.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|14}}<br/>[[Manuel Gerolin|Gerolin]] {{Goal|17}}<br/>[[Thomas Berthold|Berthold]] {{Goal|27}}<br />[[Rudi Völler|Völler]] {{Goal|53}}
+|Marcatori 2 = {{Goal|9}} [[Claudio Caniggia|Caniggia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1989
+|Ora = 16:00
+|Turno = 5ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/5/BARROM
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = circa 32.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[João Paulo]] {{Goal|7}}
+|Marcatori 2 = {{Goal|54|aut.}} [[Massimo Brambati|Brambati]]<br/>{{Goal|78}} [[Stefano Desideri|Desideri]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 settembre
+|Anno = 1989
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cesena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/6/ROMCES
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 25.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|62}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1989
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/7/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 48.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Lothar Matthäus|Matthäus]] {{Goal|25||57}}<br/>[[Andreas Brehme|Brehme]] {{Goal|38}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 ottobre
+|Anno = 1989
+|Ora = 15:00
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/8/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 25.000
+|Arbitro = [[Pierluigi Magni]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Antonio Comi|Comi]] {{Goal|10}}
+|Marcatori 2 = {{Goal|54|rig.}} [[Diego Armando Maradona|Maradona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/9/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 57.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Marco van Basten|Van Basten]] {{Goal|82}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 ottobre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/10/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 24.000
+|Arbitro = [[Mauro Felicani]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|25}}<br/>[[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|39}}
+|Marcatori 2 = {{Goal|83}} [[Dario Levanto|Levanto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/11/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 23.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Fausto Salsano|Salsano]] {{Goal|23}}<br/>[[Roberto Mancini|Mancini]] {{Goal|43}}<br/>[[Gianluca Vialli|Vialli]] {{Goal|56||86}}
+|Marcatori 2 = {{Goal|49}} [[Stefano Desideri|Desideri]]<br/>{{Goal|74}} [[Ruggiero Rizzitelli|Rizzitelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/12/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 22.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|83}}
+|Marcatori 2 = {{Goal|64}} [[Alessandro Bertoni (1959)|Bertoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 novembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/13/VERROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori = circa 14.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Vittorio Pusceddu|Pusceddu]] {{Goal|53}}<br/>[[Davide Pellegrini|Pellegrini]] {{Goal|62}}
+|Marcatori 2 = {{Goal|63}} [[Rudi Völler|Völler]]<br />{{Goal|65}} [[Stefano Desideri|Desideri]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 dicembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/14/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 19.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Sergio Battistini|Battistini]] {{Goal|55}}
+|Marcatori 2 = {{Goal|7}} [[Stefano Desideri|Desideri]]<br/>{{Goal|44}} [[Ruggiero Rizzitelli|Rizzitelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/15/ROMCRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 23.000
+|Arbitro = [[Werther Cornieti]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|34}}<br/>[[Rudi Völler|Völler]] {{Goal|44||50|rig.}}
+|Marcatori 2 = {{Goal|35}} [[Fulvio Bonomi|Bonomi]]<br/>{{Goal|40}} [[Enrico Piccioni|Piccioni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/16/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 27.000
+|Arbitro = [[Guido Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|68}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 dicembre
+|Anno = 1989
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/17/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = circa 27.000
+|Arbitro = [[Pietro D'Elia]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Sebastiano Nela|Nela]] {{Goal|51|aut.}}
+|Marcatori 2 = {{Goal|89}} [[Ruggiero Rizzitelli|Rizzitelli]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/18/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 23.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Thomas Berthold|Berthold]] {{Goal|15}}<br/>[[Rudi Völler|Völler]] {{Goal|74}}<br/>[[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|90}}
+|Marcatori 2 = {{Goal|85}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/19/ASCROM
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Spettatori = circa 13.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Walter Casagrande|Casagrande]] {{Goal|21}}
+|Marcatori 2 = {{Goal|46}} [[Antonio Tempestilli|Tempestilli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/20/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 26.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 2 = {{Goal|15}} [[Carlos Aguilera|Aguilera]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 21ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/21/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = circa 22.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Walter Bonacina|Bonacina]] {{Goal|22}}<br/>[[Mario Bortolazzi|Bortolazzi]] {{Goal|79}}<br/>[[Claudio Caniggia|Caniggia]] {{Goal|90}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/22/ROMBAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 23.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Manuel Gerolin|Gerolin]] {{Goal|78}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 febbraio
+|Anno = 1990
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Cesena
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/23/CESROM
+|Città = [[Cesena]]
+|Stadio = [[Stadio Dino Manuzzi]]
+|Spettatori = circa 17.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 1990
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/24/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 25.000
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Antonio Tempestilli|Tempestilli]] {{Goal|50}}
+|Marcatori 2 = {{Goal|10}} [[Jürgen Klinsmann|Klinsmann]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Anno = 1990
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/25/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 60.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Diego Armando Maradona|Maradona]] {{Goal|54|rig.|72|rig.}}<br/>[[Careca]] {{Goal|61}}
+|Marcatori 2 = {{Goal|4}} [[Sebastiano Nela|Nela]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 febbraio
+|Anno = 1990
+|Ora = 15:00
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/26/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 27.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 2 = {{Goal|34|aut.}} [[Antonio Tempestilli|Tempestilli]]<br/>{{Goal|38||57}} [[Marco van Basten|Van Basten]]<br/>{{Goal|89}} [[Marco Simone|Simone]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 marzo
+|Anno = 1990
+|Ora = 15:00
+|Turno = 27ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/27/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = circa 16.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 2 = {{Goal|8}} [[Manuel Gerolin|Gerolin]]<br/>{{Goal|14}} [[Rudi Völler|Völler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 1990
+|Ora = 15:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/28/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 22.000
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Bruno Conti|Conti]] {{Goal|33}}
+|Marcatori 2 = {{Goal|77}} [[Pietro Vierchowod|Vierchowod]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1990
+|Ora = 15:00
+|Turno = 29ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/29/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 23.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 2 = {{Goal|30}} [[Rudi Völler|Völler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 marzo
+|Anno = 1990
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 5
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/30/ROMVER
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori =
+|Arbitro = [[Moreno Frigerio]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Bruno Conti|Conti]] {{Goal|16}}<br/>[[Rudi Völler|Völler]] {{Goal|27||58}}<br/>[[Stefano Desideri|Desideri]] {{Goal|73||76}}
+|Marcatori 2 = {{Goal|79}} [[Marino Magrin|Magrin]]<br/>{{Goal|86}} [[Vittorio Pusceddu|Pusceddu]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 1990
+|Ora = 15:30
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/31/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori =
+|Arbitro = [[Rosario Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 aprile
+|Anno = 1990
+|Ora = 15:30
+|Turno = 32ª giornata
+|Squadra 1 = Cremonese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/32/CREROM
+|Città = [[Cremona]]
+|Stadio = [[Stadio Giovanni Zini]]
+|Spettatori =
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 2 = {{Goal|81}} [[Rudi Völler|Völler]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 aprile
+|Anno = 1990
+|Ora = 15:30
+|Turno = 33ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/33/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale Vittorio Pozzo]]
+|Spettatori = circa 20.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Pierluigi Casiraghi|Casiraghi]] {{Goal|69}}
+|Marcatori 2 = {{Goal|64}} [[Rudi Völler|Völler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 1990
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1989-90/UNICO/UNI/34/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 26.000
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|5}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|20}}
+|Marcatori 2 = {{Goal|3}} [[Romano Galvani|Galvani]]<br/>{{Goal|48}} [[Herbert Waas|Waas]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1989-1990}}
+==== Fase eliminatoria ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 agosto
+|Anno = 1989
+|Ora = 20:40
+|Turno = Primo turno
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8990RomaModena_CI_Unita_af.jpg
+|Città = [[Terni]]
+|Stadio = [[Stadio Libero Liberati]]<ref name=neutro/>
+|Spettatori = circa 18.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Stefano Desideri|Desideri]] {{Goal|34}}<br/>[[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|37}}<br/>[[Rudi Völler|Völler]] {{Goal|50}}
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 agosto
+|Anno = 1989
+|Ora = 20:30
+|Turno = Secondo turno
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8990RomaPalermo_CI_La_Stampa_af.JPG
+|Città = [[Terni]]
+|Stadio = [[Stadio Libero Liberati]]<ref name=neutro/>
+|Spettatori = 10.305
+|Arbitro = [[Virginio Quartuccio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Rudi Völler|Völler]] {{Goal|15}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|27}}<br/>[[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|55||73}}
+|Sfondo = on
+}}
+
+==== Fase a gironi ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8990RomaAscoli_CI_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = circa 20.000
+|Arbitro = [[Virginio Quartuccio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Fabrizio Di Mauro|Di Mauro]] {{Goal|14}}<br/>[[Stefano Desideri|Desideri]] {{Goal|24}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|37}}
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1990
+|Ora =
+|Turno = 2ª giornata<ref name="riposo">Turno di riposo</ref>
+|Squadra 1 =
+|Squadra 2 =
+|Punteggio 1 =
+|Punteggio 2 =
+|Referto =
+|Città =
+|Stadio =
+|Spettatori =
+|Arbitro =
+|Cittarbitro =
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = 3ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/8990InterRoma_CI_La_Stampa_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = 13.567
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Aldo Serena|Serena]] {{Goal|26||68}}<br/>[[Lothar Matthäus|Matthäus]] {{Goal|80|rig.}}
+|Marcatori 2 = {{Goal|59}} [[Fabrizio Di Mauro|Di Mauro]]
+|Sfondo = 
+}}
+
+==== Semifinale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1990
+|Ora = 14:30
+|Turno = Andata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/8990JuventusRoma_CI_La_Stampa_01_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale Vittorio Pozzo]]
+|Spettatori = 12.844
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Pierluigi Casiraghi|Casiraghi]] {{Goal|5||84}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1990
+|Ora = 14:30
+|Turno = Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/8990RomaJuventus_CI_La_Stampa_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori = 22.461
+|Arbitro = [[Luigi Agnolin]]
+|Cittarbitro = [[Bassano del Grappa]]
+|Marcatori 1 = [[Fabrizio Di Mauro|Di Mauro]] {{Goal|9}}<br/>[[Dario Bonetti|Bonetti]] {{Goal|27|aut.}}<br/>[[Antonio Tempestilli|Tempestilli]] {{Goal|73}}
+|Marcatori 2 = {{Goal|51}} [[Angelo Alessio|Alessio]]<br/>{{Goal|64}} [[Salvatore Schillaci|Schillaci]]
+|Sfondo = 
+}}
+
+== Statistiche ==
+=== Statistiche di squadra<ref name=Panini/><ref name=cor6/> ===
+
+{|class="wikitable" style="width:100%;text-align:center"
+! rowspan="2" |Competizione
+! rowspan="2" |Punti
+! colspan="6" |In casa
+! colspan="6" |In trasferta
+! colspan="6" |Totale
+! rowspan="2" |[[Differenza reti|DR]]
+|-
+! {{Descrizione comando|G|Partite giocate}}
+! {{Descrizione comando|V|Partite vinte}}
+! {{Descrizione comando|N|Partite pareggiate (nulle)}}
+! {{Descrizione comando|P|Partite perse}}
+! {{Descrizione comando|Gf|Gol fatti}}
+! {{Descrizione comando|Gs|Gol subiti}}
+! {{Descrizione comando|G|Partite giocate}}
+! {{Descrizione comando|V|Partite vinte}}
+! {{Descrizione comando|N|Partite pareggiate (nulle)}}
+! {{Descrizione comando|P|Partite perse}}
+! {{Descrizione comando|Gf|Gol fatti}}
+! {{Descrizione comando|Gs|Gol subiti}}
+! {{Descrizione comando|G|Partite giocate}}
+! {{Descrizione comando|V|Partite vinte}}
+! {{Descrizione comando|N|Partite pareggiate (nulle)}}
+! {{Descrizione comando|P|Partite perse}}
+! {{Descrizione comando|Gf|Gol fatti}}
+! {{Descrizione comando|Gs|Gol subiti}}
+|-
+|{{simbolo|Scudetto.svg|15}} [[Serie A 1989-1990|Serie A]] ||41 ||17 ||8 ||7 ||2 ||26 ||18 ||17 ||6 ||6 ||5 ||19 ||22 ||34 ||14 ||13 ||7 ||45 ||40 ||+5
+|-
+|{{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1989-1990|Coppa Italia]] ||||4 ||4 ||0 ||0 ||13 ||2 ||2 ||0 ||0 ||2 ||1 ||5 ||6 ||4 ||0 ||2 ||14 ||7 ||+7
+|-
+! Totale || ||21 ||12 ||7 ||2 ||39 ||20 ||19 ||6 ||6 ||7 ||20 ||27 ||40 ||18 ||13 ||9 ||59 ||47 ||+12
+|}
+
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=T |m15=C |m16=C |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C |m31=C |m32=T |m33=T |m34=C }}
+{{Andamento/Risultato |m1=N |m2=N |m3=V |m4=V |m5=V |m6=V |m7=P |m8=N |m9=P |m10=V |m11=P |m12=N |m13=N |m14=V |m15=V |m16=V |m17=N |m18=V |m19=N |m20=P |m21=P |m22=V |m23=N |m24=N |m25=P |m26=P |m27=V |m28=N |m29=V |m30=V |m31=N |m32=V |m33=N |m34=N }}
+{{Andamento/Posizione |r=15 |m1=6 |m2=6 |m3=4 |m4=3 |m5=2 |m6=1 |m7=3 |m8=4 |m9=5 |m10=4 |m11=5 |m12=6 |m13=7 |m14=5 |m15=3 |m16=2 |m17=3 |m18=3 |m19=5 |m20=5 |m21=6 |m22=6 |m23=6 |m24=6 |m25=6 |m26=6 |m27=6 |m28=6 |m29=6 |m30=6 |m31=6 |m32=6 |m33=6 |m34=6 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Di seguito le statistiche dei giocatori.<ref name=cor6/><ref>A completamento dei dati vanno conteggiati un autogol in campionato e un autogol in Coppa Italia.</ref>
+{{Statistiche dei giocatori
+|Competizione1 = Serie A
+|Competizione2 = Coppa Italia
+|{{Sortname|L.|Alidori|Luca Alidori|nolink=1}} {{Sommastat|0|-0|0|0 |-|-|-|-}}
+|{{Sortname|G.|Cervone|Giovanni Cervone}} {{Sommastat|27|-36|1|0 |6|-7|?|?}}
+|{{Sortname|F.|Tancredi|Franco Tancredi}} {{Sommastat|7|-4|0|0 |0|-0|?|?}}
+|{{Sortname|F.|Tontini|Ferro Tontini}} {{Sommastat|1|-0|0|0 |-|-|-|-}}
+|{{Sortname|T.|Berthold|Thomas Berthold}} {{Sommastat|32|2|5|0 |6|0|?|?}}
+|{{Sortname|A.|Borsa|Andrea Borsa}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|U.|Cipelli|Ugo Cipelli|nolink=1}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|A.|Comi|Antonio Comi}} {{Sommastat|31|1|8|1 |6|0|?|?}}
+|{{Sortname|M.|Gerolin|Manuel Gerolin}} {{Sommastat|24|3|7|0 |5|0|?|?}}
+|{{Sortname|G.|Grossi|Gabriele Grossi}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|L.|Manfredonia|Lionello Manfredonia}} {{Sommastat|15|0|6|1 |2|0|?|?}}
+|{{Sortname|S.|Nela|Sebastiano Nela}} {{Sommastat|30|1|7|0 |6|0|?|?}}
+|{{Sortname|S.|Pellegrini|Stefano Pellegrini (1967)}} {{Sommastat|18|0|5|1 |5|0|?|?}}
+|{{Sortname|F.|Petruzzi|Fabio Petruzzi}} {{Sommastat|1|0|0|0 |-|-|-|-}}
+|{{Sortname|A.|Tempestilli|Antonio Tempestilli}} {{Sommastat|28|3|6|0 |6|1|?|?}}
+|{{Sortname|D.|Berretta|Daniele Berretta}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|B.|Conti|Bruno Conti}} {{Sommastat|21|2|2|0 |1|0|?|?}}
+|{{Sortname|A.|Cucciari|Alessandro Cucciari}} {{Sommastat|6|0|0|0 |1|0|?|?}}
+|{{Sortname|F.|Di Mauro|Fabrizio Di Mauro}} {{Sommastat|28|0|7|0 |6|3|?|?}}
+|{{Sortname|S.|Desideri|Stefano Desideri}} {{Sommastat|26|10|4|0 |6|2|?|?}}
+|{{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}} {{Sommastat|31|3|6|0 |5|2|?|?}}
+|{{Sortname|S.|Impallomeni|Stefano Impallomeni}} {{Sommastat|5|0|0|0 |1|0|?|?}}
+|{{Sortname|G.|Maini|Giampiero Maini}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|G.|Piacentini|Giovanni Piacentini}} {{Sommastat|16|0|2|0 |1|0|?|?}}
+|{{Sortname|A.|Scarchilli|Alessio Scarchilli}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|F.|Statuto|Francesco Statuto}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|L.|Aiello|Leonardo Aiello|nolink=1}} {{Sommastat|-|-|-|- |-|-|-|-}}
+|{{Sortname|R.|Muzzi|Roberto Muzzi}} {{Sommastat|1|0|0|0 |-|-|-|-}}
+|{{Sortname|R.|Rizzitelli|Ruggiero Rizzitelli}} {{Sommastat|34|5|1|0 |6|3|?|?}}
+|{{Sortname|R.|Völler|Rudi Völler}} {{Sommastat|32|14|4|1 |6|2|?|?}}
+|{{Sortname|P.|Baldieri|Paolo Baldieri}} {{Sommastat|11|0|1|0 |1|0|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1989-1990|Campionato Primavera]]: Vincitore
+** [[Coppa Italia Primavera 1989-1990|Coppa Italia Primavera]]
+** [[Torneo di Viareggio 1990|Torneo di Viareggio]]: Quarto posto
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.rsssf.com/tablesi/ital90.html|Serie A 1989-1990 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1989|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1989-1990}}
+{{Portale|calcio}}

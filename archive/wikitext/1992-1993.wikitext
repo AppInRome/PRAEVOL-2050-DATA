@@ -1,0 +1,1341 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = Associazione Sportiva Roma 1992-1993.jpg
+|stagione = 1992-1993
+|allenatore1 = {{Bandiera|YUG 1992-2003}} [[Vujadin Boškov]]
+|titolo allenatore1 = Direttore Tecnico
+|allenatore2 = {{Bandiera|ITA}} [[Narciso Pezzotti]]
+|titolo allenatore2 = Allenatore
+|presidente = {{Bandiera|ITA}} [[Giuseppe Ciarrapico]]<ref>Fino a maggio 1993.</ref>, poi<br />{{Bandiera|ITA}} [[Ciro Di Martino]]<ref>Da maggio 1993 in poi.</ref>
+|campionato = [[Serie A 1992-1993|Serie A]]
+|campionato posizione = 10º
+|coppa1 = [[Coppa Italia 1992-1993|Coppa Italia]]
+|coppa1 posizione = Finalista
+|coppa3 = [[Coppa UEFA 1992-1993|Coppa UEFA]]
+|coppa3 posizione = Quarti di finale
+|presenze campionato = [[Walter Bonacina|Bonacina]] (32)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|presenze totale = Bonacina (49)
+|marcatore campionato = [[Giuseppe Giannini (calciatore)|Giannini]] (9)
+|marcatore totale = Giannini (16)
+|abbonati= {{formatnum:33659}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A92-93.htm|titolo=Statistiche Spettatori Serie A 1992-1993}}</ref>
+|spettatori max = {{formatnum:75009}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(18 aprile 1993)
+|spettatori min = {{formatnum:40053}}<ref name=stadiapost/> vs {{Calcio Atalanta|N}}<br/>(23 maggio 1993)
+|spettatori media = {{formatnum:52130}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1991-1992|1991-1992]]
+|stagione dopo = [[Associazione Sportiva Roma 1993-1994|1993-1994]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1992-1993'''.
+== Stagione ==
+[[File:Coppa UEFA 1992-93 - Roma vs Borussia Dortmund - Giannini, Van der Ende, Zorc.jpg|thumb|left|Da sinistra: il capitano romanista [[Giuseppe Giannini (calciatore)|Giuseppe Giannini]], l'arbitro [[Mario van der Ende|Van der Ende]] e il capitano dortmuniano [[Michael Zorc|Zorc]] nei convenevoli prima dell'andata dei quarti di Coppa UEFA.]]
+Viene ingaggiato il tecnico slavo [[Vujadin Boškov]] al posto di [[Ottavio Bianchi]]. I colpi del mercato, dopo la cessione di [[Rudi Völler]], sono il centrocampista della {{Calcio Stella Rossa|N}} [[Siniša Mihajlović]] e [[Claudio Caniggia]], attaccante [[Argentina|argentino]] dell'{{Calcio Atalanta|N}} che a tre quarti di stagione subsce una squalifica di un anno per doping.<ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}.</ref>
+Nonostante un girone di andata affannoso, con la squadra più volte invischiata nella zona retrocessione (memorabile la contestazione a giocatori e società al termine di Roma-Sampdoria), la compagine capitolina, rivelatasi inizialmente refrattaria alle indicazioni dell’allenatore e penalizzata in campo da un Caniggia ingovernabile, recupera posizioni e chiude il [[Serie A 1992-1993|campionato]] al decimo posto. La squadra raggiunge inoltre la finale della [[Coppa Italia 1992-1993|Coppa Italia]], persa con una mancata rimonta, con la vittoria per 5-2 in casa (dopo aver perso per 3-0 all'andata) contro il {{Calcio Torino|N}}.
+In [[Coppa UEFA 1992-1993|Coppa UEFA]] la squadra viene eliminata nei quarti di finale dal {{calcio Borussia Dortmund|N}}. Proprio durante la decisiva gara di ritorno al [[Westfalenstadion]] del 18 marzo 1993, persa 2-0 dopo aver vinto l'andata all'Olimpico per 1-0, sul versante dirigenziale il controverso presidente [[Giuseppe Ciarrapico]] viene arrestato per il crack del [[Banco Ambrosiano]]; nel maggio seguente il generale [[Ciro Di Martino]] subentra pro tempore alla testa del club.
+Il 28 marzo 1993, a diciassette anni, [[Francesco Totti]] fa il suo esordio in [[Serie A]], nella gara contro il {{Calcio Brescia|N}}, vinta per 2-0 dalla Roma: è l’inizio di una lunga carriera che durerà venticinque anni e ne farà il giocatore più rappresentativo della storia del club.<ref name=cor7/>
+
+== Divise e sponsor ==
+[[File:Thomas Häßler - AS Roma 1992-93.jpg|thumb|upright|[[Thomas Häßler]] in azione con la divisa casalinga ''all red'']]
+Lo sponsor tecnico è [[Adidas]], lo sponsor ufficiale è [[Barilla]]. La prima divisa è costituita da maglia rossa con colletto a polo, pantaloncini rossi e calzettoni rossi, tutti e tre presentanti come decorazione le tre strisce Adidas in giallo. In trasferta i Lupi usano una costituita da maglia bianca con colletto a polo, pantaloncini bianchi, calzettoni bianchi, tutti e tre presentanti come decorazione le tre strisce Adidas in giallorosso. I portieri usano tre divise: la prima costituita da maglia rosa con colletto a polo nero e maniche giallo scuro, pantaloncini neri e calzettoni neri, la seconda da maglia rosa con colletto a polo nero, pantaloncini e calzettoni dello stesso colore, la terza nera con la scritta "USA" in giallo e addome in verde abbinata agli stessi calzettoni e pantaloncini.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 181-183}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_orange_border
+|leftarm = A00000
+|pattern_b = _asroma9294h
+|body = A00000
+|pattern_ra =_orange_border
+|rightarm = A00000
+|pattern_sh=_asroma9294h
+|shorts = A00000
+|pattern_so =_asroma9294h
+|socks = A00000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma09102
+|leftarm = FFFFFF
+|pattern_b = _asroma9293a
+|body = FFFFFF
+|pattern_ra =_asroma09102
+|rightarm = FFFFFF
+|pattern_sh=_asroma9293a
+|shorts = FFFFFF
+|pattern_so =_asroma9294a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_blackborder
+|leftarm = 8a650d
+|pattern_b =_asroma9293gk1
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = 8a650d
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9293gk2
+|leftarm = 8a650d
+|pattern_b =_asroma9293gk2
+|body = 858585
+|pattern_ra =_asroma9293gk2
+|rightarm = 8a650d
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 2ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9293gk3
+|leftarm = 8a650d
+|pattern_b =_asroma9293gk3
+|body = 858585
+|pattern_ra =_asroma9293gk3
+|rightarm = 8a650d
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor7/>
+'''''Area direttiva'''''
+*Presidente: [[Giuseppe Ciarrapico]], poi da maggio [[Ciro Di Martino]]
+'''''Area tecnica'''''
+*Direttore sportivo: [[Emiliano Mascetti]]
+*Direttore tecnico: [[Vujadin Boškov]]
+*Allenatore: [[Narciso Pezzotti]]
+== Rosa ==
+[[File:AS Roma - 1990s - Francesco Totti.jpg|thumb|upright|Un giovane [[Francesco Totti]], futura ''bandiera'' giallorossa, fa in questa stagione le sue prime sortite in prima squadra]]
+Di seguito la rosa<ref name="Rosa AS Roma - Saison 92/93">{{Cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1992|titolo=Rosa AS Roma - Saison 92/93|accesso=17 aprile 2018}}</ref>.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Cervone]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Giampaolo Di Magno<ref name=primavera/>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Patrizio Fimiani]]<ref name=primavera>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Zinetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Silvano Benedetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Amedeo Carboni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Comi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Garzya]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Sebastiano Nela]]<ref name=inv>Ceduto durante la sessione invernale di calciomercato.</ref>''|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Emilio Pellegrino<ref name=primavera/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Petruzzi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Dario Rossi]]<ref name=inv/>''|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Tempestilli]]|ruolo=D}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Emiliano Bernardini]]<ref name=primavera/><ref name=inv>Ceduto durante la sessione invernale di calciomercato.</ref>''|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Bonacina]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Marco Caputi<ref name=primavera/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|altro=[[Capitano (calcio)|capitano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=FRG|nome=[[Thomas Häßler]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=YUG 1992-2003|nome=[[Siniša Mihajlović]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Piacentini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fausto Salsano]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Steven Torbidoni<ref name=primavera/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Claudio Caniggia]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Carnevale]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Muzzi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ruggero Rizzitelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Totti]]<ref name=primavera/>|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato<ref name="Rosa AS Roma - Saison 92/93" />.
+=== Sessione estiva ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |da
+! width=36% |Modalità
+|-
+|D ||[[Silvano Benedetti]]||{{Calcio Torino|N}} ||''definitivo''
+|-
+|D ||[[Fabio Petruzzi]] ||{{Calcio Casertana|N}} ||''definitivo''
+|-
+|C ||[[Siniša Mihajlović]]||{{Calcio Stella Rossa|N}} ||''definitivo'' (8.5 miliardi £)
+|-
+|C ||[[Francesco Statuto]]||{{Calcio Casertana|N}} ||''fine prestito''
+|-
+|A ||[[Claudio Caniggia]] ||{{Calcio Atalanta|N}} ||''definitivo'' (13 miliardi £)
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|P ||[[Ferro Tontini]]||{{Calcio Catania|N}} ||''definitivo''
+|-
+|D ||[[Andrea Borsa ]]||{{Calcio Carrarese|N}} ||''definitivo''
+|-
+|D ||[[Marco Antonio De Marchi]]||{{Calcio Juventus|N}} ||''fine prestito''
+|-
+|D ||[[Gabriele Grossi]] ||{{Calcio Lecce|N}} ||''definitivo''
+|-
+|C ||[[Stefano Pellegrini (1967)|Stefano Pellegrini]] ||{{Calcio Udinese|N}} ||''definitivo''
+|-
+|C ||[[Daniele Berretta]] ||{{Calcio Vicenza|N|1991}} ||''prestito''
+|-
+|C ||[[Fabrizio Di Mauro]]|||{{Calcio Fiorentina|N}} ||''definitivo'' (7 miliardi £)
+|-
+|C ||[[Alessio Scarchilli]] ||{{Calcio Lecce|N}} ||''definitivo''
+|-
+|C ||[[Francesco Statuto]] ||{{Calcio Cosenza|N}} ||''prestito''
+|-
+|A ||[[Rudi Völler]] ||{{Calcio Olympique Marsiglia|N}} ||''definitivo''
+|}
+{{colonne fine}}
+=== Sessione autunnale ===
+{{colonne}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Acquisti
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|}
+{{colonne spezza}}
+{|class="wikitable" style="font-size:90%"
+! colspan="4" |Cessioni
+|-
+! width=3% |R.
+! width=33% |Nome
+! width=28% |a
+! width=36% |Modalità
+|-
+|C ||[[Sebastiano Nela]]||{{Calcio Napoli|N}} ||''definitivo''
+|-
+|C ||[[Dario Rossi]] ||{{Calcio Ternana|N}} ||''prestito''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1992-1993}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 6 settembre
+|Anno = 1992
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pescara
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/1/ROMPES
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 54.000
+|Arbitro = [[Maurizio Mughetti]]
+|Cittarbitro = [[Cesena]]
+|Marcatori 2 = {{goal|70}} [[Salvatore Antonio Nobile|Nobile]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Genova]]
+|Giornomese = 13 settembre
+|Anno = 1992
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/2/GENROM
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 27.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Torino]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Roma]]
+|Giornomese = 20 settembre
+|Anno = 1992
+|Ora = 16:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/3/ROMFOG
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 53.000
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Agropoli]]
+|Marcatori 1 = [[Claudio Caniggia|Caniggia]] {{goal|15}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{goal|20||58}}
+|Marcatori 2 = {{goal|75}} [[Pasquale De Vincenzo|De Vincenzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 settembre
+|Anno = 1992
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/4/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Spettatori = 49.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Andreas Möller|Möller]] {{goal|16}}
+|Marcatori 2 = {{goal|20}} [[Aldair]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 ottobre
+|Anno = 1992
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/5/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = 18.000
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Vittorio Pusceddu|Pusceddu]] {{goal|48}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 ottobre
+|Anno = 1992
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/6/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 62.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Silvano Benedetti|Benedetti]] {{goal|40}}<br/>[[Thomas Häßler|Häßler]] {{goal|46}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{goal|52}}<br/>[[Ruggero Rizzitelli|Rizzitelli]]  {{goal|65}}
+|Marcatori 2 = {{goal|43}} [[Matthias Sammer|Sammer]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 ottobre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/7/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = 54.000
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Daniel Fonseca|Fonseca]] {{goal|44}}<br/>[[Careca]] {{Goal|47}}
+|Marcatori 2 = {{goal|58}} [[Silvano Benedetti|Benedetti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º novembre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/8/ROMBRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 46.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{goal|44}}<br/>[[Silvano Benedetti|Benedetti]] {{goal|57}}
+|Marcatori 2 = {{goal|10|aut}} [[Silvano Benedetti|Benedetti]]<br/>{{goal|13||32}} [[Giampaolo Saurini|Saurini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 novembre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/9/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = 32.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Giuseppe Iachini|Iachini]] {{goal|30}}<br/>[[Massimo Orlando|Orlando]] {{goal|34}}
+|Marcatori 2 = {{goal|71}} [[Claudio Caniggia|Caniggia]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 novembre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ancona
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/10/ROMANC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 44.000
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Antonio Comi|Comi]] {{goal|66}}<br/>[[Andrea Carnevale|Carnevale]] {{goal|90}}
+|Marcatori 2 = {{goal|10}} [[Fabio Lupo|Lupo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 novembre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/11/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 74.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Paul Gascoigne|Gascoigne]] {{goal|85}}
+|Marcatori 2 = {{goal|48}} [[Giuseppe Giannini (calciatore)|Giannini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/12/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]]  {{goal|90}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 dicembre
+|Anno = 1992
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/13/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Spettatori = 21.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 gennaio
+|Anno = 1993
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/14/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 71.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 2 = {{goal|30}} [[Ruud Gullit|Gullit]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 gennaio
+|Anno = 1993
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/15/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Spettatori = 23.000
+|Arbitro = [[Pasquale Rodomonti]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Siniša Mihajlović|Mihajlovic]] {{goal|29|aut}}<br/>[[Sergio Porrini|Porrini]] {{goal|69}}<br/>[[Roberto Bordin|Bordin]] {{goal|89}}
+|Marcatori 2 = {{goal|55|rig}} [[Giuseppe Giannini (calciatore)|Giannini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 gennaio
+|Anno = 1993
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/16/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 47.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 gennaio
+|Anno = 1993
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/17/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = 17.000
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Ruggiero Rizzitelli|Rizzitelli]] {{goal|24|aut.}}
+|Marcatori 2 = {{goal|19||31}} [[Ruggiero Rizzitelli|Rizzitelli]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 gennaio
+|Anno = 1993
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Pescara
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/18/PESROM
+|Città = [[Pescara]]
+|Stadio = [[Stadio Adriatico]]
+|Spettatori = 18.000
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Massimiliano Allegri|Allegri]] {{goal|84|rig}}
+|Marcatori 2 = {{goal|47}} [[Andrea Carnevale|Carnevale]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 febbraio
+|Anno = 1993
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/19/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{goal|29||80}}<br/>[[Thomas Häßler|Häßler]] {{goal|61}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 febbraio
+|Anno = 1993
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/20/FOGROM
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Spettatori = 16.407
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 1993
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/21/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 62.000
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{goal|56}}<br/>[[Thomas Häßler|Häßler]] {{goal|71}}
+|Marcatori 2 = {{goal|28}} [[Roberto Baggio|Baggio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1993
+|Ora = 14:30
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/22/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 53.000
+|Arbitro = [[Virginio Quartuccio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{goal|27}}
+|Marcatori 2 = {{goal|58}} [[Massimiliano Cappioli|Cappioli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 marzo
+|Anno = 1993
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/23/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 39.000
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Sergio Battistini|Battistini]] {{goal|45}}
+|Marcatori 2 = {{goal|65}} [[Claudio Caniggia|Caniggia]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 marzo
+|Anno = 1993
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/24/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 52.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Thomas Häßler|Häßler]] {{goal|58}}
+|Marcatori 2 = {{goal|73|rig}} [[Daniel Fonseca|Fonseca]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 marzo
+|Anno = 1993
+|Ora = 16:00
+|Turno = 25ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/25/BREROM
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = 12.000
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 2 = {{goal|22}} [[Claudio Caniggia|Caniggia]]<br/>{{goal|26}} [[Siniša Mihajlović|Mihajlović]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 aprile
+|Anno = 1993
+|Ora = 16:00
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/26/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 51.000
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{goal|5}}
+|Marcatori 2 = {{goal|12}} [[Brian Laudrup|Laudrup]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 1993
+|Ora = 16:00
+|Turno = 27ª giornata
+|Squadra 1 = Ancona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/27/ANCROM
+|Città = [[Ancona]]
+|Stadio = [[Stadio del Conero]]
+|Spettatori = 12.000
+|Arbitro = [[Pasquale Rodomonti]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Fabio Lupo|Lupo]] {{goal|63}}
+|Marcatori 2 = {{goal|60|rig}} [[Giuseppe Giannini (calciatore)|Giannini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 aprile
+|Anno = 1993
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/28/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 75.000
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1993
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/29/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = 22.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Marco Osio|Osio]] {{goal|4||77}}<br/>[[Fausto Pizzi|Pizzi]] {{goal|14|rig.}}
+|Marcatori 2 = {{goal|74}} [[Aldair]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 maggio
+|Anno = 1993
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 4
+|Punteggio 2 = 5
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/30/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 44.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{goal|23}}<br/>[[Roberto Muzzi|Muzzi]] {{goal|30}}<br/>[[Thomas Häßler|Häßler]] {{goal|68|rig}}<br/>[[Antonio Comi|Comi]] {{goal|82}}
+|Marcatori 2 = {{goal|16||44||59}} [[Carlos Aguilera|Aguilera]]<br/>{{goal|51}} [[Andrea Silenzi|Silenzi]]<br/>{{goal|88|rig}} [[Vincenzo Scifo|Scifo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 maggio
+|Anno = 1993
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/31/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 76.000
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 maggio
+|Anno = 1993
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/32/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 40.000
+|Arbitro = [[Mauro Felicani]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{goal|19}}<br/>[[Ruggiero Rizzitelli|Rizzitelli]] {{goal|90}}
+|Marcatori 2 = {{goal|32}} [[Alemão]]<br/>{{goal|44}} [[Carlo Perrone (calciatore 8 luglio 1960)|Perrone]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 maggio
+|Anno = 1993
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/33/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 28.000
+|Arbitro = [[Massimo Chiesa]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giovanni Invernizzi (calciatore 1963)|Invernizzi]] {{goal|43}}<br/>[[Roberto Mancini|Mancini]] {{goal|89|rig}}
+|Marcatori 2 = {{goal|74}} [[Andrea Carnevale|Carnevale]]<br/>{{goal|77}} [[Ruggero Rizzitelli|Rizzitelli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 giugno
+|Anno = 1993
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1992-93/UNICO/UNI/34/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 41.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Thomas Häßler|Häßler]] {{goal|48|rig.}}
+|Marcatori 2 = {{goal|82}} [[Stefano Desideri|Desideri]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1992-1993}}
+==== Turni preliminari ====
+{{Incontro di club
+|Sport = calcio
+|Sfondo =
+|Città = [[Roma]]
+|Giornomese = 26 agosto
+|Anno = 1992
+|Ora = 20:30
+|Turno = Secondo turno - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Taranto
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9293RomaTaranto_CI.html
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Siniša Mihajlović|Mihajlović]] {{goal|3}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{goal|15}}<br/>[[Silvano Benedetti|Benedetti]] {{goal|61}}<br/>[[Andrea Carnevale|Carnevale]] {{goal|88}}
+|Marcatori 2 = {{goal|21}} [[Giuseppe Lorenzo|Lorenzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 settembre
+|Anno = 1992
+|Ora = 20:30
+|Turno = Secondo turno - Ritorno
+|Squadra 1 = Taranto
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/9293TarantoRoma_CI.html
+|Città = [[Taranto]]
+|Stadio = [[Stadio Erasmo Iacovone]]
+|Spettatori =
+|Arbitro = [[Francesco Arena (arbitro)|Francesco Arena]]
+|Cittarbitro = [[Ercolano (comune)|Ercolano]]
+|Marcatori 1 = [[Giovanni Soncin|Soncin]] {{goal|45}}
+|Marcatori 2 = {{goal|36}} [[Claudio Caniggia|Caniggia]]<br/>{{goal|53}} [[Siniša Mihajlović|Mihajlović]]<br/>{{goal|90}} [[Fausto Salsano|Salsano]]
+|Sfondo = on
+}}
+
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 1992
+|Ora = 20:30
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/9293ASR-Fiorentina6.jpeg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{goal|14||52}}<br/>[[Siniša Mihajlović|Mihajlović]] {{goal|46||50}}
+|Marcatori 2 = {{goal|79||82|rig.}} [[Stefan Effenberg|Effenberg]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 1992
+|Ora = 20:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9293FiorentinaRoma_La_Stampa_af.JPG
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori =
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Gabriel Batistuta|Batistuta]] {{goal|84}}
+|Marcatori 2 = {{goal|69}} [[Ruggiero Rizzitelli|Rizzitelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 gennaio
+|Anno = 1993
+|Ora = 20:30
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9293NapoliRoma_CI_La_Stampa_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori =
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 febbraio
+|Anno = 1993
+|Ora = 20:30
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9293romanapoli_ci_La_Stampa_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{goal|10}}<br/>[[Thomas Häßler|Häßler]] {{goal|76|rig}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 1993
+|Ora = 20:30
+|Turno = Semifinale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9293romamilan_ci_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Roberto Muzzi|Muzzi]] {{goal|12}}<br/>[[Claudio Caniggia|Caniggia]] {{goal|90}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 marzo
+|Anno = 1993
+|Ora = 20:30
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9293milanroma_ci_La_Stampa_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 49.786
+|Arbitro = [[Arcangelo Pezzella]]
+|Cittarbitro = [[Frattamaggiore]]
+|Marcatori 1 = [[Stefano Eranio|Eranio]] {{goal|37}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 giugno
+|Anno = 1993
+|Ora = 20:30
+|Turno = Finale - Andata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9293TorinoRoma_ci_La_stampa_af.JPG
+|Stadio = [[Stadio delle Alpi]]
+|Città = [[Torino]]
+|Spettatori =
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Silvano Benedetti|Benedetti]] {{goal|18|aut.}}<br/>[[Sandro Cois|Cois]] {{goal|52}}<br/>[[Daniele Fortunato (calciatore 1963)|Fortunato]] {{goal|78}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 giugno
+|Anno = 1993
+|Ora = 20:30
+|Turno = Finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 5
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/9293RomaTorino_CI_La_Stampa_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 63.646
+|Arbitro = [[Carlo Sguizzato]]
+|Cittarbitro = [[Verona]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{goal|22|rig|48|rig|55|rig}}<br/>[[Ruggero Rizzitelli|Rizzitelli]] {{goal|47}}<br/>[[Siniša Mihajlović|Mihajlović]] {{goal|65}}
+|Marcatori 2 = {{goal|45||53}} [[Andrea Silenzi|Silenzi]]
+|Sfondo = on
+}}
+
+=== Coppa UEFA ===
+{{vedi anche|Coppa UEFA 1992-1993}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 settembre
+|Anno = 1992
+|Ora = 20:30 [[CET]]
+|Turno = Trentaduesimi di finale - Andata
+|Squadra 1 = Wacker Innsbruck (1915)
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=637/match=6173/postmatch/lineups/index.html
+|Città = [[Innsbruck]]
+|Stadio = Stadion am Tivoli
+|Spettatori =
+|Arbitro = [[Manuel Díaz Vega]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Michael Baur|Baur]] {{goal|36}}
+|Marcatori 2 = {{goal|17||42}} [[Giuseppe Giannini (calciatore)|Giannini]]<br />{{goal|21}} [[Claudio Caniggia|Caniggia]]<br />{{goal|65}} [[Roberto Muzzi|Muzzi]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 settembre
+|Anno = 1992
+|Ora = 19:00 [[CET]]
+|Turno = Trentaduesimi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Wacker Innsbruck (1915)
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=637/match=6174/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 23.093
+|Arbitro = [[Leif Sundell]]
+|Nazarbitro = SWE
+|Marcatori 1 = [[Thomas Häßler|Häßler]] {{goal|50}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 ottobre
+|Anno = 1992
+|Ora = 19:00 [[CET]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Grasshopper
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=638/match=6680/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 31.043
+|Arbitro = Holzmann
+|Nazarbitro = AUT
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{goal|18}}<br />[[Ruggiero Rizzitelli|Rizzitelli]] {{goal|26}}<br />[[Giuseppe Giannini (calciatore)|Giannini]] {{goal|41}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 novembre
+|Anno = 1992
+|Ora = 19:15 [[CET]]
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Grasshopper
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=638/match=6681/postmatch/lineups/index.html
+|Città = [[Zurigo]]
+|Stadio = [[Hardturm]]
+|Spettatori =
+|Arbitro = [[Frans van den Wijngaert|van den Wijngaert]]
+|Nazarbitro = BEL
+|Marcatori 1 = De Vicente {{goal|36|rig|68}}<br />[[Alain Sutter|Sutter]] {{goal|49}}<br />[[Harald Gämperle|Gämperle]] {{goal|63}}
+|Marcatori 2 = {{goal|7||90}} [[Ruggiero Rizzitelli|Rizzitelli]]<br />{{goal|30}} [[Claudio Caniggia|Caniggia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 novembre
+|Anno = 1992
+|Ora = 18:45 [[CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Galatasaray
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=639/match=6885/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 23.980
+|Arbitro = [[Bernd Heynemann]]
+|Nazarbitro = DEU
+|Marcatori 1 = [[Aldair]] {{goal|59||90}}<br />[[Roberto Muzzi|Muzzi]] {{goal|81}}
+|Marcatori 2 = {{goal|85}} [[Hakan Şükür|Şükür]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 dicembre
+|Anno = 1992
+|Ora = 11:55 [[CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Galatasaray
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=639/match=6886/postmatch/lineups/index.html
+|Città = [[Istanbul]]
+|Stadio = [[Stadio Ali Sami Yen]]
+|Spettatori = 22.278
+|Arbitro = [[Peter Mikkelsen]]
+|Nazarbitro = DNK
+|Marcatori 1 = Mustafa {{goal|22||58}}<br />[[Arif Erdem|Arif]] {{goal|75}}
+|Marcatori 2 = {{goal|8}} [[Claudio Caniggia|Caniggia]]<br />{{goal|47}} [[Thomas Häßler|Häßler]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 marzo
+|Anno = 1993
+|Ora = 20:30 [[CET]]
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Borussia Dortmund
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=640/match=7064/postmatch/lineups/index.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 41.351
+|Arbitro = [[Mario van der Ende|van der Ende]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Siniša Mihajlović|Mihajlović]] {{goal|67}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1993
+|Ora = 20:15 [[CET]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Borussia Dortmund
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.uefa.com/uefaeuropaleague/season=1992/matches/round=640/match=7065/postmatch/lineups/index.html
+|Città = [[Dortmund]]
+|Stadio = [[Signal Iduna Park|Westfalenstadion]]
+|Spettatori = 50.000
+|Arbitro = [[Václav Krondl]]
+|Nazarbitro = CSK
+|Marcatori 1 = [[Stefan Reuter|Reuter]] {{goal|40}}<br />[[Lothar Sippel|Sippel]] {{goal|46}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+== Statistiche ==
+Di seguito le statistiche di squadra<ref name="Rosa AS Roma - Saison 92/93" />.
+=== Statistiche di squadra ===
+
+{{Statistiche_squadra
+|comp1=[[Serie A 1992-1993|Serie A]]
+|punti1=33
+|cv1=6
+|cn1=7
+|cp1=4
+|cgf1=27
+|cgs1=20
+|tv1=2
+|tn1=10
+|tp1=5
+|tgf1=15
+|tgs1=19
+|comp2=[[Coppa Italia 1992-1993|Coppa Italia]]
+|punti2=-
+|cv2=5
+|cn2=0
+|cp2=0
+|cgf2=17
+|cgs2=5
+|tv2=1
+|tn2=2
+|tp2=2
+|tgf2=4
+|tgs2=6
+|comp3=[[Coppa UEFA 1992-1993|Coppa UEFA]]
+|punti3=-
+|cv3=4
+|cn3=0
+|cp3=0
+|cgf3=8
+|cgs3=1
+|tv3=1
+|tn3=0
+|tp3=3
+|tgf3=9
+|tgs3=10
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=T|m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=C |m15=T |m16=C |m17=T |m18=T |m19=C |m20=T |m21=C |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C |m31=T |m32=C |m33=T |m34=C }}
+{{Andamento/Risultato|m1=P |m2=N |m3=V |m4=N |m5=P |m6=V |m7=P |m8=P |m9=P |m10=V |m11=N |m12=V |m13=N |m14=P |m15=P |m16=N |m17=V |m18=N |m19=V |m20=N |m21=V |m22=N |m23=N |m24=N |m25=V |m26=N |m27=N |m28=N |m29=P |m30=P |m31=N |m32=N |m33=N |m34=N }}
+{{Andamento/Posizione |r=15 |m1=14 |m2=15 |m3=8 |m4=7 |m5=10 |m6=8 |m7=10 |m8=13 |m9=14 |m10=13 |m11=13 |m12=11 |m13=12 |m14=14 |m15=15 |m16=16 |m17=12 |m18=12 |m19=9 |m20=9 |m21=9 |m22=10 |m23=10 |m24=10 |m25=9 |m26=9 |m27=9 |m28=10 |m29=10 |m30=11 |m31=10 |m32=10 |m33=10 |m34=10 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+{{Statistiche dei giocatori
+|Competizione1 = Serie A
+|Competizione2 = Coppa Italia
+|Competizione3 = Coppa UEFA
+|{{Sortname|G.|Cervone|Giovanni Cervone}} {{Sommastat|27|-29|4|0 |8|-6|0|0 |6|-7|1|0}}
+|{{Sortname|G.|Di Magno|Giampaolo Di Magno|nolink=1}} {{Sommastat|-|-|-|- |0|-0|0|0 |-|-|-|-}}
+|{{Sortname|P.|Fimiani|Patrizio Fimiani}} {{Sommastat|3|-3|0|0 |2|-5|0|0 |0|-0|0|0}}
+|{{Sortname|G.|Zinetti|Giuseppe Zinetti}} {{Sommastat|6|-7|2|1 |1|-0|0|0 |2|-4|0|0}}
+|{{Sortname||Aldair}} {{Sommastat|28|2|5|0 |7|0|2|0 |7|2|0|0}}
+|{{Sortname|A.|Benedetti|Silvano Benedetti}} {{Sommastat|30|3|2|1 |10|1|1|0 |6|0|0|0}}
+|{{Sortname|A.|Carboni|Amedeo Carboni}} {{Sommastat|9|0|2|0 |3|0|0|0 |3|0|3|1}}
+|{{Sortname|A.|Comi|Antonio Comi}} {{Sommastat|24|2|3|0 |8|0|1|0 |5|0|0|0}}
+|{{Sortname|L.|Garzya|Luigi Garzya}} {{Sommastat|29|0|4|0 |9|0|0|1 |7|0|0|0}}
+|{{Sortname|S.|Nela|Sebastiano Nela}} {{Sommastat|0|0|0|0 |1|0|1|0 |2|0|1|0}}
+|{{Sortname|E.|Pellegrino|Emilio Pellegrino|nolink=1}} {{Sommastat|0|0|0|0 |0|0|0|0 |-|-|-|-}}
+|{{Sortname|F.|Petruzzi|Fabio Petruzzi}} {{Sommastat|6|0|1|0 |1|0|1|0 |0|0|0|0}}
+|{{Sortname|D.|Rossi|Dario Rossi}} {{Sommastat|5|0|1|0 |1|0|1|0 |0|0|0|0}}
+|{{Sortname|A.|Tempestilli|Antonio Tempestilli}} {{Sommastat|9|0|5|0 |3|0|1|0 |2|0|1|0}}
+|{{Sortname|A.|Bernardini|Antonino Bernardini}} {{Sommastat|0|0|0|0 |0|0|0|0 |-|-|-|-}}
+|{{Sortname|W.|Bonacina|Walter Bonacina}} {{Sommastat|32|0|9|1 |10|0|1|0 |7|0|3|1}}
+|{{Sortname|M.|Caputi|Marco Caputi|nolink=1}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+|{{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}} {{Sommastat|29|9|7|0 |9|4|3|0 |8|3|2|0}}
+|{{Sortname|T.|Häßler|Thomas Häßler}} {{Sommastat|26|6|3|1 |9|1|1|0 |7|2|1|0}}
+|{{Sortname|S.|Mihajlović|Siniša Mihajlović}} {{Sommastat|29|1|6|1 |7|5|1|1 |5|1|2|0}}
+|{{Sortname|G.|Piacentini|Giovanni Piacentini}} {{Sommastat|29|0|7|0 |8|0|4|1 |8|0|2|0}}
+|{{Sortname|F.|Salsano|Fausto Salsano}} {{Sommastat|25|0|3|1 |6|1|0|0 |6|0|0|0}}
+|{{Sortname|S.|Torbidoni|Steven Torbidoni|nolink=1}} {{Sommastat|0|0|0|0 |-|-|-|- |-|-|-|-}}
+|{{Sortname|C.|Caniggia|Claudio Caniggia}} {{Sommastat|15|4|2|0 |6|2|0|0 |4|3|0|0}}
+|{{Sortname|A.|Carnevale|Andrea Carnevale}} {{Sommastat|25|6|3|0 |6|4|0|1 |6|1|2|1}}
+|{{Sortname|R.|Muzzi|Roberto Muzzi}} {{Sommastat|24|1|1|1 |7|1|0|0 |4|2|0|0}}
+|{{Sortname|R.|Rizzitelli|Ruggero Rizzitelli}} {{Sommastat|26|7|5|1 |8|2|0|0 |8|3|1|0}}
+|{{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|2|0|0|0 |-|-|-|- |-|-|-|-}}
+}}
+
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1992-1993|Campionato Primavera]]: ?
+** [[Coppa Italia Primavera 1992-1993|Coppa Italia Primavera]]: ?
+* '''''Allievi Nazionali''''': Vincitore
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|url=http://www.asroma.it/|titolo=Sito ufficiale}}
+* {{cita web|url=http://www.rsssf.com/tablesi/ital93.html|titolo=Serie A 1992-1993 su Rsssf.com|lingua=en}}
+* {{cita web|url=http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1992|titolo=Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1992-1993}}
+{{Portale|calcio}}

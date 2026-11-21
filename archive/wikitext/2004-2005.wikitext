@@ -1,0 +1,1409 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|club = AS Roma
+|immagine =
+|didascalia = Una formazione della Roma in Champions League
+|stagione = 2004-2005
+|allenatore1 = {{Bandiera|ITA}} [[Cesare Prandelli]] <small>(precampionato)</small><br/>{{Bandiera|DEU}} [[Rudi Völler]] <small>(1ª-4ª)</small><br/>{{Bandiera|ITA}} [[Ezio Sella]] <small>(''ad interim'')</small><ref name="Champions">Per la partita di Champions League del 28 settembre.</ref><br/>{{Bandiera|ITA}} [[Luigi Delneri]] <small>(5ª-28ª)</small><br/>{{Bandiera|ITA}} [[Bruno Conti]] <small>(29ª-38ª)</small><ref>''ad interim''</ref>
+|allenatore2 = {{Bandiera|ITA}} [[Gabriele Pin]] <small>(precampionato)</small><br/>{{Bandiera|ITA}} [[Ezio Sella]] <small>(1ª-4ª)</small><br/>{{Bandiera|ITA}} Vito Scala <small>(''ad interim'')</small><ref name="Champions"/><br/>{{Bandiera|ITA}} Francesco Conti <small>(5ª-28ª)</small><br/>{{Bandiera|ITA}} [[Ezio Sella]] <small>(29ª-38ª)</small>
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 2004-2005|Serie A]]
+|campionato posizione = 8º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 2004-2005|Coppa Italia]]
+|coppa1 posizione = Finalista
+|coppa3 = [[UEFA Champions League 2004-2005|Champions League]]
+|coppa3 posizione = Fase a gironi
+|presenze campionato = [[Vincenzo Montella|Montella]] (37)
+|presenze totale = [[Leandro Cufré|Cufré]], [[Matteo Ferrari|Ferrari]], Montella (46)
+|marcatore campionato = Montella (21)
+|marcatore totale = Montella (23)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati = {{formatnum:34496}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A06-07.htm|titolo=Statistiche Spettatori Serie A 2004-2005}}</ref>
+|spettatori max = {{formatnum:69488}}<ref name=stadiapost/> vs {{Calcio Juventus|N}}<br/>(6 marzo 2005)
+|spettatori min = {{formatnum:40069}}<ref name=stadiapost/> vs {{Calcio Siena|N}}<br/>(20 aprile 2005)
+|spettatori media = {{formatnum:49631}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2003-2004|2003-2004]]
+|stagione dopo = [[Associazione Sportiva Roma 2005-2006|2005-2006]]
+|aggiornato = 15 giugno 2005
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2004-2005'''.
+
+== Stagione ==
+
+A contrassegnare l'estate [[2004]] è l'addio di [[Fabio Capello|Capello]]: il tecnico passa alla {{Calcio Juventus|N}}, in sostituzione di [[Marcello Lippi|Lippi]].<ref>{{cita web|url=http://www.repubblica.it/2004/e/sezioni/sport/calcio/serie_a/capeljuve/capeljuve/capeljuve.html|titolo=Fabio Capello allenerà la Juve La Roma prende Cesare Prandelli|sito=repubblica.it|data=28 maggio 2004}}</ref> Il fatto desta scalpore, venendo vissuto come un tradimento in casa romanista: lo stesso allenatore, in precedenza, aveva dichiarato che non si sarebbe mai seduto sulla panchina bianconera.<ref>{{cita web|url=http://www.repubblica.it/2004/e/sezioni/sport/calcio/serie_a/capeljuve2/capeljuve2/capeljuve2.html|titolo="La Juve? Non mi interessa" Così parlava Capello romanista|sito=repubblica.it|data=28 maggio 2004}}</ref><ref>{{cita web|url=http://www.gazzetta.it/primi_piani/calcio/2004/pp_1.0.393205805.shtml|titolo=Capello scrive: "Grazie Roma"|autore=Livia Taglioli|sito=gazzetta.it|data=28 maggio 2004}}</ref> Viene così ingaggiato [[Cesare Prandelli]], reduce da un biennio alla guida del {{Calcio Parma|N}}.<ref>{{cita web|url=http://www.gazzetta.it/primi_piani/calcio/2004/pp_1.0.393663511.shtml|titolo=Prandelli allenatore della Roma|autore=Serena Gentile|sito=gazzetta.it|data=28 maggio 2004}}</ref> Sul mercato sono acquistati il francese [[Philippe Mexès|Mexès]], [[Matteo Ferrari|Ferrari]] (dal [[Parma Calcio 1913|Parma]]) e [[Simone Perrotta|Perrotta]] (dal {{Calcio Chievo|N}}).<ref>{{cita web|url=http://www.repubblica.it/2004/h/sezioni/sport/calcio/calciomercato/gilardinroma/gilardinroma/gilardinroma.html|titolo=Perrotta in giallorosso, è fatta Gilardino chiama la Roma|sito=repubblica.it|data=3 agosto 2004}}</ref>
+
+Già prima dell'inizio del [[Serie A 2004-2005|campionato]], Prandelli deve però lasciare l'incarico per la grave malattia della moglie.<ref>{{cita web|url=http://www.repubblica.it/2004/h/sezioni/sport/calcio/prandelli/prandelli/prandelli.html|titolo=Prandelli lascia la Roma "seri motivi personali"|sito=repubblica.it|data=26 agosto 2004}}</ref><ref>{{cita web|url=http://www.repubblica.it/2004/h/sezioni/sport/calcio/tregiorni/tregiorni/tregiorni.html|titolo=La Roma dopo lo choc Prandelli "Ti siamo vicini, ripensaci"|sito=repubblica.it|data=27 agosto 2004}}</ref> Al suo posto viene chiamato [[Rudi Völler]], esonerato dalla [[Nazionale di calcio della Germania|Nazionale tedesca]] dopo il fallimento agli ultimi [[Campionato europeo di calcio 2004|Europei]].<ref>{{cita web|url=http://www.gazzetta.it/primi_piani/calcio/2004/pp_1.0.490493162.shtml|titolo=Voeller: "La Roma è fortissima"|sito=gazzetta.it|data=31 agosto 2004}}</ref> Esordisce con un 1-0 sulla {{Calcio Fiorentina|N}}: nel corso della gara, [[Antonio Cassano|Cassano]] viene espulso per una manata sul volto di [[Giorgio Chiellini|Chiellini]].<ref>{{cita web|url=http://www.repubblica.it/2004/i/sezioni/sport/calcio/serie_a/giornata1/romafiorentina/romafiorentina.html|titolo=La Roma dei giovani parte bene Fiorentina battuta all'Olimpico|sito=repubblica.it|data=12 settembre 2004}}</ref> Il 15 settembre, nella partita di [[UEFA Champions League 2004-2005|Champions League]] contro la {{Calcio Dinamo Kiev|N}}, un'altra tegola si abbatte sulla squadra: alla fine del primo tempo, un oggetto lanciato dagli spalti ferisce l'arbitro [[Anders Frisk]] portando alla sospensione dell'incontro.<ref>{{cita web|url=http://www.repubblica.it/2004/i/sezioni/sport/calcio/champions_league/romanervi/romanervi/romanervi.html|titolo=Roma-Dinamo, follia all'Olimpico Arbitro ferito, partita sospesa|sito=repubblica.it|data=15 settembre 2004}}</ref> L'[[UEFA]] punisce le intemperanze della tifoseria con il 3-0 a tavolino e 2 turni a porte chiuse.<ref name="corriere.it">{{cita web|url=http://www.corriere.it/Primo_Piano/Sport/2004/09_Settembre/21/roma.shtml|titolo=Champions, Roma: 3-0 a tavolino, porte chiuse|sito=corriere.it|data=21 settembre 2004}}</ref> A seguito delle sconfitte con {{Calcio Messina|N}}<ref>{{cita news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2004/09/20/messina-roma.html|titolo=messina-roma|autore=Corrado Sannucci|pubblicazione=la Repubblica|data=20 settembre 2004|p=43}}</ref> e {{Calcio Bologna|N}},<ref>{{cita web|url=http://www.repubblica.it/2004/i/sezioni/sport/calcio/serie_a/giorna4/bolognaroma1/bolognaroma1.html|titolo=Al Dall'Ara crolla la Roma e Voeller si dimette|sito=repubblica.it|data=25 settembre 2004}}</ref> l'allenatore tedesco si dimette.<ref>{{cita web|url=http://www.gazzetta.it/primi_piani/calcio/2004/pp_1.0.524170334.shtml|titolo=Roma, la resa di Rudi Voeller|autore=Luca Taidelli|sito=gazzetta.it|data=25 settembre 2004}}</ref> Per la partita con il {{Calcio Real Madrid|N}}, [[Ezio Sella|Sella]] guida la formazione:<ref>{{cita web|url=http://www.repubblica.it/2004/i/sezioni/sport/calcio/champions_league/prerealroma/prerealroma/prerealroma.html|titolo=La sfida Real-Roma chi esce dalla crisi?|autore=Mattia Chiusano|sito=repubblica.it|data=28 settembre 2004}}</ref> la Roma va in vantaggio per 2-0, subendo poi una rimonta di 4 reti.<ref>{{cita news|url=http://archiviostorico.gazzetta.it//2004/settembre/29/rigorino_cancella_Real_Roma_ga_10_0409297080.shtml|titolo=Un rigorino cancella la Real Roma|autore=Alberto Cerruti|pubblicazione=La Gazzetta dello Sport|data=29 settembre 2004}}</ref> La guida tecnica è così affidata a [[Luigi Delneri|Delneri]], che da poche settimane era stato licenziato dal {{Calcio Porto|N}}.<ref>{{cita web|url=http://www.repubblica.it/2004/i/sezioni/sport/calcio/serie_a/sensidel/sensidel/sensidel.html|titolo=Del Neri sulla panchina della Roma "È l'occasione della mia Roma"|sito=repubblica.it|data=29 settembre 2004}}</ref> La situazione non migliora: in Europa, giunge la terza sconfitta di fila per mano del {{Calcio Bayer Leverkusen|N}} (con la Roma ridotta in 9).<ref>{{cita web|url=http://www.repubblica.it/2004/j/sezioni/sport/calcio/champions_league/bayeroma/bayeroma/bayeroma.html|titolo=Roma, ancora una sconfitta ormai è fuori dall'Europa|sito=repubblica.it|data=19 ottobre 2004}}</ref> Nel ritorno con i tedeschi, è invece ottenuto il primo punto nel girone.<ref>{{cita web|url=http://www.repubblica.it/2004/k/sezioni/sport/calcio/champions_league/romabayer/romabayer/romabayer.html|titolo=Nel deserto dell'Olimpico per la Roma un punto inutile|sito=repubblica.it|data=3 novembre 2004}}</ref>
+
+A qualificazione ormai compromessa, giunge un'altra disfatta con gli ucraini (anche in questo caso, i capitolini giocano in inferiorità numerica).<ref>{{cita web|url=http://www.gazzetta.it/primi_piani/calcio/2004/pp_1.0.583823461.shtml|titolo=Roma cancellata dall'Europa|autore=Luca Taidelli|sito=repubblica.it|data=23 novembre 2004}}</ref> L'accenno di reazione, con il 4-0 al {{Calcio Siena|N}},<ref>{{cita news|url=http://archiviostorico.gazzetta.it/2004/novembre/28/Cassano_decollare_Roma_ga_10_0411289400.shtml|titolo=Cassano fa decollare la Roma|autore=Sebastiano Vernazza|pubblicazione=La Gazzetta dello Sport|data=28 novembre 2004}}</ref> è subito spento da un pari con la {{Calcio Sampdoria|N}}: [[Francesco Totti|Totti]] segna su rigore, agganciando [[Roberto Pruzzo|Pruzzo]] alla quota di 106 gol in [[Serie A|Campionato]] con la squadra.<ref>{{cita web|url=http://www.repubblica.it/2004/l/sezioni/sport/calcio/serie_a/giornata14/romasampdoria1/romasampdoria1.html|titolo=Pagano illude la Sampdoria Penalty di Totti, raggiunto Pruzzo|sito=repubblica.it|data=5 dicembre 2004}}</ref> La partita di ritorno con il Real, già qualificato, è nuovamente persa.<ref>{{cita web|url=http://www.repubblica.it/2004/l/sezioni/sport/calcio/champions_league/romareal2/romareal2/romareal2.html?ref=search|titolo=Roma, un'altra sconfitta nell'Olimpico deserto|sito=repubblica.it|data=8 dicembre 2004}}</ref> A conclusione del girone di andata, i giallorossi hanno 27 punti: 1 in meno del neopromosso {{Calcio Palermo|N}}.<ref>{{cita news|url=http://ricerca.repubblica.it/repubblica/archivio/repubblica/2005/01/17/una-roma-due-facce-tra-sbagli-riscossa.html|titolo=Una Roma a due facce tra sbagli e riscossa|autore=Zbigniew Boniek|pubblicazione=la Repubblica|data=17 gennaio 2005}}</ref> Il 13 marzo, dopo il k.o. con il {{Calcio Cagliari|N}} (il terzo consecutivo),<ref>{{cita web|url=http://www.repubblica.it/2005/c/sezioni/sport/calcio/serie_a/28giornata/cagliariroma1/cagliariroma1.html|titolo=Il Cagliari affonda la Roma Per Totti e compagni è crisi|sito=repubblica.it|data=13 marzo 2005}}</ref> la società cambia ancora allenatore: punta su [[Bruno Conti]], sprovvisto della licenza necessaria.<ref>{{cita web|url=http://www.repubblica.it/2005/c/sezioni/sport/calcio/serie_a/contiroma/contiroma/contiroma.html|titolo=Calcio, via Del Neri la Roma a Bruno Conti|sito=repubblica.it|data=14 marzo 2005}}</ref> L'ex calciatore conduce la Roma all'ottavo posto finale, al pari del {{Calcio Livorno|N}}.<ref>{{cita web|url=http://www.repubblica.it/2005/e/sezioni/sport/calcio/serie_a/38giornata/romachievo1/romachievo1.html|titolo=Totti torna ma non trova il gol E all'Olimpico il Chievo si salva|sito=repubblica.it|data=29 maggio 2005}}</ref> Il raggiungimento della finale di [[Coppa Italia 2004-2005|Coppa Italia]], persa contro l'{{Calcio Inter|N}}, vale comunque l'accesso alla [[UEFA Europa League|Coppa UEFA]] in una situazione simile a quella di due anni prima.<ref>Nella [[Associazione Sportiva Roma 2002-2003|stagione 2002-03]], i giallorossi avevano ottenuto il medesimo piazzamento in campionato e perso la finale di coppa nazionale (contro il [[Associazione Calcio Milan|Milan]]). {{cita web|url=http://www.repubblica.it/2005/f/sezioni/sport/calcio/interoma/interoma/interoma.html?ref=search|titolo=Roma senza gioco e senza grinta Coppa Italia all'Inter dopo 23 anni|sito=repubblica.it|data=15 giugno 2005}}</ref>
+
+== Divise e sponsor ==
+
+Lo sponsor tecnico è [[Diadora]], lo sponsor ufficiale è [[Mazda]]. La prima divisa è costituita da maglia rossa, pantaloncini bianchi e calzettoni neri, tutti con dettagli gialli e neri. In trasferta i Lupi usano una costituita da maglia bianca, pantaloncini bianchi, calzettoni bianchi, con dettagli gialli e neri. Come terza divisa viene usato un kit costituito da maglia gialla, pantaloncini neri e calzettoni gialli, mentre come ''fourth'' viene usata una divisa completamente verde con dettagli giallorossi. In [[UEFA Champions League]] viene usata in casa una divisa nera con colletto verde e decorazioni giallorosse, nelle trasferte la divisa è bianca. I portieri usano una divisa nera con dettagli giallorossi, una divisa grigia e la ''third''.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 222-224}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la = _roma0405H
+|pattern_b = _roma0405H
+|pattern_ra = _roma0405H
+|pattern_sh = _roma0405H
+|pattern_so = _asroma0306h
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = 990000
+|shorts = FFFFFF
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0405A
+|pattern_b = _roma0405A
+|pattern_ra = _roma0405A
+|pattern_sh = _roma0405H
+|pattern_so = _asroma0305a
+|leftarm = FFFFFF
+|body = FFFFFF
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|socks = FFFFFF
+|title = Trasferta
+}}<br/>
+|
+{{Divisa Calcio
+|pattern_la =_roma0405T
+|leftarm = ff7f00
+|pattern_b =_roma0405T
+|body = 000000
+|pattern_ra = _roma0405T
+|rightarm = ff7f00
+|shorts = 000000
+|pattern_so =_asroma0304t
+|pattern_sh =_roma0405T
+|socks = 000000
+|title = Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_la =_roma0405F
+|leftarm = 002000
+|pattern_b =_roma0405F
+|body = 000000
+|pattern_ra = _roma0405F
+|rightarm = 002000
+|shorts = 000000
+|pattern_so =
+|pattern_sh =_roma0405T
+|socks = 03673D
+|title = Quarta divisa
+}}
+|{{Divisa Calcio
+|pattern_la =_roma0405e1
+|leftarm = ff7f00
+|pattern_b =_roma0405e1
+|body = 000000
+|pattern_ra =_roma0405e1
+|rightarm = ff7f00
+|shorts = 000000
+|pattern_so =
+|pattern_sh =
+|socks = 000000
+|title = Europa<br/>(casa)
+}}
+|{{Divisa Calcio
+|pattern_la =_roma0405e2
+|leftarm = ff7f00
+|pattern_b =_roma0405e2
+|body = 000000
+|pattern_ra =_roma0405e2
+|rightarm = ff7f00
+|shorts = ffffff
+|pattern_so =
+|pattern_sh =
+|socks = ffffff
+|title = Europa<br/>(trasferta)
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma0304gk1
+|pattern_b = _asroma0405gk1
+|pattern_ra =
+|pattern_sh = _asroma0405gk1
+|pattern_so = _asroma0306h
+|leftarm = 000000
+|body = d7d7d7
+|rightarm = 000000
+|shorts = 000000
+|socks = 000000
+|title = 1ª portiere
+}}<br/>
+|
+{{Divisa Calcio
+|pattern_la = _asroma0405gk2
+|pattern_b = _asroma0405gk2
+|pattern_ra =
+|pattern_sh = _asroma0405gk1
+|pattern_so = _asroma0405gk2
+|leftarm = 000000
+|body = d7d7d7
+|rightarm = d3cdcd
+|shorts = 000000
+|socks = 000000
+|title = 2ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _roma0405T
+|pattern_b = _roma0405T
+|pattern_ra = _roma0405T
+|pattern_sh = _asroma0405gk1
+|pattern_so = _asroma0304t
+|leftarm = 000000
+|body = d7d7d7
+|rightarm = ff7f00
+|shorts = 000000
+|socks = 000000
+|title = 3ª portiere
+}}
+|}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 04/05">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=2004|titolo=Rosa AS Roma - Saison 04/05|accesso=15 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=ITA|nome=[[Gianluca Curci]]|ruolo=P}}<ref name=PRI/>
+{{Calciatore in rosa|n=2|nazione=ITA|nome=[[Christian Panucci]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=PRT|nome=[[Abel Xavier]]<ref name="Acquisto inverno">Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=C}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Daniele De Rossi]]|ruolo=C}}
+{{Calciatore in rosa|n=5|nazione=FRA|nome=[[Philippe Mexès]]|ruolo=D}}
+{{Calciatore in rosa|n=''7''|nazione=ITA|nome=''[[Luigi Sartor]]''|ruolo=D}}<ref name=INV/>
+{{Calciatore in rosa|n=8|nazione=ITA|nome=[[Matteo Ferrari]]|ruolo=D}}
+{{Calciatore in rosa|n=9|nazione=ITA|nome=[[Vincenzo Montella]]|ruolo=A}}
+{{Calciatore in rosa|n=10|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A|altro=C}}
+{{Calciatore in rosa|n=11|nazione=ITA|nome=[[Daniele Corvia]]|ruolo=A}}
+{{Calciatore in rosa|n=12|nazione=ITA|nome=[[Carlo Zotti]]|ruolo=P}}
+{{Calciatore in rosa|n=13|nazione=ROU|nome=[[Cristian Chivu]]|ruolo=D}}
+{{Calciatore in rosa|n=15|nazione=FRA|nome=[[Olivier Dacourt]]|ruolo=C}}
+{{Calciatore in rosa|n=16|nazione=ITA|nome=Paolo Seppani|ruolo=C}}<ref name=PRI/>
+{{Calciatore in rosa|n=17|nazione=ITA|nome=[[Damiano Tommasi]]|ruolo=C}}
+{{Calciatore in rosa|n=18|nazione=ITA|nome=[[Antonio Cassano]]|ruolo=A}}
+{{Calciatore in rosa|n=19|nazione=ITA|nome=[[Giuseppe Scurto]]|ruolo=D}}<ref name=PRI>Aggregato dalla Primavera</ref>
+{{Calciatore in rosa|n=20|nazione=ITA|nome=[[Simone Perrotta]]|ruolo=C}}
+{{Calciatore in rosa|n=''21''|nazione=ITA|nome=''[[Gaetano D'Agostino]]''|ruolo=C}}<ref name=INV/>
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=22|nazione=ITA|nome=[[Ivan Pelizzoli]]|ruolo=P}}
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Alberto Aquilani]]|ruolo=C}}
+{{Calciatore in rosa|n=''24''|nazione=ITA|nome=''[[Marco Delvecchio]]''|ruolo=A}}<ref name=INV/>
+{{Calciatore in rosa|n=25|nazione=ARG|nome=[[Leandro Cufré]]|ruolo=D}}
+{{Calciatore in rosa|n=26|nazione=ITA|nome=[[Alessio Cerci]]|ruolo=C}}
+{{Calciatore in rosa|n=27|nazione=ITA|nome=Andrea Briotti|ruolo=D}}<ref name=PRI/>
+{{Calciatore in rosa|n=28|nazione=ITA|nome=[[Valerio Virga]]|ruolo=C}}<ref name=PRI/>
+{{Calciatore in rosa|n=29|nazione=ITA|nome=[[Leandro Greco]]|ruolo=C}}<ref name=PRI/>
+{{Calciatore in rosa|n=30|nazione=BRA|nome=[[Amantino Mancini|Mancini]]|ruolo=C}}
+{{Calciatore in rosa|n=31|nazione=GRC|nome=[[Traïanos Dellas]]|ruolo=D}}
+{{Calciatore in rosa|n=''32''|nazione=FRA|nome=''[[Vincent Candela]]''|ruolo=D}}<ref name=INV/>
+{{Calciatore in rosa|n=33|nazione=ITA|nome=Pietro Pipolo|ruolo=P}}<ref name=PRI/>
+{{Calciatore in rosa|n=34|nazione=ITA|nome=Fabrizio Grillo|ruolo=D}}<ref name=PRI/>
+{{Calciatore in rosa|n=35|nazione=ITA|nome=Alessandro Simonetta|ruolo=A}}<ref name=PRI/>
+{{Calciatore in rosa|n=36|nazione=ITA|nome=[[Gianluca Freddi]]|ruolo=D}}<ref name=PRI/>
+{{Calciatore in rosa|n=37|nazione=ITA|nome=Massimiliano Marsili|ruolo=C}}<ref name=PRI/>
+{{Calciatore in rosa|n=38|nazione=ITA|nome=[[Aleandro Rosi]]|ruolo=D}}<ref name=PRI/>
+{{Calciatore in rosa|n=39|nazione=ITA|nome=[[Stefano Okaka]]|ruolo=A}}<ref name=PRI/>
+{{Calciatore in rosa|n=''99''|nazione=EGY|nome=''[[Mido]]''|ruolo=A}}<ref name=INV>Ceduto durante la sessione invernale di calciomercato</ref>
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 04/05"/>
+=== Sessione estiva (dal 1/7 al 31/8) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| C || [[Matteo Brighi]] || {{Calcio Juventus|N}} || ''definitivo'' (16 milioni €)
+|-
+| C || [[Simone Perrotta]] || {{Calcio Chievo|N}} || ''definitivo'' (7.2 milioni €)
+|-
+| D || [[Philippe Mexès]] || {{Calcio Auxerre|N}} || ''definitivo'' (7 milioni €)
+|-
+| A || [[Mido]] || {{Calcio Olympique Marsiglia|N}} || ''definitivo'' (6 milioni €)
+|-
+| D || [[Matteo Ferrari]] || {{Calcio Parma|N}} || ''definitivo'' (7.25 milioni €)
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || Simone Piva || {{Calcio Triestina|N}} || ''prestito''
+|-
+| C || [[Matteo Brighi]] || {{Calcio Chievo|N}} || ''prestito''
+|-
+| C || [[Emerson Ferreira da Rosa|Emerson]] || {{Calcio Juventus|N}} || ''definitivo'' (28 milioni €)
+|-
+| D || [[Walter Samuel]] || {{Calcio Real Madrid|N}} || ''definitivo'' (23 milioni €)
+|-
+| C || [[Francisco Lima]] || {{Calcio Lokomotiv Mosca|N}} || ''definitivo'' (5.7 milioni €)
+|-
+| P || [[Cristiano Lupatelli]] || {{Calcio Fiorentina|N}} || ''svincolato''
+|-
+| D || [[Jonathan Zebina]] || {{Calcio Juventus|N}} || ''svincolato''
+|-
+| C || [[Adewale Dauda Wahab]] || {{Calcio Ternana|N}} || ''prestito''
+|-
+| C || [[Gianni Guigou]] || {{Calcio Fiorentina|N}} || ''svincolato''
+|-
+| D || Manuel Cattani || {{Calcio La Chaux-de-Fonds|N}} || ''svincolato''
+|-
+| C || [[Daniele Galloppa]] || {{Calcio Triestina|N}} || ''prestito''
+|-
+| D || [[Damiano Ferronetti]] || {{Calcio Parma|N}} || -
+|-
+| A || Olasunkanmi Akande Ajide || {{Calcio Venezia|N}} || ''prestito''
+|}
+{{colonne fine}}
+
+=== Sessione invernale (dal 3/1 al 31/1) ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| A || Felipe Spellmeier || {{Calcio Juventude|N}} || ''prestito''
+|-
+| D || [[Abel Xavier]] || - || ''svincolato''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan=4 | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| A || [[Mido]] || {{Calcio Tottenham|N}} || ''prestito''
+|-
+| C || [[Gaetano D'Agostino]] || {{Calcio Messina|N}} || ''prestito''
+|-
+| D || [[Luigi Sartor]] || {{Calcio Genoa|N}} || ''prestito''
+|-
+| A || [[Marco Delvecchio]] || {{Calcio Brescia|N}} || ''svincolato''
+|-
+| D || [[Vincent Candela]] || {{Calcio Bolton|N}} || ''svincolato''
+|-
+| A || Olasunkanmi Akande Ajide || {{Calcio Andria|N}} || ''prestito''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 2004-2005}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 2004
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/1/ROMFIO
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|53}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 2004
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Messina
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/2/MESROM
+|Città = [[Messina]]
+|Stadio = [[Stadio San Filippo]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Alessandro Parisi|Parisi]] {{Goal|21|rig.}}<br />[[Salvatore Sullo|Sullo]] {{Goal|46}}<br />[[Domenico Giampà|Giampà]] {{Goal|74}}<br />[[Riccardo Zampagna|Zampagna]] {{Goal|78}}
+|Marcatori 2 = {{Goal|36||64||68}} [[Vincenzo Montella|Montella]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 2004
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/3/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|54}}<br />[[Amantino Mancini|Mancini]] {{Goal|72}}
+|Marcatori 2 = {{Goal|41}} [[Marco Cassetti|Cassetti]]<br />{{Goal|59}} [[Valeri Božinov|Božinov]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 2004
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/4/BOLROM
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Arbitro = [[Tiziano Pieri]]
+|Cittarbitro = [[Lucca]]
+|Marcatori 1 = [[Mourad Meghni|Meghni]] {{Goal|5||38}}<br />[[Giacomo Cipriani|Cipriani]] {{Goal|34}}
+|Marcatori 2 = {{Goal|60}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 2004
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/5/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|9}}<br />[[Francesco Totti|Totti]] {{Goal|57}}<br />[[Daniele De Rossi|De Rossi]] {{Goal|74}}
+|Marcatori 2 = {{Goal|45+1}} [[Esteban Cambiasso|Cambiasso]]<br />{{Goal|51}} [[Juan Sebastián Verón|Verón]]<br />{{Goal|54}} [[Álvaro Recoba|Recoba]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 2004
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/6/LIVROM
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi]]
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|30}} [[Francesco Totti|Totti]]<br />{{Goal|69}} [[Vincenzo Montella|Montella]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 2004
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Palermo
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/7/ROMPAL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|58|rig.}}
+|Marcatori 2 = {{Goal|32}} [[Fabio Grosso|Grosso]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 ottobre
+|Anno = 2004
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/8/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Alessandro Del Piero|Del Piero]] {{Goal|31}}<br />[[Marcelo Zalayeta|Zalayeta]] {{Goal|74}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 2004
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/9/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Traïanos Dellas|Dellas]] {{Goal|2}}<br />[[Francesco Totti|Totti]] {{Goal|6|rig.}}<br />[[Simone Perrotta|Perrotta]] {{Goal|64}}<br />[[Vincenzo Montella|Montella]] {{Goal|90||90+2}}
+|Marcatori 2 = {{Goal|31}} [[David Suazo|Suazo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 2004
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/10/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Andrij Ševčenko|Ševčenko]] {{Goal|6}}
+|Marcatori 2 = {{Goal|48}} [[Vincenzo Montella|Montella]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 novembre
+|Anno = 2004
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/11/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|44||82}} [[Vincenzo Iaquinta|Iaquinta]]<br />{{Goal|60|rig.}} [[David Pizarro|Pizarro]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 novembre
+|Anno = 2004
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Reggina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/12/RGIROM
+|Città = [[Reggio Calabria]]
+|Stadio = [[Stadio Oreste Granillo]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Emiliano Bonazzoli|Bonazzoli]] {{Goal|15}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 2004
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Siena
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/13/SIEROM
+|Città = [[Siena]]
+|Stadio = [[Stadio Artemio Franchi-Montepaschi Arena|Stadio Artemio Franchi]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|68||70}} [[Vincenzo Montella|Montella]]<br />{{Goal|71||90+1}} [[Francesco Totti|Totti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 2004
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/14/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|84|rig.}}
+|Marcatori 2 = {{Goal|81}} [[Biagio Pagano|Pagano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 2004
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/15/BREROM
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|90+4|rig.}} [[Amantino Mancini|Mancini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 2004
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/16/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|10||50}}<br />[[Francesco Totti|Totti]] {{Goal|29||58}}<br />[[Vincenzo Montella|Montella]] {{Goal|52}}
+|Marcatori 2 = {{Goal|45}} [[Cesare Bovo|Bovo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 gennaio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/17/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 = [[Paolo Di Canio|Di Canio]] {{Goal|29}}<br />[[César Aparecido Rodrigues|César]] {{Goal|74}}<br />[[Tommaso Rocchi|Rocchi]] {{Goal|84}}
+|Marcatori 2 = {{Goal|68}} [[Antonio Cassano|Cassano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/18/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|40||53}}
+|Marcatori 2 = {{Goal|85}} [[Michele Marcolini|Marcolini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Chievo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/19/CHIROM
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Sergio Pellissier|Pellissier]] {{Goal|15}}<br />[[Simone Tiribocchi|Tiribocchi]] {{Goal|20}}
+|Marcatori 2 = {{Goal|34||56}} [[Vincenzo Montella|Montella]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 2005
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/20/FIOROM
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Arbitro = [[Nicola Ayroldi]]
+|Cittarbitro = [[Molfetta]]
+|Marcatori 1 = [[Enzo Maresca|Maresca]] {{Goal|20}}
+|Marcatori 2 = {{Goal|23}} [[Antonio Cassano|Cassano]]<br />{{Goal|67}} [[Vincenzo Montella|Montella]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Messina
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/21/ROMMES
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Tiziano Pieri]]
+|Cittarbitro = [[Lucca]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|56}}<br />[[Antonio Cassano|Cassano]] {{Goal|60}}<br />[[Amantino Mancini|Mancini]] {{Goal|82}}
+|Marcatori 2 = {{Goal|12}} [[Riccardo Zampagna|Zampagna]]<br />{{Goal|31}} [[Alessandro Parisi|Parisi]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 febbraio
+|Anno = 2005
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/22/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Mirko Vučinić|Vučinić]] {{Goal|79}}
+|Marcatori 2 = {{Goal|49|aut.}} [[Guillermo Giacomazzi|Giacomazzi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/23/ROMBOL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Antonio Dattilo]]
+|Cittarbitro = [[Locri]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|9}}
+|Marcatori 2 = {{Goal|62}} [[Luigi Della Rocca|Della Rocca]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 2005
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/24/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Siniša Mihajlović|Mihajlović]] {{Goal|23||90+2}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/25/ROMLIV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Marco Gabriele]]
+|Cittarbitro = [[Frosinone]]
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|8}}<br />[[Simone Perrotta|Perrotta]] {{Goal|70}}<br />[[Francesco Totti|Totti]] {{Goal|85}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Palermo
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/26/PALROM
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera]]
+|Arbitro = [[Roberto Rosetti]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Franco Brienza|Brienza]] {{Goal|54}}<br />[[Luca Toni|Toni]] {{Goal|90+1}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 marzo
+|Anno = 2005
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/27/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Marcatori 1 = [[Antonio Cassano|Cassano]] {{Goal|39}}
+|Marcatori 2 = {{Goal|11}} [[Fabio Cannavaro|Cannavaro]]<br />{{Goal|44|rig.}} [[Alessandro Del Piero|Del Piero]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 2005
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 28ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/28/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Gianfranco Zola|Zola]] {{Goal|24}}<br />[[Mauro Esposito|Esposito]] {{Goal|41}}<br />[[David Suazo|Suazo]] {{Goal|48}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 2005
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/29/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|63}} [[Hernán Crespo|Crespo]]<br />{{Goal|71|rig.}} [[Andrea Pirlo|Pirlo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 30ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/30/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Antonio Di Natale|Di Natale]] {{Goal|28}}<br />[[Giampiero Pinzi|Pinzi]] {{Goal|33}}<br />[[David Di Michele|Di Michele]] {{Goal|76}}
+|Marcatori 2 = {{Goal|14}} [[Cristian Chivu|Chivu]]<br />{{Goal|23}} [[Vincenzo Montella|Montella]]<br />{{Goal|44}} [[Amantino Mancini|Mancini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 aprile
+|Anno = 2005
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggina
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/31/ROMRGI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Nicola Rizzoli]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Cristian Chivu|Chivu]] {{Goal|23}}
+|Marcatori 2 = {{Goal|72}} [[Ivan Franceschini|Franceschini]]<br />{{Goal|82}} [[Emiliano Bonazzoli|Bonazzoli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 aprile
+|Anno = 2005
+|Ora = 20:30 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Siena
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/32/ROMSIE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Dondarini]]
+|Cittarbitro = [[Finale Emilia]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|60}} [[Massimo Maccarone|Maccarone]]<br />{{Goal|88}} [[Enrico Chiesa|Chiesa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 aprile
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/33/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Arbitro = [[Gianluca Paparesta]]
+|Cittarbitro = [[Bari]]
+|Marcatori 1 = [[Max Tonetto|Tonetto]] {{Goal|33}}<br />[[Francesco Flachi|Flachi]] {{Goal|79|rig.}}
+|Marcatori 2 = {{Goal|90+3|rig.}} [[Vincenzo Montella|Montella]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º maggio
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/34/ROMBRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Simone Perrotta|Perrotta]] {{Goal|1}}<br />[[Daniele De Rossi|De Rossi]] {{Goal|76}}
+|Marcatori 2 = {{Goal|49}} [[Pierre Womé|Womé]]<br />{{Goal|79}} [[Andrea Caracciolo|Caracciolo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 maggio
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/35/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Domenico Morfeo|Morfeo]] {{Goal|63}}<br />[[Alberto Gilardino|Gilardino]] {{Goal|79|rig.}}
+|Marcatori 2 = {{Goal|5}} [[Antonio Cassano|Cassano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 maggio
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/36/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 maggio
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/37/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia]]
+|Arbitro = [[Paolo Bertini]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|50}} [[Antonio Cassano|Cassano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 maggio
+|Anno = 2005
+|Ora = 15:00 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Chievo
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/2004-05/UNICO/UNI/38/ROMCHI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2004-2005}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 2004
+|Ora = 17:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Siena
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Ottavi-Andata/Roma-Siena.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Andrea De Marco]]
+|Cittarbitro = [[Chiavari]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|57}}
+|Marcatori 2 = {{Goal|37||87}} [[Tore André Flo|Flo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 gennaio
+|Anno = 2005
+|Ora = 17:30 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Siena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 5
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Ottavi-Ritorno/Siena-Roma.html
+|Città = [[Siena]]
+|Stadio = [[Stadio Artemio Franchi-Montepaschi Arena|Stadio Artemio Franchi]]
+|Arbitro = [[Emidio Morganti]]
+|Cittarbitro = [[Ascoli Piceno]]
+|Marcatori 1 = [[Massimo Maccarone|Maccarone]] {{Goal|44|rig.}}
+|Marcatori 2 = {{Goal|12}} [[Traïanos Dellas|Dellas]]<br />{{Goal|35}} [[Francesco Totti|Totti]]<br />{{Goal|46}} [[Antonio Cassano|Cassano]]<br />{{Goal|49}} [[Vincenzo Montella|Montella]]<br />{{Goal|65}} [[Daniele Corvia|Corvia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 gennaio
+|Anno = 2005
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Quarti-Andata/Roma-Fiorentina.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Danilo Nucini]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Daniele De Rossi|De Rossi]] {{Goal|40}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 2005
+|Ora = 17:30 [[Central European Time|CET]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Supplementari = X
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Quarti-Ritorno/Fiorentina-Roma.html
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Arbitro = [[Massimiliano Saccani]]
+|Cittarbitro = [[Mantova]]
+|Marcatori 1 = [[Matteo Ferrari|Ferrari]] {{Goal|12|aut.}}
+|Marcatori 2 =
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 6
+|PuntiTiriExtra 2 = 7
+|TiriExtra 1 = [[Martin Jørgensen|Jørgensen]] {{Pengoal}}<br />[[Enrico Fantini|Fantini]] {{Pengoal}}<br />[[Christian Riganò|Riganò]] {{Pengoal}}<br />[[Sebastián Cejas|Cejas]] {{Pengoal}}<br />[[Fabrizio Miccoli|Miccoli]] {{Penmiss|parato}}<br />[[Giorgio Chiellini|Chiellini]] {{Pengoal}}<br />[[Marco Donadel|Donadel]] {{Pengoal}}<br />[[Tomáš Ujfaluši|Ujfaluši]] {{Penmiss|palo}}
+|TiriExtra 2 = {{Penmiss|parato}} [[Antonio Cassano|Cassano]]<br />{{Pengoal}} [[Alberto Aquilani|Aquilani]]<br />{{Pengoal}} [[Cristian Chivu|Chivu]]<br />{{Pengoal}} [[Traïanos Dellas|Dellas]]<br />{{Pengoal}} [[Francesco Totti|Totti]]<br />{{Pengoal}} [[Leandro Cufré|Cufré]]<br />{{Pengoal}} [[Simone Perrotta|Perrotta]]<br />{{Pengoal}} [[Giuseppe Scurto|Scurto]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 maggio
+|Anno = 2005
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Semifinale-Andata/Roma-Udinese.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Philippe Mexès|Mexès]] {{Goal|36}}
+|Marcatori 2 = {{Goal|84}} [[Valerio Bertotto|Bertotto]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 maggio
+|Anno = 2005
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Semifinale-Ritorno/Udinese-Roma.html
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Antonio Di Natale|Di Natale]] {{Goal|57}}
+|Marcatori 2 = {{Goal|21}} [[Amantino Mancini|Mancini]]<br />{{Goal|81}} [[Francesco Totti|Totti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 giugno
+|Anno = 2005
+|Ora = 21:30 [[Central European Summer Time|CEST]]
+|Turno = Finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Finale-Andata/Roma-Inter.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|30||36}} [[Adriano Leite Ribeiro|Adriano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 giugno
+|Anno = 2005
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = Finale - Ritorno
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.almanaccogiallorosso.it/2004-2005/CoppaItalia/Finale-Ritorno/Inter-Roma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Arbitro = [[Matteo Trefoloni]]
+|Cittarbitro = [[Siena]]
+|Marcatori 1 = [[Siniša Mihajlović|Mihajlović]] {{Goal|52}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+
+=== UEFA Champions League ===
+{{vedi anche|UEFA Champions League 2004-2005}}
+==== Fase a gironi ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 2004
+|Ora = 20:45
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Dinamo Kiev
+|Punteggio 1 = 0
+|Punteggio 2 = 3 
+|Referto = https://it.uefa.com/uefachampionsleague/match/79469--roma-vs-dynamo-kyiv/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Anders Frisk]]
+|Nazarbitro = SWE
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|29}} [[Goran Gavrančić|Gavrančić]]
+|Note = {{tavolino}}<ref name="corriere.it" />
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 2004
+|Ora = 20:45
+|Turno = 2ª giornata
+|Squadra 1 = Real Madrid
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = https://it.uefa.com/uefachampionsleague/match/79471--real-madrid-vs-roma/
+|Città = [[Madrid]]
+|Stadio = [[Stadio Santiago Bernabéu]]
+|Arbitro = [[Valentin Valentinovič Ivanov]]
+|Nazarbitro = RUS
+|Marcatori 1 = [[Raúl González Blanco|Raúl]] {{Goal|39||72}}<br />[[Luís Figo|Figo]] {{Goal|53|rig.}}<br />[[Roberto Carlos da Silva|Roberto Carlos]] {{Goal|79}}
+|Marcatori 2 = {{Goal|3}} [[Daniele De Rossi|De Rossi]]<br />{{Goal|21}} [[Antonio Cassano|Cassano]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 2004
+|Ora = 20:45
+|Turno = 3ª giornata
+|Squadra 1 = Bayer Leverkusen
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/79473--leverkusen-vs-roma/
+|Città = [[Leverkusen]]
+|Stadio = [[BayArena]]
+|Arbitro = [[Eric Poulat]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Roque Júnior]] {{Goal|48}}<br />[[Jacek Krzynówek|Krzynówek]] {{Goal|59}}<br />[[França (calciatore 1976)|França]] {{Goal|90+4}}
+|Marcatori 2 = {{Goal|26|aut.}} [[Dimităr Berbatov|Berbatov]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 2004
+|Ora = 20:45
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bayer Leverkusen
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefachampionsleague/match/79475--roma-vs-leverkusen/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Lucílio Batista]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Vincenzo Montella|Montella]] {{Goal|90+3}}
+|Marcatori 2 = {{Goal|82}} [[Dimităr Berbatov|Berbatov]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 novembre
+|Anno = 2004
+|Ora = 20:45
+|Turno = 5ª giornata
+|Squadra 1 = Dinamo Kiev
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefachampionsleague/match/79477--dynamo-kyiv-vs-roma/
+|Città = [[Kiev]]
+|Stadio = [[Stadio Dinamo Lobanovski]]
+|Arbitro = [[Mike Riley]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Traïanos Dellas|Dellas]] {{Goal|73|aut.}}<br />[[Maksim Shatskix|Shatskix]] {{Goal|82}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 2004
+|Ora = 20:45
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Real Madrid
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = https://it.uefa.com/uefachampionsleague/match/79479--roma-vs-real-madrid/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[René Temmink]]
+|Nazarbitro = NLD
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|9}} [[Ronaldo]]<br />{{Goal|60|rig.|82}} [[Luís Figo|Figo]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 2004-2005|Serie A]]
+|punti1=45
+|cv1=6
+|cn1=8
+|cp1=5
+|cgf1=31
+|cgs1=26
+|tv1=5
+|tn1=4
+|tp1=10
+|tgf1=24
+|tgs1=32
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 2004-2005|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=1
+|cp2=2
+|cgf2=3
+|cgs2=5
+|tv2=2
+|tn2=0
+|tp2=2
+|tgf2=7
+|tgs2=4
+|comp3={{simbolo|Coppa Campioni.svg|15}} [[UEFA Champions League 2004-2005|Champions League]]
+|punti3=-
+|cv3=0
+|cn3=1
+|cp3=2
+|cgf3=1
+|cgs3=7
+|tv3=0
+|tn3=0
+|tp3=3
+|tgf3=3
+|tgs3=9
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=38}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=T |m29=C |m30=T |m31=C |m32=C |m33=T |m34=C |m35=T |m36=C |m37=T |m38=C}}
+{{Andamento/Risultato |m1=V |m2=P |m3=N |m4=P |m5=N |m6=V |m7=N |m8=P |m9=V |m10=N |m11=P |m12=P |m13=V |m14=N |m15=V |m16=V |m17=P |m18=V |m19=N |m20=V |m21=V |m22=N |m23=N |m24=P |m25=V |m26=P |m27=P |m28=P |m29=P |m30=N |m31=P |m32=P |m33=P |m34=N |m35=P |m36=N |m37=V |m38=N}}
+{{Andamento/Posizione |m1=5 |m2=9 |m3=12 |m4=13 |m5=14 |m6=12 |m7=9 |m8=13 |m9=9 |m10=9 |m11=13 |m12=15 |m13=11 |m14=11 |m15=9 |m16=7 |m17=8 |m18=6 |m19=7 |m20=6 |m21=5 |m22=6 |m23=6 |m24=7 |m25=7 |m26=7 |m27=7 |m28=7 |m29=8 |m30=7 |m31=8 |m32=12 |m33=12 |m34=13 |m35=14 |m36=14 |m37=8 |m38=8}}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+A completamento dei dati va aggiunta due autogol a favore dei giallorossi (uno in campionato e uno in Champions League).
+{{Statistiche dei giocatori
+| Competizione1 = Serie A<ref name="Panini">{{Cita libro|titolo=Almanacco Illustrato del Calcio 2006|editore=Panini Editore|anno=2005|città=Modena|pp=366-367}}</ref>
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa UEFA
+| {{Sortname|A.|Aquilani|Alberto Aquilani}} {{Sommastat|29|0|4|0 |4|0|1|0 |5|0|1|0}}
+| {{Sortname|A.|Briotti|Andrea Briotti|nolink=1}} {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| ''{{Sortname|V.|Candela|Vincent Candela}}'' {{Sommastat|8|0|1|0 |1|0|0|0 |3|0|0|0}}
+| {{Sortname|A.|Cassano|Antonio Cassano}} {{Sommastat|31|9|7|1 |8|1|1|0 |3|1|0|0}}
+| {{Sortname|A.|Cerci|Alessio Cerci}} {{Sommastat|2|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|C.|Chivu|Cristian Chivu}} {{Sommastat|10|2|1|0 |4|0|1|0 |1|0|0|0}}
+| {{Sortname|D.|Corvia|Daniele Corvia}} {{Sommastat|13|0|0|0 |4|1|0|0 |3|0|0|0}}
+| {{Sortname|L.|Cufré|Leandro Cufré}} {{Sommastat|33|0|7|0 |7|0|3|1 |6|0|0|0}}
+| {{Sortname|G.|Curci|Gianluca Curci}} {{Sommastat|11|-16|0|0 |6|-8|0|0 |0|-0|0|0}}
+| {{Sortname|O.|Dacourt|Olivier Dacourt}} {{Sommastat|23|0|8|0 |3|0|0|0 |2|0|0|0}}
+| ''{{Sortname|G.|D'Agostino|Gaetano D'Agostino}}'' {{Sommastat|6|0|1|0 |3|0|0|0 |2|0|0|0}}
+| {{Sortname|T.|Dellas|Traïanos Dellas}} {{Sommastat|20|1|4|0 |3|1|0|0 |4|0|1|0}}
+| ''{{Sortname|M.|Delvecchio|Marco Delvecchio}}'' {{Sommastat|4|0|0|0 |0|0|0|0 |1|0|0|0}}
+| {{Sortname|R.|De Martino|Raffaele De Martino}} {{Sommastat|5|0|0|0 |2|0|0|0 |2|0|0|0}}
+| {{Sortname|D.|De Rossi|Daniele De Rossi}} {{Sommastat|30|2|10|1 |5|1|2|1 |3|1|0|1}}
+| {{Sortname|M.|Ferrari|Matteo Ferrari}} {{Sommastat|35|0|8|0 |7|0|3|1 |4|0|1|0}}
+| {{Sortname|L.|Greco|Leandro Greco}} {{Sommastat|1|0|0|0 |3|0|0|0 |0|0|0|0}}
+| {{Sortname|A.|Mancini|Alessandro Faiolhe Amantino}} {{Sommastat|34|4|4|0 |6|1|0|0 |5|1|0|0}}
+| {{Sortname|M.|Marsili|Massimiliano Marsili|nolink=1}} {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|P.|Mexès|Philippe Mexès}} {{Sommastat|28|0|5|1 |6|1|1|0 |3|0|1|1}}
+| ''{{Sortname||Mido|Mido}}'' {{Sommastat|8|0|1|0 |1|0|0|0 |4|0|0|0}}
+| {{Sortname|V.|Montella|Vincenzo Montella}} {{Sommastat|37|21|6|0 |6|1|0|0 |3|1|1|0}}
+| {{Sortname|C.|Panucci|Christian Panucci}} {{Sommastat|26|0|4|0 |4|0|2|0 |3|0|1|1}}
+| {{Sortname|I.|Pelizzoli|Ivan Pelizzoli}} {{Sommastat|17|-30|0|0 |0|-0|0|0 |4|-10|0|0}}
+| {{Sortname|S.|Perrotta|Simone Perrotta}} {{Sommastat|30|3|9|0 |5|0|4|0 |4|0|3|0}}
+| {{Sortname|A.|Rosi|Aleandro Rosi}} {{Sommastat|1|0|0|0 |1|0|0|0 |0|0|0|0}}
+| ''{{Sortname|L.|Sartor|Luigi Sartor}}'' {{Sommastat|7|0|1|1 |1|0|0|0 |4|0|0|0}}
+| {{Sortname|G.|Scurto|Giuseppe Scurto}} {{Sommastat|9|0|4|0 |5|0|0|0 |2|0|2|1}}
+| {{Sortname|D.|Tommasi|Damiano Tommasi}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|29|12|11|0 |7|3|0|0 |4|0|2|0}}
+| {{Sortname|V.|Virga|Valerio Virga}} {{Sommastat|6|0|1|0 |3|0|0|0 |0|0|0|0}}
+| {{Sortname|A.|Xavier|Abel Xavier}} {{Sommastat|3|0|0|0 |1|0|0|0 |0|0|0|0}}
+| {{Sortname|C.|Zotti|Carlo Zotti}} {{Sommastat|10|-12|0|0 |2|-1|0|0 |2|-4|1|0}}
+}}
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{Collegamenti esterni}}
+* {{cita web|http://www.rsssf.com/tablesi/ital05.html|Serie A 2004-2005 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/2004|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2004-2005}}
+{{Portale|calcio}}

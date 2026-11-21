@@ -1,0 +1,1585 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport = calcio
+|immagine = FC Salzburg gegen AS Roma (UEFA Euroleague play-off, 2023-02-16) 44 (edited).jpg
+|club = AS Roma
+|didascalia = L'undici giallorosso in campo nella stagione 2022-2023
+|stagione = 2022-2023
+|allenatore1 = {{Bandiera|PRT}} [[José Mourinho]]
+|allenatore2 = {{Bandiera|ITA}} [[Salvatore Foti]]
+|presidente = {{Bandiera|USA}} [[Dan Friedkin]]
+|campionato = [[Serie A 2022-2023|Serie A]]
+|campionato posizione = 6º (in Europa League)
+|coppa1 = [[Coppa Italia 2022-2023|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|coppa2 = [[UEFA Europa League 2022-2023|Europa League]]
+|coppa2 posizione = Finalista
+|presenze campionato = [[Tammy Abraham|Abraham]]  (38)
+|presenze totale = Abraham (54)
+|marcatore campionato = [[Paulo Dybala|Dybala]] (12)
+|marcatore totale = Dybala (18)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]] ({{formatnum:70634}})
+|abbonati = {{formatnum:36000}}<ref>{{Cita web|https://www.asroma.com/it/biglietti/abbonamenti-2022-23|Tutte le informazioni sugli abbonamenti 2022-23|sito=asroma.com|23 gennaio 2023}}</ref>
+|spettatori max = {{formatnum:66742}} vs {{Calcio Feyenoord|N}}<ref>{{cita web|url=https://gianlucadimarzio.com/it/roma-feyenoord-tifosi-spettatori-record-stadio-olimpico-europa-league-20-aprile-2023#:~:text=Era%20un%20altro%20sold%2Dout,giallorossi%20dopo%20i%20tempi%20supplementari).|titolo=Roma, contro il Feyenoord è record stagionale di spettatori allo stadio Olimpico}}</ref><br/>(20 aprile 2023)
+|spettatori min = {{formatnum:60193}} vs {{Calcio HJK|N}}<ref>{{cita web|url=https://www.transfermarkt.it/as-roma_hjk-helsinki/index/spielbericht/3912561|titolo=AS Roma-HJK}}</ref><br/>(15 settembre 2022)
+|spettatori media = {{formatnum:61901}}<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A22-23.htm|titolo=Statistiche Spettatori Serie A 2022-2023}}</ref>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 2021-2022|2021-2022]]
+|stagione dopo = [[Associazione Sportiva Roma 2023-2024|2023-2024]]
+}}
+
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''2022-2023'''.
+
+== Stagione ==
+Quella del 2022-2023 è la 94ª stagione nel torneo di massima serie [[italia]]no, la 71ª consecutiva in Serie A. Nel mercato estivo arrivano nuovi innesti per il club capitolino, tra cui i centrocampisti [[Nemanja Matić]], svincolato e nell'ultima stagione al {{Calcio Manchester United|N}}, e [[Georginio Wijnaldum]], proveniente dal {{Calcio PSG|N}}, e gli attaccanti [[Andrea Belotti]] e [[Paulo Dybala]], entrambi svincolati e nell'ultima stagione rispettivamente al {{Calcio Torino|N}} e alla {{Calcio Juventus|N}}.
+
+Il [[Serie A 2022-2023|campionato]], iniziato con un 1-0 contro la {{Calcio Salernitana|N}} in trasferta, fa segnare un avvio promettente ma, per via anche di alcuni infortuni (come quello grave di Wijnaldum), col passare delle giornate i giallorossi perdono contatto dalla vetta della classifica: sconfitti anche nel [[Derby di Roma|derby]] contro la {{Calcio Lazio|N}}, i capitolini chiudono sesti prima della lunga sosta per la disputa del [[Mondiali di calcio 2022|campionato mondiale in Qatar]]. Al ritorno in campo, i giallorossi ottengono una serie utile di quattro partite e terminano il girone d'andata al terzo posto. Il girone di ritorno, tuttavia, fa segnare una flessione: i giallorossi, fiaccati dall'impegno europeo, perdono anche il derby di ritorno per 1-0 e chiudono la stagione con quattro pareggi, tre sconfitte e una sola vittoria, che determinano il sesto posto finale in campionato davanti alla Juventus e la qualificazione alla successiva edizione di Europa League. Per i capitolini si tratta del quinto anno consecutivo senza qualificazione alla Champions League.
+
+In [[Coppa Italia 2022-2023|Coppa Italia]], dopo aver superato il {{Calcio Genoa|N}} per 1-0 agli ottavi di finale, i giallorossi interrompono il proprio cammino nei quarti di finale, non riuscendo ad imporsi sulla {{Calcio Cremonese|N}} (2-1 per i grigiorossi).<ref>{{cita web|url=https://www.ansa.it/sito/notizie/sport/calcio/2023/02/01/roma-battuta-1-2-cremonese-in-semfinale-di-coppa-italia_207f1922-b72f-4a24-81f4-61c4fad36b2c.html|titolo=Roma battuta 1-2, Cremonese in semifinale di Coppa Italia|data=2 febbraio 2023|accesso=6 marzo 2023}}</ref>
+
+In [[UEFA Europa League 2022-2023|Europa League]] la Roma viene sorteggiata nel gruppo C con gli spagnoli del {{Calcio Betis|N}}, i bulgari del {{Calcio Ludogorets|N}} e i finlandesi dell'{{Calcio HJK|N}}. Dopo aver passato il girone da seconda grazie alla vittoria contro il Ludogorec all'ultima giornata, la Roma trova gli austriaci del {{Calcio Salisburgo|N}} nello spareggio, riuscendo a passare il turno (sconfitta per 1-0 in Austria e vittoria per 2-0 in casa). Negli ottavi di finale La compagine giallorossa elimina gli spagnoli della {{Calcio Real Sociedad|N}} (vittoria per 2-0 a Roma e pareggio per 0-0 in Spagna). Nei quarti di finale, la Roma trova il {{Calcio Feyenoord|N}}, già battuto nella finale di [[UEFA Europa Conference League 2021-2022|Conference League]] della stagione precedente: i giallorossi perdono la partita d'andata a Rotterdam per 1-0, ma vincono per 4-1 il ritorno ai tempi supplementari ed eliminano gli olandesi. Nella semifinale contro il {{Calcio Bayer Leverkusen|N}}, i capitolini eliminano i tedeschi vincendo per 1-0 all'Olimpico all'andata e pareggiando 0-0 alla [[BayArena]] di Leverkusen nella gara di ritorno, accedendo così alla seconda finale europea consecutiva. Nella finale, la Roma perde ai [[tiri di rigore]] per 4-1 contro il {{Calcio Siviglia|N}}, dopo l'1-1, sancito dal gol di Dybala e dall'autorete di [[Gianluca Mancini|Mancini]], al termine dei tempi supplementari.<ref>{{Cita web|url=https://www.gazzetta.it/Calcio/Europa-League/01-06-2023/europa-league-siviglia-roma-perde-finale-rigori-4601843582588.shtml|titolo=Beffa Roma: perde la finale di Europa League ai rigori. Il Siviglia fa festa: decisivi gli errori di Mancini e Ibanez|data=1º giugno 2023}}</ref>
+
+== Divise e sponsor ==
+[[File:FC Salzburg gegen AS Roma (UEFA Euroleague play-off, 2023-02-16) 61.jpg|thumb|upright|Il vicecapitano romanista [[Gianluca Mancini]] con la prima divisa ''all red'' della stagione]]
+Lo sponsor tecnico è [[New Balance]], il ''main sponsor'' è DigitalBits, mentre il ''back sponsor'' è Auberge Resorts. Dalla 32ª giornata di campionato, la Roma rimuove il ''main sponsor'' dalle proprie divise a causa di inadempienze economiche da parte di DigitalBits. Giocando le successive partite, compresa la finale di [[UEFA Europa League 2022-2023|Europa League]], con la stampa ''[[SPQR]]'' simbolo della città di Roma.<ref>{{cita web|url=https://www.eurosport.it/calcio/serie-a/2022-2023/lo-sponsor-non-paga-inter-e-roma-rompono-l-accordo-con-digitalbits-e-lo-tolgono-dalla-maglietta_sto9582714/story.shtml|titolo=Lo sponsor non paga: Inter e Roma rompono l'accordo con Digitalbits e lo tolgono dalla maglietta|data=2023-04-28}}</ref>
+La prima divisa è costituita da maglia rossa con colletto alla coreana e dettagli gialli, pantaloncini e calzettoni rossi con decorazioni gialle.<ref>{{cita web|url=https://www.asroma.com/it/notizie/2022/05/our-world-our-roma-ecco-la-nuova-maglia-new-balance-per-il-2022-23|titolo=AS Roma home kit 2022-23|data=12 maggio 2022|accesso=12 maggio 2022|dataarchivio=12 maggio 2022|urlarchivio=https://web.archive.org/web/20220512084445/https://www.asroma.com/it/notizie/2022/05/our-world-our-roma-ecco-la-nuova-maglia-new-balance-per-il-2022-23|urlmorto=sì}}</ref> La divisa in trasferta è bianca con colletto a V e dettagli gialli e rossi.<ref name=away2023>{{cita web|url=https://www.asroma.com/it/notizie/2022/08/Ecco-la-nostra-maglia-away-New-Balance-per-il-2022-23|titolo=Ecco la nostra maglia away New Balance per il 2022-23|data=7 agosto 2022|accesso=7 agosto 2022|dataarchivio=7 agosto 2022|urlarchivio=https://web.archive.org/web/20220807111454/https://www.asroma.com/it/notizie/2022/08/Ecco-la-nostra-maglia-away-New-Balance-per-il-2022-23|urlmorto=sì}}</ref> La terza divisa è nera e presenta dettagli astratti di colore grigio e rosa fluorescente, è inoltre presente, al posto dello stemma societario, una coccarda con la scritta "ASR" al suo interno.<ref>{{cita web|url=https://www.asroma.com/it/notizie/2022/09/ecco-il-third-kit-new-balance-per-il-2022-23|titolo=Ecco il Third Kit New Balance per il 2022-23|data=15 settembre 2022|accesso=16 settembre 2022|dataarchivio=20 settembre 2022|urlarchivio=https://web.archive.org/web/20220920170508/https://www.asroma.com/it/notizie/2022/09/ecco-il-third-kit-new-balance-per-il-2022-23|urlmorto=sì}}</ref> Per i portieri sono disponibili due divise: la prima delle due è verde con dettagli neri e argento,<ref>{{cita web|url=https://www.asroma.com/it/notizie/2022/06/mile-svilar-e-un-nuovo-calciatore-giallorosso|titolo=Mile Svilar è un nuovo calciatore giallorosso|data=1º luglio 2022|accesso=3 luglio 2022|dataarchivio=2 luglio 2022|urlarchivio=https://web.archive.org/web/20220702220833/https://www.asroma.com/it/notizie/2022/06/mile-svilar-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref> la seconda nera con dettagli argento.<ref>{{cita web|url=https://www.asroma.com/it/notizie/2022/07/gallery-tottenham-roma-0-1|titolo=Gallery: Tottenham-Roma 0-1|data=30 luglio 2022|accesso=31 luglio 2022}}</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la=_asroma2223h
+|pattern_b=_asroma2223h
+|pattern_ra=_asroma2223h
+|pattern_so=_asroma2223h
+|pattern_sh=_asroma2223h
+|leftarm=6a0c27
+|body=FFFFFF
+|rightarm=6a0c27
+|shorts=FFFFFF
+|socks=A00000
+|title= Casa
+}}
+|{{Divisa Calcio
+|pattern_la=_asroma2223a
+|pattern_b=_asroma2223a
+|pattern_ra=_asroma2223a
+|pattern_so=_asroma2223a
+|pattern_sh=_asroma2223a
+|leftarm=6a0c27
+|body=FFFFFF
+|rightarm=6a0c27
+|shorts=FFFFFF
+|socks=A00000
+|title= Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la=_asroma2223t
+|pattern_b=_asroma2223t
+|pattern_ra=_asroma2223t
+|pattern_so=_asroma2223t
+|pattern_sh=_asroma2223t
+|leftarm=6a0c27
+|body=FFFFFF
+|rightarm=6a0c27
+|shorts=FFFFFF
+|socks=A00000
+|title= Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma2223gk1
+|pattern_b = _asroma2223gk1
+|pattern_ra = _asroma2223gk1
+|pattern_sh = _asroma2223gk1
+|pattern_so = _asroma2223gk1
+|leftarm =
+|body =
+|rightarm =
+|shorts =
+|socks = 00e041
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la = _asroma2223gk2
+|pattern_b = _asroma2223gk2
+|pattern_ra = _asroma2223gk2
+|pattern_sh = _asroma2223gk2
+|pattern_so = _asroma2223gk2
+|leftarm =
+|body =
+|rightarm =
+|shorts =
+|socks = 000000
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.
+{{Colonne}}
+'''''Area direttiva'''''<ref>{{cita web|url=http://www.asroma.com/it/club/organigramma-societario|titolo=Organigramma societario|editore=asroma.com|accesso=7 luglio 2017}}</ref>
+* Presidente: [[Dan Friedkin]]
+* Vicepresidente esecutivo: Ryan Friedkin
+* Amministratore Delegato: Pietro Berardi, poi Lina Souloukou<ref>{{cita web|url=https://www.asroma.com/it/notizie/2023/04/lina-souloukou-nominata-ceo-general-manager-dell-as-roma|titolo=Lina Souloukou nominata Corporate Chief Executive Officer dell’ AS Roma|data=18 aprile 2023|accesso=18 aprile 2023}}</ref>
+* Consiglieri: Marc Watts, Eric Williamson
+* General Manager: Tiago Pinto
+* Chief Executive Officer: Lina Souloukou
+* Direttore Sportivo: Mauro Leo
+'''''Area tecnica'''''<ref name=Org>{{cita web|titolo=All players and staff|url=https://www.asroma.com/it/team/players-and-staff|accesso=2 luglio 2019}}</ref>
+* Allenatore: [[José Mourinho]]
+* Allenatore in seconda: [[Salvatore Foti]]
+* Assistente tecnico: Giovanni Cerra
+* Match analyst: Michele Salzarulo
+* Preparatore dei portieri: [[Nuno Santos (calciatore 1973)|Nuno Santos]]
+* Preparatori atletici: Manrico Ferrari, Carlos Lalín, Stefano Rapetti
+{{Colonne fine}}
+
+== Rosa ==
+[[File:FC Salzburg gegen AS Roma (UEFA Euroleague play-off, 2023-02-16) 38 - Paulo Dybala (cropped).jpg|thumb|upright|Il neoacquisto [[Paulo Dybala]], migliore marcatore giallorosso della stagione con 18 reti.]]
+Di seguito la rosa (numerazione aggiornate al 31 gennaio 2023).<ref>{{cita web|url=https://www.asroma.com/it/team/players-and-staff|titolo=ALL PLAYERS AND STAFF|accesso=31 agosto 2021}}</ref><ref>{{cita web|url=https://www.legaseriea.it/uploads/default/attachments/comunicati/comunicati_m/9436/files/allegati/9561/c.s._12.pdf|titolo=Numerazioni maglie Serie A TIM 2022-2023|accesso=13 agosto 2022|dataarchivio=13 agosto 2022|urlarchivio=https://web.archive.org/web/20220813202154/https://www.legaseriea.it/uploads/default/attachments/comunicati/comunicati_m/9436/files/allegati/9561/c.s._12.pdf|urlmorto=sì}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=1|nazione=PRT|nome=[[Rui Patrício]]|ruolo=P}}
+{{Calciatore in rosa|n=2|nazione=NLD|nome=[[Rick Karsdorp]]|ruolo=D}}
+{{Calciatore in rosa|n=3|nazione=BRA|nome=[[Roger Ibañez]]|ruolo=D}}
+{{Calciatore in rosa|n=4|nazione=ITA|nome=[[Bryan Cristante]]|ruolo=C}}
+{{Calciatore in rosa|n=6|nazione=ENG|nome=[[Chris Smalling]]|ruolo=D}}
+{{Calciatore in rosa|n=7|nazione=ITA|nome=[[Lorenzo Pellegrini]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=8|nazione=SRB|nome=[[Nemanja Matić]]|ruolo=C}}
+{{Calciatore in rosa|n=9|nazione=ENG|nome=[[Tammy Abraham]]|ruolo=A}}
+{{Calciatore in rosa|n=11|nazione=ITA|nome=[[Andrea Belotti]]|ruolo=A}}
+{{Calciatore in rosa|n=''14''|nazione=UZB|nome=''[[Eldor Shomurodov]]''|ruolo=A}}<ref name="inverno_ces" />
+{{Calciatore in rosa|n=14|nazione=ESP|nome=[[Diego Llorente]]|ruolo=D}}<ref name="inverno_acq" />
+{{Calciatore in rosa|n=''17''|nazione=URY|nome=''[[Matías Viña]]''|ruolo=D}}<ref name="inverno_ces" />
+{{Calciatore in rosa|n=18|nazione=NOR|nome=[[Ola Solbakken]]|ruolo=A}}<ref name="inverno_acq">Acquistato durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=19|nazione=TUR|nome=[[Zeki Çelik]]|ruolo=D}}
+{{Calciatore in rosa|n=20|nazione=GIN|nome=[[Mady Camara]]|ruolo=C}}
+{{Calciatore in rosa|n=21|nazione=ARG|nome=[[Paulo Dybala]]|ruolo=A}}
+{{Calciatore in rosa|n=''22''|nazione=ITA|nome=''[[Nicolò Zaniolo]]''|ruolo=C}}<ref name="inverno_ces" />
+{{Calciatore in rosa|n=23|nazione=ITA|nome=[[Gianluca Mancini]]|ruolo=D|altro=V}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=24|nazione=ALB|nome=[[Marash Kumbulla]]|ruolo=D}}
+{{Calciatore in rosa|n=25|nazione=NLD|nome=[[Georginio Wijnaldum]]|ruolo=C}}
+{{Calciatore in rosa|n=37|nazione=ITA|nome=[[Leonardo Spinazzola]]|ruolo=D}}
+{{Calciatore in rosa|n=52|nazione=ITA|nome=[[Edoardo Bove]]|ruolo=C}}
+{{Calciatore in rosa|n=55|nazione=GMB|nome=[[Ebrima Darboe]]|ruolo=C}}
+{{Calciatore in rosa|n=58|nazione=ITA|nome=[[Filippo Missori]]|ruolo=D}}
+{{Calciatore in rosa|n=59|nazione=POL|nome=[[Nicola Zalewski]]|ruolo=C}}
+{{Calciatore in rosa|n=60|nazione=GRC|nome=Dimitrios Keramitsis|ruolo=D}}
+{{Calciatore in rosa|n=62|nazione=ITA|nome=[[Cristian Volpato]]|ruolo=A}}
+{{Calciatore in rosa|n=63|nazione=ITA|nome=Pietro Boer|ruolo=P}}
+{{Calciatore in rosa|n=''65''|nazione=ITA|nome= ''Filippo Tripi''|ruolo=C}}<ref name="inverno_ces">Ceduto durante la sessione invernale di calciomercato.</ref>
+{{Calciatore in rosa|n=68|nazione=BIH|nome=[[Benjamin Tahirović]]<ref name="Aggregato primavera">Aggregato alla prima squadra dalla formazione [[Campionato Primavera|Primavera]].</ref>|ruolo=C}}
+{{Calciatore in rosa|n=73|nazione=ITA|nome=Giacomo Faticanti|ruolo=C}}
+{{Calciatore in rosa|n=76|nazione=ITA|nome=[[Niccolò Pisilli]]<ref name="Aggregato primavera"/>|ruolo=C}}
+{{Calciatore in rosa|n=77|nazione=POL|nome=Jordan Majchrzak<ref name="Aggregato primavera"/>|ruolo=A}}
+{{Calciatore in rosa|n=92|nazione=ITA|nome=[[Stephan El Shaarawy]]|ruolo=A}}
+{{Calciatore in rosa|n=99|nazione=SRB|nome=[[Mile Svilar]]|ruolo=P}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+=== Sessione estiva ''(dall'1/7 all'1/9)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |da
+! width="35%" |Modalità
+|-
+| P || [[Mile Svilar]] || || ''svincolato''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/06/mile-svilar-e-un-nuovo-calciatore-giallorosso|titolo=Mile Svilar è un nuovo calciatore giallorosso|lingua=it|accesso=1º luglio 2022|dataarchivio=2 luglio 2022|urlarchivio=https://web.archive.org/web/20220702220833/https://www.asroma.com/it/notizie/2022/06/mile-svilar-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+| D || [[Mehmet Zeki Çelik]] || {{Calcio Lilla|N}} || ''definitivo'' (7 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/07/zeki-celik-e-un-nuovo-calciatore-giallorosso|titolo=Zeki Celik è un nuovo calciatore giallorosso|lingua=it|accesso=5 luglio 2022|urlmorto=sì}}</ref>
+|-
+| C || [[Nemanja Matić]] || || ''svincolato''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/06/Nemanja-Matic-e-un-nuovo-calciatore-giallorosso|titolo=Nemanja Matic è un nuovo calciatore giallorosso|lingua=it|accesso=14 giugno 2022|dataarchivio=14 giugno 2022|urlarchivio=https://web.archive.org/web/20220614133225/https://www.asroma.com/it/notizie/2022/06/Nemanja-Matic-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+| C || [[Georginio Wijnaldum]] || {{Calcio PSG|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/georginio-wijnaldum-e-un-nuovo-calciatore-giallorosso|titolo=Georginio Wijnaldum è un nuovo calciatore giallorosso|lingua=it|accesso=5 agosto 2022|dataarchivio=5 agosto 2022|urlarchivio=https://web.archive.org/web/20220805180521/https://www.asroma.com/it/notizie/2022/08/georginio-wijnaldum-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+| C || [[Mady Camara]] || {{Calcio Olympiakos|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/mady-camara-e-un-nuovo-calciatore-giallorosso|titolo=Mady Camara è un nuovo calciatore giallorosso|lingua=it|accesso=31 agosto 2022|dataarchivio=31 agosto 2022|urlarchivio=https://web.archive.org/web/20220831133242/https://www.asroma.com/it/notizie/2022/08/mady-camara-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+| A || [[Paulo Dybala]] || || ''svincolato''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/07/paulo-dybala-e-un-nuovo-calciatore-giallorosso|titolo=Paulo Dybala è un nuovo calciatore giallorosso|lingua=it|accesso=20 luglio 2022|dataarchivio=20 luglio 2022|urlarchivio=https://web.archive.org/web/20220720103731/https://www.asroma.com/it/notizie/2022/07/paulo-dybala-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+| A || [[Andrea Belotti]] || || ''svincolato''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/andrea-belotti-e-un-nuovo-calciatore-giallorosso|titolo=Andrea Belotti è un nuovo calciatore giallorosso|lingua=it|accesso=28 agosto 2022|dataarchivio=28 agosto 2022|urlarchivio=https://web.archive.org/web/20220828150359/https://www.asroma.com/it/notizie/2022/08/andrea-belotti-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!da
+!Modalità
+|-
+| P || Stefano Greco || {{Calcio Potenza|N}} || ''fine prestito''
+|-
+| D || William Bianda || {{Calcio Nancy|N}} || ''fine prestito''
+|-
+| D || Devid Bouah || {{Calcio Teramo|N}} || ''fine prestito''
+|-
+| D || [[Bryan Reynolds]] || {{Calcio Kortrijk|N}} || ''fine prestito''
+|-
+| D || [[Riccardo Calafiori]] || {{Calcio Genoa|N}} || ''fine prestito''
+|-
+| C || [[Tommaso Milanese]] || {{Calcio Alessandria|N}} || ''fine prestito''
+|-
+| C || [[Ante Ćorić]] || {{Calcio Zurigo|N}} || ''fine prestito''
+|-
+| C || Salvatore Pezzella || {{Calcio Siena|N}} || ''fine prestito''
+|-
+| C || [[Gonzalo Villar]] || {{Calcio Getafe|N}} || ''fine prestito''
+|-
+| A || [[Justin Kluivert]] || {{Calcio Nizza|N}} || ''fine prestito''
+|-
+| A || Ruben Providence || {{Calcio Estoril|N}} || ''fine prestito''
+|-
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%;"
+! colspan="4" | Cessioni
+|-
+! width="3%" |R.
+! width="32%" |Nome
+! width="30%" |a
+! width="35%" |Modalità
+|-
+| P || [[Daniel Fuzato]] || {{Calcio Ibiza|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/06/daniel-fuzato-ceduto-a-titolo-definitivo-all-ud-ibiza|titolo=Daniel Fuzato ceduto a titolo definitivo all’Ibiza|lingua=it|accesso=21 giugno 2022|dataarchivio=21 giugno 2022|urlarchivio=https://web.archive.org/web/20220621101804/https://www.asroma.com/it/notizie/2022/06/daniel-fuzato-ceduto-a-titolo-definitivo-all-ud-ibiza|urlmorto=sì}}</ref>
+|-
+| D || [[Davide Santon]] || || ''svincolato''
+|-
+| C || [[Ainsley Maitland-Niles]] || {{Calcio Arsenal|N}} || ''fine prestito''
+|-
+| C || [[Sérgio Oliveira]] || {{Calcio Porto|N}} || ''fine prestito''
+|-
+| C || [[Henrix Mxit'aryan]] || || ''svincolato''
+|-
+| C || [[Jordan Veretout]] || {{Calcio Olympique Marsiglia|N}} || ''definitivo'' (11 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/veretout-ceduto-a-titolo-definitivo-all-olympique-marsiglia|titolo=Veretout ceduto a titolo definitivo|lingua=it|accesso=5 agosto 2022|urlmorto=sì}}</ref>
+|-
+| C || [[Amadou Diawara]] || {{Calcio Anderlecht|N}} || ''definitivo'' (1,5 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/diawara-ceduto-a-titolo-definitivo-all-anderlecht|titolo=Diawara ceduto a titolo definitivo all'Anderlecht|sito=asroma.com|accesso=31 agosto 2022|dataarchivio=31 agosto 2022|urlarchivio=https://web.archive.org/web/20220831163524/https://www.asroma.com/it/notizie/2022/08/diawara-ceduto-a-titolo-definitivo-all-anderlecht|urlmorto=sì}}</ref>
+|-
+| A || [[Carles Pérez]] || {{Calcio Celta Vigo|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/Perez-ceduto-a-titolo-temporaneo-al-Celta-Vigo|titolo=Perez ceduto a titolo temporaneo al Celta Vigo|lingua=it|accesso=9 agosto 2022|urlmorto=sì}}</ref>
+|-
+| A || [[Felix Afena-Gyan]] || {{Calcio Cremonese|N}} || ''definitivo'' (6 milioni €)<ref>{{Cita web|url= https://www.asroma.com/it/notizie/2022/08/felix-afena-gyan-ceduto-a-titolo-definitivo-alla-cremonese|titolo=Felix Afena-Gyan ceduto a titolo definitivo alla Cremonese|lingua=it|accesso=29 agosto 2022}}</ref>
+|-
+! colspan="4" |Altre operazioni
+|-
+!R.
+!Nome
+!a
+!Modalità
+|-
+| P || Stefano Greco || || ''svincolato''
+|-
+| P || [[Robin Olsen]] || {{Calcio Aston Villa|N}} || ''definitivo'' (3,5 milioni €)<ref>{{Cita web|url=https://www.avfc.co.uk/news/2022/june/04/villa-announce-olsen-signing/|titolo=Aston Villa announce permanent Robin Olsen signing|lingua=en|accesso=4 giugno 2022}}</ref>
+|-
+| D || Devid Bouah || {{Calcio Reggina|N}} || ''definitivo''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/2022/08/bouah-ceduto-a-titolo-definitivo-alla-reggina |titolo= Bouah ceduto a titolo definitivo alla Reggina|lingua=it|accesso=1º settembre 2022}}</ref>
+|-
+| D ||[[Alessandro Florenzi]] || {{Calcio Milan|N}} || ''definitivo'' (2,7 milioni €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/07/florenzi-ceduto-a-titolo-definitivo|titolo=Florenzi ceduto a titolo definitivo|lingua=it|accesso=1º luglio 2022|urlmorto=sì}}</ref>
+|-
+| D || [[Bryan Reynolds]] || {{Calcio Westerlo|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/06/bryan-reynolds-in-prestito-al-kvc-westerlo|titolo=Bryan Reynolds in prestito al Westerlo|lingua=it|accesso=21 giugno 2022|dataarchivio=22 giugno 2022|urlarchivio=https://web.archive.org/web/20220622093309/https://www.asroma.com/it/notizie/2022/06/bryan-reynolds-in-prestito-al-kvc-westerlo|urlmorto=sì}}</ref>
+|-
+| D || [[Riccardo Calafiori]] || {{Calcio Basilea|N}} || ''definitivo'' (1 milione €)<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/08/calafiori-ceduto-a-titolo-definitivo-al-basilea|titolo=Calafiori ceduto a titolo definitivo|lingua=it|accesso=31 agosto 2022|urlmorto=sì}}</ref>
+|-
+| C || [[Tommaso Milanese]] || {{Calcio Cremonese|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/07/Milanese-ceduto-a-titolo-definitivo-alla-Cremonese|titolo=Milanese ceduto a titolo definitivo|lingua=it|accesso=2 luglio 2022|dataarchivio=2 luglio 2022|urlarchivio=https://web.archive.org/web/20220702095405/https://www.asroma.com/it/notizie/2022/07/Milanese-ceduto-a-titolo-definitivo-alla-Cremonese|urlmorto=sì}}</ref>
+|-
+| C || Salvatore Pezzella || {{Calcio Triestina|N}} || ''definitivo''<ref>{{Cita web|url= https://www.trivenetogoal.it/2022/07/19/mercato-triestina-tutto-confermato-ufficiale-larrivo-di-salvatore-pezzella/159017/|titolo= Ufficiale l’arrivo di Salvatore Pezzella|lingua=it|accesso=19 luglio 2022}}</ref>
+|-
+| C || Alessio Riccardi || {{Calcio Latina|N}} || ''definitivo''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/2022/08/Alessio-Riccardi-ceduto-a-titolo-definitivo-al-Latina |titolo= Alessio Riccardi ceduto a titolo definitivo al Latina|lingua=it|accesso=31 agosto 2022}}</ref>
+|-
+| C || [[Gonzalo Villar]] || {{Calcio Sampdoria|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/2022/08/villar-ceduto-a-titolo-temporaneo-alla-sampdoria |titolo= Villar ceduto a titolo temporaneo alla Sampdoria|lingua=it|accesso=8 agosto 2022}}</ref>
+|-
+|A || Ruben Providence || {{Calcio Hartberg|N}} || ''prestito''<ref>{{Cita web|url=https://www.tsv-hartberg-fussball.at/hoffnungsvolles-jung-trio-verstaerkt-den-tsv/|titolo=Hoffnungsvolles Jung-Trio verstärkt den TSV|lingua=de|accesso=29 agosto 2022|dataarchivio=2 ottobre 2022|urlarchivio=https://web.archive.org/web/20221002132801/https://www.tsv-hartberg-fussball.at/hoffnungsvolles-jung-trio-verstaerkt-den-tsv/|urlmorto=sì}}</ref>
+|-
+|A || [[Justin Kluivert]] || {{Calcio Valencia|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/09/justin-kluivert-ceduto-a-titolo-temporaneo-al-valencia|titolo=Justin Kluivert ceduto a titolo temporaneo al Valencia|accesso=2 settembre 2022|dataarchivio=1 settembre 2022|urlarchivio=https://web.archive.org/web/20220901222138/https://www.asroma.com/it/notizie/2022/09/justin-kluivert-ceduto-a-titolo-temporaneo-al-valencia|urlmorto=sì}}</ref>
+|-
+|}
+{{colonne fine}}
+=== Sessione invernale ''(dal 3/1 al 31/1)'' ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D || [[Diego Llorente]] || {{Calcio Leeds|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2023/01/Diego-Llorente-e-un-nuovo-calciatore-giallorosso|titolo=Llorente é un nuovo calciatore giallorosso|lingua=it|accesso=31 gennaio 2023|dataarchivio=31 gennaio 2023|urlarchivio=https://web.archive.org/web/20230131180552/https://www.asroma.com/it/notizie/2023/01/Diego-Llorente-e-un-nuovo-calciatore-giallorosso|urlmorto=sì}}</ref>
+|-
+| A || [[Ola Solbakken]] || || ''svincolato''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/2022/11/Ola-Solbakken-sara-un-calciatore-della-Roma-a-partire-da-gennaio |titolo= Ola Solbakken sarà un nuovo calciatore della Roma a partire da gennaio|lingua=it|accesso=23 novembre 2022}}</ref>
+|-
+|-
+! colspan="4" | Altre operazioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| C || [[Gonzalo Villar]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|-
+|-
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| D || [[Matías Viña]] || {{Calcio Bournemouth|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url= https://www.asroma.com/it/notizie/2023/01/vina-ceduto-a-titolo-temporaneo-al-bournemouth |titolo=  Viña ceduto a titolo temporaneo al Bournemouth|lingua=it|accesso=30 gennaio 2023}}</ref>
+|-
+| C || Filippo Tripi || {{Calcio NS Mura|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2022/12/Filippo-Tripi-ceduto-al-Mura-a-partire-da-gennaio|titolo=Filippo Tripi ceduto al Mura a partire da gennaio|lingua=it|accesso=16 dicembre 2022|dataarchivio=16 dicembre 2022|urlarchivio=https://web.archive.org/web/20221216235015/https://www.asroma.com/it/notizie/2022/12/Filippo-Tripi-ceduto-al-Mura-a-partire-da-gennaio|urlmorto=sì}}</ref>
+|-
+| C || [[Nicolò Zaniolo]] || {{Calcio Galatasaray|N}} || ''definitivo''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2023/02/ufficiale-nicolo-zaniolo-ceduto-al-galatasaray|titolo=Nicolò Zaniolo ceduto al Galatasaray|lingua=it|accesso=8 febbraio 2023|urlmorto=sì}}</ref>
+|-
+| A || [[Eldor Shomurodov]] || {{Calcio Spezia|N}} || ''prestito''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2023/01/Eldor-Shomurodov-ceduto-a-titolo-temporaneo-allo-Spezia|titolo=Eldor Shomurodov ceduto a titolo temporaneo allo Spezia|lingua=it|accesso=30 gennaio 2023|dataarchivio=30 gennaio 2023|urlarchivio=https://web.archive.org/web/20230130110203/https://www.asroma.com/it/notizie/2023/01/Eldor-Shomurodov-ceduto-a-titolo-temporaneo-allo-Spezia|urlmorto=sì}}</ref>
+|-
+! colspan="4" | Altre operazioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| C || [[Gonzalo Villar]] || {{Calcio Getafe|N}} || ''prestito con diritto di riscatto''<ref>{{Cita web|url=https://www.asroma.com/it/notizie/2023/01/gonzalo-villar-ceduto-a-titolo-temporaneo-al-getafe|titolo=Gonzalo Villar ceduto a titolo temporaneo al Getafe|lingua=it|accesso=13 gennaio 2023|dataarchivio=13 gennaio 2023|urlarchivio=https://web.archive.org/web/20230113100344/https://www.asroma.com/it/notizie/2023/01/gonzalo-villar-ceduto-a-titolo-temporaneo-al-getafe|urlmorto=sì}}</ref>
+|-
+| A || Antonio Satriano || {{Calcio Heracles Almelo|N}} || ''definitivo''<ref>{{Cita web |url= https://www.asroma.com/it/notizie/2023/01/satriano-ceduto-a-titolo-definitivo-all-heracles-almelo |titolo= Satriano ceduto a titolo definitivo all’ Heracles Almelo |lingua= it |accesso= 5 gennaio 2023 |dataarchivio= 5 gennaio 2023 |urlarchivio= https://web.archive.org/web/20230105131251/https://www.asroma.com/it/notizie/2023/01/satriano-ceduto-a-titolo-definitivo-all-heracles-almelo |urlmorto= sì }}</ref>
+|-
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 2022-2023}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 agosto
+|Anno = 2022
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Salernitana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/1/SALROM
+|Città = [[Salerno]]
+|Stadio = [[Stadio Arechi]]
+|Spettatori = {{formatnum:26006}}
+|Arbitro = [[Simone Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|33}} [[Bryan Cristante|Cristante]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 agosto
+|Anno = 2022
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/2/ROMCRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60859}}
+|Arbitro = [[Luca Massimi]]
+|Cittarbitro = [[Termoli]]
+|Marcatori 1 = [[Chris Smalling|Smalling]] {{goal|65}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 agosto
+|Anno = 2022
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/3/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Allianz Stadium (Torino)|Allianz Stadium]]
+|Spettatori = {{formatnum:41003}}
+|Arbitro = [[Massimiliano Irrati]]
+|Cittarbitro = [[Pistoia]]
+|Marcatori 1 = [[Dušan Vlahović|Vlahović]] {{goal|2}}
+|Marcatori 2 = {{goal|69}} [[Tammy Abraham|Abraham]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 agosto
+|Anno = 2022
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Monza
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/4/ROMMON
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60669}}
+|Arbitro = [[Marco Piccinini (arbitro)|Marco Piccinini]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|18||32}}<br />[[Roger Ibañez|Ibañez]] {{goal|61}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 settembre
+|Anno = 2022
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/5/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = {{formatnum:24108}}
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Destiny Udogie|Udogie]] {{goal|5}}<br />[[Lazar Samardžić|Samardžić]] {{goal|56}}<br />[[Roberto Pereyra|Pereyra]] {{goal|75}}<br />[[Sandi Lovric|Lovric]] {{goal|82}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 2022
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 6ª giornata
+|Squadra 1 = Empoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/6/EMPROM
+|Città = [[Empoli]]
+|Stadio = [[Stadio Carlo Castellani]]
+|Spettatori = {{formatnum:13420}}
+|Arbitro = [[Livio Marinelli]]
+|Cittarbitro = [[Tivoli]]
+|Marcatori 1 = [[Filippo Bandinelli|Bandinelli]] {{goal|43}}
+|Marcatori 2 = {{goal|17}} [[Paulo Dybala|Dybala]]<br />{{goal|71}} [[Tammy Abraham|Abraham]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 settembre
+|Anno = 2022
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/7/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61335}}
+|Arbitro = [[Daniele Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|35}} [[Giorgio Scalvini|Scalvini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 2022
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 8ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/8/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:75389}}
+|Arbitro = [[Davide Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Federico Dimarco|Dimarco]] {{goal|30}}
+|Marcatori 2 = {{goal|39}} [[Paulo Dybala|Dybala]]<br />{{goal|75}} [[Chris Smalling|Smalling]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 ottobre
+|Anno = 2022
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/9/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64018}}
+|Arbitro = [[Alessandro Prontera]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Chris Smalling|Smalling]] {{goal|6}}<br />[[Paulo Dybala|Dybala]] {{goal|48|rig.}}
+|Marcatori 2 = {{goal|39}} [[Gabriel Strefezza|Strefezza]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 ottobre
+|Anno = 2022
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 10ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/10/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:20803}}
+|Arbitro = [[Marco Di Bello]]
+|Cittarbitro = [[Brindisi]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|9|rig}} [[Lorenzo Pellegrini|Pellegrini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Anno = 2022
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/serie-a/match-report/2022-23/UNICO/UNI/11/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61633}}
+|Arbitro = [[Massimiliano Irrati]]
+|Cittarbitro = [[Pistoia]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|80}} [[Victor Osimhen|Osimhen]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 2022
+|Ora = 18:30 [[Central European Time|CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = https://www.legaseriea.it/it/match/hellas-verona-roma-167026
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Spettatori ={{formatnum:25155}}
+|Arbitro =[[Juan Luca Sacchi]]
+|Cittarbitro = [[Macerata]]
+|Marcatori 1 = [[Paweł Dawidowicz|Dawidowicz]] {{goal|26}}
+|Marcatori 2 = {{goal|45+2}} [[Nicolò Zaniolo|Zaniolo]]<br />{{goal|88}} [[Cristian Volpato|Volpato]]<br />{{goal|90+2}} [[Stephan El Shaarawy|El Shaarawy]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 2022
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-lazio-167033
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63057}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|29}} [[Felipe Anderson]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 2022
+|Ora = 18:30 [[Central European Time|CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Sassuolo
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/sassuolo-roma-167043
+|Città = [[Reggio Emilia]]
+|Stadio = [[Mapei Stadium - Città del Tricolore]]
+|Spettatori ={{formatnum:16665}}
+|Arbitro = [[Giovanni Ayroldi]]
+|Cittarbitro = [[Molfetta]]
+|Marcatori 1 = [[Andrea Pinamonti|Pinamonti]] {{goal|85}}
+|Marcatori 2 = {{goal|80}} [[Tammy Abraham|Abraham]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 novembre
+|Anno = 2022
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-torino-167054
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61168}}
+|Arbitro = [[Antonio Rapuano]]
+|Cittarbitro = [[Rimini]]
+|Marcatori 1 = [[Nemanja Matić|Matić]] {{goal|90+4}}
+|Marcatori 2 = {{goal|55}} [[Karol Linetty|Linetty]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 gennaio
+|Anno = 2023
+|Ora = 16:30 [[Central European Time|CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-bologna-167061
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62092}}
+|Arbitro=[[Alberto Santoro]]
+|Cittarbitro =[[Messina]]
+|Marcatori 1 = [[Lorenzo Pellegrini|Pellegrini]] {{goal|6|rig}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 2023
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 17ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/milan-roma-167071/formazione
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = {{formatnum:74103}}
+|Arbitro = [[Davide Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Pierre Kalulu|Kalulu]] {{goal|30}}<br />[[Tommaso Pobega|Pobega]] {{goal|77}}
+|Marcatori 2 = {{goal|87}} [[Roger Ibañez|Ibañez]]<br />{{goal|90+3}} [[Tammy Abraham|Abraham]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 2023
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-fiorentina-167083/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61237}}
+|Arbitro = [[Antonio Giua]]
+|Cittarbitro = [[Olbia]]
+|Marcatori 1 =[[Paulo Dybala|Dybala]] {{goal|40||82}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 2023
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 19ª giornata
+|Squadra 1 = Spezia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/spezia-roma-167095/formazione
+|Città = [[La Spezia]]
+|Stadio = [[Stadio Alberto Picco]]
+|Spettatori = {{formatnum:9153}}
+|Arbitro = [[Simone Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|45}} [[Stephan El Shaarawy|El Shaarawy]]<br />{{goal|49}} [[Tammy Abraham|Abraham]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Anno = 2023
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/napoli-roma-167105/formazione
+|Città = [[Napoli]]
+|Stadio = [[Stadio Diego Armando Maradona (Napoli)|Stadio Diego Armando Maradona]]
+|Spettatori = {{formatnum:48791}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Victor Osimhen|Osimhen]] {{goal|17}}<br />[[Giovanni Simeone|Simeone]] {{goal|86}}
+|Marcatori 2 = {{goal|75}} [[Stephan El Shaarawy|El Shaarawy]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 febbraio
+|Anno = 2023
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Empoli
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-empoli-167111
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60908}}
+|Arbitro = [[Federico Dionisi (arbitro)|Federico Dionisi]]
+|Cittarbitro = [[L'Aquila]]
+|Marcatori 1 = [[Roger Ibañez|Ibañez]] {{goal|2}}<br/>[[Tammy Abraham|Abraham]] {{goal|6}}
+|Marcatori 2
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 2023
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/lecce-roma-167121/formazione
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del mare]]
+|Spettatori ={{formatnum:25200}}
+|Arbitro=[[Gianluca Aureliano]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Roger Ibañez|Ibañez]] {{goal|7|aut}}
+|Marcatori 2 = {{goal|17|rig}} [[Paulo Dybala|Dybala]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 2023
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-hellas-verona-167131/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61009}}
+|Arbitro = [[Simone Sozza]]
+|Cittarbitro = [[Seregno]]
+|Marcatori 1 = [[Ola Solbakken|Solbakken]] {{goal|45}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 febbraio
+|Anno = 2023
+|Ora = 18:30 [[Central European Time|CET]]
+|Turno = 24ª giornata
+|Squadra 1 = Cremonese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/cremonese-roma-167138
+|Città = [[Cremona]]
+|Stadio = [[Stadio Giovanni Zini]]
+|Spettatori = {{formatnum:11367}}
+|Arbitro = [[Marco Piccinini (arbitro)|Marco Piccinini]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Frank Tsadjout|Tsadjout]] {{goal|17}}<br />[[Daniel Ciofani|Ciofani]] {{goal|83|rig.}}
+|Marcatori 2 = {{goal|71}} [[Leonardo Spinazzola|Spinazzola]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 marzo
+|Anno = 2023
+|Ora = 20:45 [[Central European Time|CET]]
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =https://www.legaseriea.it/it/match/roma-juventus-167152/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64213}}
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Gianluca Mancini|Mancini]] {{goal|53}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 marzo
+|Anno = 2023
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sassuolo
+|Punteggio 1 = 3
+|Punteggio 2 = 4
+|Referto =https://www.legaseriea.it/it/match/roma-sassuolo-167164/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori ={{formatnum:60816}}
+|Arbitro = [[Michael Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Nicola Zalewski|Zalewski]] {{goal|26}}<br />[[Paulo Dybala|Dybala]] {{goal|50}}<br />[[Georginio Wijnaldum|Wijnaldum]] {{goal|90+4}}
+|Marcatori 2 = {{goal|13||18}} [[Armand Laurienté|Laurienté]]<br />{{goal|45+4|rig}} [[Domenico Berardi|Berardi]]<br />{{goal|75}} [[Andrea Pinamonti|Pinamonti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 2023
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = 27ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/lazio-roma-167170/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62000}}
+|Arbitro = [[Davide Massa]]
+|Cittarbitro = [[Imperia]]
+|Marcatori 1 = [[Mattia Zaccagni|Zaccagni]] {{goal|65}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 aprile
+|Anno = 2023
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =https://www.legaseriea.it/it/match/roma-sampdoria-167184/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori ={{formatnum:62108}}
+|Arbitro = [[Massimiliano Irrati]]
+|Cittarbitro = [[Pistoia]]
+|Marcatori 1 = [[Georginio Wijnaldum|Wijnaldum]] {{goal|57}}<br />[[Paulo Dybala|Dybala]] {{goal|88|rig}}<br />[[Stephan El Shaarawy|El Shaarawy]] {{goal|90+4}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 aprile
+|Anno = 2023
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/torino-roma-167194/formazione
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico Grande Torino]]
+|Spettatori = {{formatnum:22142}}
+|Arbitro = [[Andrea Colombo (arbitro)|Andrea Colombo]]
+|Cittarbitro = [[Como]]
+|Marcatori 2 = {{goal|6|rig}} [[Paulo Dybala|Dybala]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 aprile
+|Anno = 2023
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/roma-udinese-167203/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61015}}
+|Arbitro = [[Antonio Giua]]
+|Cittarbitro = [[Olbia]]
+|Marcatori 1 = [[Edoardo Bove|Bove]] {{goal|37}}<br />[[Lorenzo Pellegrini|Pellegrini]] {{goal|55}}<br />[[Tammy Abraham|Abraham]] {{goal|90+1}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 aprile
+|Anno = 2023
+|Ora = 20:45 [[Central European Summer Time|CEST]]
+|Turno = 31ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/atalanta-roma-167207
+|Città = [[Bergamo]]
+|Stadio = [[Gewiss Stadium]]
+|Spettatori = {{formatnum:19445}}
+|Arbitro = [[Massimiliano Irrati]]
+|Cittarbitro = [[Pistoia]]
+|Marcatori 1 = [[Mario Pašalić|Pašalić]] {{goal|39}}<br/>[[Rafael Tolói|Tolói]] {{goal|74}}<br/>[[Teun Koopmeiners|Koopmeiners]] {{goal|84}}
+|Marcatori 2 = {{goal|83}} [[Lorenzo Pellegrini|Pellegrini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 2023
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-milan-167223/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64191}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+|Marcatori 1 = [[Tammy Abraham|Abraham]] {{goal|90+4}}
+|Marcatori 2 = {{goal|90+7}} [[Alexis Saelemaekers|Saelemaekers]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 2023
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 33ª giornata
+|Squadra 1 = Monza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/monza-roma-167232/formazione
+|Città = [[Monza]]
+|Stadio = [[Stadio Brianteo]]
+|Spettatori = {{formatnum:12388}}
+|Arbitro = [[Daniele Chiffi]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Luca Caldirola|Caldirola]] {{goal|39}}
+|Marcatori 2 = {{goal|24}} [[Stephan El Shaarawy|El Shaarawy]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 2023
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/roma-inter-167243/formazione
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61870}}
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 2 = {{Goal|33}} [[Federico Dimarco|Dimarco]]<br/>{{Goal|74}} [[Romelu Lukaku|Lukaku]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 maggio
+|Anno = 2023
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 35ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/bologna-roma-167247
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara]]
+|Spettatori = {{formatnum:23824}}
+|Arbitro = [[Daniele Orsato]]
+|Cittarbitro = [[Schio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 maggio
+|Anno = 2023
+|Ora = 18:30 [[Central European Summer Time|CEST]]
+|Turno = 36ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Salernitana
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/roma-salernitana-167263
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:64286}}
+|Arbitro = [[Andrea Colombo (arbitro)|Andrea Colombo]]
+|Cittarbitro = [[Como]]
+|Marcatori 1 = [[Stephan El Shaarawy|El Shaarawy]] {{Goal|47}}<br/>[[Nemanja Matić|Matić]] {{Goal|83}}
+|Marcatori 2 = {{Goal|12}} [[Antonio Candreva|Candreva]]<br/>{{Goal|54}} [[Boulaye Dia|Dia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 maggio
+|Anno = 2023
+|Ora = 18:00 [[Central European Summer Time|CEST]]
+|Turno = 37ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/fiorentina-roma-167268
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Spettatori = {{formatnum:32829}}
+|Arbitro = [[Giovanni Ayroldi]]
+|Cittarbitro = [[Molfetta]]
+|Marcatori 1 = [[Luka Jović|Jović]] {{Goal|85}} <br /> [[Jonathan Ikoné|Ikoné]] {{Goal|88}}
+|Marcatori 2 = {{Goal|11}} [[Stephan El Shaarawy|El Shaarawy]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 giugno
+|Anno = 2023
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 38ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Spezia
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.legaseriea.it/it/match/roma-spezia-167283
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori ={{formatnum:62242}}
+|Arbitro = [[Fabio Maresca]]
+|Cittarbitro = [[Napoli]]
+|Marcatori 1 = [[Nicola Zalewski|Zalewski]] {{Goal|43}}<br/>[[Paulo Dybala|Dybala]] {{Goal|90|rig.}}
+|Marcatori 2 = {{Goal|6}} [[Dīmītrīs Nikolaou|Nikolaou]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 2022-2023}}
+==== Fase finale ====
+{{Vedi anche|Coppa Italia 2022-2023 (fase finale)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 gennaio
+|Anno = 2023
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.legaseriea.it/it/match/2022-23cpitaottavuni1romgen
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60334}}
+|Arbitro = [[Ermanno Feliciani]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|64}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 2023
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Quarti di finale
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.legaseriea.it/it/match/2022-23cpitaquartuni1romcre
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60657}}
+|Arbitro = [[Michael Fabbri]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Andrea Belotti|Belotti]] {{goal|90+4}}
+|Marcatori 2 = {{goal|28|rig.}} [[Cyriel Dessers|Dessers]]<br/>{{goal|49|aut.}} [[Zeki Çelik|Çelik]]
+|Sfondo = on
+}}
+=== UEFA Europa League ===
+{{vedi anche|UEFA Europa League 2022-2023}}
+==== Fase a gironi ====
+{{vedi anche|UEFA Europa League 2022-2023 (fase a gironi)}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 settembre
+|Anno = 2022
+|Ora = 18:45 [[Central European Summer Time|CEST]]
+|Turno = 1ª giornata
+|Squadra 1 = Ludogorets
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2035977/
+|Città = [[Razgrad]]
+|Stadio = [[Ludogorec Arena]]
+|Spettatori = {{formatnum:10011}}
+|Arbitro = [[Craig Pawson]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Cauly]] {{goal|72}}<br />[[Gustavo Nonato|Nonato]] {{goal|88}}
+|Marcatori 2 = {{goal|86}} [[Eldor Shomurodov|Shomurodov]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 settembre
+|Anno = 2022
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = HJK
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2035980--roma-vs-hjk/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60193}}
+|Arbitro = [[Radu Petrescu]]
+|Nazarbitro = ROU
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|47}}<br />[[Lorenzo Pellegrini|Pellegrini]] {{goal|49}}<br />[[Andrea Belotti|Belotti]] {{goal|68}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 ottobre
+|Anno = 2022
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Betis
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto =https://www.uefa.com/uefaeuropaleague/match/2035981--roma-vs-betis/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62294}}
+|Arbitro = [[Matej Jug]]
+|Nazarbitro = SVN
+|Marcatori 1 = [[Paulo Dybala|Dybala]] {{goal|34|rig.}}
+|Marcatori 2 = {{goal|40}} [[Guido Rodríguez|Rodríguez]]<br />{{goal|88}} [[Luiz Henrique (calciatore 2001)|Luiz Henrique]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 ottobre
+|Anno = 2022
+|Ora = 18:45 [[Central European Summer Time|CEST]]
+|Turno = 4ª giornata
+|Squadra 1 = Betis
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto =https://it.uefa.com/uefaeuropaleague/match/2035983/
+|Città = [[Siviglia]]
+|Stadio = [[Stadio Benito Villamarín]]
+|Spettatori = {{formatnum:52472}}
+|Arbitro = [[Anastasios Sidīropoulos]]
+|Nazarbitro = GRE
+|Marcatori 1 = [[Sergio Canales|Canales]] {{goal|34}}
+|Marcatori 2 = {{goal|53}} [[Andrea Belotti|Belotti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 2022
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = 5ª giornata
+|Squadra 1 = HJK
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.uefa.com/uefaeuropaleague/match/2035985--hjk-vs-roma/
+|Città = [[Helsinki]]
+|Stadio = [[Bolt Arena]]
+|Spettatori = {{formatnum:9751}}
+|Arbitro = [[Tiago Martins]]
+|Nazarbitro = PRT
+|Marcatori 1 = [[Përparim Hetemaj|Hetemaj]] {{goal|54}}
+|Marcatori 2 = {{goal|41}} [[Tammy Abraham|Abraham]]<br />{{goal|62|aut.}} [[Arttu Hoskonen|Hoskonen]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 novembre
+|Anno = 2022
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ludogorets
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefaeuropaleague/match/2035987--roma-vs-ludogorets/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60807}}
+|Arbitro = [[Nikola Dabanović]]
+|Nazarbitro = MNE
+|Marcatori 1 = [[Lorenzo Pellegrini|Pellegrini]] {{goal|56|rig.|65|rig.}}<br />[[Nicolò Zaniolo|Zaniolo]] {{goal|85}}
+|Marcatori 2 = {{goal|42}} [[Rick Jhonatan Lima Morais|Rick]]
+|Sfondo = on
+}}
+
+==== Fase a eliminazione diretta ====
+{{vedi anche|UEFA Europa League 2022-2023 (fase a eliminazione diretta)|Finale della UEFA Europa League 2022-2023}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 febbraio
+|Anno = 2023
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = Spareggi - Andata
+|Squadra 1 = Salisburgo
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =
+https://it.uefa.com/uefaeuropaleague/match/2036601/
+|Città = [[Salisburgo]]
+|Stadio = [[Stadion Wals-Siezenheim]]
+|Spettatori = {{formatnum:29520}}
+|Arbitro = [[Dennis Higler]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Nicolás Capaldo|Capaldo]] {{Goal|88}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 febbraio
+|Anno = 2023
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Spareggi - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Salisburgo
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2036613/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:62593}}
+|Arbitro = [[Slavko Vinčić]]
+|Nazarbitro = SVN
+|Marcatori 1 = [[Andrea Belotti|Belotti]] {{Goal|33}}<br>[[Paulo Dybala|Dybala]] {{Goal|40}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 marzo
+|Anno = 2023
+|Ora = 18:45 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Real Sociedad
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037612/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:61608}}
+|Arbitro = [[Sandro Schärer]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Stephan El Shaarawy|El Shaarawy]] {{Goal|13}}<br>[[Marash Kumbulla|Kumbulla]] {{Goal|87}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 marzo
+|Anno = 2023
+|Ora = 21:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Real Sociedad
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037620/
+|Città = [[San Sebastián]]
+|Stadio = [[Stadio di Anoeta]]
+|Spettatori = {{formatnum:35054}}
+|Arbitro = [[István Kovács (arbitro)|István Kovács]]
+|Nazarbitro = ROU
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 aprile
+|Anno = 2023
+|Ora = 18:45 [[Central European Summer Time|CEST]]
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Feyenoord
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037779/
+|Città = [[Rotterdam]]
+|Stadio = [[Stadio Feijenoord]]
+|Spettatori = {{formatnum:42960}}
+|Arbitro = [[José María Sánchez Martínez]]
+|Nazarbitro = ESP
+|Marcatori 1 = [[Mats Wieffer|Wieffer]] {{Goal|53}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 aprile
+|Anno = 2023
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Feyenoord
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Supplementari = X
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037783/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:66742}}
+|Arbitro = [[Anthony Taylor (arbitro)|Anthony Taylor]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Leonardo Spinazzola|Spinazzola]] {{Goal|60}}<br>[[Paulo Dybala|Dybala]] {{Goal|89}}<br>[[Stephan El Shaarawy|El Shaarawy]] {{Goal|101}}<br>[[Lorenzo Pellegrini|Pellegrini]] {{Goal|109}}
+|Marcatori 2 = {{Goal|80}} [[Igor Paixão|Paixão]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 maggio
+|Anno = 2023
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Bayer Leverkusen
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037794/
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:63123}}
+|Arbitro = [[Michael Oliver (arbitro)|Michael Oliver]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Edoardo Bove|Bove]] {{goal|63}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 maggio
+|Anno = 2023
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Bayer Leverkusen
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037796/
+|Città = [[Leverkusen]]
+|Stadio = [[BayArena]]
+|Spettatori = {{formatnum:30210}}
+|Arbitro = [[Slavko Vinčić]]
+|Nazarbitro = SVN
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Budapest]]
+|Giornomese = 31 maggio
+|Anno = 2023
+|Ora = 21:00 [[Central European Summer Time|CEST]]
+|Turno = Finale
+|Squadra 1 = Siviglia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Supplementari = X
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 4
+|PuntiTiriExtra 2 = 1
+|Referto = https://it.uefa.com/uefaeuropaleague/match/2037767/
+|Stadio = [[Puskás Aréna]]
+|Spettatori = {{formatnum:61476}}
+|Arbitro = [[Anthony Taylor (arbitro)|Anthony Taylor]]
+|Nazarbitro = ENG
+|Marcatori 1 = [[Gianluca Mancini|Mancini]] {{goal|55|aut}}
+|Marcatori 2 = {{goal|35}} [[Paulo Dybala|Dybala]]
+|TiriExtra 1 = [[Lucas Ocampos|Ocampos]] {{pengoal}}<br/>[[Erik Lamela|Lamela]] {{pengoal}}<br/>[[Ivan Rakitić|Rakitić]] {{pengoal}}<br/>[[Gonzalo Montiel|Montiel]] {{pengoal}}
+|TiriExtra 2 = {{pengoal}} [[Bryan Cristante|Cristante]]<br/>{{penmiss|parato}} [[Gianluca Mancini|Mancini]]<br/>{{penmiss|palo}} [[Roger Ibañez|Ibañez]]
+|Sfondo =
+}}
+== Statistiche ==
+=== Statistiche di squadra ===
+{{Statistiche_squadra
+|comp1=[[Serie A 2022-2023|Serie A]]
+|punti1=63
+|cv1=11
+|cn1=3
+|cp1=5
+|cgf1=28
+|cgs1=15
+|tv1=7
+|tn1=6
+|tp1=6
+|tgf1=22
+|tgs1=23
+|comp2=[[Coppa Italia 2022-2023|Coppa Italia]]
+|punti2=-
+|cv2=1
+|cn2=0
+|cp2=1
+|cgf2=2
+|cgs2=2
+|tv2=0
+|tn2=0
+|tp2=0
+|tgf2=0
+|tgs2=0
+|comp3=[[UEFA Europa League 2022-2023|Europa League]]
+|punti3=10<ref>Per le competizioni europee si prendono in considerazione solo i punti durante la fase a gironi</ref>
+|cv3=6
+|cn3=0
+|cp3=1
+|cgf3=16
+|cgs3=4
+|tv3=1
+|tn3=3
+|tp3=3
+|tgf3=4
+|tgs3=6
+}}
+=== Andamento in campionato ===
+{{Andamento|nr=38}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=T |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=C |m14=T |m15=C |m16=C |m17=T |m18=C |m19=T |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C|m26=C |m27=T |m28=C |m29=T |m30=C |m31=T |m32=C |m33=T |m34=C |m35=T |m36=C |m37=T |m38=C}}
+{{Andamento/Risultato |m1=V |m2=V |m3=N |m4=V |m5=P |m6=V |m7=P |m8=V |m9=V |m10=V |m11=P |m12=V |m13=P |m14=N|m15=N|m16=V |m17=N |m18=V |m19=V |m20=P |m21=V |m22=N |m23=V |m24=P |m25=V |m26=P |m27=P |m28=V |m29=V |m30=V |m31=P |m32=N |m33=N |m34=P |m35=N |m36=N |m37=P |m38=V}}
+{{Andamento/Posizione |m1=1 |m2=1 |m3=1 |m4=1 |m5=4 |m6=4 |m7=6 |m8=6 |m9=6 |m10=4 |m11=5 |m12=4 |m13=5 |m14=6 |m15=6| |m16=5 |m17=5 |m18=5 |m19=3 |m20=6 |m21=3 |m22=3 |m23=3 |m24=5 |m25=4 |m26=5 |m27=5 |m28=4 |m29=3 |m30=3 |m31=4 |m32=4|m33=5|m34=6 |m35=6 |m36=6 |m37=6 |m38=6}}
+{{Andamento/Fine}}
+
+=== Statistiche dei giocatori ===
+Sono in ''corsivo'' i calciatori che hanno lasciato la società a stagione in corso.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Europa League
+| {{Sortname|T.|Abraham|Tammy Abraham}} {{Sommastat|38|8|2|0 |2|0|0|0 |14|1|3|0}}
+| {{Sortname|A.|Belotti|Andrea Belotti}} {{Sommastat|31|0|0|0 |1|1|0|0 |14|3|0|0}}
+| {{Sortname|P.|Boer|Pietro Boer|nolink=3}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|-0|0|0}}
+| {{Sortname|E.|Bove|Edoardo Bove|}} {{Sommastat|22|1|2|0 |1|0|1|0 |10|1|0|0}}
+| {{Sortname|M.|Camara|Mady Camara}} {{Sommastat|15|0|3|0 |0|0|0|0 |6|0|1|0}}
+| {{Sortname|Z.|Çelik|Mehmet Zeki Çelik|}} {{Sommastat|24|0|6|1 |2|0|0|0 |8|0|1|0}}
+| {{Sortname|B.|Cristante|Bryan Cristante}} {{Sommastat|36|1|8|1 |2|0|0|0 |15|0|3|0}}
+| {{Sortname|E.|Darboe|Ebrima Darboe}} {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|P.|Dybala|Paulo Dybala}} {{Sommastat|25|12|5|0 |2|1|0|0 |11|5|1|0}}
+| {{Sortname|S.|El Shaarawy|Stephan El Shaarawy}} {{Sommastat|29|7|3|0 |2|0|0|0 |11|2|0|0}}
+| {{Sortname|G.|Faticanti|Giacomo Faticanti|nolink=3}} {{Sommastat|0|0|0|0 |0|0|0|0 |1|0|0|0}}
+| {{Sortname|R.|Ibañez|Roger Ibañez}} {{Sommastat|33|3|10|1 |2|0|0|0 |13|0|5|0}}
+| {{Sortname|R.|Karsdorp|Rick Karsdorp}} {{Sommastat|13|0|0|0 |0|0|0|0 |5|0|2|0}}
+| {{Sortname|M.|Kumbulla|Marash Kumbulla}} {{Sommastat|7|0|1|1 |2|0|0|0 |3|1|0|0}}
+| {{Sortname|D.|Llorente|Diego Llorente}} {{Sommastat|9|0|0|0 |0|0|0|0 |3|0|1|0}}
+| {{Sortname|J.|Majchrzak|Jordan Majchrzak|nolink=1}} {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|G.|Mancini|Gianluca Mancini}} {{Sommastat|35|1|7|0 |2|0|1|0 |14|0|6|0}}
+| {{Sortname|N.|Matić|Nemanja Matić}} {{Sommastat|35|2|5|0 |2|0|0|0 |13|0|3|0}}
+| {{Sortname|F.|Missori|Filippo Missori}} {{Sommastat|3|0|1|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|R.|Patricio|Rui Patrício}} {{Sommastat|35|-35|1|0 |2|-2|1|0 |14|-9|2|0}}
+| {{Sortname|L.|Pellegrini|Lorenzo Pellegrini}} {{Sommastat|32|4|5|0 |2|0|0|0 |14|4|2|0}}
+| {{Sortname|N.|Pisilli|Nicolò Pisilli}} {{Sommastat|1|0|0|0 |0|0|0|0 |0|0|0|0}}
+| ''{{Sortname|E.|Shomurodov|Eldor Shomurodov}}'' {{Sommastat|6|0|0|0 |0|0|0|0 |2|1|0|0}}
+| {{Sortname|C.|Smalling|Chris Smalling}} {{Sommastat|32|3|7|0 |1|0|0|0 |14|0|1|0}}
+| {{Sortname|O.|Solbakken|Ola Solbakken}} {{Sommastat|14|1|2|0 |0|0|0|0 |0|0|0|0}}
+| {{Sortname|L.|Spinazzola|Leonardo Spinazzola}} {{Sommastat|26|1|3|0 |1|0|0|0 |13|1|3|0}}
+| {{Sortname|M.|Svilar|Mile Svilar}} {{Sommastat|3|-3|1|0 |0|0|0|0 |1|-2|0|0}}
+| {{Sortname|B.|Tahirović|Benjamin Tahirović}} {{Sommastat|11|0|1|0 |2|0|0|0 |0|0|0|0}}
+| ''{{Sortname|F.|Tripi|Filippo Tripi|nolink=3}}'' {{Sommastat|0|0|0|0 |0|0|0|0 |0|0|0|0}}
+| ''{{Sortname|M.|Viña|Matías Viña}}'' {{Sommastat|3|0|0|0 |0|0|0|0 |4|0|1|0}}
+| {{Sortname|C.|Volpato|Cristian Volpato}} {{Sommastat|7|1|0|0 |1|0|0|0 |3|0|1|0}}
+| {{Sortname|G.|Wijnaldum|Georginio Wijnaldum|}} {{Sommastat|14|2|0|0|0|0|0|0 |9|0|0|0}}
+| {{Sortname|N.|Zalewski|Nicola Zalewski}} {{Sommastat|33|2|3|0 |2|0|0|0 |12|0|2|0}}
+| ''{{Sortname|N.|Zaniolo|Nicolò Zaniolo}}'' {{Sommastat|13|1|4|0 |1|0|1|0 |3|1|1|1}}
+}}
+
+== Giovanili ==
+=== Organigramma ===
+{{colonne}}
+*Responsabile Settore Giovanile: [[Bruno Conti|B. Conti]]
+{{Colonne spezza}}
+'''''Primavera'''''
+*Allenatore: Federico Guidi
+{{colonne fine}}
+==== Giovanili ====
+{{colonne}}
+'''''Under 18'''''
+*Allenatore: Tugberk Tanrivermis
+{{Colonne spezza}}
+'''''Under 17'''''
+*Allenatore: Marco Ciaralli
+{{Colonne spezza}}
+'''''Under 16'''''
+*Allenatore: [[Gianluca Falsini]]
+{{Colonne spezza}}
+'''''Under 15'''''
+*Allenatore: Antonio Rizzo
+{{colonne fine}}
+=== Piazzamenti ===
+*'''''Primavera'''''
+**[[Campionato Primavera 1 2022-2023|Campionato]]: 6º, perde il primo turno dei play-off
+**[[Coppa Italia Primavera 2022-2023|Coppa Italia]]: '''Vincitrice'''
+*Under 13 Pro: Vincitrice. Scudetto. Campione d'Italia.
+*Under 14 Elìte Regionali: Vincitrice. Campione del Lazio.
+*Under 17: Vincitrice. Scudetto. Campione d'Italia.
+*Under 16: Vincitrice. Scudetto. Campione d'Italia.
+== Note ==
+<references />
+==Bibliografia==
+*{{cita libro|editore=Edizioni Panini|città=Modena|titolo=Almanacco illustrato del calcio 2015|anno=2015|isbn=978-88-912-1454-6|cid=Almantris}}
+== Collegamenti esterni ==
+*{{cita web|url=http://www.asroma.com/|titolo=Sito ufficiale|lingua=ar, en, id, it}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 2022-2023}}
+{{Portale|calcio}}

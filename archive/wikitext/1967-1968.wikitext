@@ -1,0 +1,1048 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1967-1968
+|immagine = AS Roma 1967-68.jpg
+|didascalia = La rosa e lo staff tecnico della Roma nella stagione 1967-1968
+|allenatore1 = {{Bandiera|ITA}} [[Oronzo Pugliese]]
+|presidente = {{Bandiera|ITA}} [[Franco Evangelisti (politico)|Franco Evangelisti]]
+|campionato = [[Serie A 1967-1968|Serie A]]
+|campionato posizione = 10º
+|coppa1 = [[Coppa Italia 1967-1968|Coppa Italia]]
+|coppa1 posizione = Primo turno
+|coppa2 = [[Coppa Mitropa 1967-1968|Coppa Mitropa]]
+|coppa2 posizione = Ottavi di finale
+|coppa3 = [[Coppa delle Alpi 1968|Coppa delle Alpi]]
+|coppa3 posizione = Fase a gironi
+|presenze campionato = [[Francesco Carpenetti|Carpenetti]], [[Giuliano Taccola|Taccola]] (29)
+|presenze totale = Carpenetti (36)
+|marcatore campionato = [[Giuliano Taccola|Taccola]] (10)
+|marcatore totale = Taccola (14)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|spettatori max = {{formatnum:70883}} vs {{Calcio Napoli|N}}<br/>(1º ottobre 1967)<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A67-68.htm|titolo=Statistiche Spettatori Serie A 1967-1968}}</ref>
+|spettatori min = {{formatnum:21383}} vs {{Calcio SPAL|N}}<br/>(4 febbraio 1968)<ref name=stadiapost/>
+|spettatori media = {{formatnum:41276}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:10383}}<ref name=stadiapost/>
+|stagione prima = [[Associazione Sportiva Roma 1966-1967|1966-1967]]
+|stagione dopo = [[Associazione Sportiva Roma 1968-1969|1968-1969]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1967-1968'''.
+== Stagione ==
+La squadra, guidata per il terzo anno da [[Oronzo Pugliese]], ha un inizio scoppiettante spinta dai gol del neo acquisto, prelevato dal {{Calcio Genoa|N}}, [[Giuliano Taccola]], rivelazione del campionato. Con il passare del tempo, la squadra va via via sgonfiandosi e il gioco eccessivamente offensivo comincia a pesare troppo su una difesa poco solida. Dopo una serie di risultati negativi, la squadra termina il campionato con un decimo posto, stemperando le speranze cresciute nella fase iniziale del torneo.<ref name=cor3>{{cita|Romano|titolo=1965-1973 L'era dei maghi: da Oronzo Pugliese a Helenio Herrera}}.</ref>
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a polo giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con colletto a polo e con una banda giallorossa obliqua, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. La terza divisa è formata da maglia gialla con collo a V rosso, pantaloncini bianchi, calzettoni rossi bordati di giallo. I portieri usano una maglia nera abbinata a calzoncini neri e calzettoni rossi bordati di giallo.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 106-109}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma4950h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma6269a
+|leftarm = FFFFFF
+|pattern_b =_asroma6269a
+|body = FFFFFF
+|pattern_ra =_asroma6269a
+|rightarm = FFFFFF
+|shorts = f
+|pattern_so =_asroma6768a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma6263t
+|leftarm = 05781d
+|pattern_b =_asroma6263t
+|body = 030347
+|pattern_ra =_asroma6263t
+|rightarm = 05781d
+|shorts = ff
+|pattern_so =_asromah
+|socks = 030347
+|title =Terza divisa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =
+|body = 000000
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor3/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Franco Evangelisti (politico)|Franco Evangelisti]]
+* Segretario: Vincenzo Biancone
+{{Colonne spezza}}
+;Area tecnica
+* Allenatore: [[Oronzo Pugliese]]
+{{Colonne spezza}}
+;Area sanitaria
+* Medici sociali: Gatello Di Martino
+* Massaggiatori: Roberto Minaccioni
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 67/68">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1967|titolo=Rosa AS Roma - Saison 67/68|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Ginulfi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Pier Luigi Pizzaballa]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Cappelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Giancarlo Carloni|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Carpenetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|altro=[[Capitano (calcio)|capitano]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Enzo Robotti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Scaratti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Sirena]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luciano Spinosi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Capello]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Cordova]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Ferrari (calciatore 1943)|Sergio Ferrari]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Giampiero Imperi|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Ossola]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ambrogio Pelagalli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=BRA 1960-1968|nome=[[Jair da Costa]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Enzo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ESP 1945-1977|nome=[[Joaquín Peiró]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Orazi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuliano Taccola]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+Giocatori prestati per disputare la Coppa delle Alpi
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gino Stacchini]]<ref>In prestito dal {{Calcio Mantova|N}}</ref>|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 67/68"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D ||[[Francesco Cappelli]]|| {{Calcio Venezia|N|1967}}|| ''definitivo''
+|-
+| D ||[[Enzo Robotti]]|| {{Calcio Brescia|N}}|| ''definitivo''
+|-
+| D ||[[Francesco Scaratti]]|| {{Calcio Verona|N}}|| ''definitivo''
+|-
+| D ||[[Luciano Spinosi]]|| {{Calcio Tevere Roma|N}} || ''definitivo''
+|-
+| C ||[[Fabio Capello]]|| {{Calcio SPAL|N}} || ''definitivo'' (260 mln £)<ref>{{cita libro |autore=Enzo Torotora |titolo=Linea diretta - Fabio Capello |editore=[[Intrepido]] |anno=1973 |pp=121-123 }}</ref>
+|-
+| C ||[[Franco Cordova]]|| {{Calcio Brescia|N}} || ''definitivo''
+|-
+| C ||[[Sergio Ferrari (calciatore 1943)|Sergio Ferrari]]|| {{Calcio Lecco|N}} || ''definitivo''
+|-
+| C ||Giampiero Imperi|| {{Calcio Catania|N}} || ''prestito''
+|-
+| C ||[[Ambrogio Pelagalli]]|| {{Calcio Atalanta|N}} || ''definitivo''
+|-
+| A ||[[Jair da Costa]]|| {{Calcio Inter|N}} || ''prestito''
+|-
+| A ||[[Angelo Orazi]]|| Fortis Spoleto || ''definitivo''
+|-
+| A ||[[Giuliano Taccola]]|| {{Calcio Genoa|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| D ||[[Gennaro Olivieri (calciatore)|Gennaro Olivieri]]|| {{Calcio Perugia|N}} || ''definitivo''
+|-
+| D ||[[Aldo Sensibile]]|| {{Calcio Lecco|N}} || ''definitivo''
+|-
+| C ||[[Sergio Carpanesi]]|| {{Calcio Sampdoria|N}} || ''definitivo''
+|-
+| C ||[[Sergio Pellizzaro]]|| {{Calcio Catanzaro|N}} || ''definitivo''
+|-
+| C ||[[Mario Russo (calciatore)|Mario Russo]]|| {{Calcio Vicenza|N|1954}} || ''definitivo''
+|-
+| C ||[[Nevio Scala]]|| {{Calcio Milan|N}} ||''fine prestito''
+|-
+| C ||[[Jürgen Schütz]]|| {{Calcio Brescia|N}} || ''definitivo''
+|-
+| C ||[[Giuseppe Tamborini]]|| {{Calcio Varese|N}} || ''definitivo''
+|-
+| A ||[[Paolo Barison]]|| {{Calcio Napoli|N}} ||''definitivo''
+|-
+| A ||[[Giordano Colausig]]|| {{Calcio Inter|N}} || ''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1967-1968}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 settembre
+|Anno = 1967
+|Ora = 15:00
+|Turno = 1ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768InterRoma_CorrSport_02_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = {{formatnum:65470}}
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Giacinto Facchetti|Facchetti]] {{Goal|7}}
+|Marcatori 2 = {{Goal|8}} [[Giuliano Taccola|Taccola]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1967
+|Ora = 15:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaNapoli_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:70833}}
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Joaquín Peiró|Peiró]] {{Goal|7}}<br/>[[Stelio Nardin|Nardin]] {{Goal|34|aut.}}
+|Marcatori 2 = {{Goal|51}} [[Paolo Barison|Barison]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 ottobre
+|Anno = 1967
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768SpalRoma_CorrSport_02_af.jpg
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori = {{formatnum:12755}}
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|72}} [[Giuliano Taccola|Taccola]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 ottobre
+|Anno = 1967
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaFiorentina_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:55383}}
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Jair da Costa|Jair]] {{Goal|72}}<br/>[[Joaquín Peiró|Peiró]] {{Goal|72}}
+|Marcatori 2 = {{Goal|72}} [[Giancarlo De Sisti|De Sisti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 5ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768SampdoriaRoma_CorrSport_02_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:21788}}
+|Arbitro = [[Antonio Di Tonno]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Fulvio Francesconi|Francesconi]] {{Goal|50}}
+|Marcatori 2 = {{Goal|39}} [[Francesco Scaratti|Scaratti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 ottobre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaAtalanta_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:40383}}
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Giuliano Taccola|Taccola]] {{goal|25}}
+|Marcatori 2 = {{goal|80}} [[Giuseppe Savoldi|Savoldi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768JuventusRoma_CorrSport_03_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = {{formatnum:41404}}
+|Arbitro = [[Ettore Carminati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|77}} [[Fabio Capello|Capello]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 novembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768RomaVicenza_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:50383}}
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 novembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Varese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768VareseRoma_CorrSport_02_af.jpg
+|Città = [[Varese]]
+|Stadio = [[Stadio Franco Ossola]]
+|Spettatori = {{formatnum:15506}}
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Giovanni Vastola|Vastola]] {{goal|68||85}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 dicembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = https://www.asromaultras.org/6768RomaCagliari_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:50383}}
+|Arbitro = [[Ezio Motta]]
+|Cittarbitro = [[Monza]]
+|Marcatori 1 = [[Francesco Carpenetti|Carpenetti]] {{goal|15}}<br/>[[Joaquín Peiró|Peiró]] {{goal|72}}
+|Marcatori 2 = {{goal|7}} [[Ricciotti Greatti|Greatti]]<br/>{{goal|30}} [[Claudio Olinto de Carvalho|Nené]]<br/>{{goal|68}} [[Gigi Riva|Riva]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 dicembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Mantova
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768MantovaRoma_CorrSport_02_af.jpg
+|Città = [[Mantova]]
+|Stadio = [[Stadio Danilo Martelli]]
+|Spettatori = {{formatnum:9528}}
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768RomaBologna_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:45383}}
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768RomaBrescia_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:30383}}
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Giuliano Taccola|Taccola]] {{goal|30||37}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 gennaio
+|Anno = 1968
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768MilanRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = {{formatnum:53620}}
+|Arbitro = [[Sergio Gonella]]
+|Cittarbitro = [[Asti]]
+|Marcatori 1 = [[Pierino Prati|Prati]] {{goal|30||90}}<br/>[[Giacomo Losi|Losi]] {{goal|79|aut.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 1968
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6768RomaTorino_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:30383}}
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|29}} [[Carlo Facchin|Facchin]]<br/>{{goal|58}} [[Nestor Combin|Combin]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1968
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 6
+|Referto = https://www.asromaultras.org/6768RomaInter_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:60383}}
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Fabio Enzo|Enzo]] {{Goal|50}}<br/>[[Francesco Scaratti|Scaratti]] {{Goal|83}}
+|Marcatori 2 = {{Goal|16}} [[Renato Cappellini|Cappellini]]<br/>{{Goal|59}} [[Angelo Domenghini|Domenghini]]<br/>{{Goal|64||89}} [[Mario Corso|Corso]]<br/>{{Goal|73||85}} [[Sandro Mazzola|Mazzola]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 1968
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768NapoliRoma_Unita_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = {{formatnum:69200}}
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[José Altafini|Altafini]] {{goal|14||89|rig.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 febbraio
+|Anno = 1968
+|Ora = 15:00
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaSpal_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:21383}}
+|Arbitro = [[Ettore Carminati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Fabio Enzo|Enzo]] {{goal|32}}
+|Marcatori 2 = {{goal|74}} [[Orlando Rozzoni|Rozzoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 1968
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768FiorentinaRoma_Unita_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori ={{formatnum:20868}}
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Anno = 1968
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaSampdoria_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:22383}}
+|Arbitro = [[Antonio Di Tonno]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Giuliano Taccola|Taccola]] {{goal|54}}
+|Marcatori 2 = {{goal|1|rig.}} [[Mario Frustalupi|Frustalupi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 febbraio
+|Anno = 1968
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768AtalantaRoma_CorrSport_02_af.jpg
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = {{formatnum:18454}}
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Giuseppe Savoldi|Savoldi]] {{goal|22|rig.|28}}
+|Marcatori 2 = {{goal|69}} [[Franco Cordova|Cordova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 marzo
+|Anno = 1968
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768RomaJuventus_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:47383}}
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 1968
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768VicenzaRoma_Unita_af.jpg
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = {{formatnum:10185}}
+|Arbitro = [[Alberto Picasso]]
+|Cittarbitro = [[Chiavari]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 marzo
+|Anno = 1968
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Varese
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768RomaVarese_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:30383}}
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Fabio Enzo|Enzo]] {{goal|64}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 marzo
+|Anno = 1968
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6768CagliariRoma_Unita_af.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Amsicora]]
+|Spettatori = {{formatnum:14940}}
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Tradate]]
+|Marcatori 1 = [[Roberto Boninsegna|Boninsegna]] {{goal|29}}
+|Marcatori 2 = {{goal|11}} [[Giuliano Taccola|Taccola]]<br/>{{goal|59}} [[Jair da Costa|Jair]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 marzo
+|Anno = 1968
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Mantova
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6768RomaMantova_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:22274}}
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Claudio Bandoni|Bandoni]] {{goal|50|aut.}}<br/>[[Giuliano Taccola|Taccola]] {{goal|85}}
+|Marcatori 2 = {{goal|64}} [[Alberto Spelta|Spelta]]<br/>{{goal|66}} [[Ugo Tomeazzi|Tomeazzi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 aprile
+|Anno = 1968
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768BolognaRoma_CorrSport_02_af.jpg
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = {{formatnum:20006}}
+|Arbitro = [[Umberto Branzoni]]
+|Cittarbitro = [[Pavia]]
+|Marcatori 1 = [[Marino Perani|Perani]] {{goal|76}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 aprile
+|Anno = 1968
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768BresciaRoma_CorrSport_02_af.jpg
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = {{formatnum:20807}}
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Jürgen Schütz|Schutz]] {{goal|26|rig.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 maggio
+|Anno = 1968
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaMilan_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:41383}}
+|Arbitro = [[Rino Possagno]]
+|Cittarbitro = [[Treviso]]
+|Marcatori 1 = [[Giuliano Taccola|Taccola]] {{goal|12}}
+|Marcatori 2 = {{goal|3}} [[Lino Golin|Golin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 maggio
+|Anno = 1968
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768TorinoRoma_CorrSport_02_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = {{formatnum:9379}}
+|Arbitro = [[Cesare Gussoni]]
+|Cittarbitro = [[Tradate]]
+|Marcatori 1 = [[Francesco Scaratti|Scaratti]] {{goal|45|aut.}}<br/>[[Aldo Agroppi|Agroppi]] {{goal|66}}
+|Marcatori 2 = {{goal|70}} [[Giuliano Taccola|Taccola]]
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1967-1968}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 settembre
+|Anno = 1967
+|Ora = 21:00
+|Turno = Primo turno
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768FiorentinaRoma_CI_Unita_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Renzo Torelli]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Sergio Ferrari (calciatore 1943)|Ferrari]] {{goal|19|aut.}}<br />[[Mario Maraschi|Maraschi]] {{goal|22}}<br />[[Giacomo Losi|Losi]] {{goal|34|aut.}}<br />[[Giovan Battista Pirovano|Pirovano]] {{goal|61}}
+|Marcatori 2 = {{goal|10}} [[Joaquín Peiró|Peiró]]
+}}
+=== Coppa Mitropa ===
+{{vedi anche|Coppa Mitropa 1967-1968}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 dicembre
+|Anno = 1967
+|Ora =
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Spartak Trnava
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768SpartakTrnavaRoma_CorrSport_02_af.jpg
+|Città = [[Trnava]]
+|Stadio = [[Stadio Anton Malatinský]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Erich Linemayr]]
+|Nazarbitro = AUT
+|Marcatori 1 = [[Karol Dobiaš|Dobiaš]] {{goal|25}}<br />[[Valér Švec|Švec]] {{goal|72}}
+|Marcatori 2 = {{goal|75}} [[Fabio Enzo|Enzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 dicembre
+|Anno = 1967
+|Ora = 14:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Spartak Trnava
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/6768RomaSpartakTrnava_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Lado Jakse]]
+|Nazarbitro = YUG
+|Sfondo = on
+|Marcatori 1 = [[Giuliano Taccola|Taccola]] {{goal|21}}
+|Marcatori 2 = {{goal|43}} [[Ladislav Kuna|Kuna]]
+}}
+
+===Coppa delle Alpi===
+{{Vedi anche|Coppa delle Alpi 1968}}
+====Fase a gironi====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 giugno
+|Anno = 1968
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto= https://www.asromaultras.org/6768RomaFiorentina_16-06-68_CorrSport_02_af.jpg
+|Città = [[Augusta (Germania)|Augusta]]
+|Stadio = [[Rosenaustadion]]
+|Spettatori = 3.500 circa
+|Arbitro = [[Kurt Tschenscher]]
+|Nazarbitro = FRG
+|Marcatori 1 = [[Giuliano Taccola|Taccola]] {{goal|63}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 giugno
+|Anno = 1968
+|Ore : 21:00
+|Turno = 2ª giornata
+|Squadra 1 = Basilea
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Basilea]]
+|Referto=https://www.asromaultras.org/6768BasileaRoma_18-06-68_CorrSport_02_af.jpg
+|Stadio = [[St. Jakob Stadium]]
+|Spettatori = 7.100 circa
+|Arbitro = [[Alfred Ott]]
+|Nazarbitro = FRG
+|Marcatori 1 = [[Paul Fischli|Fischli]] {{goal|6}}<br /> [[Otto Demarmels|Demarmels]] {{goal|18}}
+|Marcatori 2 = {{goal|49}} [[Giuliano Taccola|Taccola]]<br /> {{goal|85}} [[Jair Da Costa|Jair]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 giugno
+|Anno = 1968
+|Turno = 3ª giornata
+|Squadra 1 = Servette
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto= https://www.asromaultras.org/6768ServetteRoma_23-06-68_CorrSport_02_af.jpg
+|Città = [[Ginevra]]
+|Stadio = [[Charmilles Stadium]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Heinz Siebert]]
+|Nazarbitro = FRG
+|Marcatori 1 = Blanchaud {{goal|62}}<br /> [[Paolo Sirena|Sirena]] {{goal|82|aut.}}
+|Marcatori 2 = {{goal|16}} [[Giuliano Taccola|Taccola]]<br /> {{goal|41||65}} [[Fabio Enzo|Enzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 giugno
+|Anno = 1968
+|Ore = 21:00
+|Turno = 4ª giornata
+|Squadra 1 = Kaiserslautern
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = https://www.asromaultras.org/6768KaiserslauternRoma_25-06-68_CorrSport_02_af.jpg
+|Città = [[Kaiserslautern]]
+|Stadio = [[Fritz-Walter-Stadion|Betzenberg Stadion]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Gilbert Droz]]
+|Nazarbitro = CHE
+|Marcatori 1 = [[Helmut Kapitulski|Kapitulski]] {{goal|11|rig.}}<br /> [[Otto Rehhagel|Rehhagel]] {{goal|17||53}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 giugno
+|Anno = 1968
+|Ora = 19:00
+|Turno = 5ª giornata
+|Squadra 1 = Colonia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = https://www.asromaultras.org/6768ColoniaRoma_Unita_af.jpg
+|Città = [[Colonia (Germania)|Colonia]]
+|Stadio = [[Müngersdorfer Stadion]]
+|Spettatori =
+|Arbitro = [[Manfred Heinemann]]
+|Nazarbitro = CHE
+|Marcatori 1 =
+|Marcatori 2 = {{goal|4|}} [[Giuliano Taccola|Taccola]]<br /> {{goal|52|}} [[Joaquín Peiró|Peirò]]
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor3/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1967-1968|Serie A]]
+|punti1=27
+|cv1=4
+|cn1=8
+|cp1=3
+|cgf1=17
+|cgs1=19
+|tv1=3
+|tn1=5
+|tp1=7
+|tgf1=8
+|tgs1=16
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1967-1968|Coppa Italia]]
+|punti2=
+|cv2=0
+|cn2=0
+|cp2=0
+|cgf2=0
+|cgs2=0
+|tv2=0
+|tn2=0
+|tp2=1
+|tgf2=1
+|tgs2=4
+|comp3=[[Coppa Mitropa 1967-1968|Coppa Mitropa]]
+|punti3=
+|cv3=0
+|cn3=1
+|cp3=0
+|cgf3=1
+|cgs3=1
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=1
+|tgs3=2
+|comp4=[[Coppa delle Alpi 1968|Coppa delle Alpi]]
+|punti4=
+|cv4=0
+|cn4=0
+|cp4=0
+|cgf4=0
+|cgs4=0
+|tv4=3
+|tn4=1
+|tp4=1
+|tgf4=8
+|tgs4=7
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=C |m14=T |m15=C |m16=C |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=T |m29=C |m30=T }}
+{{Andamento/Risultato |m1=N |m2=V |m3=V |m4=V |m5=N |m6=N |m7=V |m8=N |m9=P |m10=P |m11=N |m12=N |m13=V |m14=P |m15=P |m16=P |m17=P |m18=N |m19=N |m20=N |m21=P |m22=N |m23=N |m24=V |m25=V |m26=N |m27=P |m28=P |m29=N |m30=P }}
+{{Andamento/Posizione |r=14 |m1=8 |m2=3 |m3=1 |m4=1 |m5=1 |m6=1 |m7=1 |m8=1 |m9=1 |m10=3 |m11=3 |m12=2 |m13=2 |m14=4 |m15=7 |m16=8 |m17=10 |m18=10 |m19=9 |m20=10 |m21=11 |m22=10 |m23=11 |m24=10 |m25=9 |m26=9 |m27=9 |m28=10 |m29=10 |m30=10 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 2 autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa Mitropa
+| Competizione4 = Coppa delle Alpi
+| Cartellini = no
+| {{Sortname|F.|Capello|Fabio Capello}} {{Sommastat|C=no |11|1|?|? |1|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Cappelli|Francesco Cappelli}} {{Sommastat|C=no |25|0|?|? |1|0|?|? |2|0|?|? |5|0|?|?}}
+| {{Sortname|G.|Carloni|Giancarlo Carloni|nolink=1}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |1|0|?|? |1|0|?|?}}
+| {{Sortname|F.|Carpenetti|Francesco Carpenetti}} {{Sommastat|C=no |29|1|?|? |1|0|?|? |1|0|?|? |5|0|?|?}}
+| {{Sortname|F.|Cordova|Franco Cordova}} {{Sommastat|C=no |16|1|?|? |1|0|?|? |2|0|?|? |4|0|?|?}}
+| {{Sortname|F.|Enzo|Fabio Enzo}} {{Sommastat|C=no |12|3|?|? |1|0|?|? |2|0|?|? |3|2|?|?}}
+| {{Sortname|S.|Ferrari|Sergio Ferrari (calciatore 1943)}} {{Sommastat|C=no |24|0|?|? |1|0|?|? |1|0|?|? |5|0|?|?}}
+| {{Sortname|A.|Ginulfi|Alberto Ginulfi}} {{Sommastat|C=no |10|-12|?|? |1|-4|?|? |1|-2|?|? |3|-2|?|?}}
+| {{Sortname|G.|Imperi|Giampiero Imperi|nolink=1}} {{Sommastat|C=no |3|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname||Jair|Jair da Costa}} {{Sommastat|C=no |23|2|?|? |1|0|?|? |2|0|?|? |2|1|?|?}}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |27|0|?|? |1|0|?|? |2|0|?|? |5|0|?|?}}
+| {{Sortname|A.|Orazi|Angelo Orazi}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|L.|Ossola|Luigi Ossola}} {{Sommastat|C=no |9|0|?|? |0|0|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|A.|Pelagalli|Ambrogio Pelagalli}} {{Sommastat|C=no |27|0|?|? |1|0|?|? |2|0|?|? |0|0|?|?}}
+| {{Sortname|J.|Peiró|Joaquín Peiró}} {{Sommastat|C=no |20|3|?|? |1|1|?|? |2|0|?|? |4|1|?|?}}
+| {{Sortname|P.L.|Pizzaballa|Pier Luigi Pizzaballa}} {{Sommastat|C=no |21|0|?|? |0|0|?|? |1|-1|?|? |2|-5|?|?}}
+| {{Sortname|E.|Robotti|Enzo Robotti}} {{Sommastat|C=no |21|0|?|? |0|0|?|? |2|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Scaratti|Francesco Scaratti}} {{Sommastat|C=no |22|2|?|? |1|0|?|? |1|0|?|? |4|0|?|?}}
+| {{Sortname|P.|Sirena|Paolo Sirena}} {{Sommastat|C=no |1|0|?|? |0|0|?|? |0|0|?|? |5|0|?|?}}
+| {{Sortname|L.|Spinosi|Luciano Spinosi}} {{Sommastat|C=no |1|0|?|? |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Taccola|Giuliano Taccola}} {{Sommastat|C=no |29|10|?|? |0|0|?|? |1|0|?|? |5|4|?|?}}
+| {{Sortname|G.|Stacchini|Gino Stacchini}} {{Sommastat|C=no |-|-|?|? |-|-|?|? |-|-|?|? |3|0|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1967-1968|Campionato Primavera]]: ?
+** [[Torneo di Viareggio 1968|Torneo di Viareggio]]: Ottavi di finale
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital68.html|Serie A 1967-1968 su Rsssf.com|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1967|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita web|url=https://www.stadiapostcards.com/A67-68.htm|titolo=Statistiche Spettatori Serie A 1967-1968}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1967-1968}}
+{{Portale|calcio}}

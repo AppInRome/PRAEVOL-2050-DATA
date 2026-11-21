@@ -1,0 +1,1441 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|immagine = AS Roma 1983-84 - Sponsor Kappa.jpg
+|didascalia = La rosa giallorossa nella seconda parte della stagione
+|club = AS Roma
+|stagione = 1983-1984
+|allenatore1 = {{Bandiera|SWE}} [[Nils Liedholm]]
+|allenatore2 = {{Bandiera|ITA}} [[Luciano Tessari]]
+|presidente = {{Bandiera|ITA}} [[Dino Viola]]
+|campionato = [[Serie A 1983-1984|Serie A]]
+|campionato posizione = 2º
+|coppa1 = [[Coppa Italia 1983-1984|Coppa Italia]]
+|coppa1 posizione = '''Vincitore''' (in Coppa delle Coppe)
+|coppa2 = [[Coppa dei Campioni 1983-1984|Coppa dei Campioni]]
+|coppa2 posizione = Finalista
+|presenze campionato = [[Toninho Cerezo|Cerezo]], [[Franco Tancredi|Tancredi]] (30)
+|presenze totale = Cerezo, Tancredi (50)
+|marcatore campionato = [[Roberto Pruzzo|Pruzzo]] (8)
+|marcatore totale = Pruzzo (15)
+|spettatori max = {{formatnum:71543}} vs {{Calcio Juventus|N}}<br/>(15 aprile 1984)<ref name=stadiapost/>
+|spettatori min = {{formatnum:34741}} vs {{Calcio Verona|N}}<br/>(13 maggio 1984)<ref name=stadiapost/>
+|spettatori media = {{formatnum:53971}}<ref name=stadiapost>{{cita web|lingua=en|url=https://www.stadiapostcards.com/A83-84.htm|titolo=Attendance Statistics of Serie A 1983-1984|sito=stadiapostcards.com}}</ref>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:21382}}<ref name=stadiapost/>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1982-1983|1982-1983]]
+|stagione dopo = [[Associazione Sportiva Roma 1984-1985|1984-1985]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1983-1984'''.
+
+== Stagione ==
+[[File:Coppa dei Campioni 1984, Liverpool-Roma, Roberto Pruzzo.jpg|thumb|left|[[Roberto Pruzzo|Pruzzo]] segna la rete dell'1-1 nella finale di Coppa dei Campioni all'Olimpico contro il Liverpool, poi persa ai [[tiri di rigore]]]]
+
+In questa stagione la Roma, campione d'Italia in carica, inizia il campionato ottenendo tre vittorie consecutive che le  garantiscono l'iniziale primato in classifica.<ref>{{cita news|url=http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1983_09/19830927_0017.pdf&query=C%2ePu%2e|titolo=Le molte anime della Roma capolista|pubblicazione=L'Unità|pagina=17|data=27 settembre 1983|formato=PDF|accesso=15 aprile 2018|urlmorto=sì}}</ref> Il 2 ottobre 1983, alla quarta giornata, i giallorossi vengono sconfitti dal {{Calcio Torino|N}} per la prima volta in campionato dopo undici giornate di imbattibilità, considerando anche il campionato precedente vinto (l'ultima sconfitta era avvenuta con la {{Calcio Juventus|N}} il 6 marzo 1983).<ref>{{cita news|url=http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1983_10/19831002_0019.pdf&query=|titolo=Una Lazio d'assalto contro la Juventus|pubblicazione=L'Unità|pagina=19|data=2 ottobre 1983|formato=PDF|accesso=15 aprile 2018|urlmorto=sì}}</ref> Per via di alcune incertezze dovute a nuovi assetti tattici da equilibrare specialmente in difesa a causa della partenza di elementi fondamentali (principalmente la fine del prestito di [[Pietro Vierchowod|Vierchowod]], baluardo difensivo della Roma campione d'Italia, che è richiamato dalla {{Calcio Sampdoria|N}}) e a seguito di alcuni infortuni occorsi a giocatori importanti (soprattutto quello capitato ad [[Carlo Ancelotti|Ancelotti]] nel novembre 1983 che lo costringe a saltare l'intera stagione), la squadra perde definitivamente il primato, terminando seconda a due punti dalla Juventus campione.
+
+Nei sedicesimi di finale della [[Coppa dei Campioni 1983-1984|Coppa dei Campioni]] (torneo nel quale la Roma è all'esordio assoluto), viene superato l'{{Calcio Goteborg|N}} con un punteggio complessivo di 4-2, al quale fanno seguito le eliminazioni di {{Calcio CSKA Sofia|N}}<ref>{{cita news|url=http://archiviostorico.unita.it/cgi-bin/highlightPdf.cgi?t=ebook&file=/archivio/uni_1983_10/19831020_0020.pdf&query=u%2ed%2eg%2e|titolo=Roma super, Juventus ok, male le altre|pubblicazione=L'Unità|pagina=29|data=20 ottobre 1983|formato=PDF|accesso=15 aprile 2018|urlmorto=sì}}</ref> agli ottavi e {{Calcio Dinamo Berlino|N}} ai quarti. La semifinale con il {{Calcio Dundee United|N}} rimane celebre per le accuse rivolte alla società di aver corrotto l'arbitro [[Michel Vautrot|Vautrot]]: dopo aver perso 2-0 all'andata, i capitolini vincono per 3-0 la gara di ritorno accedendo alla finale.<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1984/04/25/bastera-per-il-dundee-una-roma-da.html|titolo=Basterà per il Dundee una Roma da battaglia?|autore=Oliviero Beha|pubblicazione=la Repubblica|data=25 aprile 1984|accesso=15 aprile 2018}}</ref><ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1984/04/26/la-legge-della-roma-non-perdona-il.html|titolo=La legge della Roma non perdona|autore=Oliviero Beha|pubblicazione=la Repubblica|data=26 aprile 1984|accesso=15 aprile 2018}}</ref> L'incontro con il {{Calcio Liverpool|N}}, peraltro formalmente giocato [[Stadio Olimpico (Roma)|in casa]], termina in favore degli inglesi ai [[tiri di rigore]]: decisive le assenze di [[Aldo Maldera|Maldera]], esperto rigorista, e del già citato Ancelotti.<ref name="coppa">{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1984/05/31/si-fermata-undici-metri-dall-europa.html|titolo=Si è fermata a undici metri dall'Europa|autore=Gianni Brera|pubblicazione=la Repubblica|data=31 maggio 1984|accesso=15 aprile 2018}}</ref>
+
+Non sfugge però la [[Coppa Italia 1983-1984|Coppa Italia]], la quinta della storia giallorossa, vinta nella doppia sfida con il {{Calcio Verona|N}}<ref>{{cita news|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1984/06/27/la-coppa-italia-alla-roma.html|titolo=La Coppa Italia alla Roma|pubblicazione=la Repubblica|data=27 giugno 1984|accesso=15 aprile 2018}}</ref>: si trattò comunque di una magra consolazione per gli uomini di [[Nils Liedholm]], in procinto di accasarsi al {{Calcio Milan|N}}, che avevano iniziato la stagione con ben più rosee aspettative. Fu altresì l’ultima annata del capitano [[Agostino Di Bartolomei]] con la maglia della Roma: con il passaggio al Milan del tecnico svedese, il centrocampista romano decise di seguirlo nella sua nuova avventura. Fu la fine di un fortunato ciclo quinquennale per la Roma, che si aggiudicò quattro trofei in campo nazionale e che sfiorò il trionfo europeo.
+
+== Divise e sponsor ==
+{{Doppia immagine verticale|destra|AS Roma 1983-84 - Sponsor Patrick.jpg|AS Roma - Finale della Coppa dei Campioni 1983-84.jpg|250|La rosa romanista nella prima metà di stagione, con abbigliamento tecnico firmato [[Patrick (azienda)|Patrick]].|L{{'}}''undici'' giallorosso sceso in campo nella finale di Coppa dei Campioni, giocata indossando una speciale divisa bianca priva del ''jersey sponsor'' e dello [[Scudetto (sport)|scudetto]].}}
+
+Gli sponsor tecnici per la stagione 1983-1984 sono [[Patrick (azienda)|Patrick]] fino al 31 dicembre 1983 e [[Kappa (azienda)|Kappa]] dal 1º gennaio 1984, mentre lo sponsor ufficiale è [[Barilla]].
+
+La prima divisa è costituita da maglia rossa con colletto a polo giallo, pantaloncini rossi – con doppia banda a contrasto per la fornitura Patrick, a tinta unita per quella Kappa – e calzettoni rossi bordati di giallo. In trasferta i Lupi usano una maglia bianca con colletto giallorosso nel girone di andata e rosso in quello di ritorno, pantaloncini bianchi, calzettoni bianchi bordati di giallorosso nel girone di andata e di rosso in quello di ritorno. I portieri usano divise costituite da maglie grigie con decorazioni nere e/o rosse, pantaloncini e calzettoni neri. Tutte le divise presentano cucito sul petto lo [[Scudetto (sport)|scudetto]].<ref name=concilis>{{cita|Castellani, Ceci, de Conciliis|pp. 151-153}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =_asromaanni80h
+|leftarm = 6a0c27
+|pattern_b = _asroma8384home
+|body = 6a0c27
+|pattern_ra =_asromaanni80h
+|rightarm = 6a0c27
+|shorts = 6a0c27
+|pattern_so =_asroma1213h
+|pattern_sh =_asroma80sh2
+|socks = 6a0c27
+|title = Casa<br/>(andata)
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma8384h2
+|leftarm = 6a0c27
+|pattern_b = _asroma8384h
+|body = 6a0c27
+|pattern_ra =_asroma8384h2
+|rightarm = 6a0c27
+|shorts = aa131a
+|pattern_so =_asroma80s2
+|socks = 6a0c27
+|title = Casa<br/>(ritorno)
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma8081a
+|leftarm = FFFFFF
+|pattern_b = _asroma8384a
+|body = FFFFFF
+|pattern_ra =_asroma8081a
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma8081a
+|socks = FFFFFF
+|title = Trasferta<br/>(andata)
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma8384a2
+|leftarm = FFFFFF
+|pattern_b = _asroma8384a2
+|body = FFFFFF
+|pattern_ra =_asroma8384a2
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma8384a2
+|socks = FFFFFF
+|title = Trasferta<br/>(ritorno)
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma8384a2
+|leftarm = FFFFFF
+|pattern_b = _asroma8384a3
+|body = FFFFFF
+|pattern_ra =_asroma8384a2
+|rightarm = FFFFFF
+|shorts = FFFFFF
+|pattern_so =_asroma8384a2
+|socks = FFFFFF
+|title = Finale Coppa dei Campioni
+}}
+|}
+In occasione della finale di Coppa dei Campioni, la Roma indossa una speciale versione della sua seconda divisa, priva sul busto sia del ''jersey sponsor'' (come imponevano all'epoca i regolamenti [[UEFA|confederali]]) sia, insolitamente, anche dello [[Scudetto (sport)|scudetto]]; quest'utimo è sostituito dallo stemma sociale, che nel resto dell'annata è posizionato sulla manica destra.<ref name=concilis/>
+
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =_asroma8384gk1
+|leftarm = f2e600
+|pattern_b =_asroma8384gk1
+|body = 858585
+|pattern_ra =_asroma8384gk1
+|rightarm = f2e600
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma8384gk2
+|leftarm = 036ca5
+|pattern_b =_asroma8384gk2
+|body = 858585
+|pattern_ra =_asroma8384gk2
+|rightarm = 036ca5
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 2ª portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref>{{cita|Beltrami, 1983|p. 214}}.</ref>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Dino Viola]]
+* Vice presidente: Giovanni Guidi
+* Consiglieri: Renzo Baldesi, Maurizio Baldieri, Alessandro Bassetti, Maurizio Bigelli, Antonio Cacciavillani, [[Gaetano Caltagirone]], Massimo Castiello, [[Luciano Gaucci]], Luigi Izzi, Gaetano La Cava, Vincenzo Malagò, Alessandro Mariangeli, Claudio Navarra, Salvatore Pieroni, [[Raffaele Ranucci]], Alvaro Romiti, Paolo Tartaglia, Ettore Viola, Riccardo Viola
+* Collegio sindacale: Giorgio Di Giuliomaria, Jono Donelli, Enrico Picchioni, Francesco Terracina, Fausto Placidi
+{{Colonne spezza}}
+;Area organizzativa
+* Segretario del consiglio di amministrazione: Lino Raule
+* Segretario: Gilberto Viti
+* Organizzazione: Umberto Esposito, Maurizio Cenci
+* Amministrazione: Giuseppe Spada, Fausto Di Pietro
+* Segreteria: Livia Rossi
+* Economato: Marco Seghi
+{{Colonne spezza}}
+;Area tecnica
+* Direttore sportivo: [[Nardino Previdi]]
+* Allenatore: [[Nils Liedholm]]
+* Allenatore in seconda: [[Luciano Tessari]]
+* Preparatore atletico: Gaetano Colucci
+;Area sanitaria
+* Medico sociale: Ernesto Alicicco
+* Massaggiatore: Vittorio Boldorini, Giorgio Rossi
+{{Colonne fine}}
+
+== Rosa ==
+[[File:AS Roma - Falcão, Liedholm, Cerezo.jpg|thumb|Il tecnico [[Nils Liedholm|Liedholm]] fra i due stranieri dell'annata, il confermato [[Paulo Roberto Falcão|Falcão]] (a sinistra) e il neoacquisto [[Toninho Cerezo|Cerezo]] (a destra).]]
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 83/84">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1983|titolo=Rosa AS Roma - Saison 83/84|accesso=11 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Attilio Gregori]]<ref name="p">Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Astutillo Malgioglio]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Marco Savorani]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Superchi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Franco Tancredi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Dario Bonetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Roberto Fois<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Settimio Lucci]]''<ref name=aut>Ceduto durante la sessione autunnale.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Aldo Maldera]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sebastiano Nela]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Michele Nappi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Emidio Oddi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Petitti]]<ref name="p"/>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ubaldo Righetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Viero Vignoli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Carlo Ancelotti]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=BRA 1968-1992|nome=[[Toninho Cerezo]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Odoacre Chierico]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Bruno Conti]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Desideri]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Agostino Di Bartolomei]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Di Mauro]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=BRA 1968-1992|nome=[[Paulo Roberto Falcão]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Stefano Impallomeni]]<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Stefano Nobili<ref name="p"/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mark Tullio Strukelj]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Corrado Baglieri<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Baldieri]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Graziani]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Roberto Pruzzo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Vincenzi]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 83/84"/>
+=== Sessione estiva ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| P || [[Astutillo Malgioglio]] || {{Calcio Pistoiese|N}} || ''definitivo''
+|-
+| D || [[Dario Bonetti]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|-
+| D || [[Emidio Oddi]] || {{Calcio Verona|N}} || ''definitivo''
+|-
+| C || [[Toninho Cerezo]] || {{Calcio Atletico Mineiro|N}} || ''definitivo''
+|-
+| C || [[Antonio Di Carlo]] || {{Calcio Carrarese|N}} || ''prestito''
+|-
+| C || [[Mark Tullio Strukelj]] || {{Calcio Triestina|N}} || ''comproprietà''
+|-
+| A || [[Francesco Graziani]] || {{Calcio Fiorentina|N}} || ''definitivo''
+|-
+| A || [[Francesco Vincenzi]] || {{Calcio Pistoiese|N}} || ''definitivo''
+|-
+| A || [[Guido Ugolotti]] || {{Calcio Pisa|N}} || ''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Massimo Gregori]]|| {{Calcio Catania|N}} || ''definitivo''
+|-
+| D || [[Pietro Vierchowod]] || {{Calcio Sampdoria|N}} || ''fine prestito''
+|-
+| C || Gianni Boccia || ? ||
+|-
+| C || [[Antonio Di Carlo]] || {{Calcio Arezzo|N}} || ''prestito''
+|-
+| C || [[Paolo Giovannelli]]|| {{Calcio Pisa|N}} || ''definitivo''
+|-
+| C || [[Herbert Prohaska]] || {{Calcio Austria Vienna|N}} || ''definitivo''
+|-
+| C || [[Claudio Valigi]] || {{Calcio Perugia|N}} || ''definitivo''
+|-
+| A || [[Paolo Alberto Faccini]] || {{Calcio Sambenedettese|N}} || ''definitivo''
+|-
+| A || [[Maurizio Iorio]] || {{Calcio Verona|N}} || ''comproprietà''
+|-
+| A || [[Sandro Tovalieri]]|| {{Calcio Pescara|N}} || ''prestito''
+|-
+| A || [[Guido Ugolotti]] || {{Calcio Campobasso|N}} || ''definitivo''
+|}
+{{colonne fine}}
+=== Sessione autunnale ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Settimio Lucci]] || {{Calcio Avellino|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1983-1984}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 settembre
+|Anno = 1983
+|Ora = 16:00
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pisa
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 50.000
+|Arbitro = [[Pietro D'Elia]]
+|Referto = https://www.asromaultras.org/8384romapisa_corport_04.JPG
+|Cittarbitro = Salerno
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|40|rig.}}<br />[[Bruno Conti|Conti]] {{Goal|80}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 settembre
+|Anno = 1983
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 43.0000
+|Arbitro = [[Luigi Agnolin]]
+|Referto = https://www.asromaultras.org/8384SampdoriaRoma_CorrSport_02.JPG
+|Cittarbitro = Bassano del Grappa
+|Marcatori 1 = [[Giovanni Guerrini|Guerrini]] {{Goal|34}}
+|Marcatori 2 = {{Goal|36}} [[Sebastiano Nela|Nela]]<br />{{Goal|63}} [[Francesco Graziani|Graziani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 1983
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Maurizio Mattei]]
+|Referto = https://www.asromaultras.org/8384RomaMilan_CorrSport_02.JPG
+|Cittarbitro = Macerata
+|Marcatori 1 = [[Francesco Vincenzi|Vincenzi]] {{Goal|34}}<br />[[Aldo Maldera|Maldera]] {{Goal|44}}<br />[[Paulo Roberto Falcão|Falcão]] {{Goal|80}}
+|Marcatori 2 = {{Goal|28}} [[Sergio Battistini|Battistini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 1983
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 40.000
+|Arbitro = [[Giancarlo Redini]]
+|Referto = https://www.asromaultras.org/8384TorinoRoma_CorrSport_02.JPG
+|Cittarbitro = Pisa
+|Marcatori 1 = [[Patricio Hernández|Hernández]] {{Goal|7||39}}
+|Marcatori 2 = {{Goal|89|aut.}} [[Renato Zaccarelli|Zaccarelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 ottobre
+|Anno = 1983
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Romeo Paparesta]]
+|Referto = https://www.asromaultras.org/8384RomaGenoa_CorrSport_02.JPG
+|Cittarbitro = Bari
+|Marcatori 1 = [[Bruno Conti|Conti]] {{Goal|62}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Anno = 1983
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Arbitro = [[Luigi Agnolin]]
+|Referto = https://www.asromaultras.org/8384LazioRoma_CorrSport_04.JPG
+|Cittarbitro = Bassano del Grappa
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|4}} [[Sebastiano Nela|Nela]]<br />{{Goal|63}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 60.000
+|Arbitro = [[Paolo Bergamo]]
+|Referto = https://www.asromaultras.org/8384RomaNapoli_CorrSport_02.JPG
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Francesco Graziani|Graziani]] {{Goal|9}}<br />[[Toninho Cerezo|Cerezo]] {{Goal|20}}<br />[[Paulo Roberto Falcão|Falcão]] {{Goal|33}}<br />[[Bruno Conti|Conti]] {{Goal|38||80}}
+|Marcatori 2 = {{Goal|70}} [[Paolo Dal Fiume|Dal Fiume]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = circa 50.000
+|Arbitro = [[Claudio Pieri]]
+|Referto =
+|Cittarbitro = Genova
+|Marcatori 1 = [[Zico]] {{Goal|85}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ascoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 48.000
+|Arbitro = [[Renzo Vitali]]
+|Referto = https://www.asromaultras.org/8384romaascoli_gs4.jpg
+|Cittarbitro = Bologna
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|60}}
+|Marcatori 2 = {{Goal|72}} [[Walter Novellino|Novellino]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 60.000
+|Arbitro = [[Giancarlo Redini]]
+|Referto = https://www.asromaultras.org/8384InterRoma_CorrSport_03.JPG
+|Cittarbitro = Pisa
+|Marcatori 1 = [[Evaristo Beccalossi|Beccalossi]] {{Goal|8}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Arbitro = [[Paolo Casarin]]
+|Referto = https://www.asromaultras.org/8384Juventusroma_laromaAB.jpeg
+|Cittarbitro = Milano
+|Marcatori 1 = [[Michel Platini|Platini]] {{Goal|72}}<br />[[Domenico Penzo|Penzo]] {{Goal|77}}
+|Marcatori 2 = {{Goal|62}} [[Bruno Conti|Conti]]<br />{{Goal|90}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Avellino
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Rosario Lo Bello]]
+|Referto = https://www.asromaultras.org/8384romaavellino_laroma.jpeg
+|Cittarbitro = Siracusa
+|Marcatori 1 = [[Paulo Roberto Falcão|Falcão]] {{Goal|24||57}}<br />[[Aldo Maldera|Maldera]] {{Goal|89}}
+|Marcatori 2 = {{Goal|81}} [[Walter Biagini|Biagini]]<br />{{Goal|87}} [[Ramón Díaz|Díaz]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = circa 50.000
+|Arbitro = [[Luigi Agnolin]]
+|Referto = https://www.asromaultras.org/8384FiorentinaRoma_CorrSport_02.JPG
+|Cittarbitro = Bassano del Grappa
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Anno = 1983
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Bergamo]]
+|Referto = https://www.asromaultras.org/8384romacatania_lar0001.JPG
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Aldo Maldera|Maldera]] {{Goal|32}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 1984
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Pietro D'Elia]]
+|Referto = https://www.asromaultras.org/8384veronaroma_lar.JPG
+|Cittarbitro = Salerno
+|Marcatori 1 = [[Antonio Di Gennaro (calciatore)|Di Gennaro]] {{Goal|82}}
+|Marcatori 2 =
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 1984
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Pisa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Pisa]]
+|Stadio = [[Stadio Arena Garibaldi - Romeo Anconetani|Stadio Arena Garibaldi]]
+|Arbitro = [[Enzo Barbaresco]]
+|Referto = https://www.asromaultras.org/8384pisaroma_laroma.jpeg
+|Cittarbitro = Cormons
+|Marcatori 1 = [[Dario Bonetti|Bonetti]] {{Goal|56|aut.}}
+|Marcatori 2 = {{Goal|33}} [[Mark Tullio Strukelj|Strukelj]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 1984
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Rosario Lo Bello]]
+|Referto = https://www.asromaultras.org/8384romasampdoria_laroma.jpeg
+|Cittarbitro = Siracusa
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|36}}
+|Marcatori 2 = {{Goal|53}} [[Roberto Mancini|Mancini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Anno = 1984
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Luigi Agnolin]]
+|Referto = https://www.asromaultras.org/8384milanroma_laroma.jpeg
+|Cittarbitro = Bassano del Grappa
+|Marcatori 1 = [[Vinicio Verza|Verza]] {{Goal|54}}
+|Marcatori 2 = {{Goal|69}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 1984
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Casarin]]
+|Referto = https://www.asromaultras.org/8384RomaTorino_laroma.jpeg
+|Cittarbitro = Milano
+|Marcatori 1 = [[Aldo Maldera|Maldera]] {{Goal|28}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|83}}
+|Marcatori 2 = {{Goal|31}} [[Giuseppe Dossena|Dossena]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 1984
+|Ora = 15:00
+|Turno = 20ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Arbitro = [[Enzo Barbaresco]]
+|Referto = https://www.asromaultras.org/8384GenoaRoma_laroma.jpeg
+|Cittarbitro = Cormons
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|5||82}} [[Francesco Graziani|Graziani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 1984
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 63.000
+|Arbitro = [[Luigi Agnolin]]
+|Referto = https://www.asromaultras.org/8384RomaLazio_laromaAB.jpeg
+|Cittarbitro = Bassano del Grappa
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|40|rig.}}<br />[[Toninho Cerezo|Cerezo]] {{Goal|52}}
+|Marcatori 2 = {{Goal|9||25|rig.}} [[Vincenzo D'Amico|D'Amico]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 marzo
+|Anno = 1984
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 60.000
+|Arbitro = [[Paolo Bergamo]]
+|Referto = https://www.asromaultras.org/8384NapoliRoma_laroma.jpeg
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Pasquale Casale|Casale]] {{Goal|59}}
+|Marcatori 2 = {{Goal|15}} [[Francesco Graziani|Graziani]]<br />{{Goal|62}} [[Dario Bonetti|Bonetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 marzo
+|Anno = 1984
+|Ora = 15
+|Turno = 23ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 49.000
+|Arbitro = [[Maurizio Mattei]]
+|Referto = https://www.asromaultras.org/8384RomaUdinese_laRoma.jpeg
+|Cittarbitro = Macerata
+|Marcatori 1 = [[Paulo Roberto Falcão|Falcão]] {{Goal|31}}<br />[[Toninho Cerezo|Cerezo]] {{Goal|68}}<br />[[Bruno Conti|Conti]] {{Goal|73}}<br />[[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|87}}
+|Marcatori 2 = {{Goal|20}} [[Edinho]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 marzo
+|Anno = 1984
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Ascoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Città = [[Ascoli Piceno]]
+|Stadio = [[Stadio Cino e Lillo Del Duca]]
+|Arbitro = [[Giancarlo Redini]]
+|Referto = https://www.asromaultras.org/8384AscoliRoma_02_La_Stampa_af.JPG
+|Cittarbitro = Pisa
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1984
+|Ora = 15:30
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pietro D'Elia]]
+|Referto = https://www.asromaultras.org/8384RomaInter_02_La_Stampa_af.JPG
+|Cittarbitro = Salerno
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|24|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1984
+|Ora = 15:30
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Paolo Casarin]]
+|Referto = https://www.asromaultras.org/8384RomaJuventus_laRomaA.jpeg
+|Cittarbitro = Milano
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 aprile
+|Anno = 1984
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Avellino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Avellino]]
+|Stadio = [[Stadio Partenio]]
+|Spettatori = circa 30.000
+|Arbitro = [[Paolo Bergamo]]
+|Referto = https://www.asromaultras.org/8384AvellinoRoma_CorrSport_02.JPG
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Ramón Díaz|Díaz]] {{Goal|64}}<br />[[Gian Pietro Tagliaferri|Tagliaferri]] {{Goal|90}}
+|Marcatori 2 = {{Goal|24}} [[Roberto Pruzzo|Pruzzo]]<br />{{Goal|51}} [[Toninho Cerezo|Cerezo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 aprile
+|Anno = 1984
+|Ora = 16:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 36.000
+|Arbitro = [[Egidio Ballerini]]
+|Referto = https://www.asromaultras.org/8384RomaFiorentina_laRoma.jpeg
+|Cittarbitro = La Spezia
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|15}}<br />[[Bruno Conti|Conti]] {{Goal|40}}
+|Marcatori 2 = {{Goal|60}} [[Paolo Monelli (calciatore)|Monelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 maggio
+|Anno = 1984
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Città = [[Palermo]]
+|Stadio = [[Stadio Renzo Barbera|Stadio La Favorita]]<ref>Campo neutro.</ref>
+|Spettatori = circa 20.000
+|Arbitro = [[Arcangelo Pezzella]]
+|Referto = https://www.asromaultras.org/8384CataniaRoma_La_Stampa_af.JPG
+|Cittarbitro = Frattamaggiore
+|Marcatori 1 = [[Andrea Carnevale|Carnevale]] {{Goal|55}}<br />[[Fortunato Torrisi|Torrisi]] {{Goal|83|rig.}}
+|Marcatori 2 = {{Goal|23}} [[Aldo Maldera|Maldera]]<br />{{Goal|29}} [[Odoacre Chierico|Chierico]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 maggio
+|Anno = 1984
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Giancarlo Redini]]
+|Referto = https://www.asromaultras.org/8384RomaVerona_La_Stampa_af.JPG
+|Cittarbitro = Pisa
+|Marcatori 1 = [[Toninho Cerezo|Cerezo]] {{Goal|28||50}}<br />[[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|46|rig.}}
+|Marcatori 2 = {{Goal|1}} [[Massimo Storgato|Storgato]]<br />{{Goal|41}} [[Maurizio Iorio|Iorio]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1983-1984}}
+==== Primo turno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 agosto
+|Anno = 1983
+|Ora = 21:00
+|Turno = 1ª giornata
+|Squadra 1 = Rimini
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Città = [[Rimini]]
+|Stadio = [[Stadio Romeo Neri]]
+|Arbitro = [[Pierluigi Pairetto]]
+|Referto =
+|Cittarbitro = Nichelino
+|Marcatori 1 = [[Giordano Cinquetti|Cinquetti]] {{Goal|68}}
+|Marcatori 2 = {{Goal|54||63}} [[Francesco Vincenzi|Vincenzi]]<br />{{Goal|75}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 agosto
+|Anno = 1983
+|Ora = 20:30
+|Turno = 2ª giornata
+|Squadra 1 = Arezzo
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Città = [[Arezzo]]
+|Stadio = [[Stadio Città di Arezzo|Stadio Comunale]]
+|Spettatori = circa 12.000
+|Arbitro = [[Maurizio Mattei]]
+|Referto = https://www.asromaultras.org/8384arezzoroma_ci_corsport05.jpg
+|Cittarbitro = Macerata
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|52}} [[Francesco Vincenzi|Vincenzi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 agosto
+|Anno = 1983
+|Ora = 20:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Egidio Ballerini]]
+|Referto =
+|Cittarbitro = La Spezia
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|24|rig.}}<br />[[Mark Tullio Strukelj|Strukelj]] {{Goal|70}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 1983
+|Ora = 20:45
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 20.000
+|Arbitro = [[Tullio Lanese]]
+|Referto = https://www.asromaultras.org/8384romapadova_ci_corsport_02.jpg
+|Cittarbitro = Messina
+|Marcatori 1 = [[Toninho Cerezo|Cerezo]] {{Goal|18||70}}<br />[[Francesco Graziani|Graziani]] {{Goal|31}}<br />[[Aldo Maldera|Maldera]] {{Goal|42}}
+|Marcatori 2 = {{Goal|14}} [[Guglielmo Coppola|Coppola]]<br />{{Goal|66}} [[Vito Graziani|Graziani]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 settembre
+|Anno = 1983
+|Ora = 20:30
+|Turno = 5ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Gino Menicucci]]
+|Referto =
+|Cittarbitro = Firenze
+|Marcatori 1 = [[Sergio Battistini|Battistini]] {{Goal|32}}
+|Marcatori 2 = {{Goal|22}} [[Francesco Vincenzi|Vincenzi]]
+|Sfondo =
+}}
+
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 1984
+|Ora = 15:00
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Reggiana
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 10.000
+|Arbitro = [[Salvatore Lombardo]]
+|Referto = https://www.asromaultras.org/8384romareggiana_ci_corsport_02.jpg
+|Cittarbitro = Marsala
+|Marcatori 1 = [[Francesco Vincenzi|Vincenzi]] {{Goal|45}}<br />[[Francesco Graziani|Graziani]] {{Goal|81}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 febbraio
+|Anno = 1984
+|Ora = 20:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Reggiana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Città = [[Reggio Emilia]]
+|Stadio = [[Stadio Comunale Mirabello|Stadio Mirabello]]
+|Spettatori = circa 7.000
+|Arbitro = [[Liberato Esposito]]
+|Referto = https://www.asromaultras.org/8384reggianaroma_ci_corsport01.jpg
+|Cittarbitro = Torre del Greco
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|37}} [[Toninho Cerezo|Cerezo]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 giugno
+|Anno = 1984
+|Ora = 20:45
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Rosario Lo Bello]]
+|Referto = https://www.asromaultras.org/8384romamilan_corsport04.jpg
+|Cittarbitro = Siracusa
+|Marcatori 1 = [[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|56|rig.}}
+|Marcatori 2 = {{Goal|48|aut.}} [[Michele Nappi|Nappi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 giugno
+|Anno = 1984
+|Ora = 20:30
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Supplementari = X
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = 57.259
+|Arbitro = [[Giancarlo Redini]]
+|Referto = https://www.asromaultras.org/8384MilanRoma_CI_quarti_La-Stampa_af.JPG
+|Cittarbitro = Pisa
+|Marcatori 1 = [[Gabriello Carotti|Carotti]] {{Goal|33}}
+|Marcatori 2 = {{Goal|2||94}} [[Toninho Cerezo|Cerezo]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 giugno
+|Anno = 1984
+|Ora = 20:30
+|Turno = Semifinale - Andata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = circa 30.000
+|Arbitro = [[Paolo Bergamo]]
+|Referto = https://www.asromaultras.org/8384torinoroma_ci_corsport02.jpg
+|Cittarbitro = Livorno
+|Marcatori 1 = [[Franco Selvaggi|Selvaggi]] {{Goal|60}}
+|Marcatori 2 = {{Goal|6}} [[Bruno Conti|Conti]]<br />{{Goal|50||80}} [[Mark Tullio Strukelj|Strukelj]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 giugno
+|Anno = 1984
+|Ora = 20:45
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 29.136
+|Arbitro = [[Rosario Lo Bello]]
+|Referto = https://www.asromaultras.org/8384romatorino_ci_corsport02.jpg
+|Cittarbitro = Siracusa
+|Marcatori 1 = [[Bruno Conti|Conti]] {{Goal|81}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 giugno
+|Anno = 1984
+|Ora = 20:30
+|Turno = Finale - Andata
+|Squadra 1 = Verona
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Verona]]
+|Stadio = [[Stadio Marcantonio Bentegodi]]
+|Arbitro = [[Paolo Casarin]]
+|Referto = https://www.asromaultras.org/8384VeronaRoma_CI_La-Stampa_af.JPG
+|Cittarbitro = Milano
+|Marcatori 1 = [[Massimo Storgato|Storgato]] {{Goal|73}}
+|Marcatori 2 = {{Goal|48}} [[Toninho Cerezo|Cerezo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 giugno
+|Anno = 1984
+|Ora = 20:45
+|Turno = Finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Verona
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 45.101
+|Arbitro = [[Paolo Casarin]]
+|Referto = https://www.asromaultras.org/8384romaverona_ci_corsport03.jpg
+|Cittarbitro = Milano
+|Marcatori 1 = [[Mauro Ferroni|Ferroni]] {{Goal|27|aut.}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+
+=== Coppa dei Campioni ===
+{{vedi anche|Coppa dei Campioni 1983-1984|Finale della Coppa dei Campioni 1983-1984}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 settembre
+|Anno = 1983
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = Sedicesimi di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Goteborg
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=1/match=928/index.html
+|Nazarbitro = BGR 1971-1990
+|Arbitro = [[Bogdan Dočev]]
+|Marcatori 1 = [[Francesco Vincenzi|Vincenzi]] {{Goal|51}}<br />[[Bruno Conti|Conti]] {{Goal|62}}<br />[[Toninho Cerezo|Cerezo]] {{Goal|70}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 1983
+|Ora =
+|Turno = Sedicesimi di finale - Ritorno
+|Squadra 1 = Goteborg
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Göteborg]]
+|Stadio = [[Ullevi]]
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=1/match=929/index.html
+|Nazarbitro = BEL
+|Arbitro = [[Marcel Van Langenhove (arbitro)|Marcel Van Langenhove]]
+|Marcatori 1 = [[Steve Gardner|Gardner]] {{Goal|1}}<br />[[Tommy Holmgren|Holmgren]] {{Goal|73}}
+|Marcatori 2 = {{Goal|60}} [[Roberto Pruzzo|Pruzzo]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Sofia]]
+|Giornomese = 19 ottobre
+|Anno = 1983
+|Ora = 18:00 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = CSKA Sofia
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=2/match=970/postmatch/lineups/index.html
+|Squadra 2 = Roma
+|Stadio = [[Stadio Nazionale Vasil Levski]]
+|Arbitro = [[Michel Vautrot]]
+|Nazarbitro = FRA
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|63}} [[Paulo Roberto Falcão|Falcão]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 novembre
+|Anno = 1983
+|Ora = 17:30 [[Central European Time|CET]]
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = CSKA Sofia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 59.691
+|Arbitro = [[André Daina]]
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=2/match=971/postmatch/lineups/index.html
+|Nazarbitro = CHE
+|Marcatori 1 = [[Francesco Graziani|Graziani]] {{Goal|80}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 marzo
+|Anno = 1984
+|Ora = 15:00 [[Central European Time|CET]]
+|Turno = Quarti di finale - Andata
+|Squadra 1 = Roma
+|Squadra 2 = Dinamo Berlino
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 65.000
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=3/match=975/postmatch/lineups/index.html
+|Arbitro = [[Jan Keizer]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Francesco Graziani|Graziani]] {{Goal|67}}<br />[[Roberto Pruzzo|Pruzzo]] {{Goal|75}}<br />[[Toninho Cerezo|Cerezo]] {{Goal|90}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Città = [[Berlino Est]]
+|Giornomese = 21 marzo
+|Anno = 1984
+|Ora = 20:00 [[Central European Time|CET]]
+|Turno = Quarti di finale - Ritorno
+|Squadra 1 = Dinamo Berlino
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=3/match=979/index.html
+|Squadra 2 = Roma
+|Stadio = [[Friedrich-Ludwig-Jahn-Sportpark]]
+|Arbitro = [[Ingemar Johansson (arbitro)|Ingemar Johansson]]
+|Nazarbitro = SWE
+|Marcatori 1 = [[Andreas Thom|Thom]] {{Goal|76}}<br />[[Rainer Ernst|Ernst]] {{Goal|86}}
+|Marcatori 2 = {{Goal|56}} [[Emidio Oddi|Oddi]]
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 aprile
+|Anno = 1984
+|Ora = 20:30 [[Central European Time|CET]]
+|Turno = Semifinale - Andata
+|Squadra 1 = Dundee United
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Dundee]]
+|Stadio = [[Tannadice Park]]
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=4/match=982/index.html
+|Arbitro = [[Siegfried Kirschen]]
+|Nazarbitro = DDR
+|Marcatori 1 = [[Davie Dodds|Dodds]] {{Goal|48}}<br />[[Derek Stark|Stark]] {{Goal|60}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 aprile
+|Anno = 1984
+|Ora = 15:30 [[Central European Time|CET]]
+|Turno = Semifinale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Dundee United
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 73.000
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=4/match=984/index.html
+|Arbitro = [[Michel Vautrot]]
+|Nazarbitro = FRA
+|Marcatori 1 = [[Roberto Pruzzo|Pruzzo]] {{Goal|23||38}}<br />[[Agostino Di Bartolomei|Di Bartolomei]] {{Goal|58|rig.}}
+|Marcatori 2 =
+|Sfondo = 
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 maggio
+|Anno = 1984
+|Ora = 20:15 [[Central European Time|CET]]
+|Turno = Finale
+|Squadra 1 = Liverpool
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Supplementari = X
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Referto = https://www.uefa.com/uefachampionsleague/season=1983/matches/round=5/match=986/postmatch/lineups/index.html
+|Arbitro = [[Erik Fredriksson]]
+|Nazarbitro = SWE
+|Marcatori 1 = [[Phil Neal|Neal]] {{Goal|14}}
+|Marcatori 2 = {{Goal|43}} [[Roberto Pruzzo|Pruzzo]]
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 4
+|PuntiTiriExtra 2 = 2
+|TiriExtra 1 = [[Steve Nicol|Nicol]] {{Penmiss}}<br />[[Phil Neal|Neal]] {{Pengoal}}<br />[[Graeme Souness|Souness]] {{Pengoal}}<br />[[Ian Rush|Rush]] {{pengoal}}<br />[[Alan Kennedy|Kennedy]] {{Pengoal}}
+|TiriExtra 2 = {{Pengoal}} [[Agostino Di Bartolomei|Di Bartolomei]]<br />{{Penmiss}} [[Bruno Conti|Conti]]<br />{{Pengoal}} [[Ubaldo Righetti|Righetti]]<br />{{Penmiss}} [[Francesco Graziani|Graziani]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra<ref>{{cita|Beltrami, 1984|pp. 129, 276-285, 581-582}}.</ref> ===
+Di seguito le statistiche di squadra.<ref name=cor6>{{cita|Romano|titolo=1984-1991 La Roma formato Coppa Italia}}.</ref>
+
+{{Statistiche_squadra
+|comp1=[[Serie A 1983-1984|Serie A]]
+|punti1=41
+|cv1=11
+|cn1=4
+|cp1=0
+|cgf1=31
+|cgs1=13
+|tv1=4
+|tn1=7
+|tp1=4
+|tgf1=17
+|tgs1=15
+|comp2=[[Coppa Italia 1983-1984|Coppa Italia]]
+|punti2=-
+|cv2=5
+|cn2=1
+|cp2=0
+|cgf2=11
+|cgs2=3
+|tv2=5
+|tn2=2
+|tp2=0
+|tgf2=12
+|tgs2=5
+|comp3=[[Coppa dei Campioni 1983-1984|Coppa dei Campioni]]
+|punti3=-
+|cv3=4
+|cn3=0
+|cp3=0
+|cgf3=10
+|cgs3=0
+|tv3=1
+|tn3=1
+|tp3=3
+|tgf3=4
+|tgs3=7
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=30}}
+{{Andamento/Luogo  |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=T |m12=C |m13=T |m14=C |m15=T |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=C |m27=T |m28=C |m29=T |m30=C }}
+{{Andamento/Risultato 	|m1=V |m2=V |m3=V |m4=P |m5=V |m6=V |m7=V |m8=P |m9=N |m10=P |m11=N |m12=V |m13=N |m14=V |m15=P |m16=N |m17=N |m18=N |m19=V |m20=V |m21=N |m22=V |m23=V |m24=N |m25=V |m26=N |m27=N |m28=V |m29=N |m30=V }}
+{{Andamento/Posizione |r=14 |m1=1 |m2=1 |m3=1 |m4=2 |m5=2 |m6=1 |m7=1 |m8=1 |m9=1 |m10=3 |m11=2 |m12=2 |m13=2 |m14=2 |m15=3 |m16=3 |m17=3 |m18=4 |m19=3 |m20=2 |m21=2 |m22=2 |m23=2 |m24=2 |m25=2 |m26=2 |m27=2 |m28=2 |m29=2 |m30=2 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[L'Unità]] e de [[La Stampa]].<ref>{{cita|Beltrami, 1984|pp. 168, 276-285, 581-582}}.</ref><ref>A completamento dei dati vanno conteggiati un autogol in campionato e uno in Coppa Italia.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa dei Campioni
+| Cartellini = no
+| {{Sortname|A.|Gregori|Attilio Gregori}} {{Sommastat|C=no|-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|A.|Malgioglio|Astutillo Malgioglio}} {{Sommastat|C=no|1|-2|-|- |3|-1|-|- |0|-0|-|-}}
+| {{Sortname|M.|Savorani|Marco Savorani}} {{Sommastat|C=no|-|-|-|- |-|-|-|- |-|-|-|-}}
+| {{Sortname|F.|Superchi|Franco Superchi}} {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| {{Sortname|F.|Tancredi|Franco Tancredi}} {{Sommastat|C=no|30|-26|-|- |11|-7|-|- |9|-7|-|-}}
+| {{Sortname|D.|Bonetti|Dario Bonetti}} {{Sommastat|C=no|13|1|-|- |4|0|-|- |5|0|-|-}}
+| {{Sortname|R.|Fois|Roberto Fois|nolink=1}} {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| ''{{Sortname|S.|Lucci|Settimio Lucci}}'' {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| {{Sortname|A.|Maldera|Aldo Maldera}} {{Sommastat|C=no|25|5|-|- |11|1|-|- |7|0|-|-}}
+| {{Sortname|S.|Nela|Sebastiano Nela}} {{Sommastat|C=no|27|2|-|- |7|0|-|- |7|0|-|-}}
+| {{Sortname|M.|Nappi|Michele Nappi}} {{Sommastat|C=no|11|0|-|- |10|0|-|- |2|0|-|-}}
+| {{Sortname|E.|Oddi|Emidio Oddi}} {{Sommastat|C=no|18|0|-|- |11|0|-|- |7|1|-|-}}
+| {{Sortname|P.|Petitti|Paolo Petitti}} {{Sommastat|C=no|0|0|-|- |1|0|-|- |-|-|-|-}}
+| {{Sortname|U.|Righetti|Ubaldo Righetti}} {{Sommastat|C=no|21|0|-|- |6|0|-|- |9|0|-|-}}
+| {{Sortname|V.|Vignoli|Viero Vignoli}} {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| {{Sortname|C.|Ancelotti|Carlo Ancelotti}} {{Sommastat|C=no|9|0|-|- |5|0|-|- |4|0|-|-}}
+| {{Sortname|T.|Cerezo|Toninho Cerezo}} {{Sommastat|C=no|30|6|-|- |11|6|-|- |9|2|-|-}}
+| {{Sortname|O.|Chierico|Odoacre Chierico}} {{Sommastat|C=no|17|1|-|- |9|0|-|- |7|0|-|-}}
+| {{Sortname|B.|Conti|Bruno Conti}} {{Sommastat|C=no|27|7|-|- |7|2|-|- |9|1|-|-}}
+| {{Sortname|S.|Desideri|Stefano Desideri}} {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| {{Sortname|A.|Di Bartolomei|Agostino Di Bartolomei}} {{Sommastat|C=no|28|5|-|- |12|1|-|- |8|1|-|-}}
+| {{Sortname|F.|Di Mauro|Fabrizio Di Mauro}} {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| {{Sortname|P. R.|Falcão|Paulo Roberto Falcão}} {{Sommastat|C=no|27|5|-|- |8|0|-|- |8|1|-|-}}
+| {{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}} {{Sommastat|C=no|2|0|-|- |3|0|-|- |-|-|-|-}}
+| {{Sortname|S.|Impallomeni|Stefano Impallomeni}} {{Sommastat|C=no|0|0|-|- |1|0|-|- |-|-|-|-}}
+| {{Sortname|S.|Nobili|Stefano Nobili|nolink=1}} {{Sommastat|C=no|-|-|-|- |0|0|-|- |-|-|-|-}}
+| {{Sortname|M. T.|Strukelj|Mark Tullio Strukelj}} {{Sommastat|C=no|11|1|-|- |8|3|-|- |1|0|-|-}}
+| {{Sortname|C.|Baglieri|Corrado Baglieri|nolink=1}} {{Sommastat|C=no|-|-|-|- |1|0|-|- |-|-|-|-}}
+| {{Sortname|P.|Baldieri|Paolo Baldieri}} {{Sommastat|C=no|1|0|-|- |1|0|-|- |-|-|-|-}}
+| {{Sortname|F.|Graziani|Francesco Graziani}} {{Sommastat|C=no|24|5|-|- |10|2|-|- |9|2|-|-}}
+| {{Sortname|R.|Pruzzo|Roberto Pruzzo}} {{Sommastat|C=no|27|8|-|- |9|2|-|- |7|5|-|-}}
+| {{Sortname|F.|Vincenzi|Francesco Vincenzi}} {{Sommastat|C=no|11|1|-|- |10|5|-|- |2|1|-|-}}
+}}
+== Giovanili ==
+[[File:AS Roma «Primavera» 1983-84.png|thumb|Un ''undici'' della squadra Primavera per la quarta volta campione d'Italia di categoria; tra di loro la futura ''bandiera'' romanista [[Giuseppe Giannini (calciatore)|Giannini]], un altro idolo giallorosso come [[Stefano Desideri|Desideri]], e un protagonista del calcio italiano a venire come [[Angelo Di Livio|Di Livio]].]]
+=== Organigramma ===
+Di seguito l'organigramma.<ref name=cor6/>
+'''''Area sportiva'''''
+* Responsabile settore giovanile: [[Giorgio Perinetti]]
+'''''Area tecnica'''''
+* ''Primavera''
+** Allenatore: [[Romeo Benetti]]
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1983-1984|Campionato Primavera]]: vincitore
+** [[Coppa Italia Primavera 1983-1984|Coppa Italia Primavera]]: ?
+** [[Torneo di Viareggio 1984|Torneo di Viareggio]]: 4º posto
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|cid=Beltrami, 1983|autore=Arrigo Beltrami (a cura di)|titolo=Almanacco illustrato del calcio 1984|città=Modena|editore=Panini|anno=1983}}
+* {{cita libro|cid=Beltrami, 1984|autore=Arrigo Beltrami (a cura di)|titolo=Almanacco illustrato del calcio 1985|città=Modena|editore=Panini|anno=1984}}
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital84.html|Serie A 1983-1984 su Rsssf.com|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1983|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1983-1984}}
+{{Portale|calcio}}

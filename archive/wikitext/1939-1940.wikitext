@@ -1,0 +1,931 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1939-1940
+|immagine = Asroma 1939.jpg
+|didascalia = Una formazione della Roma nel 1939-1940
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Guido Ara]]<ref>Fino alla 26ª giornata.</ref>, poi<br />{{Bandiera|HUN 1918-1940}} [[Alfréd Schaffer]]<ref>Dalla 27ª in poi.</ref>
+|presidente = {{Bandiera|ITA 1861-1946}} Igino Betti
+|campionato = [[Serie A 1939-1940|Serie A]]
+|campionato posizione = 7º
+|coppa1 = [[Coppa Italia 1939-1940|Coppa Italia]]
+|coppa1 posizione = Ottavi di finale
+|presenze campionato = [[Miguel Ángel Pantó|Pantó]] (29)
+|presenze totale = Pantó (31)
+|marcatore campionato = Pantó (10)
+|marcatore totale = Pantó (13)
+|stadio = [[Campo Testaccio]]
+|stagione prima = [[Associazione Sportiva Roma 1938-1939|1938-1939]]
+|stagione dopo = [[Associazione Sportiva Roma 1940-1941|1940-1941]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1939-1940'''.
+
+== Stagione ==
+La campagna acquisti estiva porta una rivoluzione nel parco calciatori societario: ritorna [[Amedeo Amadei|Amadei]], che in questa stagione viene impiegato come ala, e arrivano molti giocatori nuovi tra cui ben quattro [[Argentina|argentini]], tra i quali l'unico che riesce ad imporsi è l'attaccante [[Miguel Ángel Pantó]]; davvero deludente invece [[Francisco Providente|Providente]], che viene addirittura soprannominato ''er provolone'' dai tifosi esasperati dal suo gioco inconsistente. La squadra stenta ad esprimersi a buoni livelli, così nella seconda parte del torneo l'allenatore [[Guido Ara|Ara]] viene sostituito con [[Alfréd Schaffer]]. La Roma intanto arriva settima in campionato con 29 punti, lo scudetto viene vinto dall'{{Calcio Ambrosiana-Inter|N}} con 44 punti. In [[Coppa Italia 1939-1940|Coppa Italia]], nei sedicesimi di finale la Roma supera (6-1) il {{Calcio Pontedera|N}} mentre negli ottavi viene eliminata (1-3) dalla {{Calcio Juventus|N}}. Dopo undici anni questa è stata l'ultima stagione nella quale i giallorossi hanno giocato nel [[Campo Testaccio]].<ref name=cor1>{{cita|Romano|1927-1942 Dalla fondazione al primo scudetto}}.</ref>
+
+== Divise ==
+La divisa primaria della Roma è costituita da maglia rossa, pantaloncini bianchi e calzettoni rossi con banda gialla orizzontale; la seconda divisa presenta una maglia bianca con banda giallorossa orizzontale tra torace e addome, pantaloncini e calzettoni neri, questi con una banda giallorossa orizzontale; in alcune partite fuori casa viene usata una divisa completamente nera, con i calzettoni ornati da una banda giallorossa orizzontale. I portieri hanno tre divise: la prima presenta maglia nera (con colletto a polo), calzoncini bianchi, calzettoni rossi con banda gialla orizzontale, la seconda maglia blu, calzoncini neri e calzettoni rossi con banda gialla orizzontale, la terza maglia grigia combinata con gli stessi calzoncini e calzettoni della precedente.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 40-42}}.</ref>
+
+{|
+|-
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_AS Roma 1939a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = 000000
+|pattern_so =_asroma20sB
+|socks = 000000
+|title = Trasferta
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma3233h2
+|body = 030347
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = Terza divisa
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma3233h2
+|body = 030347
+|pattern_ra =
+|rightarm = 000000
+|shorts = ff
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª div. portiere
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 375162
+|pattern_b =
+|body = 375162
+|pattern_ra =
+|rightarm = 375162
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 2ª div. portiere
+}}
+|{{Divisa calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 3ª div. portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor1/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Igino Betti]]
+;Area tecnica
+* Allenatore: [[Guido Ara]], dalla ''27ª'' [[Alfréd Schaffer]]
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1939|titolo=Rosa AS Roma - Saison 39/40}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ugo Ceresa]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Guido Masetti]]|altro=c|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Acerbi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luigi Brunella]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Cipriani]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Andrea Gadaldi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Paolo Jacobini]]<ref name="p">Aggregato alla prima squadra dalla formazione riserve (il campionato Primavera non esisteva: creato nel 1962).</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giuseppe Bonomi (calciatore)|Giuseppe Bonomi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Aristide Coscia]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Degrassi (1919)|Mario Degrassi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Aldo Donati (calciatore)|Aldo Donati]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Fusco (calciatore)|Antonio Fusco]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ALB 1939-1943|nome=[[Naim Krieziu]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Pietro Serantoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Cataldo Spitale]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Amedeo Amadei]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Luciano Alghisi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Antonio Campilongo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Miguel Ángel Pantó]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Francisco Providente]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Otello Subinaghi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Omero Urilli]]<ref name="p"/>|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/saison_id/1939/plus/1|titolo=Rosa AS Roma - Saison 39/40}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Cesare Francalancia]]|| {{Calcio MATER|N}} || ''fine prestito''
+|-
+| D ||[[Mario Acerbi]]|| {{Calcio Fanfulla|N}} || ''definitivo''
+|-
+| D ||[[Luigi Brunella]]|| {{Calcio Torino|N}} || ''definitivo''
+|-
+| D ||[[Enrico Schiavetti]]|| {{Calcio Palermo|N|1939}} ||''fine prestito''
+|-
+| C ||[[Naim Krieziu]]|| {{Calcio Tirana|N||1930}} || ''definitivo''
+|-
+| C ||[[Cataldo Spitale]]|| {{Calcio Platense|N}} || ''definitivo''
+|-
+| A ||[[Amedeo Amadei]]|| {{Calcio Atalanta|N}} ||''fine prestito''
+|-
+| A ||[[Antonio Campilongo]]|| {{Calcio Platense|N}} ||''definitivo''
+|-
+| A ||[[Miguel Ángel Pantó]]|| {{Calcio San Lorenzo|N}} ||''definitivo''
+|-
+| A ||[[Francisco Providente]]|| {{Calcio Flamengo|N}} ||''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Cesare Francalancia]]|| {{Calcio Sora|N}} || ''prestito''
+|-
+| P ||[[Archimede Nardi]]|| {{Calcio_Salernitana (1919-1922, 1929-1943)|N}}||''definitivo''
+|-
+| D ||[[Erminio Asin]]|| {{Calcio Lucchese|N}} ||''definitivo''
+|-
+| D ||[[Attilio Ferraris]] (IV)|| {{Calcio Catania|N}} || ''definitivo''
+|-
+| D ||[[Eraldo Monzeglio]]|| - ||''fine carriera''
+|-
+| D ||[[Enrico Schiavetti]]|| {{Calcio Sora|N}} ||''prestito''
+|-
+| C ||[[Fulvio Bernardini]]|| {{Calcio MATER|N}} ||''definitivo''
+|-
+| C ||[[Elio Bianchi]]|| {{Calcio Rimini|N}} || ''definitivo''
+|-
+| C ||[[Luigi Di Pasquale]]|| {{Calcio Padova|N}} ||''definitivo''
+|-
+| A ||[[Ermes Borsetti]]|| {{Calcio Torino|N}} || ''definitivo''
+|-
+| A ||[[Trentino Bui]]|| {{Calcio Atalanta|N}} || ''prestito''
+|-
+| A ||[[Oliviero Mascheroni]]|| {{Calcio Novara|N}} || ''definitivo''
+|-
+| A ||[[Danilo Michelini]]|| {{Calcio Torino|N}} || ''definitivo''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1939-1940}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 settembre
+|Anno = 1939
+|Ora = 15:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaBologna_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:10000}} circa
+|Arbitro = [[Attilio Soliani]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|24|rig.}}<br />[[Antonio Campilongo|Campilongo]] {{Goal|86}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 settembre
+|Anno = 1939
+|Ora =
+|Turno = 2ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940JuventusRoma_Il_Littoriale_03_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Municipale Benito Mussolini]]
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Alfredo Foni|Foni]] {{Goal|17|rig.}}
+|Marcatori 2 = {{Goal|20}} [[Aristide Coscia|Coscia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º ottobre
+|Anno = 1939
+|Ora = 15:00
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Venezia (1907-1987)
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3940RomaVenezia_Il_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:16000}} circa
+|Arbitro = [[Francesco Mattea]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|39}} [[Francesco Pernigo|Pernigo]]<br />{{Goal|53}} [[Guido Corbelli|Corbelli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 ottobre
+|Anno = 1939
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940NapoliRoma_Il_Littoriale_03_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Partenopeo]]
+|Spettatori = {{formatnum:12000}} circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|63}} [[Otello Subinaghi|Subinaghi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 ottobre
+|Anno = 1939
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Liguria
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3940RomaLiguria_Il_Littoriale_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:11000}} circa
+|Arbitro = [[Emiliano Saracini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|4}}<br />[[Miguel Ángel Pantó|Pantó]] {{Goal|51}}
+|Marcatori 2 = {{Goal|34||69}} [[Luciano Peretti|Peretti]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 ottobre
+|Anno = 1939
+|Ora =
+|Turno = 6ª giornata
+|Squadra 1 = Ambrosiana-Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940InterRoma_Il_Littoriale_03_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori= {{formatnum:10000}} circa
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Atilio Demaría|Demaría]] {{Goal|43}}<br />[[Umberto Guarnieri (calciatore)|Guarnieri]] {{Goal|50||68}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 ottobre
+|Anno = 1939
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = {{formatnum:8000}} circa
+|Referto = http://www.asromaultras.org/3940BariRoma_Il_Littoriale_03_af.JPG
+|Arbitro = [[Attilio Soliani]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 novembre
+|Anno = 1939
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Città = [[Roma]]
+|Referto = http://www.asromaultras.org/3940RomaTriestina_Il_Littoriale_04_af.JPG
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:8000}} circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|75}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 novembre
+|Anno = 1939
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940ModenaRoma_Il_Littoriale_04_af.jpg
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia|Stadio Cesare Marzari]]
+|Spettatori = {{formatnum:8000}} circa
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Raúl Banfi|Banfi]] {{Goal|27}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 dicembre
+|Anno = 1939
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaTorino_Il_Littoriale_05_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:15000}} circa
+|Arbitro = [[Luigi Pirovano (arbitro)|Luigi Pirovano]]
+|Cittarbitro = [[Monza]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 dicembre
+|Anno = 1939
+|Ora =
+|Turno = 11ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940FiorentinaRoma_Il_Littoriale_04_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Giovanni Berta]]
+|Spettatori = {{formatnum:10000}} circa
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Mario Celoria|Celoria]] {{Goal|10}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 dicembre
+|Anno = 1939
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaGenoa_Il_Littoriale_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:14000}} circa
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Luciano Alghisi|Alghisi]] {{Goal|3}}<br />[[Amedeo Amadei|Amadei]] {{Goal|20}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 dicembre
+|Anno = 1939
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Milano
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Città = [[Milano]]
+|Referto = http://www.asromaultras.org/3940MilanRoma_Il_Littoriale_02_af.jpg
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori = {{formatnum:12000}}
+|Arbitro = [[Giovanni Rosso (arbitro)|Giovanni Rosso]]
+|Cittarbitro = [[Casale Monferrato]]
+|Marcatori 1 = [[Aldo Boffi|Boffi]] {{Goal|13|rig.|58}}<br />[[Carlo Biraghi|Biraghi]] {{Goal|4}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 gennaio
+|Anno = 1940
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaLazie_Il_Littoriale_07_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:18000}} circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Antonio Campilongo|Campilongo]] {{Goal|5}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 gennaio
+|Anno = 1940
+|Ora =
+|Turno = 15ª giornata
+|Squadra 1 = Novara
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940NovaraRoma_Il_Littoriale_03_af.jpg
+|Città = [[Novara]]
+|Stadio = [[Stadio Enrico Patti|Stadio Littorio]]
+|Spettatori = {{formatnum:4000}} circa
+|Arbitro = [[Ferruccio Bonivento]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Marco Romano (calciatore)|Romano]] {{Goal|78|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 gennaio
+|Anno = 1940
+|Ora =
+|Turno = 16ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940BolognaRoma_Il_Littoriale_04_af.jpg
+|Spettatori = {{formatnum:5000}} circa
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Littoriale]]
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Héctor Puricelli|Puricelli]] {{Goal|27}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 gennaio
+|Anno = 1940
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940RomaJuventus_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:15000}} circa
+|Arbitro = [[Emiliano Saracini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Aristide Coscia|Coscia]] {{Goal|36}}<br/>[[Miguel Ángel Pantó|Pantó]] {{Goal|50}}<br/>[[Francisco Providente|Providente]]{{Goal|83}}
+|Marcatori 2 = {{Goal|69}} [[Mario Bo|Bo]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 febbraio
+|Anno = 1940
+|Ora =
+|Turno = 18ª giornata
+|Squadra 1 = Venezia (1907-1987)
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3940VeneziaRoma_02_af.JPG
+|Città = [[Venezia]]
+|Stadio = [[Stadio Pier Luigi Penzo]]
+|Spettatori = {{formatnum:6000}}  circa
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Francesco Pernigo|Pernigo]] {{Goal|47}}<br/>[[Luigi Busidoni|Busidoni]] {{Goal|55}}
+|Marcatori 2 = {{Goal|33}} [[Luciano Alghisi|Alghisi]]<br/>{{Goal|79|rig.}} [[Miguel Ángel Pantó|Pantó]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 febbraio
+|Anno = 1940
+|Ora = 15:00
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaNapoli_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:15000}} circa
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|42}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 febbraio
+|Anno = 1940
+|Ora =
+|Turno = 20ª giornata
+|Squadra 1 = Liguria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940LiguriaRoma_Il_Littoriale_03_af.JPG
+|Città = [[Cornigliano]]
+|Stadio = [[Stadio del Littorio]]
+|Spettatori = {{formatnum:6000}} circa
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Angelo Bollano|Bollano]] {{Goal|10}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 febbraio
+|Anno = 1940
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ambrosiana-Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3940RomaInter_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:16000}} circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Luciano Alghisi|Alghisi]] {{Goal|36}}
+|Marcatori 2 = {{Goal|65}} [[Annibale Frossi|Frossi]]<br />{{Goal|85}} [[Pietro Ferraris|Ferraris]] 
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 marzo
+|Anno = 1940
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3940RomaBari_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:10000}} circa
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|5}}<br/>[[Francisco Providente|Providente]] {{Goal|23}}<br/>[[Luciano Alghisi|Alghisi]] {{Goal|64}}<br />[[Aristide Coscia|Coscia]] {{Goal|90+1}}
+|Marcatori 2 = {{Goal|13}} [[Riza Lushta|Lushta]]<br/>{{Goal|75}} [[Felice Arienti|Arienti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 marzo
+|Anno = 1940
+|Ora =
+|Turno = 23ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940TriestinaRoma_Il_Littoriale_02_af.JPG
+|Città = [[Trieste]]
+|Stadio = [[Stadio Giuseppe Grezar|Stadio del Littorio]]
+|Spettatori = {{formatnum:7000}} circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Remo Costa|Costa]] {{Goal|24}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 marzo
+|Anno = 1940
+|Ora = 15:30
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaModena_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori ={{formatnum:5000}} circa
+|Arbitro = [[Ferruccio Bonivento]]
+|Cittarbitro = [[Venezia]]
+|Marcatori 1 = [[Luciano Alghisi|Alghisi]] {{Goal|3}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 marzo
+|Anno = 1940
+|Ora =
+|Turno = 25ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940TorinoRoma_Il_Littoriale_03_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori = {{formatnum:8000}}
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Federico Allasio|Allasio]] {{Goal|21}}<br/>[[Danilo Michelini|Michelini]] {{Goal|22}}<br/>[[Emilio Capri|Capri]] {{Goal|51||88}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 aprile
+|Anno = 1940
+|Ora =
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940RomaFiorentina_Il_Littoriale_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:7000}} circa
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 maggio
+|Anno = 1940
+|Ora =
+|Turno = 27ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940GenoaRoma_Il_Littoriale_03_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:4500}} circa
+|Arbitro = [[Alfredo Conticini]]
+|Cittarbitro = [[Firenze]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 maggio
+|Anno = 1940
+|Ora = 15:30
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milano
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940RomaMilan_Il_Littoriale_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:5000}} circa
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|9||20}}<br />[[Francisco Providente|Providente]] {{Goal|57}}
+|Marcatori 2 = {{Goal|70}} [[Pietro Buscaglia|Buscaglia]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 maggio
+|Anno = 1940
+|Ora = 15:30
+|Turno = 29ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3940LazioRoma_Il_Littoriale_04_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = {{formatnum:10000}} circa
+|Arbitro = [[Attilio Soliani]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Enrique Flamini|Flamini]] {{Goal|14}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 giugno
+|Anno = 1940
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Novara
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940RomaNovara_Il_Littoriale_07_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = {{formatnum:3000}} circa
+|Arbitro = [[Guido Marsciani]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Miguel Ángel Pantó|Pantó]] {{Goal|25|rig.}}<br />[[Aristide Coscia|Coscia]] {{Goal|32}}<br />[[Francisco Providente|Providente]] {{Goal|40}}
+|Marcatori 2 = {{Goal|77}} [[Remo Versaldi|Versaldi]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1939-1940}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 dicembre
+|Anno = 1939
+|Ora = 14:30
+|Turno = Sedicesimi di finale
+|Squadra 1 = Roma
+|Squadra 2 = Pontedera
+|Punteggio 1 = 6
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940RomaPontedera_CI_Il_Littoriale_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Aldo Nicolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Amedeo Amadei|Amadei]] {{Goal|2||34||68}}<br/>[[Miguel Ángel Pantó|Pantó]] {{Goal|60||85||88}}
+|Marcatori 2 = {{Goal|29}} [[Sergio Ulivieri|Ulivieri]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 aprile
+|Anno = 1940
+|Ora =
+|Turno = Ottavi di finale
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3940JuventusRoma_CI_Il_Littoriale_02_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Municipale Benito Mussolini]]
+|Spettatori = {{formatnum:5000}} circa
+|Arbitro = [[Attilio Soliani]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Felice Borel|Borel]] {{Goal|22|rig.|31}}<br/>[[Guglielmo Gabetto|Gabetto]] {{Goal|55}}
+|Marcatori 2 = {{Goal|27}} [[Aldo Donati (calciatore)|Donati]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor1/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1939-1940|Serie A]]
+|punti1=29
+|cv1=10
+|cn1=3
+|cp1=2
+|cgf1=24
+|cgs1=11
+|tv1=1
+|tn1=4
+|tp1=10
+|tgf1=4
+|tgs1=20
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1939-1940|Coppa Italia]]
+|punti2=
+|cv2=1
+|cn2=0
+|cp2=0
+|cgf2=6
+|cgs2=1
+|tv2=0
+|tn2=0
+|tp2=1
+|tgf2=1
+|tgs2=3
+}}
+=== Andamento in campionato ===
+Fonte=rsssf<ref name=rsssf>{{Cita web|url=http://www.rsssf.com/tablesi/ital40.html|titolo=Campionato 1939-40}}</ref>
+{{Andamento |nr=30}}
+{{Andamento/Luogo  |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=T |m14=C |m15=T |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=C }}
+{{Andamento/Risultato |m1=V |m2=N |m3=P |m4=V |m5=N |m6=P |m7=N |m8=V |m9=P |m10=N |m11=P |m12=V |m13=P |m14=V |m15=P |m16=P |m17=V |m18=N |m19=V |m20=P |m21=P |m22=V |m23=P |m24=V |m25=P |m26=N |m27=N |m28=V |m29=P |m30=V }}
+{{Andamento/Posizione |r=15 |m1=1 |m2=1 |m3=7 |m4=4 |m5=3 |m6=8 |m7=8 |m8=6 |m9=7 |m10=7 |m11=10 |m12=8 |m13=11 |m14=9 |m15=12 |m16=12 |m17=10 |m18=9 |m19=8 |m20=8 |m21=11 |m22=8 |m23=9 |m24=8 |m25=9 |m26=9 |m27=8 |m28=7 |m29=7 |m30=7 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Cartellini = no
+| {{Sortname|U.|Ceresa|Ugo Ceresa}} {{Sommastat|C=no|6|-4|?|? |1|-3|?|? }}
+| {{Sortname|G.|Masetti|Guido Masetti}} {{Sommastat|C=no|24|-27|?|? |1|-1|?|? }}
+| {{Sortname|M.|Acerbi|Mario Acerbi}} {{Sommastat|C=no|28|0|?|? |2|0|?|? }}
+| {{Sortname|L.|Brunella|Luigi Brunella}} {{Sommastat|C=no|5|0|?|? |1|0|?|? }}
+| {{Sortname|R.|Cipriani|Renato Cipriani}} {{Sommastat|C=no|1|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Gadaldi|Andrea Gadaldi}} {{Sommastat|C=no|27|0|?|? |1|0|?|? }}
+| {{Sortname|P.|Jacobini|Paolo Jacobini}} {{Sommastat|C=no|1|0|?|? |1|0|?|? }}
+| {{Sortname|G.|Bonomi|Giuseppe Bonomi (calciatore)|Giuseppe Bonomi}} {{Sommastat|C=no|28|0|?|? |2|0|?|? }}
+| {{Sortname|A.|Coscia|Aristide Coscia}} {{Sommastat|C=no|26|4|?|? |1|0|?|? }}
+| {{Sortname|M.|Degrassi|Mario Degrassi (1919)}} {{Sommastat|C=no|7|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Donati|Aldo Donati (calciatore)|Aldo Donati}} {{Sommastat|C=no|26|0|?|? |2|1|?|? }}
+| {{Sortname|A.|Fusco|Antonio Fusco (calciatore)|Antonio Fusco}} {{Sommastat|C=no|6|0|?|? |1|0|?|? }}
+| {{Sortname|N.|Krieziu|Naim Krieziu}} {{Sommastat|C=no|5|0|?|? |1|0|?|? }}
+| {{Sortname|P.|Serantoni|Pietro Serantoni}} {{Sommastat|C=no|10|0|?|? |1|0|?|? }}
+| {{Sortname|C.|Spitale|Cataldo Spitale}} {{Sommastat|C=no|21|0|?|? |1|0|?|? }}
+| {{Sortname|A.|Amadei|Amedeo Amadei}} {{Sommastat|C=no|22|2|?|? |1|3|?|? }}
+| {{Sortname|L.|Alghisi|Luciano Alghisi}} {{Sommastat|C=no|23|5|?|? |1|0|?|? }}
+| {{Sortname|A.|Campilongo|Antonio Campilongo}} {{Sommastat|C=no|10|2|?|? |1|0|?|? }}
+| {{Sortname|M.|Pantó|Miguel Ángel Pantó}} {{Sommastat|C=no|29|10|?|? |2|3|?|? }}
+| {{Sortname|F.|Providente|Francisco Providente}} {{Sommastat|C=no|19|4|?|? |1|0|?|? }}
+| {{Sortname|O.|Subinaghi|Otello Subinaghi}} {{Sommastat|C=no|6|1|?|? |0|0|?|? }}
+| {{Sortname|O.|Urilli|Omero Urilli}} {{Sommastat|C=no|0|0|?|? |0|0|?|? }}
+}}
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Carlo Fontanelli|titolo=Sorpasso ambrosiano, i campionati della stagione 1939-1940|editore=Geo Edizioni|anno=2004|pp=3-41}}
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+
+== Collegamenti esterni ==
+* {{cita web|http://www.rsssf.com/tablesi/ital40.html|Serie A 1939-1940|sito=[[RSSSF]]|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1939|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1939-1940}}
+{{Portale|calcio}}

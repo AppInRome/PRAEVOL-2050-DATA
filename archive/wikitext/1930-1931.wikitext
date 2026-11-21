@@ -1,0 +1,887 @@
+{{torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine =
+|didascalia =
+|stagione = 1930-1931
+|allenatore1 = {{Bandiera|ENG}} [[Herbert Burgess]]
+|presidente = {{Bandiera|ITA 1861-1946}} [[Renato Sacerdoti]]
+|campionato = [[Serie A 1930-1931|Serie A]]
+|campionato posizione = 2º (in Coppa dell'Europa Centrale)
+|presenze campionato = [[Cesare Augusto Fasanelli|Fasanelli]], [[Raffaele Costantino (1907)|Costantino]], [[Attilio Ferraris|Ferraris]] (34)
+|presenze totale =
+|marcatore campionato = [[Rodolfo Volk|Volk]] (28)
+|marcatore totale =
+|stadio = [[Campo Testaccio]]
+|stagione prima = [[Associazione Sportiva Roma 1929-1930|1929-1930]]
+|stagione dopo = [[Associazione Sportiva Roma 1931-1932|1931-1932]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1930-1931'''.
+==Stagione==
+Questa stagione si conclude per la squadra capitolina con il secondo posto in campionato, a soli quattro punti di distanza dalla {{Calcio Juventus|N}} campione, battuta nello stesso anno con la storica vittoria (5-0) al [[Campo Testaccio]].<ref name=cor1>{{cita|Romano|1927-1942 Dalla fondazione al primo scudetto}}.</ref>
+Da segnalare la prima vittoria di un calciatore giallorosso nella classifica riservata ai marcatori; il [[Fiume (Croazia)|fiumano]] [[Rodolfo Volk]] si laurea capocannoniere della Serie A con 28 reti, staccando di quattro lunghezze [[Giuseppe Meazza]] dell'[[Internazionale Football Club|Ambrosiana-Inter]].
+
+== Divise ==
+Nelle partite casalinghe la Roma utilizza una maglia rossa con collo a V giallo, calzoncini bianchi e calzettoni neri con banda giallorossa orizzontale. La seconda divisa è costituita da maglia bianca con collo a V giallorosso e gli stessi calzettoni e calzoncini della ''home''. I portieri hanno una maglia grigia con colletto a polo, pantaloncini e calzettoni neri, questi con banda giallorossa orizzontale come decorazione.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 24-25}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma2728h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = ff
+|pattern_b =_asroma3031a
+|body = 009E60
+|pattern_ra =
+|rightarm = ff
+|shorts = FFFFFF
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 858585
+|pattern_b =_asroma3031gk
+|body = 858585
+|pattern_ra =
+|rightarm = 858585
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = Portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor1/>
+{{Colonne}}
+;Area direttiva
+* Presidente: [[Renato Sacerdoti]]
+;Area tecnica
+* Allenatore: [[Herbert Burgess]]
+{{Colonne fine}}
+==Rosa==
+Di seguito la rosa.<ref name=transf2>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1930|titolo=Rosa AS Roma - Saison 30/31}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Guido Masetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Leonida Pallotta]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Gianangelo Barzan]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Bodini]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giorgio Carpi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Giovanni Degni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario De Micheli (calciatore)|Mario De Micheli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Attilio Mattei]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fulvio Bernardini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Bossi (calciatore 1909)|Mario Bossi]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Raffaele D'Aquino]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Augusto Fasanelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Pietro Ferrari (calciatore 1906)|Pietro Ferrari]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Attilio Ferraris]]|ruolo=C|altro=c}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Nicola Italo Lombardo]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Arturo Chini Ludueña]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Raffaele Costantino (1907)|Raffaele Costantino]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fernando Eusebio]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Rodolfo Volk]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref name=transf>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/saison_id/1930/plus/1|titolo=Rosa AS Roma - Saison 30/31}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| P ||[[Guido Masetti]] || {{Calcio Verona|NB}} || ''definitivo''
+|-
+| D ||[[Renato Bodini]] || {{Calcio Cremonese|NB}}||''definitivo''
+|-
+| C ||[[Pietro Ferrari (calciatore 1906)|Pietro Ferrari]]|| {{Calcio Derthona|NB}} ||''definitivo''
+|-
+| C ||[[Nicola Italo Lombardo]]|| - ||''svincolato''
+|-
+| A ||[[Raffaele Costantino (1907)|Raffaele Costantino]] || {{Calcio Bari|NB}} ||''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Bruno Ballanti]] || {{Calcio Fiorentina|NB}} ||''definitivo''
+|-
+| D ||[[Giovanni Corbyons]] || {{Calcio Fiorentina|NB}} ||''definitivo''
+|-
+| D ||Bruno Finesi || - ||''svincolato''
+|-
+| C ||[[Oreste Benatti]]|| {{Calcio Lecce|NB}} ||''definitivo''
+|-
+| C ||[[Walter Corsanini]] || {{Calcio Cremonese|NB}} ||''definitivo''
+|-
+| C ||[[Pietro Dalle Vedove]]|| {{Calcio Cremonese|NB}} ||''definitivo''
+|-
+| C ||[[Armando Preti]] || {{Calcio Lecce|NB}} ||''definitivo''
+|-
+| C ||[[Alfredo Welby]] || {{Calcio Reggina|NB}} ||''definitivo''
+|-
+| A ||[[Luigi Ossoinach]]|| {{Calcio Cagliari|NB}} ||''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1930-1931}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 settembre
+|Anno = 1930
+|Ora =
+|Turno = 1ª giornata
+|Squadra 1 = Modena
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3031ModenaRoma.html
+|Città = [[Modena]]
+|Stadio = [[Stadio Alberto Braglia|Campo di Viale Fontanelli]]
+|Spettatori =
+|Arbitro = [[Rodolfo Zorzi]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 = [[Antonio Carnevali|Carnevali]] {{Goal|69}}
+|Marcatori 2 = {{Goal|79}} [[Cesare Augusto Fasanelli|Fasanelli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 ottobre
+|Anno = 1930
+|Ora = 15:00 [[CET]]
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Alessandria
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031RomaAlessandria.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|46}}<br />[[Raffaele Costantino (1907)|Costantino]] {{Goal|89}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 ottobre
+|Anno = 1930
+|Ora =
+|Turno = 3ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031TriestinaRoma.html
+|Città = [[Trieste]]
+|Stadio = Stadio Montebello
+|Spettatori =
+|Arbitro = [[Rodolfo Zorzi]]
+|Cittarbitro = [[Udine]]
+|Marcatori 1 =
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 ottobre
+|Anno = 1930
+|Ora =
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3031RomaNapoli.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Nicola Italo Lombardo|Lombardo]] {{Goal|17}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|58}}<br />[[Rodolfo Volk|Volk]] {{Goal|85}}
+|Marcatori 2 = {{Goal|71|rig.}} [[Mariano Tansini|Tansini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 ottobre
+|Anno = 1930
+|Ora =
+|Turno = 5ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3031JuventusRoma.html
+|Città = [[Torino]]
+|Stadio = [[Campo Juventus]]
+|Spettatori =
+|Arbitro = [[Felice Rovida]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Federico Munerati|Munerati]] {{Goal|8}}<br />[[Renato Cesarini|Cesarini]] {{Goal|18}}<br />[[Raimundo Orsi|Orsi]] {{Goal|61}}
+|Marcatori 2 = {{Goal|4}} [[Cesare Augusto Fasanelli|Fasanelli]]<br />{{Goal|63}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 novembre
+|Anno = 1930
+|Ora =
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Patria
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3031RomaProPatria.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Raffaele Mastellari]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Rodolfo Volk|Volk]] {{Goal|32||49}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 novembre
+|Anno = 1930
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 3
+|Referto =http://www.asromaultras.org/3031BolognaRoma.html
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio del Littoriale]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Carlo Reguzzoni|Reguzzoni]] {{Goal|8}}<br />[[Bruno Maini|Maini]] {{Goal|25|28}}
+|Marcatori 2 = {{Goal|22}} [[Arturo Chini Ludueña|Chini]]<br />{{Goal|66}} [[Nicola Italo Lombardo|Lombardo]]<br />{{Goal|86}} [[Rodolfo Volk|Volk]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 novembre
+|Anno = 1930
+|Ora = 14:30 [[CET]]
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Casale
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3031RomaCasale.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Piero Giorgi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Fulvio Bernardini|Bernardini]] {{Goal|9}}<br />[[Rodolfo Volk|Volk]] {{Goal|15||52}}
+|Marcatori 2 = {{Goal|79}} [[Angelo Mattea|Mattea]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 novembre
+|Anno = 1930
+|Ora =14:30 [[CET]]
+|Turno = 9ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto =http://www.asromaultras.org/3031LivornoRoma.html
+|Città = [[Livorno]]
+|Stadio = [[Campo di Villa Chayes]]
+|Spettatori =
+|Arbitro = [[Raffaele Mastellari]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Mario Baldi|Baldi]] {{Goal|49}}
+|Marcatori 2 = {{Goal|11}} [[Fulvio Bernardini|Bernardini]]<br />{{Goal|31||55}} [[Rodolfo Volk|Volk]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 novembre
+|Anno = 1930
+|Ora =14:30 [[CET]]
+|Turno = 10ª giornata
+|Squadra 1 = Pro Vercelli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto =http://www.asromaultras.org/3031ProVercelliRoma.html
+|Città = [[Vercelli]]
+|Stadio = [[Campo piazza Conte di Torino]]
+|Spettatori =
+|Arbitro = [[Carlo Garbieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 2 = {{Goal|8}} [[Arturo Chini Ludueña|Chini]]<br />{{Goal|13}} [[Raffaele Costantino (1907)|Costantino]]<br />{{Goal|27}} [[Fernando Eusebio|Eusebio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 dicembre
+|Anno = 1930
+|Ora = 14:30 [[CET]]
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3031RomaLazie.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Rodolfo Volk|Volk]] {{Goal|76}}
+|Marcatori 2 = {{Goal|34}} [[Alfredo Foni|Foni]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport =calcio
+|Giornomese =14 dicembre
+|Anno = 1930
+|Ora = 14:30 [[CET]]
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ambrosiana
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3031RomaInter.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Carlo Garbieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Arturo Chini Ludueña|Chini]] {{Goal|5}}<br />[[Rodolfo Volk|Volk]] {{Goal|28}}
+|Marcatori 2 = [[Giuseppe Meazza|Meazza]] {{Goal|58}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 dicembre
+|Anno = 1930
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.asromaultras.org/3031TorinoRoma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Gino Rossetti|Rossetti]] {{Goal|73}}
+|Marcatori 2 = {{Goal|11}} [[Raffaele Costantino (1907)|Costantino]]<br />{{Goal|15|aut.}} [[Maggiorino Mongero|Mongero]]<br />{{Goal|25||54}} [[Rodolfo Volk|Volk]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 gennaio
+|Anno = 1931
+|Ora = 14:30 [[CET]]
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Legnano
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3031RomaLegnano.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Piero Giorgi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Rodolfo Volk|Volk]] {{Goal|11}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|50}}<br />[[Fulvio Bernardini|Bernardini]] {{Goal|59}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 gennaio
+|Anno = 1931
+|Ora = 14:30 [[CET]]
+|Turno = 15ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3031GenovaRoma.html
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris|Campo di Via del Piano]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 gennaio
+|Anno = 1931
+|Ora =14:30 [[CET]]
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3031RomaMilan.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Piero Giorgi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|48}}
+|Marcatori 2 = {{Goal|25}} [[Pietro Arcari|Arcari]]<br />{{Goal|56}} [[Roberto Sternisa|Sternisa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º febbraio
+|Anno = 1931
+|Ora = 15:30 [[CEST]]
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031RomaBrescia.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Rodolfo Volk|Volk]] {{Goal|48}}<br />[[Fulvio Bernardini|Bernardini]] {{Goal|54}}<br />[[Nicola Italo Lombardo|Lombardo]] {{Goal|75}}
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 febbraio
+|Anno = 1931
+|Ora = 14:30 [[CET]]
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Modena
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3031RomaModena.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Rodolfo Zorzi]]
+|Cittarbitro = [[Belluno]]
+|Marcatori 1 = [[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|17||63}}<br />[[Rodolfo Volk|Volk]] {{Goal|48||55}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 febbraio
+|Anno = 1931
+|Ora =
+|Turno = 19ª giornata
+|Squadra 1 = Alessandria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3031AlessandriaRoma.html
+|Città = [[Alessandria (Italia)|Alessandria]]
+|Stadio = [[Stadio Giuseppe Moccagatta|Campo del Littorio]]
+|Spettatori =
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|56|aut.}} [[Guglielmo Panzetti|Panzetti]]<br />{{Goal|75}} [[Arturo Chini Ludueña|Chini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º marzo
+|Anno = 1931
+|Ora = 14:30 [[CET]]
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031RomaTriestina.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Rodolfo Volk|Volk]] {{Goal|7}}<br />[[Nicola Italo Lombardo|Lombardo]] {{Goal|43}}<br />[[Arturo Chini Ludueña|Chini]] {{Goal|76}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 marzo
+|Anno = 1931
+|Ora =
+|Turno = 21ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031NapoliRoma.html
+|Città = [[Napoli]]
+|Stadio = [[Stadio Partenopeo|Stadio Giorgio Ascarelli]]
+|Spettatori =
+|Arbitro = [[Felice Rovida]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Marcello Mihalich|Mihalich]] {{Goal|2||46}}<br />[[Attila Sallustro|Sallustro]] {{Goal|55}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 marzo
+|Anno = 1931
+|Ora =15:00 [[CET]]
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031RomaJuventus.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Nicola Italo Lombardo|Lombardo]] {{Goal|6}}<br />[[Rodolfo Volk|Volk]] {{Goal|46}}<br />[[Fulvio Bernardini|Bernardini]] {{Goal|62|rig.|79}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|88}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 marzo
+|Anno = 1931
+|Ora =
+|Turno = 23ª giornata
+|Squadra 1 = Pro Patria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 4
+|Referto =http://www.asromaultras.org/3031ProPatriaRoma.html
+|Città = [[Busto Arsizio]]
+|Stadio = [[Stadio Carlo Speroni|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Rodolfo Zorzi]]
+|Cittarbitro = [[Belluno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|16}} [[Arturo Chini Ludueña|Chini]]<br />{{Goal|19||90}} [[Cesare Augusto Fasanelli|Fasanelli]]<br />{{Goal|22}} [[Rodolfo Volk|Volk]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 aprile
+|Anno = 1931
+|Ora =16:00 [[CEST]]
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3031RomaBologna.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Felice Rovida]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Rodolfo Volk|Volk]] {{Goal|26}}<br />[[Arturo Chini Ludueña|Chini]] {{Goal|29}}
+|Marcatori 2 = {{Goal|53}} [[Giuseppe Muzzioli|Muzzioli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 aprile
+|Anno = 1931
+|Ora =
+|Turno = 25ª giornata
+|Squadra 1 = Casale
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto =http://www.asromaultras.org/3031CasaleRoma.html
+|Città = [[Casale Monferrato]]
+|Stadio = [[Stadio Natale Palli]]
+|Spettatori =
+|Arbitro = [[Rodolfo Zorzi]]
+|Cittarbitro = [[Belluno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|35}} [[Arturo Chini Ludueña|Chini]]<br />{{Goal|48}} [[Nicola Italo Lombardo|Lombardo]]<br />{{Goal|65}} [[Rodolfo Volk|Volk]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 maggio
+|Anno = 1931
+|Ora = 15:00 [[CEST]]
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 7
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3031RomaLivorno.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|2||15||19||44||64}}<br />[[Rodolfo Volk|Volk]] {{Goal|13}}<br />[[Fernando Eusebio|Eusebio]] {{Goal|33}}
+|Marcatori 2 = {{Goal|10|aut.}} [[Attilio Ferraris|Ferraris]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 maggio
+|Anno = 1931
+|Ora = 15:00 [[CEST]]
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Pro Vercelli
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3031RomaProVercelli.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Nereo Bertoli]]
+|Cittarbitro = [[Vicenza]]
+|Marcatori 1 = [[Raffaele Costantino (1907)|Costantino]] {{Goal|20||29}}<br />[[Rodolfo Volk|Volk]] {{Goal|24}}<br />[[Arturo Chini Ludueña|Chini]] {{Goal|26}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|85}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 maggio
+|Anno = 1931
+|Ora = 16:30 [[CEST]]
+|Turno = 28ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto =http://www.asromaultras.org/3031LazieRoma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = [[Umberto Gama]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Piero Pastore|Pastore]] {{Goal|14}}<br />[[João Fantoni|Fantoni]] {{Goal|49}}
+|Marcatori 2 = {{Goal|47}} [[Rodolfo Volk|Volk]]<br />{{Goal|87}} [[Renato Bodini|Bodini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 maggio
+|Anno = 1931
+|Ora =15:00 [[CEST]]
+|Turno = 29ª giornata
+|Squadra 1 = Ambrosiana
+|Squadra 2 = Roma
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031InterRoma.html
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori =
+|Arbitro = [[Albino Carraro]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Giuseppe Meazza|Meazza]] {{Goal|30||51}}<br />[[Umberto Visentin|Visentin]] {{Goal|62|rig.}}<br />[[Luigi Ferrero|Ferrero]] {{Goal|65}}<br />[[Antonio Blasevich|Blasevich]] {{Goal|67}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 giugno
+|Anno = 1931
+|Ora =16:00 [[CEST]]
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 5
+|Punteggio 2 = 1
+|Referto =http://www.asromaultras.org/3031RomaTorino.html
+|Città = [[Terni]]
+|Stadio = [[Stadio Viale Brin]] <ref>Partita giocata in campo neutro a [[Terni]] per la squalifica dello stadio [[Campo Testaccio]] di [[Roma]] a causa di una rissa tra giocatori e seguente invasione di campo da parte dei sostenitori di entrambe le squadre al fischio finale di Lazio-Roma del 24 maggio 1931. cfr. {{cita news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,5/articleid,1149_01_1931_0127_0005_24392786/anews,true/|titolo= Il Direttorio calcistico - Gravissimi provvedimenti per Roma, Lazio e Napoli| pubblicazione=[[La Stampa]]|data=29 maggio 1931|p=5}}</ref>
+|Spettatori =
+|Arbitro = [[Giovanni Gonani]]
+|Cittarbitro = [[Ravenna]]
+|Marcatori 1 = [[Raffaele Costantino (1907)|Costantino]] {{Goal|10||18||53}}<br />[[Cesare Augusto Fasanelli|Fasanelli]] {{Goal|32}}<br />[[Rodolfo Volk|Volk]] {{Goal|52}}
+|Marcatori 2 = {{Goal|85}} [[Julio Libonatti|Libonatti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 giugno
+|Anno = 1931
+|Ora =16:30 [[CEST]]
+|Turno = 31ª giornata <ref>Giornata di campionato interamente anticipata su disposizione del [[Direttorio Divisioni Superiori]] per permettere la conclusione del torneo entro il {{data|30|06|1931}}</ref>
+|Squadra 1 = Legnano
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031LegnanoRoma.html
+|Città = [[Legnano]]
+|Stadio = [[Stadio Giovanni Mari|Stadio di via Carlo Pisacane]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 giugno
+|Anno = 1931
+|Ora =16:45 [[CEST]]
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto =http://www.asromaultras.org/3031RomaGenoa.html
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori =
+|Arbitro = [[Felice Rovida]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Arturo Chini Ludueña|Chini]] {{Goal|43||58}}<br />[[Nicola Italo Lombardo|Lombardo]] {{Goal|49}}<br />[[Fulvio Bernardini|Bernardini]] {{Goal|58}}<br />[[Rodolfo Volk|Volk]] {{Goal|84}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 giugno
+|Anno = 1931
+|Ora =
+|Turno = 33ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto =http://www.asromaultras.org/3031MilanRoma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza|Stadio San Siro]]
+|Spettatori =
+|Arbitro = [[Costante Pessato]]
+|Cittarbitro = [[Monfalcone]]
+|Marcatori 2 = {{Goal|71||75}} [[Rodolfo Volk|Volk]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 giugno
+|Anno = 1931
+|Ora =
+|Turno = 34ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3031BresciaRoma.html
+|Città = [[Brescia]]
+|Stadio = [[Stadium di Viale Piave]]
+|Spettatori =
+|Arbitro = [[Camillo Caironi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Giovanni Braga|Braga]] {{Goal|28}}<br />[[Mario Maffioli|Maffioli]] {{Goal|36}}<br />[[Luigi Giuseppe Giuliani|Giuliani]] {{Goal|46}}
+|Marcatori 2 = {{Goal|1|aut.}} [[Angelo Pasolini|Pasolini]]<br />{{Goal|20}} [[Nicola Italo Lombardo|Lombardo]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor1/>
+{{Statistiche_squadra
+|comp1=[[Serie A 1930-1931|Serie A]]
+|punti1=51
+|cv1=15
+|cn1=1
+|cp1=1
+|cgf1=56
+|cgs1=9
+|tv1=7
+|tn1=6
+|tp1=4
+|tgf1=31
+|tgs1=22
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=T |m11=C |m12=C |m13=T |m14=C |m15=T |m16=C |m17=C |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=C |m28=T |m29=T |m30=C |m31=T |m32=C |m33=T |m34=T}}
+{{Andamento/Risultato |m1=N |m2=V |m3=N |m4=V |m5=P |m6=V |m7=N |m8=V |m9=V |m10=V |m11=N |m12=V |m13=V |m14=V |m15=N |m16=P |m17=V |m18=V |m19=V |m20=V |m21=P |m22=V |m23=V |m24=V |m25=V |m26=V |m27=V |m28=N |m29=P |m30=V |m31=N |m32=V |m33=V |m34=P}}
+{{Andamento/Posizione |r=17 |m1=7 |m2=3 |m3=3 |m4=2 |m5=5 |m6=3 |m7=3 |m8=2 |m9=2 |m10=2 |m11=2 |m12=2 |m13=2 |m14=2 |m15=2 |m16=2 |m17=2 |m18=2 |m19=2 |m20=2 |m21=2 |m22=2 |m23=2 |m24=2 |m25=2 |m26=2 |m27=2 |m28=2 |m29=2 |m30=2 |m31=2 |m32=2 |m33=2 |m34=2}}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.
+{{Statistiche dei giocatori
+| Competizione1 = Divisione Nazionale
+| Cartellini = no
+| Totale = no
+| {{Sortname|G.|Masetti|Guido Masetti}} {{Sommastat|C=no |32|-29|?|?}}
+| {{Sortname|L.|Pallotta|Leonida Pallotta}} {{Sommastat|C=no |2|-2|?|?}}
+| {{Sortname|G.|Barzan|Gianangelo Barzan}} {{Sommastat|C=no |1|0|?|?}}
+| {{Sortname|R.|Bodini|Renato Bodini}} {{Sommastat|C=no |27|1|?|?}}
+| {{Sortname|G.|Carpi|Giorgio Carpi}} {{Sommastat|C=no |1|0|?|?}}
+| {{Sortname|G.|Degni|Giovanni Degni}} {{Sommastat|C=no |16|0|?|?}}
+| {{Sortname|M.|De Micheli|Mario De Micheli (calciatore)}} {{Sommastat|C=no |16|0|?|?}}
+| {{Sortname|A.|Mattei|Attilio Mattei}} {{Sommastat|C=no |5|0|?|?}}
+| {{Sortname|F.|Bernardini|Fulvio Bernardini}} {{Sommastat|C=no |31|7|?|?}}
+| {{Sortname|M.|Bossi|Mario Bossi (calciatore 1909)}} {{Sommastat|C=no |6|0|?|?}}
+| {{Sortname|R.|D'Aquino|Raffaele D'Aquino}} {{Sommastat|C=no |33|0|?|?}}
+| {{Sortname|C.|Fasanelli|Cesare Augusto Fasanelli}} {{Sommastat|C=no |34|18|?|?}}
+| {{Sortname|P.|Ferrari|Pietro Ferrari (calciatore 1906)}} {{Sommastat|C=no |1|0|?|?}}
+| {{Sortname|A.|Ferraris|Attilio Ferraris}} {{Sommastat|C=no |34|0|?|?}}
+| {{Sortname|N.|Lombardo|Nicola Italo Lombardo}} {{Sommastat|C=no |30|8|?|?}}
+| {{Sortname|A.|Chini|Arturo Chini Ludueña}} {{Sommastat|C=no |33|12|?|?}}
+| {{Sortname|R.|Costantino |Raffaele Costantino (1907)}} {{Sommastat|C=no |34|8|?|?}}
+| {{Sortname|F.|Eusebio|Fernando Eusebio}} {{Sommastat|C=no |5|2|?|?}}
+| {{Sortname|R.|Volk|Rodolfo Volk}} {{Sommastat|C=no |33|28|?|?}}
+}}
+
+==Note==
+<References/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital31.html|Serie A 1930-1931 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1930|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1930-1931}}
+{{Portale|calcio}}

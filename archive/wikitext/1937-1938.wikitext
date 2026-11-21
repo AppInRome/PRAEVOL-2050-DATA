@@ -1,0 +1,888 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1937-1938
+|immagine = Asroma 1937.jpg
+|didascalia = Una formazione della Roma nel 1937-1938
+|allenatore1 = {{Bandiera|ITA 1861-1946}} [[Guido Ara]]
+|presidente = {{Bandiera|ITA 1861-1946}} Igino Betti
+|campionato = [[Serie A 1937-1938|Serie A]]
+|campionato posizione = 6º 
+|coppa1 = [[Coppa Italia 1937-1938|Coppa Italia]]
+|coppa1 posizione = Ottavi di Finale
+|presenze campionato = [[Andrea Gadaldi|Gadaldi]], [[Ermes Borsetti|Borsetti]] (30)
+|presenze totale = Gadaldi, Borsetti (32)
+|marcatore campionato = [[Danilo Michelini|Michelini]] (16)
+|marcatore totale = Michelini (18)
+|stadio = [[Campo Testaccio]]<ref>(1ª-5ª)</ref><br />[[Stadio Nazionale|del Partito Nazionale Fascista]]<ref>(6ª-30ª)</ref>
+|stagione prima = [[Associazione Sportiva Roma 1936-1937|1936-1937]]
+|stagione dopo = [[Associazione Sportiva Roma 1938-1939|1938-1939]]
+}}
+
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1937-1938'''.
+==Stagione==
+In questa stagione, a causa della ristrutturazione del [[Campo Testaccio]], la squadra si trasferisce nello [[Stadio Nazionale]]; al Testaccio gioca solo le prime tre gare di campionato con {{Calcio Fiorentina|N}}, {{Calcio Napoli|N}} e {{Calcio Lucchese|N}}. La Roma risanata nel deficit, dopo la vendita di molti giocatori e dopo il precoce abbandono del giovane attaccante [[Dante Di Benedetti|Di Benedetti]], scopre un nuovo talento acquistato dalla Lucchese, il giovanissimo centravanti [[Danilo Michelini]] che sigla 16 reti nella sua stagione di esordio in giallorosso. La squadra capitolina guidata dal nuovo allenatore [[Guido Ara]], ex Fiorentina, termina la stagione al sesto posto in campionato con 36 punti.<ref name=cor1>{{cita|Romano|1927-1942 Dalla fondazione al primo scudetto}}.</ref> In [[Coppa Italia 1937-1938|Coppa Italia]] la Roma supera nei sedicesimi di finale (3-1) il {{Calcio Pontedera|N}}, mentre negli ottavi soccombe (2-4) contro il Napoli.
+
+== Divise ==
+La divisa primaria della Roma è costituita da maglia rossa, pantaloncini bianchi e calzettoni neri con banda giallorossa orizzontale; la seconda divisa presenta una maglia bianca, pantaloncini e calzettoni neri, questi con una banda giallorossa orizzontale; in alcune partite fuori casa viene usata una divisa completamente nera, con i calzettoni ornati da una banda giallorossa orizzontale. I portieri hanno due divise, entrambe nere: la prima presenta decorazioni circolari gialle nella parte superiore della maglia, la seconda ha colletto a polo e bordi manica bianchi.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 36-39}}.</ref>
+{|
+|-
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 880000
+|pattern_b =
+|body = 880000
+|pattern_ra =
+|rightarm = 880000
+|shorts = FFFFFF
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b = _vneck
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 000000
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma3233h2
+|body = 030347
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = Terza divisa
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma3637gk1
+|body = 858585
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = 1ª div. portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_whiteborder
+|leftarm = 000000
+|pattern_b =_asroma3637gk2
+|body = 858585
+|pattern_ra =_whiteborder
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma30s
+|socks = 030347
+|title = 2ª div. portiere
+}}
+|}
+
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor1/>
+{{Colonne}}
+;Area direttiva
+* Presidente:  Igino Betti
+;Area tecnica
+* Allenatore: [[Guido Ara]]
+{{Colonne fine}}
+
+==Rosa==
+Di seguito la rosa.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1937|titolo=Rosa AS Roma - Saison 37/38}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Francalancia]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Guido Masetti]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Cesare Valinasso]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Erminio Asin]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Renato Cipriani]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Andrea Gadaldi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Eraldo Monzeglio]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Enrico Schiavetti]]<ref>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Fulvio Bernardini]]|ruolo=C|altro=[[Capitano (calcio)|capitano]]}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Mario Degrassi (1919)|Mario Degrassi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Aldo Donati (calciatore)|Aldo Donati]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Evaristo Frisoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Antonio Fusco (calciatore)|Antonio Fusco]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Alfredo Mazzoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Franco Scaramelli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Pietro Serantoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Amedeo Amadei]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Ermes Borsetti]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Oliviero Mascheroni]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Danilo Michelini]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA 1861-1946|nome=[[Otello Subinaghi]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+==Calciomercato==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/saison_id/1937/plus/1|titolo=Rosa AS Roma - Saison 37/38}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D ||[[Erminio Asin]]|| {{Calcio Ponziana|NB}} ||''definitivo''
+|-
+| C ||[[Mario De Grassi (1919)|Mario De Grassi]]|| {{Calcio Monfalcone|NB}} ||''definitivo''
+|-
+| C ||[[Aldo Donati (calciatore)|Aldo Donati]]|| {{Calcio Bologna|NB}} ||''definitivo''
+|-
+| C ||[[Ermes Borsetti]]|| {{Calcio Fiorentina|NB}} ||''definitivo''
+|-
+| A ||[[Oliviero Mascheroni]]|| {{Calcio Sanremese|NB}} ||''definitivo''
+|-
+| A ||[[Danilo Michelini]]|| {{Calcio Lucchese|NB}} ||''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Archimede Nardi]]|| {{Calcio Lazio|NB}} ||''definitivo''
+|-
+| D ||[[Luigi Allemandi]] || {{Calcio Venezia (1907-1987)|NB}}||''definitivo''
+|-
+| D ||[[Roberto Allemandi]]|| {{Calcio Salernitana (1919-1922, 1929-1943)|NB}} ||''definitivo''
+|-
+| D ||[[Nazzareno Celestini]]|| {{Calcio MATER|NB}} ||''definitivo''
+|-
+| D ||[[Alfredo Marini]]|| {{Calcio Rimini|NB}} ||''definitivo''
+|-
+| C ||[[Renato Cattaneo (1903)|Renato Cattaneo]]|| {{Calcio Asti|NB}} ||''definitivo''
+|-
+| C ||[[Ugo Cerroni]]|| {{Calcio Fiorentina|NB}} ||''definitivo''
+|-
+| C ||[[Gastone Prendato]]|| {{Calcio Padova|NB}} ||''definitivo''
+|-
+| C ||[[Glauco Signorini]]|| - ||''svincolato''
+|-
+| C ||[[Ernesto Tomasi]]|| {{Calcio Juventus|NB}} || ''definitivo''
+|-
+| A ||[[Dante Di Benedetti]]|| {{Calcio Fiorentina|NB}} || ''definitivo''
+|-
+| A ||[[Domenico D'Alberto]]|| {{Calcio Lucchese|NB}} || ''definitivo''
+|-
+| A ||[[Mario Marchegiani]]|| {{Calcio Sanremese|NB}} ||''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{vedi anche|Serie A 1937-1938}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 1937
+|Ora = 15:30
+|Turno = 1ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738RomaFiorentina_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|7||46||49}}<br/>[[Franco Scaramelli|Scaramelli]] {{Goal|39}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 1937
+|Ora =
+|Turno = 2ª giornata
+|Squadra 1 = Liguria
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Città = [[Cornigliano]]
+|Stadio = [[Stadio del Littorio]]
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Luciano Peretti|Peretti]] {{Goal|73}}
+|Marcatori 2 = {{Goal|20}} [[Pietro Serantoni|Serantoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 1937
+|Ora = 15:30
+|Turno = 3ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaNapoli_Il_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|50}}<br/>[[Oliviero Mascheroni|Mascheroni]] {{Goal|83}}
+|Marcatori 2 = {{Goal|69}} [[Giuseppe Gerbi|Gerbi]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 1937
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738LazieRoma_Il_Littoriale_03_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 25.000 circa
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Silvio Piola|Piola]] {{Goal|66}}
+|Marcatori 2 = {{Goal|89}} [[Evaristo Frisoni|Frisoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 ottobre
+|Anno = 1937
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lucchese
+|Punteggio 1 = 5
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738RomaLucchese_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Campo Testaccio]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Emiliano Saracini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Ermes Borsetti|Borsetti]] {{Goal|41||71}}<br/>[[Otello Subinaghi|Subinaghi]] {{Goal|59}}<br/>[[Danilo Michelini|Michelini]] {{Goal|73}}<br/>[[Oliviero Mascheroni|Mascheroni]] {{Goal|77}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 ottobre
+|Anno = 1937
+|Ora =
+|Turno = 6ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3738AtalantaRoma_Il_Littoriale_04_af.JPG
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Mario Brumana]]
+|Spettatori= 8.000 circa
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 2 = {{Goal|2}} [[Danilo Michelini|Michelini]]<br/>{{Goal|25}} [[Oliviero Mascheroni|Mascheroni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 1937
+|Ora =
+|Turno = 7ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Littoriale]]
+|Spettatori = 15.000 circa
+|Referto = http://www.asromaultras.org/3738BolognaRoma_Il_Littoriale_03_af.JPG
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Bruno Maini|Maini]] {{Goal|37||61}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 1937
+|Ora = 14:30
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Città = [[Roma]]
+|Referto = http://www.asromaultras.org/3738RomaTorino_Il_Littoriale_04_af.JPG
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 15.000 circa
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|4}}<br/>[[Ermes Borsetti|Borsetti]] {{Goal|45}}
+|Marcatori 2 = {{Goal|73}} [[Gino Rossetti|Rossetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 novembre
+|Anno = 1937
+|Ora =
+|Turno = 9ª giornata
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738BariRoma_Il_Littoriale_04_af.JPG
+|Città = [[Bari]]
+|Stadio = [[Stadio della Vittoria (Bari)|Stadio della Vittoria]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Emiliano Saracini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Francesco Capocasale|Capocasale]] {{Goal|54}}<br />[[Cesare Grossi|Grossi]] {{Goal|57}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 novembre
+|Anno = 1937
+|Ora =
+|Turno = 10ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/milan%20roma%2037-38%20c.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Giovanni Moretti|Moretti]] {{Goal|45}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 1937
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaJuventus_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Mario Scotto]]
+|Cittarbitro = [[Savona]]
+|Marcatori 1 = [[Otello Subinaghi|Subinaghi]] {{Goal|5}}<br/>[[Oliviero Mascheroni|Mascheroni]] {{Goal|15}}
+|Marcatori 2 = {{Goal|19}} [[Felice Borel|Borel]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 1937
+|Ora =
+|Turno = 12ª giornata
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3738LivornoRoma_Il_Littoriale_03_af.JPG
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Edda Ciano Mussolini]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Giacomo Bertolio]]
+|Cittarbitro = [[Torino]]
+|Marcatori 2 = {{Goal|18}} [[Danilo Michelini|Michelini]]<br/>{{Goal|88}} [[Ermes Borsetti|Borsetti]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 1937
+|Ora =
+|Turno = 13ª giornata
+|Squadra 1 = Triestina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Città = [[Trieste]]
+|Referto = http://www.asromaultras.org/3738TriestinaRoma_Il_Littoriale_04_af.JPG
+|Stadio = [[Stadio Giuseppe Grezar|Stadio del Littorio]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 gennaio
+|Anno = 1938
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Ambrosiana-Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaInter_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 22.000 circa
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Ermes Borsetti|Borsetti]] {{Goal|53}}
+|Marcatori 2 = {{Goal|41}} [[Pietro Ferraris|Ferraris]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 1938
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/3738RomaGenoa_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|67}}
+|Marcatori 2 = {{Goal|43}} [[Pietro Arcari|Arcari]]<br/>{{Goal|61}} [[Giorgio Barsanti|Barsanti]]<br/>{{Goal|75}} [[Giuseppe Bigogno|Bigogno]]
+|Sfondo =
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 1938
+|Ora =
+|Turno = 16ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.asromaultras.org/3738FiorentinaRoma_Il_Littoriale_06_af.JPG
+|Spettatori = 6.000 circa
+|Città = [[Firenze]]
+|Stadio = [[Stadio Giovanni Berta]]
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Dante Di Benedetti|Di Benedetti]] {{Goal|9}}
+|Marcatori 2 = {{Goal|4||61}} [[Otello Subinaghi|Subinaghi]]<br/>{{Goal|44}} [[Oliviero Mascheroni|Mascheroni]]<br/>{{Goal|75}} [[Danilo Michelini|Michelini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 1938
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Liguria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738RomaLiguria_Il_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 8.000 circa
+|Arbitro = [[Luigi Pirovano (arbitro)|Luigi Pirovano]]
+|Cittarbitro = [[Monza]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|62}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 1938
+|Ora =
+|Turno = 18ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3738NapoliRoma_Il_Littoriale_05_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Partenopeo]]
+|Arbitro = [[Achille Pizziolo]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Evaristo Frisoni|Frisoni]] {{Goal|66|aut.}}<br/>[[Giovanni Venditto|Venditto]] {{Goal|73}}
+|Marcatori 2 = {{Goal|9}} [[Ermes Borsetti|Borsetti]]<br/>{{Goal|47}} [[Oliviero Mascheroni|Mascheroni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 1938
+|Ora =
+|Turno = 19ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaLazie_Il_Littoriale_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 20.000 circa
+|Arbitro = [[Rinaldo Barlassina]]
+|Cittarbitro = [[Novara]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|6}}<br/>[[Ermes Borsetti|Borsetti]] {{Goal|88}}
+|Marcatori 2 = {{Goal|18}} [[Bruno Camolese|Camolese]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 febbraio
+|Anno = 1938
+|Ora =
+|Turno = 20ª giornata
+|Squadra 1 = Lucchese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738LuccheseRoma_Il_Littoriale_05_af.JPG
+|Città = [[Lucca]]
+|Stadio = [[Stadio Porta Elisa]]
+|Spettatori = 4.500 circa
+|Arbitro = [[Attilio Soliani]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Luigi Rosellini|Rosellini]] {{Goal|31}}<br/>[[Elpidio Coppa|Coppa]] {{Goal|72}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 1938
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaAtalanta_Il_Littoriale_05_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Raffaele Mastellari]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Luigi Procura|Procura]] {{Goal|5|aut.}}<br/>[[Mario Degrassi (1919)|Degrassi]] {{Goal|34}}
+|Marcatori 2 = {{Goal|53}} [[Ettore Perani|Perani]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 1938
+|Ora =
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaBologna_Il_Littoriale_01_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 14.000 circa
+|Arbitro = [[Aniello Mazza]]
+|Cittarbitro = [[Torre del Greco]]
+|Marcatori 2 = {{Goal|67}} [[Giovanni Busoni|Busoni]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 1938
+|Ora =
+|Turno = 23ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738TorinoRoma_Il_Littoriale_03_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Filadelfia]]
+|Spettatori =
+|Arbitro = [[Arturo Leoni]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Fioravante Baldi|Baldi]] {{Goal|12||89}}<br/>[[Luigi Ferrero|Ferrero]] {{Goal|23}}
+|Marcatori 2 = {{Goal|66}} [[Danilo Michelini|Michelini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 1938
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 3
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/3738RomaBari_Il_Littoriale_04_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 5.000 circa
+|Arbitro = [[Giorgio Moretti]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Ermes Borsetti|Borsetti]] {{Goal|67|rig.|89}}<br/>[[Danilo Michelini|Michelini]] {{Goal|83}}
+|Marcatori 2 = {{Goal|73|rig.}} [[Cesare Grossi|Grossi]]<br/>{{Goal|80}} [[Elio Grolli|Grolli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 1938
+|Ora =
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/roma%20milan%2037-38_la_stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori =
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|7}}<br/>[[Ermes Borsetti|Borsetti]] {{Goal|59|rig.|90}}
+|Marcatori 2 = {{Goal|67}} [[Aldo Boffi|Boffi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 marzo
+|Anno = 1938
+|Ora =
+|Turno = 26ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738JuventusRoma_Il_Littoriale_02_af.JPG
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Municipale Benito Mussolini]]
+|Spettatori =
+|Arbitro = [[Giovanni Galeati]]
+|Cittarbitro = [[Bologna]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 aprile
+|Anno = 1938
+|Ora = 15:00
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Livorno
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738RomaLivorno_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 6.000 circa
+|Arbitro = [[Emiliano Saracini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Danilo Michelini|Michelini]] {{Goal|66}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 1938
+|Ora = 15:00
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Triestina
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738RomaTriestina_Il_Littoriale_06_af.JPG
+|Città = [[Roma]]
+|Stadio =  [[Stadio Nazionale|Stadio del PNF]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Mario Ciamberlini]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Oliviero Mascheroni|Mascheroni]] {{Goal|25}}
+|Marcatori 2 = {{Goal|15}} [[Guglielmo Trevisan|Trevisan]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 1938
+|Ora =
+|Turno = 29ª giornata
+|Squadra 1 = Ambrosiana-Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/3738InterRoma_Il_Littoriale_03_af.JPG
+|Città = [[Milano]]
+|Stadio = [[Arena Civica]]
+|Spettatori = 18.000 circa
+|Arbitro = [[Giuseppe Zelocchi]]
+|Cittarbitro = [[Modena]]
+|Marcatori 1 = [[Giovanni Ferrari|Ferrari]] {{Goal|29}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 aprile
+|Anno = 1938
+|Ora =
+|Turno = 30ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/3738GenoaRoma_Il_Littoriale_02_af.JPG
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Giuseppe Scarpi]]
+|Cittarbitro = [[Dolo (Italia)|Dolo]]
+|Marcatori 1 = [[Pietro Arcari|Arcari]] {{Goal|80}}
+|Marcatori 2 = {{Goal|26}} [[Oliviero Mascheroni|Mascheroni]]
+|Sfondo = on
+}}
+
+=== Coppa Italia  ===
+{{vedi anche|Coppa Italia 1937-1938}}
+====Fase finale====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 dicembre
+|Anno = 1937
+|Ora = 14:30
+|Turno = Sedicesimi di finale
+|Squadra 1 = Pontedera
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 3
+|Supplementari = x
+|Referto = http://www.asromaultras.org/3738PontederaRoma_CI_8-12-37_Il_Littoriale_01_af.JPG
+|Città = [[Pontedera]]
+|Stadio = Polisportivo A. Marconcini
+|Spettatori =
+|Arbitro = [[Primo Barbieri]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Amalio Balzarini|Balzarini]] {{Goal|30}}
+|Marcatori 2 = {{Goal|57}} [[Mario Degrassi (1919)|Degrassi]]<br />{{Goal|100}} [[Ermes Borsetti|Borsetti]]<br />{{Goal|113}} [[Danilo Michelini|Michelini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 dicembre
+|Anno = 1937
+|Ora =
+|Turno = Ottavi di finale
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 2
+|Supplementari = x
+|Referto = http://www.asromaultras.org/3738NapoliRoma_CI_Il_Littoriale_03_af.JPG
+|Città = [[Napoli]]
+|Stadio = [[Stadio Partenopeo]]
+|Spettatori = 10.000 circa
+|Arbitro = [[Raffaele Scorzoni]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Nereo Rocco|Rocco]] {{Goal|18}}<br/>[[Germano Mian|Mian]] {{Goal|53}}<br/>[[Carlo Biagi|Biagi]] {{Goal|98}}<br/>[[Carlo Buscaglia|Buscaglia]] {{Goal|100|rig.}}
+|Marcatori 2 = {{Goal|1}} [[Ermes Borsetti|Borsetti]]<br/>{{Goal|50}} [[Danilo Michelini|Michelini]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor1/>
+
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1937-1938|Serie A]]
+|punti1=36
+|cv1=11
+|cn1=2
+|cp1=2
+|cgf1=30
+|cgs1=14
+|tv1=3
+|tn1=6
+|tp1=6
+|tgf1=14
+|tgs1=17
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1937-1938|Coppa Italia]]
+|punti2=
+|cv2=0
+|cn2=0
+|cp2=0
+|cgf2=0
+|cgs2=0
+|tv2=1
+|tn2=0
+|tp2=1
+|tgf2=5
+|tgs2=5
+}}
+=== Andamento in campionato<ref name=rsssf>{{Cita web|http://www.rsssf.com/tablesi/ital38.html|Campionato 1937-38 su rsssf.com}}</ref>===
+{{Andamento |nr=30}}
+{{Andamento/Luogo    |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=T |m8=C |m9=T |m10=T |m11=C |m12=T |m13=T |m14=C |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=C |m23=T |m24=C |m25=C |m26=T |m27=C |m28=C |m29=T |m30=T }}
+{{Andamento/Risultato|m1=V |m2=N |m3=V |m4=N |m5=V |m6=V |m7=P |m8=V |m9=P |m10=P |m11=V |m12=V |m13=N |m14=N |m15=P |m16=V |m17=V |m18=N |m19=V |m20=P |m21=V |m22=P |m23=P |m24=V |m25=V |m26=N |m27=V |m28=N |m29=P |m30=N }}
+{{Andamento/Posizione |r=15 |m1=1 |m2=3 |m3=2 |m4=2 |m5=2 |m6=1 |m7=2 |m8=1 |m9=3 |m10=6 |m11=3 |m12=2 |m13=3 |m14=2 |m15=5 |m16=4 |m17=4 |m18=4 |m19=4 |m20=4 |m21=4 |m22=6 |m23=7 |m24=7 |m25=6 |m26=7 |m27=6 |m28=7 |m29=7 |m30=6 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dalle edizioni cartacee dei giornali dell'epoca.<ref>A completamento dei dati va considerato un autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Cartellini = no
+| {{Sortname|C.|Francalancia|Cesare Francalancia}} {{Sommastat|C=no|0|-0|?|? |0|-0|?|? }}
+| {{Sortname|G.|Masetti|Guido Masetti}} {{Sommastat|C=no|21|-19|?|? |2|-5|?|? }}
+| {{Sortname|C.|Valinasso|Cesare Valinasso}} {{Sommastat|C=no|9|-12|?|? |0|-0|?|? }}
+| {{Sortname|E.|Asin|Erminio Asin}} {{Sommastat|C=no|4|0|?|? |0|0|?|? }}
+| {{Sortname|R.|Cipriani|Renato Cipriani}} {{Sommastat|C=no|0|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Gadaldi|Andrea Gadaldi}} {{Sommastat|C=no|30|0|?|? |2|0|?|? }}
+| {{Sortname|E.|Monzeglio|Eraldo Monzeglio}} {{Sommastat|C=no|26|0|?|? |2|0|?|? }}
+| {{Sortname|E.|Schiavetti|Enrico Schiavetti}} {{Sommastat|C=no|1|0|?|? |0|0|?|? }}
+| {{Sortname|F.|Bernardini|Fulvio Bernardini}} {{Sommastat|C=no|23|0|?|? |2|0|?|? }}
+| {{Sortname|M.|Degrassi|Mario Degrassi (1919)}} {{Sommastat|C=no|1|1|?|? |1|1|?|? }}
+| {{Sortname|A.|Donati |Aldo Donati (calciatore)}} {{Sommastat|C=no|19|0|?|? |1|0|?|? }}
+| {{Sortname|E.|Frisoni|Evaristo Frisoni}} {{Sommastat|C=no|29|1|?|? |2|0|?|? }}
+| {{Sortname|A.|Fusco |Antonio Fusco (calciatore)}} {{Sommastat|C=no|16|0|?|? |0|0|?|? }}
+| {{Sortname|A.|Mazzoni|Alfredo Mazzoni}} {{Sommastat|C=no|5|0|?|? |1|0|?|? }}
+| {{Sortname|F.|Scaramelli|Franco Scaramelli}} {{Sommastat|C=no|17|1|?|? |2|0|?|? }}
+| {{Sortname|P.|Serantoni|Pietro Serantoni}} {{Sommastat|C=no |23|1|?|? |1|0|?|? }}
+| {{Sortname|A.|Amadei|Amedeo Amadei}} {{Sommastat|C=no |4|0|?|? |0|0|?|? }}
+| {{Sortname|E.|Borsetti|Ermes Borsetti}} {{Sommastat|C=no|30|11|?|? |2|2|?|? }}
+| {{Sortname|O.|Mascheroni|Oliviero Mascheroni}} {{Sommastat|C=no|25|8|?|? |2|0|?|? }}
+| {{Sortname|D.|Michelini|Danilo Michelini}} {{Sommastat|C=no|29|16|?|? |2|2|?|? }}
+| {{Sortname|O.|Subinaghi|Otello Subinaghi}} {{Sommastat|C=no|18|4|?|? |0|0|?|? }}
+}}
+
+==Note==
+<references/>
+
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+* {{cita web|http://www.rsssf.com/tablesi/ital38.html|Serie A 1937-1938 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1937|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+
+{{Calcio Roma storico}}
+{{Calcio in Italia 1937-1938}}
+{{Portale|calcio}}

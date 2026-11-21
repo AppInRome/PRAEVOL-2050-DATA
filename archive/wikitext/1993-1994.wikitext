@@ -1,0 +1,1056 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|immagine = AS Roma 1993-1994.jpg
+|stagione = 1993-1994
+|allenatore1 = {{Bandiera|ITA}} [[Carlo Mazzone]]
+|allenatore2 = {{Bandiera|ITA}} [[Leonardo Menichini]]
+|presidente = {{Bandiera|ITA}} [[Ciro Di Martino]]<ref>Fino a novembre 1993.</ref>, poi<br />{{Bandiera|ITA}} [[Franco Sensi]]<ref>Da novembre 1993 in poi.</ref>
+|campionato = [[Serie A 1993-1994|Serie A]]
+|campionato posizione = 7º
+|coppa1 = [[Coppa Italia 1993-1994|Coppa Italia]]
+|coppa1 posizione = Ottavi di finale
+|presenze campionato = [[Amedeo Carboni|Carboni]] (32)
+|presenze totale = Carboni (35)
+|marcatore campionato = [[Abel Balbo|Balbo]] (12)
+|marcatore totale = Balbo (13)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:34333}}<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A93-94.htm|titolo=Statistiche Spettatori Serie A 1993-1994}}</ref>
+|spettatori max = {{formatnum:70593}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(24 ottobre 1993)
+|spettatori min = {{formatnum:44327}}<ref name=stadiapost/> vs {{Calcio Udinese|N}}<br/>(23 gennaio 1994)
+|spettatori media = {{formatnum:53248}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1992-1993|1992-1993]]
+|stagione dopo = [[Associazione Sportiva Roma 1994-1995|1994-1995]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1993-1994'''.
+
+== Stagione ==
+[[File:Abel Balbo - AS Roma 1993-94.jpg|thumb|upright|Il neoacquisto [[Abel Balbo]], miglior marcatore giallorosso della stagione con 13 gol.]]
+
+È il primo anno di [[Franco Sensi]] come presidente, che subentra a novembre al posto di [[Ciro Di Martino]], ed è il primo anno di [[Carlo Mazzone]] come allenatore. Dall'{{calcio Udinese|N}} viene acquistato l'attaccante [[Abel Balbo]], chiamato a sostituire [[Claudio Caniggia]] squalificato per doping per l'intera stagione, che si rivelerà uno degli attaccanti più prolifici della storia giallorossa. A [[Serie A 1993-1994|fine stagione]] la squadra si classifica settima, in volata dopo un difficile inizio.<ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}.</ref>
+
+== Divise e sponsor ==
+Lo sponsor tecnico è [[Adidas]], lo sponsor ufficiale è [[Barilla]]. La prima divisa è costituita da maglia rossa con colletto a polo, pantaloncini rossi e calzettoni rossi, tutti e tre presentanti come decorazione le tre strisce Adidas in giallo, leggermente più chiaro rispetto alla precedente annata. In trasferta i Lupi usano una costituita da maglia bianca con colletto a polo, pantaloncini bianchi, calzettoni bianchi, tutti e tre presentanti come decorazione le tre strisce Adidas in giallorosso. I portieri usano due divise: la prima costituita da maglia rosa con colletto a polo nero, pantaloncini neri e calzettoni bianchi, la seconda da maglia nera con colletto a polo, pantaloncini calzettoni neri.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 184-186}}.</ref>
+{|
+|{{Divisa Calcio
+|pattern_la =_orange_border
+|leftarm = A00000
+|pattern_b = _asroma9294h
+|body = A00000
+|pattern_ra =_orange_border
+|rightarm = A00000
+|pattern_sh=_asroma9294h
+|shorts = A00000
+|pattern_so =_asroma9294h
+|socks = A00000
+|title = Casa
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9394a
+|leftarm = FFFFFF
+|pattern_b = _asroma9394a
+|body = FFFFFF
+|pattern_ra =_asroma09102
+|rightarm = FFFFFF
+|pattern_sh=_asroma9394a
+|shorts = FFFFFF
+|pattern_so =_asroma9294a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =_asroma9394gk1
+|body = 858585
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =
+|socks = 000000
+|title = 1ª portiere
+}}
+|{{Divisa Calcio
+|pattern_la =_asroma9394gk2
+|leftarm = 000000
+|pattern_b =_asroma9394gk2
+|body = 858585
+|pattern_ra =_asroma9394gk2
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asroma9294a
+|socks = 000000
+|title = 2ª portiere
+}}
+|}
+
+== Organigramma societario ==
+[[File:Carlo Mazzone - 1993 - AS Roma.jpg|thumb|upright|Il nuovo allenatore [[Carlo Mazzone]], ''Sor Magara'']]
+Di seguito l'organigramma societario.<ref name=cor7/>
+'''''Area direttiva'''''
+* Presidente: [[Ciro Di Martino]] poi da novembre [[Franco Sensi]]
+* Vice presidente e Amministratore delegato: [[Ciro Di Martino]]
+'''''Area tecnica'''''
+* Direttore sportivo: [[Emiliano Mascetti]]
+* Allenatore: [[Carlo Mazzone]]
+== Rosa ==
+Di seguito la rosa<ref name="Rosa AS Roma - Saison 93/94">{{Cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1993|titolo=Rosa AS Roma - Saison 93/94|accesso=17 aprile 2018}}</ref>.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Cervone]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Giampaolo Di Magno|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Lorieri]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Pazzagli]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Gianluca Festa]]<ref name=a>Acquistato durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Silvano Benedetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Amedeo Carboni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonio Comi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Luigi Garzya]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Gabriele Grossi]]''<ref name=c>Ceduto durante la sessione invernale di calciomercato.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Marco Lanna]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Emilio Pellegrino|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lorenzo Stovini]]<ref name=primavera>Aggregato alla prima squadra dalla formazione Primavera.</ref>|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Bennati<ref name=primavera/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Daniele Berretta]]<ref name=primavera/>|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Daniele Betti|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Walter Bonacina]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Antonino Bernardini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Massimiliano Cappioli]]<ref name=a/>|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Marco Caputi|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=FRG|nome=[[Thomas Häßler]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=YUG 1992-2003|nome=[[Siniša Mihajlović]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Piacentini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alessio Scarchilli]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Abel Balbo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Claudio Caniggia]]<ref name=caniggia>Inattivo per l'intera stagione a causa della squalifica per doping.</ref>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=Walter Lapini|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Roberto Muzzi]]''<ref name=c/>|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Ruggero Rizzitelli]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato<ref name="Rosa AS Roma - Saison 93/94" />.
+=== Sessione estiva ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | da
+! width=36% | Modalità
+|-
+| P || [[Fabrizio Lorieri]]|| {{Calcio Ascoli|N}} || ''definitivo'' (4 mld. ₤)<ref name=panini>{{cita libro|titolo=Calciatori - La raccolta completa Panini 1961-2012|editore=Panini|anno=2012|mese=luglio|giorno=9|p=10|volume=Vol. 10 (1993-1994)}}</ref><ref name=repubblica>{{cita web|url=https://ricerca.repubblica.it/repubblica/archivio/repubblica/1993/07/28/ma-balbo-una-scommessa.html?ref=search|titolo=Ma Balbo è una scommessa|data=28 luglio 1993}}</ref>
+|-
+| P || [[Andrea Pazzagli]] || {{Calcio Bologna|N}} || ''definitivo''
+|-
+| D ||[[Gabriele Grossi]]|| {{Calcio Lecce|N}} || ''definitivo''
+|-
+| D || [[Marco Lanna]]|| {{Calcio Sampdoria|N}} || ''definitivo'' (10 mld. ₤)<ref name=panini/><ref name=repubblica/>
+|-
+| D || [[Dario Rossi]] || {{Calcio Ternana|N}} || ''fine prestito''
+|-
+| C ||[[Daniele Berretta]]|| {{Calcio Vicenza|N|1991}} || ''fine prestito''
+|-
+| C ||[[Giampiero Maini]]|| {{Calcio Lecce|N}} || ''fine prestito''
+|-
+| C ||[[Alessio Scarchilli]]|| {{Calcio Lecce|N}} || ''definitivo''
+|-
+| C ||[[Francesco Statuto]]|| {{Calcio Cosenza|N}} || ''fine prestito''
+|-
+| A ||[[Abel Balbo]]|| {{Calcio Udinese|N}} || ''definitivo'' (18 mld. ₤)<ref name=panini/><ref name=repubblica/>
+|-
+| A ||Walter Lapini|| {{Calcio Siena|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| P || [[Patrizio Fimiani]]|| {{Calcio Avezzano|N}} || ''definitivo''
+|-
+| P || [[Giuseppe Zinetti]]|| {{Calcio Ascoli|N}} || ''definitivo''
+|-
+| D || [[Fabio Petruzzi]]|| {{Calcio Udinese|N}} || ''definitivo''
+|-
+| D || [[Dario Rossi]] || {{Calcio Modena|N}} || ''definitivo''
+|-
+| D || [[Antonio Tempestilli]] || - || ''fine carriera''
+|-
+| C || [[Giampiero Maini]] || {{Calcio Ascoli|N}} || ''prestito''
+|-
+| C || [[Fausto Salsano]]||| {{Calcio Sampdoria|N}} || ''definitivo'' (1,5 mld. ₤)<ref name=repubblica/>
+|-
+| C || [[Francesco Statuto]] || {{Calcio Udinese|N}} || ''comproprietà'' (2 mld. ₤)<ref name=repubblica/>
+|-
+| C || Steven Torbidoni || {{Calcio Cagliari|N}} || ''definitivo''
+|-
+| A || [[Andrea Carnevale]] || {{Calcio Udinese|N}} || ''definitivo'' (2,1 mld. ₤)<ref name=repubblica/>
+|}
+{{colonne fine}}
+=== Sessione autunnale ===
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Gianluca Festa]] || {{Calcio Inter|N}} || ''prestito''
+|-
+| C || [[Massimiliano Cappioli]]|| {{Calcio Cagliari|N}} || ''definitivo'' (5 Mld. £)<ref name=panini/>
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=33% | Nome
+! width=28% | a
+! width=36% | Modalità
+|-
+| D || [[Gabriele Grossi]] || {{Calcio Bari|N}} || ''prestito''
+|-
+| A || [[Roberto Muzzi]]|| {{Calcio Pisa|N}} || ''prestito''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1993-1994}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 agosto
+|Anno = 1993
+|Ora = 16:30
+|Turno = 1ª giornata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/1/GENROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 25.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Roberto Lorenzini|Lorenzini]] {{Goal|42}}<br/>[[Marco Nappi|Nappi]] {{Goal|84}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 settembre
+|Anno = 1993
+|Ora = 16:00
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/2/ROMJUV
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 67.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|33}}<br/>[[Roberto Muzzi|Muzzi]] {{Goal|81}}
+|Marcatori 2 = {{Goal|78}} [[Andreas Möller|Möller]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 settembre
+|Anno = 1993
+|Ora = 20:30
+|Turno = 3ª giornata
+|Squadra 1 = Udinese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/3/UDIROM
+|Città = [[Udine]]
+|Stadio = [[Stadio Friuli]]
+|Spettatori = circa 19.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 1993
+|Ora = 15:00
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 2
+|Punteggio 2 = 3
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/4/ROMNAP
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 51.000
+|Arbitro = [[Marcello Cardona]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{Goal|45}}<br/>[[Walter Bonacina|Bonacina]] {{Goal|55}}
+|Marcatori 2 = {{Goal|25}} [[Renato Buso|Buso]]<br/>{{Goal|53}} [[Paolo Di Canio|Di Canio]]<br/>{{Goal|67}} [[Ciro Ferrara|Ferrara]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 1993
+|Ora = 16:00
+|Turno = 5ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/5/MILROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 63.000
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Jean-Pierre Papin|Papin]] {{Goal|45}}<br/>[[Stefano Nava|Nava]] {{Goal|70}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 1993
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/6/ROMATA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|52}}<br/>[[Thomas Häßler|Häßler]] {{Goal|65}}
+|Marcatori 2 = {{gol|44}} [[Maurizio Ganz|Ganz]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 1993
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 1
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/7/ROMCRE
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 47.000
+|Arbitro = [[Virginio Quartuccio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Silvano Benedetti|Benedetti]] {{gol|48}}
+|Marcatori 2 = {{Goal|30|rig.}} [[Gustavo Dezotti|Dezotti]]<br />{{Goal|73}} [[Andrea Tentoni|Tentoni]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 ottobre
+|Anno = 1993
+|Ora = 15:00
+|Turno = 8ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/8/SAMROM
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = circa 32.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 2 = {{gol|44}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 1993
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/9/ROMLAZ
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = 70.593
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Giovanni Piacentini|Piacentini]] {{goal|60}}
+|Marcatori 2 = {{goal|78}} [[Fabrizio Di Mauro|Di Mauro]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 ottobre
+|Anno = 1993
+|Ora = 15:00
+|Turno = 10ª giornata
+|Squadra 1 = Reggiana
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/10/REGROM
+|Città = [[Reggio Emilia]]
+|Stadio = [[Stadio comunale Mirabello]]
+|Spettatori = circa 14.000
+|Arbitro = [[Salvatore Racalbuto]]
+|Cittarbitro = [[Gallarate]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 novembre
+|Anno = 1993
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/11/ROMFOG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 42.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 novembre
+|Anno = 1993
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Lecce
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/12/LECROM
+|Città = [[Lecce]]
+|Stadio = [[Stadio Via del Mare]]
+|Spettatori = circa 12.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 2 = {{gol|80}} [[Marco Lanna|Lanna]]<br/>{{gol|88}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 1993
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/13/CAGROM
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Spettatori = circa 20.000
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Luís Oliveira|Oliveira]] {{gol|37}}
+|Marcatori 2 = {{Goal|73}} [[Thomas Häßler|Häßler]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 dicembre
+|Anno = 1993
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/14/ROMPAR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 52.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Antonio Comi|Comi]] {{gol|19}}<br/>[[Massimiliano Cappioli|Cappioli]] {{gol|75}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 1993
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Piacenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/15/PIAROM
+|Città = [[Piacenza]]
+|Stadio = [[Stadio Leonardo Garilli|Stadio Galleana]]
+|Spettatori = circa 13.000
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Gianpietro Piovani|Piovani]] {{Goal|59}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 1993
+|Ora = 20:30
+|Turno = 16ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/16/ROMINT
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 55.000
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{gol|14}}
+|Marcatori 2 = {{gol|70}} [[Rubén Sosa Ardaiz|Sosa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 gennaio
+|Anno = 1994
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/17/TORROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Spettatori = circa 24.000
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Benito Carbone|Carbone]] {{Goal|65}}
+|Marcatori 2 = {{Goal|56|rig.}} [[Giuseppe Giannini (calciatore)|Giannini]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 1994
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/18/ROMGEN
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Massimiliano Cappioli|Cappioli]] {{Goal|61}}
+|Marcatori 2 = {{Goal|40}} [[Tomáš Skuhravý|Skuhravý]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 1994
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/19/JUVROM
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Spettatori = circa 44.000
+|Arbitro = [[Marcello Cardona]]
+|Cittarbitro = [[Milano]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 1994
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Udinese
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/20/ROMUDI
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Emilio Pellegrino]]
+|Cittarbitro = [[Barcellona Pozzo di Gotto]]
+|Marcatori 2 = {{Goal|25}} [[Fausto Pizzi|Pizzi]]<br/>{{Goal|38}} [[Marco Branca|Branca]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 1994
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/21/NAPROM
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = circa 48.000
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Daniel Fonseca|Fonseca]] {{Goal|89|rig.}}
+|Marcatori 2 = {{Goal|57|rig.}} [[Abel Balbo|Balbo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 1994
+|Ora = 20:30
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/22/ROMMIL
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 44.000
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 2 = {{Goal|12}} [[Daniele Massaro|Massaro]]<br/>{{Goal|78}} [[Paolo Maldini|Maldini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 febbraio
+|Anno = 1994
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/23/ATAROM
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = circa 22.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Giampaolo Saurini|Saurini]] {{gol|80}}
+|Marcatori 2 = {{Goal|24}} [[Abel Balbo|Balbo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 1994
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Cremonese
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/24/CREROM
+|Città = [[Cremona]]
+|Stadio = [[Stadio Giovanni Zini]]
+|Spettatori = circa 8.000
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Riccardo Maspero|Maspero]] {{Goal|34|rig.}}
+|Marcatori 2 = {{Goal|9}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 1994
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/25/ROMSAM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 45.000
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 2 = {{Goal|25}} [[Roberto Mancini|Mancini]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 1994
+|Ora = 20:30
+|Turno = 26ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/26/LAZROM
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 70.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Giuseppe Signori|Signori]] {{gol|7}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 1994
+|Ora = 15:00
+|Turno = 27ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Reggiana
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/27/ROMREG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 47.000
+|Arbitro = [[Pasquale Rodomonti]]
+|Cittarbitro = [[Teramo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 marzo
+|Anno = 1994
+|Ora = 15:00
+|Turno = 28ª giornata
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/28/FOGROM
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Spettatori = circa 18.000
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Pasquale De Vincenzo|De Vincenzo]] {{Goal|16}}
+|Marcatori 2 = {{Goal|74}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 marzo
+|Anno = 1994
+|Ora = 16:00
+|Turno = 29ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lecce
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/29/ROMLEC
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 54.000
+|Arbitro = [[Virginio Quartuccio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{Goal|21}}<br/>[[Abel Balbo|Balbo]] {{goal|45}}<br/>[[Massimiliano Cappioli|Cappioli]] {{gol|58}}
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 aprile
+|Anno = 1994
+|Ora = 16:00
+|Turno = 30ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/30/ROMCAG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 58.000
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{Goal|4}}<br/>[[Abel Balbo|Balbo]] {{goal|61}}
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 aprile
+|Anno = 1994
+|Ora = 15:00
+|Turno = 31ª giornata
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/31/PARROM
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Spettatori = circa 24.000
+|Arbitro = [[Fabio Baldas]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 2 = {{Goal|18}} [[Abel Balbo|Balbo]]<br/>{{gol|90}} [[Gianluca Festa|Festa]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 1994
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Piacenza
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/32/ROMPIA
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 53.000
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Ruggero Rizzitelli|Rizzitelli]] {{Goal|22}}<br/>[[Antonio Carannante|Carannante]] {{Goal|27|aut.}}<br/>[[Amedeo Carboni|Carboni]] {{Goal|38}}
+|Marcatori 2 = {{Goal|44}} [[Agostino Iacobelli|Iacobelli]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 aprile
+|Anno = 1994
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/33/INTROM
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Spettatori = circa 43.000
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Davide Fontolan|Fontolan]] {{Goal|22}}<br/>[[Nicola Berti|Berti]] {{Goal|70}}
+|Marcatori 2 = {{Goal|14}} [[Giuseppe Giannini (calciatore)|Giannini]]<br/>{{Goal|80}} [[Massimiliano Cappioli|Cappioli]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º maggio
+|Anno = 1994
+|Ora = 16:00
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.legaseriea.it/it/serie-a-tim/match-report/1993-94/UNICO/UNI/34/ROMTOR
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 68.000
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|32}}<br/>[[Massimiliano Cappioli|Cappioli]] {{Goal|64}}
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1993-1994}}
+==== Turni preliminari ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 ottobre
+|Anno = 1993
+|Ora = 20:30
+|Turno = Secondo turno - Andata
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9394padovaroma_unit%E0.jpg
+|Città = [[Padova]]
+|Stadio = [[Stadio Silvio Appiani]]
+|Spettatori =
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Roberto Simonetta|Simonetta]] {{gol|67}}
+|Marcatori 2 = {{gol|26}} [[Abel Balbo|Balbo]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 ottobre
+|Anno = 1993
+|Ora = 20:30
+|Turno = Secondo turno - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto =
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori =
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Giovanni Piacentini|Piacentini]] {{goal|28}}
+|Sfondo = on
+}}
+
+==== Fase finale====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º dicembre
+|Anno = 1993
+|Ora = 18:00
+|Turno = Ottavi di finale - Andata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = https://www.asromaultras.org/9394SampdoriaRoma_CI_1-12-93_La_Stampa_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori =
+|Arbitro = [[Luciano Luci]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Attilio Lombardo|Lombardo]] {{gol|45}}<br />[[Fausto Salsano|Salsano]] {{goal|75}}
+|Marcatori 2 = {{gol|2}} [[Silvano Benedetti|Benedetti]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 dicembre
+|Anno = 1993
+|Ora = 20:30
+|Turno = Ottavi di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Supplementari = X
+|TiriExtra = rig
+|PuntiTiriExtra 1 = 6
+|PuntiTiriExtra 2 = 7
+|Referto = https://www.asromaultras.org/9394RomaSampdoria_CI_16-12_93_La_Stampa_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = circa 16.500
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Massimiliano Cappioli|Cappioli]] {{gol|5||51}}
+|Marcatori 2 = {{gol|38|rig.}} [[David Platt|Platt]]
+|TiriExtra 1 = [[Antonio Comi|Comi]] {{penmiss|parato}}<br/>[[Massimiliano Cappioli|Cappioli]] {{pengoal}}<br/>[[Amedeo Carboni|Carboni]] {{pengoal}}<br />[[Gianluca Festa|Festa]] {{pengoal}}<br/>[[Giuseppe Giannini (calciatore)|Giannini]] {{pengoal}}<br/>[[Walter Bonacina|Bonacina]] {{pengoal}}<br/>[[Silvano Benedetti|Benedetti]] {{pengoal}}<br/>[[Luigi Garzya|Garzya]] {{penmiss|parato}}
+|TiriExtra 2 = {{pengoal}} [[David Platt|Platt]]<br/>{{penmiss}} [[Ruud Gullit|Gullit]]<br/>{{pengoal|parato}} [[Alberico Evani|Evani]]<br/>{{pengoal}} [[Pietro Vierchowod|Vierchowod]]<br/>{{pengoal}} [[Roberto Mancini|Mancini]]<br/>{{pengoal}} [[Attilio Lombardo|Lombardo]]<br/>{{pengoal}} [[Nicola Amoruso|Amoruso]]<br/>{{pengoal}} [[Moreno Mannini|Mannini]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+Di seguito le statistiche di squadra<ref name="Rosa AS Roma - Saison 93/94"/>.
+=== Statistiche di squadra ===
+
+{{Statistiche_squadra
+|comp1=[[Serie A 1993-1994|Serie A]]
+|punti1=35
+|cv1=7
+|cn1=5
+|cp1=5
+|cgf1=22
+|cgs1=16
+|tv1=3
+|tn1=10
+|tp1=4
+|tgf1=13
+|tgs1=14
+|comp2=[[Coppa Italia 1993-1994|Coppa Italia]]
+|punti2=-
+|cv2=2
+|cn2=0
+|cp2=0
+|cgf2=3
+|cgs2=1
+|tv2=0
+|tn2=1
+|tp2=1
+|tgf2=2
+|tgs2=3
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo  |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=C |m8=T |m9=C |m10=T |m11=C |m12=T |m13=T |m14=C |m15=T |m16=C |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=T |m25=C |m26=C |m27=C |m28=T |m29=C |m30=C |m31=T |m32=C |m33=T |m34=C }}
+{{Andamento/Risultato |m1=P |m2=V |m3=N |m4=P |m5=P |m6=V |m7=P |m8=V |m9=N |m10=N |m11=N |m12=V |m13=N |m14=V |m15=P |m16=N |m17=N |m18=N |m19=N |m20=P |m21=N |m22=P |m23=N |m24=N |m25=P |m26=P |m27=N |m28=N |m29=V |m30=V |m31=V |m32=V |m33=N |m34=V }}
+{{Andamento/Posizione |r=15  |m1=11 |m2=6 |m3=10 |m4=11 |m5=15 |m6=10 |m7=12 |m8=11 |m9=10 |m10=11 |m11=11 |m12=10 |m13=10 |m14=8 |m15=10 |m16=10 |m17=9 |m18=9 |m19=9 |m20=10 |m21=9 |m22=11 |m23=11 |m24=11 |m25=11 |m26=12 |m27=13 |m28=14 |m29=14 |m30=9 |m31=8 |m32=7 |m33=8 |m34=7 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Di seguito le statistiche dei giocatori.<ref name=cor7/><ref>A completamento dei dati vanno conteggiati un autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| {{Sortname|G.|Cervone|Giovanni Cervone}} {{Sommastat|14|-8|1|0 |1|-0|0+|0+ }}
+| {{Sortname|G.|Di Magno|Giampaolo Di Magno|nolink=1}} {{Sommastat|-|-|-|- |-|-|-|- }}
+| {{Sortname|F.|Lorieri|Fabrizio Lorieri}} {{Sommastat|20|-22|2|0 |3|-4|0+|0+ }}
+| {{Sortname|A.|Pazzagli|Andrea Pazzagli}} {{Sommastat|0|-0|0|0 |0|-0|0+|0+ }}
+| {{Sortname||Aldair|Aldair}} {{Sommastat|12|0|1|0 |-|-|-|- }}
+| {{Sortname|G.|Festa|Gianluca Festa}} {{Sommastat|21|1|6|1 |2|0|0+|0+ }}
+| {{Sortname|S.|Benedetti|Silvano Benedetti}} {{Sommastat|9|1|3|0 |3|1|0+|0+ }}
+| {{Sortname|A.|Carboni|Amedeo Carboni}} {{Sommastat|32|1|5|0 |3|0|1+|0+ }}
+| {{Sortname|A.|Comi|Antonio Comi}} {{Sommastat|13|1|1|0 |3|0|0+|0+ }}
+| {{Sortname|L.|Garzya|Luigi Garzya}} {{Sommastat|26|0|1|0 |3|0|0+|0+ }}
+| ''{{Sortname|G.|Grossi|Gabriele Grossi}}'' {{Sommastat|4|0|0|0 |1|0|0+|0+ }}
+| {{Sortname|M.|Lanna|Marco Lanna}} {{Sommastat|26|1|2|0 |1|0|0+|0+ }}
+| {{Sortname|E.|Pellegrino|Emilio Pellegrino|nolink=1}} {{Sommastat|0|0|0|0 |0|0|0+|0+ }}
+| {{Sortname|L.|Stovini|Lorenzo Stovini}} {{Sommastat|-|-|-|- |-|-|-|- }}
+| {{Sortname||Bennati|Bennati|nolink=1}} {{Sommastat|-|-|-|- |0|0|0+|0+ }}
+| {{Sortname|D.|Berretta|Daniele Berretta}} {{Sommastat|17|0|4|1 |4|0|1+|0+ }}
+| {{Sortname|D.|Betti|Daniele Betti|nolink=1}} {{Sommastat|-|-|-|- |0|0|0+|0+ }}
+| {{Sortname|W.|Bonacina|Walter Bonacina}} {{Sommastat|24|1|6|2 |3|0|1+|0+ }}
+| {{Sortname|A.|Bernardini|Antonino Bernardini}} {{Sommastat|0|0|0|0 |-|-|-|- }}
+| {{Sortname|M.|Cappioli|Massimiliano Cappioli}} {{Sommastat|24|5|2|0 |2|2|0+|0+ }}
+| {{Sortname|M.|Caputi|Marco Caputi|nolink=1}} {{Sommastat|-|-|-|- |-|-|-|-}}
+| {{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}} {{Sommastat|26|3|11|1 |3|0|0+|0+ }}
+| {{Sortname|T.|Häßler|Thomas Häßler}} {{Sommastat|30|2|3|0 |2|0|0+|0+ }}
+| {{Sortname|S.|Mihajlović|Siniša Mihajlović}} {{Sommastat|25|0|6|0 |3|0|1+|0+ }}
+| {{Sortname|G.|Piacentini|Giovanni Piacentini}} {{Sommastat|25|1|5|1 |2|1|0+|0+ }}
+| {{Sortname|A.|Scarchilli|Alessio Scarchilli}} {{Sommastat|19|0|0|0 |3|0|0+|0+ }}
+| {{Sortname|A.|Balbo|Abel Balbo}} {{Sommastat|30|12|3|0 |2|1|0+|0+ }}
+| {{Sortname|C.|Caniggia|Claudio Caniggia}}<ref name=caniggia/> {{Sommastat|-|-|-|- |-|-|-|- }}
+| {{Sortname|W.|Lapini|Walter Lapini|nolink=1}} {{Sommastat|0|0|0|0 |1|0|0+|0+ }}
+| ''{{Sortname|R.|Muzzi|Roberto Muzzi}}'' {{Sommastat|5|1|0|0 |1|0|0+|0+ }}
+| {{Sortname|R.|Rizzitelli|Ruggero Rizzitelli}} {{Sommastat|24|4|2|0 |3|0|0+|0+ }}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|8|0|0|0 |2|0|0+|0+ }}
+}}
+
+== Giovanili ==
+=== Piazzamenti ===
+* '''''Primavera''''':
+** [[Campionato Primavera 1993-1994|Campionato Primavera]]: ?
+** [[Coppa Italia Primavera 1993-1994|Coppa Italia Primavera]]: Vincitore
+** [[Torneo di Viareggio 1994|Torneo di Viareggio]]: Semifinalista
+
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital94.html|Serie A 1993-1994 su Rsssf.com|lingua=en}}
+* {{cita web|https://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1993|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1993-1994}}
+{{Portale|calcio}}

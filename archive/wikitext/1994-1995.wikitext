@@ -1,0 +1,1067 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1994-1995
+|immagine = Formazioneroma1994-1995.jpg
+|didascalia =
+|allenatore1 = {{Bandiera|ITA}} [[Carlo Mazzone]]
+|allenatore2 = {{Bandiera|ITA}} [[Leonardo Menichini]]
+|presidente = {{Bandiera|ITA}} [[Franco Sensi]]
+|campionato = [[Serie A 1994-1995|Serie A]]
+|campionato posizione = 5º (in Coppa UEFA)
+|coppa1 = [[Coppa Italia 1994-1995|Coppa Italia]]
+|coppa1 posizione = Quarti di finale
+|presenze campionato = [[Giovanni Cervone|Cervone]] (33)
+|presenze totale = [[Massimiliano Cappioli|Cappioli]], Cervone (37)
+|marcatore campionato = [[Abel Balbo|Balbo]] (22)
+|marcatore totale = Balbo (22)
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|abbonati= {{formatnum:39087}}<ref name=stadiapost>{{cita web|url=http://www.stadiapostcards.com/A94-95.htm|titolo=Statistiche Spettatori Serie A 1994-1995}}</ref>
+|spettatori max = {{formatnum:73893}}<ref name=stadiapost/> vs {{Calcio Lazio|N}}<br/>(23 aprile 1995)
+|spettatori min = {{formatnum:5587}}<ref name=stadiapost/> vs {{Calcio Fiorenzuola|N}}<br/>(22 settembre 1994)
+|spettatori media = {{formatnum:57423}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|stagione prima = [[Associazione Sportiva Roma 1993-1994|1993-1994]]
+|stagione dopo = [[Associazione Sportiva Roma 1995-1996|1995-1996]]
+}}
+Questa voce raccoglie le informazioni riguardanti l''''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1994-1995'''.
+== Stagione ==
+Questa stagione è la seconda di [[Carlo Mazzone|Mazzone]] sulla panchina giallorossa. Durante l'estate vengono acquistati dal {{Calcio Napoli|N}} il centrocampista [[Svezia|svedese]] [[Jonas Thern]] e la punta [[Uruguay|uruguaiana]] [[Daniel Fonseca]].
+La squadra si classifica quinta in campionato, dopo aver inizialmente stazionato nelle prime posizioni di classifica. Da questa stagione il diciottenne Francesco Totti diventa titolare: proprio alla prima giornata segna la prima delle sue 250 reti in campionato, contro il {{Calcio Foggia|N}}.<ref name=cor7>{{cita|Romano|titolo=1992-2000 I primi anni della presidenza Sensi}}.</ref>
+
+== Divise e sponsor ==
+[[File:Daniel Fonseca - AS Roma 1994-95.jpg|thumb|upright|Il neoacquisto [[Daniel Fonseca]] in azione con la divisa ''all red'' della stagione]]
+Lo sponsor tecnico è [[Asics]] mentre lo sponsor ufficiale è [[Compagnia Tirrena di Assicurazioni|Nuova Tirrena]].
+La prima divisa è costituita da maglia rossa con colletto a polo, pantaloncini rossi e calzettoni rossi, tutti e tre presentanti decorazioni arancioni. In trasferta i Lupi usano una costituita da maglia bianca con colletto a polo rosso e con banda orizzontale giallorossa, pantaloncini bianchi, calzettoni bianchi bordati di rosso. I portieri usano due divise: la prima da maglia blu con colletto a polo, pantaloncini blu e calzettoni neri, la seconda da maglia viola con colletto a polo, pantaloncini blu e calzettoni bianchi bordati di rosso.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 187-190}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = DC143C
+|pattern_b =_asroma9495h
+|body = DC143C
+|pattern_ra =
+|rightarm = DC143C
+|pattern_sh =_orangesides
+|shorts = DC143C
+|pattern_so =_asroma9697h
+|socks = DC143C
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = FFFFFF
+|pattern_b =_asroma9495a
+|body = FFFFFF
+|pattern_ra =
+|rightarm = FFFFFF
+|pattern_sh= _redsides
+|shorts = FFFFFF
+|pattern_so =_redhorizontal
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma9495gk1
+|leftarm = 000000
+|pattern_b =_asroma9495gk1
+|body = 858585
+|pattern_ra =_asroma9495gk1
+|rightarm = 000000
+|shorts = 241f3f
+|pattern_so =_asroma9495gk1
+|socks = 000000
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_blackborder
+|leftarm = 841f6b
+|pattern_b =_asroma9495gk2
+|body = 858585
+|pattern_ra =_blackborder
+|rightarm = 841f6b
+|shorts = 241f3f
+|pattern_so =_redhorizontal
+|socks = ffffff
+|title = 2ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor7/>
+{{Colonne}}
+'''''Area direttiva'''''
+* Presidente: [[Franco Sensi]]
+* Vicepresidente e amministratore delegato: [[Ciro Di Martino]]
+* Vicepresidente: Giovanni Ferreri
+* Team Manager: Fernando Fabbri
+* Direttore generale: [[Luigi Agnolin]]
+* Direttore sportivo: [[Emiliano Mascetti]]
+* Direttori organizzativi: Maurizio Cenci e Umberto Esposito
+* Segretario: Giorgio Catalano
+{{Colonne spezza}}
+'''''Area sanitaria'''''
+* Medico sociale: Ernesto Alicicco
+* Massaggiatori: Giorgio Cardoni e Giorgio Rossi
+* Fisioterapisti: Silio Musa e Stefano Serrecchia
+{{Colonne spezza}}
+'''''Area tecnica'''''
+* Allenatore: [[Carlo Mazzone]]
+* Allenatore in 2ª: [[Leonardo Menichini]]
+* Preparatore dei portieri: [[Franco Tancredi]]
+* Allenatore Primavera: [[Ezio Sella]]
+* Preparatore atletico: Massimo Neri
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa<ref>{{cita|Beltrami, 1994|p. 251}}.</ref>.
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Cervone]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabrizio Lorieri]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=BRA|nome=[[Aldair]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Enrico Annoni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Silvano Benedetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Andrea Borsa]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Amedeo Carboni]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Colonnese]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Marco Lanna]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Petruzzi]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Dario Rossi]]''|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Massimiliano Cappioli]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Giannini (calciatore)|Giuseppe Giannini]]|ruolo=C|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giampiero Maini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sandro Mazzoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Moriero]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giovanni Piacentini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Statuto]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=SWE|nome=[[Jonas Thern]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ARG|nome=[[Abel Balbo]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=URY|nome=[[Daniel Fonseca]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=''[[Roberto Muzzi]]''|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Daniele Rossi (calciatore)|Daniele Rossi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Totti]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+
+== Calciomercato ==
+Di seguito il calciomercato.<ref>{{cita web|url=https://www.transfermarkt.it/as-roma/transfers/verein/12/plus/0?saison_id=1994&pos=&detailpos=&w_s=|titolo=Trasferimenti 94/95|accesso=21 aprile 2018}}</ref>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D ||[[Francesco Colonnese]]|| {{Calcio Cremonese|NB}} || ''definitivo''
+|-
+| D ||[[Dario Rossi]]|| {{Calcio Modena|NB}} || ''definitivo''
+|-
+| D ||[[Andrea Borsa]]|| {{Calcio Pistoiese|NB}} || ''definitivo''
+|-
+| D ||[[Fabio Petruzzi]]|| {{Calcio Udinese|NB}} ||''fine prestito''
+|-
+| C ||[[Francesco Statuto]]|| {{Calcio Udinese|NB}} ||''definitivo''
+|-
+| C ||[[Jonas Thern]]|| {{Calcio Napoli|NB}} ||''definitivo''
+|-
+| C ||[[Giampiero Maini]]|| {{Calcio Ascoli|NB}} ||''definitivo''
+|-
+| C ||[[Sandro Mazzoni]]||? ||''definitivo''
+|-
+| A ||[[Francesco Moriero]]|| {{Calcio Cagliari|NB}} ||''definitivo''
+|-
+| A ||[[Marco Branca]]|| {{Calcio Parma|NB}} ||''definitivo''
+|-
+| A ||[[Daniel Fonseca]]|| {{Calcio Napoli|NB}} ||''definitivo''
+|-
+| A ||[[Roberto Muzzi]]||{{Calcio Pisa|NB}} ||''fine prestito''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| P ||[[Ferro Pontini]]|| {{Calcio Lucchese|NB}} || ''definitivo''
+|-
+| P ||[[Andrea Pazzagli]]|| {{Calcio Prato|NB}} ||''definitivo''
+|-
+| D ||[[Siniša Mihajlović]]|| {{Calcio Sampdoria|NB}} || ''definitivo''
+|-
+| D ||[[Dario Rossi]]|| {{Calcio Lecce|NB}} ||''definitivo''
+|-
+| D ||Emilio Pellegrino|| ? ||''svincolato''
+|-
+| D ||[[Gianluca Festa]]|| {{Calcio Inter|NB}} ||''fine prestito''
+|-
+| C ||[[Thomas Häßler]]|| {{Calcio Karlsruhe|NB}} || ''definitivo''
+|-
+| C ||[[Alessio Scarchilli]]|| {{Calcio Udinese|NB}} || ''definitivo''
+|-
+| C ||[[Valter Bonacina]]|| {{Calcio Atalanta|NB}} || ''definitivo''
+|-
+| C ||[[Daniele Berretta]]|| {{Calcio Cagliari|NB}} || ''prestito''
+|-
+| C ||[[Antonino Bernardini]]|| {{Calcio Torino|NB}} || ''prestito''
+|-
+| C ||[[Antonio Comi]]|| {{Calcio Como|NB}} || ''definitivo''
+|-
+| A ||[[Claudio Caniggia]]|| {{Calcio Benfica|NB}} ||''definitivo''
+|-
+| A ||[[Roberto Muzzi]]|| {{Calcio Cagliari|NB}} ||''definitivo'' (gratuito)
+|-
+| A ||[[Walter Lapini]]|| ? ||''definitivo''
+|-
+| A ||[[Ruggiero Rizzitelli]]||{{Calcio Torino|NB}} ||''definitivo''
+|}
+{{colonne fine}}
+
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1994-1995}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 settembre
+|Anno = 1994
+|Turno = 1ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaFoggia.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|30}}
+|Marcatori 2 = {{Goal|67}} [[Igor' Kolyvanov|Kolyvanov]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 settembre
+|Anno = 1994
+|Turno = 2ª giornata
+|Ora =
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495interroma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|77|aut.}} [[Gianluca Festa|Festa]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 settembre
+|Anno = 1994
+|Turno = 3ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaGenoa.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|8||56}}<br />[[Daniel Fonseca|Fonseca]] {{Goal|89}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 25 settembre
+|Anno = 1994
+|Turno = 4ª giornata
+|Ora =
+|Squadra 1 = Reggiana
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 4
+|Referto = http://www.asromaultras.org/9495ReggianaRoma.html
+|Città = [[Reggio Emilia]]
+|Stadio = [[Stadio Comunale Mirabello|Stadio Mirabello]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Luigi De Agostini|De Agostini]] {{Goal|53}}
+|Marcatori 2 = {{Goal|17|rig.|22}} [[Abel Balbo|Balbo]]<br />{{Goal|64}} [[Daniel Fonseca|Fonseca]]<br />{{Goal|75}} [[Francesco Moriero|Moriero]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 ottobre
+|Anno = 1994
+|Turno = 5ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaSampdoria.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|56}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 ottobre
+|Anno = 1994
+|Turno = 6ª giornata
+|Ora =
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/9495TorinoRoma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Marcatori 1 = [[Ruggiero Rizzitelli|Rizzitelli]] {{Goal|41}}<br />[[Paolo Cristallini|Cristallini]] {{Goal|78}}
+|Marcatori 2 = {{Goal|8}} [[Abel Balbo|Balbo]]<br />{{Goal|70|rig.}} [[Daniel Fonseca|Fonseca]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 ottobre
+|Anno = 1994
+|Turno = 7ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaCagliari.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|90}}
+|Marcatori 2 = {{Goal|58}} [[Pierpaolo Bisoli|Bisoli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 ottobre
+|Anno = 1994
+|Turno = 8ª giornata
+|Ora =
+|Squadra 1 = Parma
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495ParmaRoma.html
+|Città = [[Parma]]
+|Stadio = [[Stadio Ennio Tardini]]
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Gianfranco Zola|Zola]] {{Goal|90}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 novembre
+|Anno = 1994
+|Turno = 9ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaNapoli.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Marcatori 1 = [[Francesco Moriero|Moriero]] {{Goal|70}}
+|Marcatori 2 = {{Goal|38}} [[Alain Boghossian|Boghossian]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 novembre
+|Anno = 1994
+|Turno = 10ª giornata
+|Ora =
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/bresciaroma9495.html
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 novembre
+|Anno = 1994
+|Turno = 11ª giornata
+|Ora =
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/9495lazioroma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|2}} [[Abel Balbo|Balbo]]<br />{{Goal|25}} [[Massimiliano Cappioli|Cappioli]]<br />{{Goal|51}} [[Daniel Fonseca|Fonseca]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 dicembre
+|Anno = 1994
+|Turno = 12ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Padova
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaPadova.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Fiorenzo Treossi]]
+|Cittarbitro = [[Forlì]]
+|Marcatori 1 = [[Aldair]] {{Goal|66}}<br />[[Massimiliano Cappioli|Cappioli]] {{Goal|81}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 11 dicembre
+|Anno = 1994
+|Turno = 13ª giornata
+|Ora =
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495fiorentinaroma.html
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi]]
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Amedeo Carboni|Carboni]] {{Goal|73|aut.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 18 dicembre
+|Anno = 1994
+|Turno = 14ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaMilan.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 gennaio
+|Anno = 1995
+|Turno = 15ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Bari
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaBari.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|69}}<br />[[Francesco Totti|Totti]] {{Goal|86}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 gennaio
+|Anno = 1995
+|Turno = 16ª giornata
+|Ora =
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495JuventusRoma.html
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Loris Stafoggia]]
+|Cittarbitro = [[Pesaro]]
+|Marcatori 1 = [[Fabrizio Ravanelli|Ravanelli]] {{Goal|32||81|rig.}}<br />[[Gianluca Vialli|Vialli]] {{Goal|84}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 gennaio
+|Anno = 1995
+|Turno = 17ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Cremonese
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaCremonese.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Roberto Bettin]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Marco Lanna|Lanna]] {{Goal|63}}
+|Marcatori 2 = {{Goal|39}} [[Enrico Chiesa|Chiesa]]
+|Sfondo =
+}}
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 gennaio
+|Anno = 1995
+|Turno = 18ª giornata
+|Ora =
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495FoggiaRoma.html
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Arbitro = [[Pasquale Rodomonti]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|2}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 febbraio
+|Anno = 1995
+|Turno = 19ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaInter.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Braschi]]
+|Cittarbitro = [[Prato (Italia)|Prato]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|4||30||71}}
+|Marcatori 2 = {{Goal|14}} [[Andrea Seno|Seno]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 febbraio
+|Anno = 1995
+|Turno = 20ª giornata
+|Ora =
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495GenoaRoma.html
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Arbitro = [[Pierluigi Pairetto]]
+|Cittarbitro = [[Nichelino]]
+|Marcatori 1 = [[Tomáš Skuhravý|Skuhravý]] {{Goal|15}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 febbraio
+|Anno = 1995
+|Turno = 21ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Reggiana
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaReggiana.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Francesco Arena (arbitro)|Francesco Arena]]
+|Cittarbitro = [[Ercolano (comune)|Ercolano]]
+|Marcatori 1 = [[Giuseppe Giannini (calciatore)|Giannini]] {{Goal|48}}<br />[[Abel Balbo|Balbo]] {{Goal|70|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 marzo
+|Anno = 1995
+|Turno = 22ª giornata
+|Ora =
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495SampdoriaRoma.html
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Arbitro = [[Alfredo Trentalange]]
+|Cittarbitro = [[Torino]]
+|Marcatori 1 = [[Marco Rossi (calciatore 1964)|Rossi]] {{Goal|26}}<br />[[Ruud Gullit|Gullit]] {{Goal|47||77}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 marzo
+|Anno = 1995
+|Turno = 23ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaTorino.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Daniel Fonseca|Fonseca]] {{Goal|40}}
+|Marcatori 2 = {{Goal|8}} [[Ruggiero Rizzitelli|Rizzitelli]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 marzo
+|Anno = 1995
+|Turno = 24ª giornata
+|Ora =
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495CagliariRoma.html
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Sant'Elia]]
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|18|rig.}} [[Abel Balbo|Balbo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º aprile
+|Anno = 1995
+|Turno = 25ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Parma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaParma.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|23}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 aprile
+|Anno = 1995
+|Turno = 26ª giornata
+|Ora =
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495NapoliRoma.html
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 aprile
+|Anno = 1995
+|Turno = 27ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaBrescia.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Stefano Farina]]
+|Cittarbitro = [[Novi Ligure]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|5}}<br />[[Massimiliano Cappioli|Cappioli]] {{Goal|18}}<br />[[Abel Balbo|Balbo]] {{Goal|79|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 aprile
+|Anno = 1995
+|Turno = 28ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/9495romalazio.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|30}} [[Pierluigi Casiraghi|Casiraghi]]<br />{{Goal|70|rig.}} [[Giuseppe Signori|Signori]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 aprile
+|Anno = 1995
+|Turno = 29ª giornata
+|Ora =
+|Squadra 1 = Padova
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495PadovaRoma.html
+|Città = [[Padova]]
+|Stadio = [[Stadio Euganeo]]
+|Arbitro = [[Livio Bazzoli]]
+|Cittarbitro = [[Merano]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 7 maggio
+|Anno = 1995
+|Turno = 30ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaFiorentina.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Pasquale Rodomonti]]
+|Cittarbitro = [[Teramo]]
+|Marcatori 1 = [[Abel Balbo|Balbo]] {{Goal|15}}<br />[[Francesco Totti|Totti]] {{Goal|81}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 maggio
+|Anno = 1995
+|Turno = 31ª giornata
+|Ora =
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495MilanRoma.html
+|Città = [[Milano]]
+|Stadio = [[Stadio Giuseppe Meazza]]
+|Arbitro = [[Graziano Cesari]]
+|Cittarbitro = [[Genova]]
+|Marcatori 1 = [[Gianluigi Lentini|Lentini]] {{Goal|34}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 maggio
+|Anno = 1995
+|Turno = 32ª giornata
+|Ora =
+|Squadra 1 = Bari
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/9495BariRoma.html
+|Città = [[Bari]]
+|Stadio = [[Stadio San Nicola]]
+|Arbitro = [[Pierluigi Collina]]
+|Cittarbitro = [[Viareggio]]
+|Marcatori 1 = [[Sandro Tovalieri|Tovalieri]] {{Goal|54}}<br />[[Igor Protti|Protti]] {{Goal|75}}
+|Marcatori 2 = {{Goal|6||70}} [[Daniel Fonseca|Fonseca]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 maggio
+|Anno = 1995
+|Turno = 33ª giornata
+|Ora =
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaJuventus.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Gianni Beschin]]
+|Cittarbitro = [[Legnago]]
+|Marcatori 1 = [[Alessio Tacchinardi|Tacchinardi]] {{Goal|10|aut.}}<br />[[Daniel Fonseca|Fonseca]] {{Goal|70|rig.}}<br />[[Abel Balbo|Balbo]] {{Goal|75}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 4 giugno
+|Anno = 1995
+|Turno = 34ª giornata
+|Ora =
+|Squadra 1 = Cremonese
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 5
+|Referto = http://www.asromaultras.org/9495CremoneseRoma.html
+|Città = [[Cremona]]
+|Stadio = [[Stadio Giovanni Zini]]
+|Arbitro = [[Daniele Tombolini]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Enrico Chiesa|Chiesa]] {{Goal|25}}<br />[[Claudio Sclosa|Sclosa]] {{Goal|56}}
+|Marcatori 2 = {{Goal|12||49||79|rig.}} [[Abel Balbo|Balbo]]<br />{{Goal|68||90}} [[Massimiliano Cappioli|Cappioli]]
+|Sfondo = on
+}}
+
+=== Coppa Italia ===
+{{Vedi anche|Coppa Italia 1994-1995}}
+==== Turni preliminari ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 31 agosto
+|Anno = 1994
+|Ora =
+|Turno= Secondo turno - Andata
+|Squadra 1 = Fiorenzuola
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 3
+|Referto = http://www.asromaultras.org/9495FiorenzuolaRoma.html
+|Città = [[Fiorenzuola d'Arda]]
+|Stadio = [[Stadio Comunale di Fiorenzuola|Stadio Comunale]]
+|Arbitro = [[Carlo Dinelli]]
+|Cittarbitro = [[Lucca]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|22||70}} [[Roberto Muzzi|Muzzi]]<br />{{Goal|61}} [[Giuseppe Giannini (calciatore)|Giannini]]
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 1994
+|Ora =
+|Turno= Secondo turno - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Fiorenzuola
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaFiorenzuola_CI.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Domenico Messina]]
+|Cittarbitro = [[Bergamo]]
+|Marcatori 1 = [[Massimiliano Cappioli|Cappioli]] {{Goal|28}}<br />[[Francesco Totti|Totti]] {{Goal|67}}
+|Marcatori 2 = {{Goal|80}} [[Claudio Bellucci|Bellucci]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 ottobre
+|Anno = 1994
+|Ora =
+|Turno= Terzo turno - Andata
+|Squadra 1 = Genoa
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495GenoaRoma_CI.html
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Arbitro = [[Marcello Nicchi]]
+|Cittarbitro = [[Arezzo]]
+|Marcatori 1 = [[Roberto Castorina|Castorina]] {{Goal|57}}<br />[[Marco Nappi|Nappi]] {{Goal|76}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 ottobre
+|Anno = 1994
+|Ora =
+|Turno= Terzo turno - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Genoa
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495RomaGenoa_CI.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Angelo Amendolia]]
+|Cittarbitro = [[Messina]]
+|Marcatori 1 = [[Francesco Totti|Totti]] {{Goal|22}}<br />[[Daniel Fonseca|Fonseca]] {{Goal|77||85}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+==== Fase finale ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º dicembre
+|Anno = 1994
+|Ora =
+|Turno= Quarti di finale - Andata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/9495JuventusRoma_CI.html
+|Città = [[Torino]]
+|Stadio = [[Stadio delle Alpi]]
+|Arbitro = [[Piero Ceccarini]]
+|Cittarbitro = [[Livorno]]
+|Marcatori 1 = [[Gianluca Vialli|Vialli]] {{Goal|22||34}}<br />[[Fabrizio Ravanelli|Ravanelli]] {{Goal|90|rig.}}
+|Marcatori 2 =
+|Sfondo =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 dicembre
+|Anno = 1994
+|Ora =
+|Turno= Quarti di finale - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/9495RomaJuventus_CI.html
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Arbitro = [[Robert Boggi]]
+|Cittarbitro = [[Salerno]]
+|Marcatori 1 = [[Giancarlo Marocchi|Marocchi]] {{Goal|21|aut.}}<br />[[Francesco Totti|Totti]] {{Goal|36}}<br />[[Massimiliano Cappioli|Cappioli]] {{Goal|68}}
+|Marcatori 2 = {{Goal|27|rig.}} [[Fabrizio Ravanelli|Ravanelli]]
+|Sfondo = on
+}}
+
+== Statistiche ==
+Di seguito le statistiche<ref>{{Cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1994|titolo=Rosa AS Roma - Saison 94/95|accesso=17 aprile 2018}}</ref>.
+=== Statistiche di squadra<ref>{{cita|Beltrami, 1995|pp. 150, 305-310}}.</ref> ===
+{{Statistiche_squadra
+|comp1=[[Serie A 1994-1995|Serie A]]
+|punti1=59
+|cv1=10
+|cn1=6
+|cp1=1
+|cgf1=27
+|cgs1=8
+|tv1=6
+|tn1=5
+|tp1=6
+|tgf1=19
+|tgs1=17
+|comp2=[[Coppa Italia 1994-1995|Coppa Italia]]
+|punti2=
+|cv2=3
+|cn2=0
+|cp2=0
+|cgf2=8
+|cgs2=2
+|tv2=1
+|tn2=0
+|tp2=2
+|tgf2=3
+|tgs2=5
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=C |m2=T |m3=C |m4=T |m5=C |m6=T |m7=C |m8=T |m9=C |m10=T |m11=T |m12=C |m13=T |m14=C |m15=C |m16=T |m17=C |m18=T |m19=C |m20=T |m21=C |m22=T |m23=C |m24=T |m25=C |m26=T |m27=C |m28=C |m29=T |m30=C |m31=T |m32=T |m33=C |m34=T}}
+{{Andamento/Risultato |m1=N |m2=V |m3=V |m4=V |m5=V |m6=N |m7=N |m8=P |m9=N |m10=N |m11=V |m12=V |m13=P |m14=N |m15=V |m16=P |m17=N |m18=V |m19=V |m20=P |m21=V |m22=P |m23=N |m24=V |m25=V |m26=N |m27=V |m28=P |m29=N |m30=V |m31=P |m32=N |m33=V |m34=V}}
+{{Andamento/Posizione |m1=8 |m2=8 |m3=3 |m4=1 |m5=2 |m6=1 |m7=2 |m8=4 |m9=5 |m10=5 |m11=5 |m12=4 |m13=4 |m14=5 |m15=3 |m16=5 |m17=4 |m18=4 |m19=3 |m20=4 |m21=3 |m22=4 |m23=4 |m24=4 |m25=3 |m26=3 |m27=3 |m28=4 |m29=4 |m30=4 |m31=5 |m32=5 |m33=5 |m34=5}}
+{{Andamento/Fine |fonte={{cita web |url=https://www.worldfootball.net/schedule/ita-serie-a-1994-1995-spieltag/1/ |titolo=Italy » Serie A 1994/1995 » Results & Tables |editore=worldfootball.net}}}}
+=== Statistiche dei giocatori ===
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| {{Sortname||Aldair}} {{Sommastat|28|1|?|? |5|0|?|?}}
+| {{Sortname|E.|Annoni|Enrico Annoni}} {{Sommastat|24|0|?|? |3|0|?|?}}
+| {{Sortname|A.|Balbo|Abel Balbo}} {{Sommastat|32|22|?|? |4|0|?|?}}
+| {{Sortname|S.|Benedetti|Silvano Benedetti}} {{Sommastat|12|0|?|? |3|0|?|?}}
+| {{Sortname|A.|Borsa|Andrea Borsa}} {{Sommastat|1|0|?|? |1|0|?|?}}
+| {{Sortname|M.|Cappioli|Massimiliano Cappioli}} {{Sommastat|31|5|?|? |6|2|?|?}}
+| {{Sortname|A.|Carboni|Amedeo Carboni}} {{Sommastat|30|0|?|? |3|0|?|?}}
+| {{Sortname|G.|Cervone|Giovanni Cervone}} {{Sommastat|33|-22|?|? |4|-5|?|?}}
+| {{Sortname|F.|Colonnese|Francesco Colonnese}} {{Sommastat|5|0|?|? |2|0|?|?}}
+| {{Sortname|D.|Fonseca|Daniel Fonseca}} {{Sommastat|26|8|?|? |3|2|?|?}}
+| {{Sortname|G.|Giannini|Giuseppe Giannini (calciatore)}} {{Sommastat|28|1|?|? |6|1|?|?}}
+| {{Sortname|M.|Lanna|Marco Lanna}} {{Sommastat|31|1|?|? |3|0|?|?}}
+| {{Sortname|F.|Lorieri|Fabrizio Lorieri}} {{Sommastat|2|-3|?|? |2|-2|?|?}}
+| {{Sortname|G.|Maini|Giampiero Maini}} {{Sommastat|7|0|?|? |3|0|?|?}}
+| {{Sortname|S.|Mazzoni|Sandro Mazzoni}} {{Sommastat|-|-|-|- |1|0|?|?}}
+| {{Sortname|F.|Moriero|Francesco Moriero}} {{Sommastat|28|2|?|? |4|0|?|?}}
+| {{Sortname|R.|Muzzi|Roberto Muzzi}} {{Sommastat|2|0|?|? |2|2|?|?}}
+| {{Sortname|F.|Petruzzi|Fabio Petruzzi}} {{Sommastat|26|0|?|? |4|0|?|?}}
+| {{Sortname|G.|Piacentini|Giovanni Piacentini}} {{Sommastat|29|0|?|? |5|0|?|?}}
+| {{Sortname|D.|Rossi|Daniele Rossi (calciatore)}} {{Sommastat|-|-|-|- |2|0|?|?}}
+| {{Sortname|D.|Rossi|Dario Rossi}} {{Sommastat|3|0|?|? |-|-|-|-}}
+| {{Sortname|F.|Statuto|Francesco Statuto}} {{Sommastat|20|3|?|? |1|0|?|?}}
+| {{Sortname|J.|Thern|Jonas Thern}} {{Sommastat|12|0|?|? |4|0|?|?}}
+| {{Sortname|F.|Totti|Francesco Totti}} {{Sommastat|21|4|?|? |4|3|?|?}}
+}}
+<small>Fonte:</small> <ref>{{cita|Beltrami, 1995|pp. 194, 305-310}}.</ref>
+== Note ==
+<references/>
+== Bibliografia ==
+* {{cita libro|cid=Beltrami, 1994|autore=Arrigo Beltrami (a cura di)|titolo=Almanacco illustrato del calcio 1995|città=Modena|editore=Panini|anno=1994}}
+* {{cita libro|cid=Beltrami, 1995|autore=Arrigo Beltrami (a cura di)|titolo=Almanacco illustrato del calcio 1996|città=Modena|editore=Panini|anno=1995}}
+* {{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+== Collegamenti esterni ==
+* {{cita web|http://www.asroma.it/|Sito ufficiale}}
+* {{cita web|http://www.rsssf.com/tablesi/ital95.html|Serie A 1994-1995 su Rsssf.com|lingua=en}}
+* {{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1994|Profilo e statistiche su Transfermarkt.it|lingua=it, en, de}}
+* {{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1994-1995}}
+{{Portale|calcio}}

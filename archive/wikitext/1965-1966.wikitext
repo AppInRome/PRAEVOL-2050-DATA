@@ -1,0 +1,1000 @@
+{{Torna a|Associazione Sportiva Roma}}
+{{Stagione squadra
+|sport=calcio
+|club = AS Roma
+|stagione = 1965-1966
+|immagine = AS Roma 1965-66.jpg
+|allenatore1 = {{Bandiera|ITA}} [[Oronzo Pugliese]]
+|presidente = {{Bandiera|ITA}} [[Franco Evangelisti (politico)|Franco Evangelisti]]
+|campionato = [[Serie A 1965-1966|Serie A]]
+|campionato posizione = 8º
+|coppa1 = [[Coppa Italia 1965-1966|Coppa Italia]]
+|coppa1 posizione = Primo turno
+|coppa2 = [[Coppa delle Fiere 1964-1965|Coppa delle Fiere]]
+|coppa2 posizione = Primo turno
+|presenze campionato = [[Francesco Carpenetti|Carpenetti]], [[Paolo Barison|Barison]] (32)
+|presenze totale = Carpenetti, Barison, [[Giuseppe Tamborini|Tamborini]] (34)
+|marcatore campionato = Barison (6)
+|marcatore totale = Barison (7)
+|spettatori max = {{formatnum:71948}} vs {{Calcio Napoli|N}}<br/>(24 ottobre 1965)<ref name=stadiapost>{{cita web|url=https://www.stadiapostcards.com/A65-66.htm|titolo=Statistiche Spettatori Serie A 1965-1966}}</ref>
+|spettatori min = {{formatnum:13948}} vs {{Calcio Catania|N}}<br/>(21 novembre 1965)<ref name=stadiapost/>
+|spettatori media = {{formatnum:29420}}<ref name=stadiapost/>
+|spettatori media legenda = campionato
+|abbonati = {{formatnum:8498}}<ref name=stadiapost/>
+|stadio = [[Stadio Olimpico (Roma)|Olimpico]]
+|stagione prima = [[Associazione Sportiva Roma 1964-1965|1964-1965]]
+|stagione dopo = [[Associazione Sportiva Roma 1966-1967|1966-1967]]
+}}
+Questa voce raccoglie le informazioni riguardanti l{{'}}'''Associazione Sportiva Roma''' nelle competizioni ufficiali della stagione '''1965-1966'''.
+== Stagione ==
+Dopo l'allontanamento di [[Juan Carlos Lorenzo]], sulla panchina giallorossa il nuovo presidente [[Franco Evangelisti (politico)|Franco Evangelisti]] decide di ingaggiare il "Mago di Turi": [[Oronzo Pugliese]], allenatore rustico e tenace, grande lavoratore. Nello stesso anno le scarse risorse economiche nelle quali naviga la società, costringono il presidente a cedere molti giocatori, tra i quali il più illustre è [[Giancarlo De Sisti|"Picchio" De Sisti]], giovane campione cresciuto nel vivaio giallorosso ed affermatosi come leader del centrocampo della Roma, ceduto alla {{Calcio Fiorentina|N}} per 170 milioni più il cartellino di [[Renato Benaglia|Benaglia]]<ref name="scambio"/>. La vendita del giovane campione, che qualche anno dopo porterà lo [[scudetto (sport)|scudetto]] a [[Firenze]], crea non pochi malumori alla piazza. Molti tifosi protestano contro la presidenza, ma le esigenze di bilancio sono più forti delle volontà della tifoseria. Comincia in questi anni a caratterizzarsi quella squadra incolore e poco gloriosa definita come la "Rometta", appellativo che accompagnerà la squadra capitolina fino alla fine degli [[anni 1970]]. Quest'anno la squadra, nonostante alcune vittorie prestigiose, su tutte quella per 2-0 contro i campioni del mondo dell'{{Calcio Inter|N}} di [[Angelo Moratti|Moratti]], si classifica ottava.<ref name=cor3>{{cita|Romano|titolo=1965-1973 L'era dei maghi: da Oronzo Pugliese a Helenio Herrera}}.</ref>
+== Divise ==
+La divisa primaria è costituita da maglia rossa con colletto a polo giallo, pantaloncini bianchi, calze rosse bordate di giallo; in trasferta viene usata una maglia bianca con colletto a polo e con una banda giallorossa obliqua, pantaloncini bianchi e calzettoni bianchi bordati di giallorosso. I portieri hanno tre maglie: una nera, una verde, una nera con colletto a polo giallorosso decorata con una V giallorossa; queste sono abbinate a calzoncini neri e calzettoni rossi bordati di giallo.<ref>{{cita|Castellani, Ceci, de Conciliis|pp. 101-104}}.</ref>
+{|
+|
+{{Divisa Calcio
+|pattern_la =_asroma2728h
+|leftarm = A00000
+|pattern_b =_asroma4950h
+|body = A00000
+|pattern_ra =_asroma2728h
+|rightarm = A00000
+|shorts = FFFFFF
+|pattern_so =_asromah
+|socks = 000000
+|title = Casa
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma6269a
+|leftarm = FFFFFF
+|pattern_b =_asroma6269a
+|body = FFFFFF
+|pattern_ra =_asroma6269a
+|rightarm = FFFFFF
+|shorts = f
+|pattern_so =_asroma6269a
+|socks = FFFFFF
+|title = Trasferta
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 000000
+|pattern_b =
+|body = 000000
+|pattern_ra =
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 1ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =_asroma3334gk
+|leftarm = 858585
+|pattern_b =_asroma6566gk3
+|body = 858585
+|pattern_ra =_asroma3334gk
+|rightarm = 000000
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 2ª portiere
+}}
+|
+{{Divisa Calcio
+|pattern_la =
+|leftarm = 05781d
+|pattern_b =
+|body = 05781d
+|pattern_ra =
+|rightarm = 05781d
+|shorts = 000000
+|pattern_so =_asromah
+|socks = 030347
+|title = 3ª portiere
+}}
+|}
+== Organigramma societario ==
+Di seguito l'organigramma societario.<ref name=cor3/>
+{{Colonne}}
+;Area direttiva
+*Presidente: [[Franco Evangelisti (politico)|Franco Evangelisti]]
+{{Colonne spezza}}
+;Area tecnica
+*Allenatore: [[Oronzo Pugliese]]
+{{Colonne spezza}}
+;Area sanitaria
+*Medici sociali: Gatello Di Martino, Folco Rossi
+*Massaggiatori: Roberto Minaccioni
+{{Colonne fine}}
+== Rosa ==
+Di seguito la rosa.<ref name="Rosa AS Roma - Saison 65/66">{{cita web|url=https://www.transfermarkt.it/as-roma/kader/verein/12/plus/0/galerie/0?saison_id=1965|titolo=Rosa AS Roma - Saison 65/66|accesso=10 aprile 2018}}</ref>
+{{Calciatore in rosa/inizio}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fabio Cudicini]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Alberto Ginulfi]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Enzo Matteucci]]|ruolo=P}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mario Ardizzon]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Cappelli]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Francesco Carpenetti]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giacomo Losi]]|ruolo=D|altro=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Aldo Sensibile]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Glauco Tomasin]]|ruolo=D}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Renato Benaglia]]|ruolo=C}}
+{{Calciatore in rosa/medio}}
+{{Calciatore in rosa|n=|nazione=PER|nome=[[Víctor Morales Benítez]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Sergio Carpanesi]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Mauro Nardoni]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Elvio Salvori]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Angelo Spanio (calciatore)|Angelo Spanio]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Giuseppe Tamborini]]|ruolo=C}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Paolo Barison]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=BRA 1960-1968|nome=[[José Ricardo da Silva]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Fulvio Francesconi]]|ruolo=A}}
+{{Calciatore in rosa|n=|nazione=ITA|nome=[[Lamberto Leonardi]]|ruolo=A}}
+{{Calciatore in rosa/fine}}
+== Calciomercato ==
+Di seguito il calciomercato.<ref name="Rosa AS Roma - Saison 65/66"/>
+{{colonne}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Acquisti
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | da
+! width=35% | Modalità
+|-
+| D || [[Francesco Cappelli]] || {{Calcio Tevere Roma|N}} || ''definitivo''
+|-
+| D || [[Aldo Sensibile]] || {{Calcio Lecce|N}} || ''definitivo''
+|-
+| C || [[Renato Benaglia]] || {{Calcio Fiorentina|N}} || ''definitivo''<ref name="scambio">{{Cita web|titolo=Perfezionata la vendita di "Picchio" De Sisti per 170 milioni più Benaglia|url=http://www.asromaultras.org/6566_15-07-65_Unita_af.jpg}}</ref>
+|-
+| C || [[Víctor Morales Benítez]] || {{Calcio Milan|N}} || ''definitivo''
+|-
+| C || [[Jürgen Schütz]] || {{Calcio Messina|N}} || ''fine prestito''
+|-
+| C || [[Angelo Spanio (calciatore)|Angelo Spanio]] || {{Calcio Napoli|N}} || ''definitivo''
+|-
+| A || [[Paolo Barison]] || {{Calcio Sampdoria|N}} || ''definitivo''
+|-
+| A || [[José Ricardo da Silva]] || {{Calcio Sampdoria|N}} || ''definitivo''
+|}
+{{colonne spezza}}
+{| class="wikitable" style="font-size:90%"
+! colspan="4" | Cessioni
+|-
+! width=3% | R.
+! width=32% | Nome
+! width=30% | a
+! width=35% | Modalità
+|-
+| C || [[Giancarlo De Sisti]] || {{Calcio Fiorentina|N}} || ''definitivo''<ref name="scambio"/>
+|-
+| C || [[Karl-Heinz Schnellinger]] || {{Calcio Milan|N}} || ''definitivo''
+|-
+| C || [[Jürgen Schütz]] || {{Calcio Torino|N}} || ''prestito''
+|-
+| A || [[Antonio Angelillo]] || {{Calcio Milan|N}} || ''definitivo''
+|-
+| A || [[Pedro Manfredini]] || {{Calcio Inter|N}} || ''definitivo''
+|-
+| A || [[Bruno Nicolè]] || {{Calcio Sampdoria|N}} ||''definitivo''
+|}
+{{colonne fine}}
+== Risultati ==
+=== Serie A ===
+{{Vedi anche|Serie A 1965-1966}}
+==== Girone di andata ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 5 settembre
+|Anno = 1965
+|Ora = 15:30
+|Turno = 1ª giornata
+|Squadra 1 = Vicenza
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566VicenzaRoma_Unita_af.jpg
+|Città = [[Vicenza]]
+|Stadio = [[Stadio Romeo Menti]]
+|Spettatori = {{formatnum:8621}}
+|Arbitro = [[Gastone Roversi]]
+|Cittarbitro = [[Bologna]]
+|Marcatori 1 = [[Luís Vinício|Vinício]] {{goal|50|rig.}}
+|Marcatori 2 = {{goal|18}} [[José Ricardo da Silva|da Silva]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 settembre
+|Anno = 1965
+|Ora = 15:30
+|Turno = 2ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = SPAL
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/6566RomaSpal_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:21948}}
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|27}} [[Enrico Muzzio|Muzzio]]<br />{{goal|41|rig.}} [[Oscar Massei|Massei]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 settembre
+|Anno = 1965
+|Ora = 1965
+|Turno = 3ª giornata
+|Squadra 1 = Sampdoria
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566SampdoriaRoma_Unita_af.jpg
+|Città = [[Genova]]
+|Stadio = [[Stadio Luigi Ferraris]]
+|Spettatori = {{formatnum:13490}}
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 =
+|Marcatori 2 = {{goal|56}} [[Paolo Barison|Barison]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 settembre
+|Anno = 1965
+|Ora = 15:30
+|Turno = 4ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Inter
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaInter_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:37948}}
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Marcatori 1 = [[Víctor Morales Benítez|Benítez]] {{goal|62}}<br />[[Paolo Barison|Barison]] {{goal|74}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 ottobre
+|Anno = 1965
+|Ora = 15:00
+|Turno = 5ª giornata
+|Squadra 1 = Atalanta
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto =
+|Città = [[Bergamo]]
+|Stadio = [[Stadio Atleti Azzurri d'Italia|Stadio Comunale]]
+|Spettatori = {{formatnum:15365}}
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Lamberto Leonardi|Leonardi]] {{Goal|71}}<br />[[Paolo Barison|Barison]] {{goal|88|rig.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 ottobre
+|Anno = 1965
+|Ora = 15:00
+|Turno = 6ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Lazio
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566RomaLazie_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:55948}}
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|39}} [[Vito D'Amato|D'Amato]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 ottobre
+|Anno = 1965
+|Ora = 15:00
+|Turno = 7ª giornata
+|Squadra 1 = Juventus
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566JuventusRoma_Unita_01_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = {{formatnum:10950}}
+|Arbitro = [[Ezio Motta]]
+|Cittarbitro = [[Monza]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 ottobre
+|Anno = 1965
+|Ora = 15:00
+|Turno = 8ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Napoli
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaNapoli_Unita_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:71948}}
+|Arbitro = [[Giorgio Genel]]
+|Cittarbitro = [[Trieste]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 14 novembre
+|Anno = 1965
+|Ora = 14:30
+|Turno = 9ª giornata
+|Squadra 1 = Bologna
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto =
+|Città = [[Bologna]]
+|Stadio = [[Stadio Renato Dall'Ara|Stadio Comunale]]
+|Spettatori = {{formatnum:23689}}
+|Arbitro = [[Giulio Campanati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Helmut Haller|Haller]] {{Goal|17}}<br />[[Ezio Pascutti|Pascutti]] {{Goal|55}}<br />[[Harald Nielsen|Nielsen]] {{Goal|87}}
+|Marcatori 2 = {{Goal|82|aut.}} [[Francesco Janich|Janich]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 21 novembre
+|Anno = 1965
+|Ora = 14:30
+|Turno = 10ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Catania
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566romacatania_06.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:13948}}
+|Arbitro = [[Antonio Di Tonno]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Renato Rambaldelli|Rambaldelli]] {{Goal|57|aut.}}
+|Marcatori 2 = {{Goal|51|rig.}} [[Carlo Facchin|Facchin]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 28 novembre
+|Anno = 1965
+|Ora = 14:30
+|Turno = 11ª giornata
+|Squadra 1 = Milan
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566MilanRoma_Unita_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = {{formatnum:33138}}
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Gianni Rivera|Rivera]] {{Goal|53}}<br />[[Angelo Sormani|Sormani]] {{Goal|67}}<br />[[Bruno Mora|Mora]] {{Goal|87}}
+|Marcatori 2 = {{Goal|72}} [[Angelo Spanio (calciatore)|Spanio]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 12 dicembre
+|Anno = 1965
+|Ora = 14:30
+|Turno = 12ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Torino
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566roma%20torino%202.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:29448}}
+|Arbitro = [[Mario Bernardis]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Giuseppe Tamborini|Tamborini]] {{Goal|26}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 19 dicembre
+|Anno = 1965
+|Ora = 14:30
+|Turno = 13ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Brescia
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566RomaBrescia_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:21552}}
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[Mario Ardizzon|Ardizzon]] {{Goal|37}}
+|Marcatori 2 = {{Goal|44}} [[Ottavio Bianchi|Bianchi]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 26 dicembre
+|Anno = 1965
+|Ora = 14:30
+|Turno = 14ª giornata
+|Squadra 1 = Fiorentina
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566FiorentinaRoma_Unita_01_af.jpg
+|Città = [[Firenze]]
+|Stadio = [[Stadio Artemio Franchi|Stadio Comunale]]
+|Spettatori = {{formatnum:22978}}
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|72}} [[Fulvio Francesconi|Francesconi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 2 gennaio
+|Anno = 1966
+|Ora = 14:30
+|Turno = 15ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Foggia
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaFoggia_CorrSport_02_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:24948}}
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Antonio Bettoni|Bettoni]] {{Goal|75|aut.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 9 gennaio
+|Anno = 1966
+|Ora = 14:30
+|Turno = 16ª giornata
+|Squadra 1 = Cagliari
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566CagliariRoma_CorrSport_02_af.jpg
+|Città = [[Cagliari]]
+|Stadio = [[Stadio Amsicora]]
+|Spettatori = {{formatnum:11389}}
+|Arbitro = [[Mario Bernardis]]
+|Cittarbitro = [[Firenze]]
+|Marcatori 1 = [[Francesco Rizzo|Rizzo]] {{Goal|6||63}}<br />[[Renzo Cappellaro|Cappellaro]] {{Goal|20}}<br />[[Gigi Riva|Riva]] {{Goal|36}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 16 gennaio
+|Anno = 1966
+|Ora = 14:30
+|Turno = 17ª giornata
+|Squadra 1 = Varese
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566VareseRoma_CorrSport_02_af.jpg
+|Città = [[Varese]]
+|Stadio = [[Stadio Franco Ossola]]
+|Spettatori = {{formatnum:7528}}
+|Arbitro = [[Luciano Politano]]
+|Cittarbitro = [[Cuneo]]
+}}
+
+==== Girone di ritorno ====
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 23 gennaio
+|Anno = 1966
+|Ora = 14:30
+|Turno = 18ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Vicenza
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaVicenza_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:19060}}
+|Arbitro = [[Francesco De Robbio]]
+|Cittarbitro = [[Torre Annunziata]]
+|Marcatori 1 = [[José Ricardo da Silva|da Silva]] {{goal|48}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 30 gennaio
+|Anno = 1966
+|Ora = 14:30
+|Turno = 19ª giornata
+|Squadra 1 = SPAL
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566SpalRoma_CorrSport_01_af.jpg
+|Città = [[Ferrara]]
+|Stadio = [[Stadio Paolo Mazza|Stadio Comunale]]
+|Spettatori = {{formatnum:8620}}
+|Arbitro = [[Ettore Carminati]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Oscar Massei|Massei]] {{goal|53}}<br />[[Renato Benaglia|Benaglia]] {{goal|88|aut.}}
+|Marcatori 2 = {{goal|33}} [[José Ricardo da Silva|da Silva]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 febbraio
+|Anno = 1966
+|Ora = 14:30
+|Turno = 20ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Sampdoria
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaSampdoria_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:17948}}
+|Arbitro = [[Mario Bernardis]]
+|Cittarbitro = [[Trieste]]
+|Marcatori 1 = [[Paolo Barison|Barison]] {{goal|31}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 febbraio
+|Anno = 1966
+|Ora = 15:00
+|Turno = 21ª giornata
+|Squadra 1 = Inter
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/6566InterRoma_CorrSport_01_af.jpg
+|Città = [[Milano]]
+|Stadio = [[Stadio San Siro]]
+|Spettatori = {{formatnum:25699}}
+|Arbitro = [[Antonio Di Tonno]]
+|Cittarbitro = [[Lecce]]
+|Marcatori 1 = [[Sandro Mazzola|Mazzola]] {{goal|30|rig.}}<br />[[Luis Suárez (calciatore 1935)|Suárez]] {{goal|60}}
+|Marcatori 2 = {{goal|28}} [[Paolo Barison|Barison]]<br />{{goal|31}} [[Angelo Spanio (calciatore)|Spanio]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 20 febbraio
+|Anno = 1966
+|Ora = 15:00
+|Turno = 22ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Atalanta
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaAtalanta_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:21006}}
+|Arbitro = [[Priamo Varazzani]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Giuseppe Tamborini|Tamborini]] {{Goal|56}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 febbraio
+|Anno = 1966
+|Ora = 15:00
+|Turno = 23ª giornata
+|Squadra 1 = Lazio
+|Squadra 2 = Roma
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566LazieRoma_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:50956}}
+|Arbitro = [[Fabio Monti]]
+|Cittarbitro = [[Ancona]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 marzo
+|Anno = 1966
+|Ora = 15:00
+|Turno = 24ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Juventus
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566RomaJuventus_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:36031}}
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Renato Benaglia|Benaglia]] {{goal|78}}
+|Marcatori 2 = {{goal|28}} [[Silvino Bercellino|Bercellino]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 13 marzo
+|Anno = 1966
+|Ora = 15:00
+|Turno = 25ª giornata
+|Squadra 1 = Napoli
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566NapoliRoma_CorrSport_01_af.jpg
+|Città = [[Napoli]]
+|Stadio = [[Stadio San Paolo]]
+|Spettatori = {{formatnum:72308}}
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Cané]] {{goal|81}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 27 marzo
+|Anno = 1966
+|Ora = 15:00
+|Turno = 26ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Bologna
+|Punteggio 1 = 3
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566RomaBologna_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:32948}}
+|Arbitro = [[Bruno De Marchi]]
+|Cittarbitro = [[Pordenone]]
+|Marcatori 1 = [[Angelo Spanio (calciatore)|Spanio]] {{goal|26}}<br />[[Lamberto Leonardi|Leonardi]] {{goal|30}}<br />[[Paolo Barison|Barison]] {{goal|58}}
+|Marcatori 2 = {{goal|83}} [[Harald Nielsen|Nielsen]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 3 aprile
+|Anno = 1966
+|Ora = 15:30
+|Turno = 27ª giornata
+|Squadra 1 = Catania
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566CataniaRoma_CorrSport_01_af.jpg
+|Città = [[Catania]]
+|Stadio = [[Stadio Cibali]]
+|Spettatori = {{formatnum:7346}}
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 = [[Carlo Facchin|Facchin]] {{goal|33}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 10 aprile
+|Anno = 1966
+|Ora = 15:45
+|Turno = 28ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Milan
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaMilan_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:29495}}
+|Arbitro = [[Aurelio Angonese]]
+|Cittarbitro = [[Mestre]]
+|Marcatori 1 = [[Glauco Tomasin|Tomasin]] {{goal|80}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 17 aprile
+|Anno = 1966
+|Ora = 15:30
+|Turno = 29ª giornata
+|Squadra 1 = Torino
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 1
+|Referto = http://www.asromaultras.org/6566TorinoRoma_CorrSport_02_af.jpg
+|Città = [[Torino]]
+|Stadio = [[Stadio Olimpico (Torino)|Stadio Comunale]]
+|Spettatori = {{formatnum:15001}}
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Luigi Simoni|Simoni]] {{Goal|70}}
+|Marcatori 2 = {{Goal|65}} [[Fulvio Francesconi|Francesconi]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 24 aprile
+|Anno = 1966
+|Ora = 15:30
+|Turno = 30ª giornata
+|Squadra 1 = Brescia
+|Squadra 2 = Roma
+|Punteggio 1 = 3
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566BresciaRoma_Unita_01_af.jpg
+|Città = [[Brescia]]
+|Stadio = [[Stadio Mario Rigamonti]]
+|Spettatori = {{formatnum:24971}}
+|Arbitro = [[Priamo Varazzani]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Abbondanzio Pagani|Pagani]] {{Goal|7}}<br />[[Albert Brülls|Brülls]] {{Goal|14}}<br />[[Francesco Carpenetti|Carpenetti]] {{Goal|73|aut.}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 1º maggio
+|Anno = 1966
+|Ora = 16:00
+|Turno = 31ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Fiorentina
+|Punteggio 1 = 0
+|Punteggio 2 = 2
+|Referto = http://www.asromaultras.org/6566RomaFiorentina_Unita_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:28948}}
+|Arbitro = [[Raoul Righi]]
+|Cittarbitro = [[Milano]]
+|Marcatori 1 =
+|Marcatori 2 = {{Goal|44}} [[Kurt Hamrin|Hamrin]]<br />{{Goal|63}} [[Mario Brugnera|Brugnera]]
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 8 maggio
+|Anno = 1966
+|Ora = 16:00
+|Turno = 32ª giornata
+|Squadra 1 = Foggia
+|Squadra 2 = Roma
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566FoggiaRoma_CorrSport_02_af.jpg
+|Città = [[Foggia]]
+|Stadio = [[Stadio Pino Zaccheria]]
+|Spettatori = {{formatnum:10603}}
+|Arbitro = [[Francesco Francescon]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Roberto Oltramari|Oltramari]] {{Goal|62}}
+|Marcatori 2 =
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 15 maggio
+|Anno = 1966
+|Ora = 16:00
+|Turno = 33ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Cagliari
+|Punteggio 1 = 1
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaCagliari_CorrSport_03_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:18566}}
+|Arbitro = [[Concetto Lo Bello]]
+|Cittarbitro = [[Siracusa]]
+|Marcatori 1 = [[Raffaello Vescovi|Vescovi]] {{Goal|47|aut.}}
+|Marcatori 2 =
+|Sfondo = on
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 maggio
+|Anno = 1966
+|Ora = 16:30
+|Turno = 34ª giornata
+|Squadra 1 = Roma
+|Squadra 2 = Varese
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaVarese_CorrSport_01_af.jpg
+|Città = [[Roma]]
+|Stadio = [[Stadio Olimpico (Roma)|Stadio Olimpico]]
+|Spettatori = {{formatnum:18448}}
+|Arbitro = [[Antonio Marchiori]]
+|Cittarbitro = [[Padova]]
+|Marcatori 1 = [[Carlo Soldo|Soldo]] {{Goal|12|aut.}}<br />[[Mario Ardizzon|Ardizzon]] {{Goal|66}}
+|Marcatori 2 =
+}}
+
+=== Coppa Italia ===
+{{vedi anche|Coppa Italia 1965-1966}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 29 agosto
+|Anno = 1965
+|Ora = 16:30
+|Turno = Primo turno
+|Squadra 1 = Livorno
+|Squadra 2 = Roma
+|Punteggio 1 = 2
+|Punteggio 2 = 0
+|Supplementari = X
+|Referto = http://www.asromaultras.org/6566LivornoRoma_CI_Unita_01_af.jpg
+|Città = [[Livorno]]
+|Stadio = [[Stadio Armando Picchi|Stadio Comunale]]
+|Spettatori =
+|Arbitro = [[Priamo Varazzani]]
+|Cittarbitro = [[Parma]]
+|Marcatori 1 = [[Mauro Lessi|Lessi]] {{Goal|101}}<br />[[Lamberto Leonardi|Leonardi]] {{Goal|106|aut.}}
+|Marcatori 2 =
+}}
+=== Coppa delle Fiere ===
+{{vedi anche|Coppa delle Fiere 1965-1966}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 22 settembre
+|Anno = 1965
+|Ora =
+|Turno = Primo turno - Andata
+|Squadra 1 = Chelsea
+|Squadra 2 = Roma
+|Punteggio 1 = 4
+|Punteggio 2 = 1
+|Referto =
+|Città = [[Londra]]
+|Stadio = [[Stamford Bridge]]
+|Spettatori =
+|Arbitro = [[Willem Schalks]]
+|Nazarbitro = NLD
+|Marcatori 1 = [[Terry Venables|Venables]] {{goal|32||40||46}}<br />[[George Graham (calciatore)|Graham]] {{goal|67}}
+|Marcatori 2 = {{goal|34}} [[Paolo Barison|Barison]]
+}}
+{{Incontro di club
+|Sport = calcio
+|Giornomese = 6 ottobre
+|Anno = 1965
+|Ora = 21:15
+|Turno = Primo turno - Ritorno
+|Squadra 1 = Roma
+|Squadra 2 = Chelsea
+|Punteggio 1 = 0
+|Punteggio 2 = 0
+|Referto = http://www.asromaultras.org/6566RomaChelsea_01_La_Stampa_af.JPG
+|Città = [[Roma]]
+|Stadio = [[Stadio Flaminio]]
+|Spettatori =
+|Arbitro = Baumgartner
+|Nazarbitro = FRG
+|Sfondo = on
+}}
+== Statistiche ==
+=== Statistiche di squadra ===
+Di seguito le statistiche di squadra.<ref name=cor3/>
+{{Statistiche_squadra
+|comp1={{simbolo|Scudetto.svg|15}} [[Serie A 1965-1966|Serie A]]
+|punti1=36
+|cv1=10
+|cn1=4
+|cp1=3
+|cgf1=17
+|cgs1=9
+|tv1=3
+|tn1=6
+|tp1=8
+|tgf1=11
+|tgs1=22
+|comp2={{simbolo|Coccarda Coppa Italia.svg|15}} [[Coppa Italia 1965-1966|Coppa Italia]]
+|punti2=-
+|cv2=0
+|cn2=0
+|cp2=0
+|cgf2=0
+|cgs2=0
+|tv2=0
+|tn2=0
+|tp2=1
+|tgf2=0
+|tgs2=2
+|comp3=[[Coppa delle Fiere 1965-1966|Coppa delle Fiere]]
+|punti3=-
+|cv3=0
+|cn3=1
+|cp3=0
+|cgf3=0
+|cgs3=0
+|tv3=0
+|tn3=0
+|tp3=1
+|tgf3=1
+|tgs3=4
+}}
+=== Andamento in campionato ===
+{{Andamento |nr=34}}
+{{Andamento/Luogo |m1=T |m2=C |m3=T |m4=C |m5=T |m6=C |m7=T |m8=C |m9=T |m10=C |m11=T |m12=C |m13=C |m14=T |m15=C |m16=T |m17=T |m18=C |m19=T |m20=C |m21=T |m22=C |m23=T |m24=C |m25=T |m26=C |m27=T |m28=C |m29=T |m30=T |m31=C |m32=T |m33=C |m34=C }}
+{{Andamento/Risultato |m1=N |m2=P |m3=V |m4=V |m5=V |m6=P |m7=N |m8=N |m9=P |m10=N |m11=P |m12=V |m13=N |m14=V |m15=V |m16=P |m17=N |m18=V |m19=P |m20=V |m21=N |m22=V |m23=N |m24=N |m25=P |m26=V |m27=P |m28=V |m29=N |m30=P |m31=P |m32=P |m33=V |m34=V }}
+{{Andamento/Posizione |r=16 |m1=6 |m2=14 |m3=9 |m4=5 |m5=4 |m6=8 |m7=7 |m8=8 |m9=11 |m10=9 |m11=10 |m12=9 |m13=8 |m14=6 |m15=6 |m16=7 |m17=7 |m18=7 |m19=7 |m20=7 |m21=7 |m22=7 |m23=7 |m24=7 |m25=7 |m26=7 |m27=7 |m28=7 |m29=7 |m30=8 |m31=8 |m32=8 |m33=8 |m34=8 }}
+{{Andamento/Fine}}
+=== Statistiche dei giocatori ===
+Desunte dai tabellini del [[Corriere dello Sport]], de [[La Stampa]] e de [[L'Unità]].<ref>A completamento dei dati vanno conteggiati 5 autogol in campionato.</ref>
+{{Statistiche dei giocatori
+| Competizione1 = Serie A
+| Competizione2 = Coppa Italia
+| Competizione3 = Coppa delle<br />Fiere
+| Cartellini = no
+| {{Sortname|F.|Cudicini|Fabio Cudicini}} {{Sommastat|C=no |29|-26|?|? |0|0|?|? |1|0|?|?}}
+| {{Sortname|A.|Ginulfi|Alberto Ginulfi}} {{Sommastat|C=no |3|-1|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|E.|Matteucci|Enzo Matteucci}} {{Sommastat|C=no |3|-4|?|? |1|-2|?|? |1|-4|?|?}}
+| {{Sortname|M.|Ardizzon|Mario Ardizzon}} {{Sommastat|C=no |30|2|?|? |1|0|?|? |1|0|?|?}}
+| {{Sortname|F.|Cappelli|Francesco Cappelli}} {{Sommastat|C=no |0|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Carpenetti|Francesco Carpenetti}} {{Sommastat|C=no |32|0|?|? |0|0|?|? |2|0|?|?}}
+| {{Sortname|G.|Losi|Giacomo Losi}} {{Sommastat|C=no |30|0|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|A.|Sensibile|Aldo Sensibile}} {{Sommastat|C=no |4|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Tomasin|Glauco Tomasin}} {{Sommastat|C=no |15|1|?|? |1|0|?|? |1|0|?|?}}
+| {{Sortname|R.|Benaglia|Renato Benaglia}} {{Sommastat|C=no |29|1|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|V.M.|Benítez|Víctor Morales Benítez}} {{Sommastat|C=no |10|1|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|S.|Carpanesi|Sergio Carpanesi}} {{Sommastat|C=no |29|0|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|M.|Nardoni|Mauro Nardoni}} {{Sommastat|C=no |2|0|?|? |0|0|?|? |1|0|?|?}}
+| {{Sortname|E.|Salvori|Elvio Salvori}} {{Sommastat|C=no |10|0|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|A.|Spanio|Angelo Spanio (calciatore)}} {{Sommastat|C=no |24|3|?|? |0|0|?|? |0|0|?|?}}
+| {{Sortname|G.|Tamborini|Giuseppe Tamborini}} {{Sommastat|C=no |31|2|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|P.|Barison|Paolo Barison}} {{Sommastat|C=no |32|6|?|? |1|0|?|? |1|1|?|?}}
+| {{Sortname|J.R.|da Silva|José Ricardo da Silva}} {{Sommastat|C=no |12|3|?|? |1|0|?|? |0|0|?|?}}
+| {{Sortname|F.|Francesconi|Fulvio Francesconi}} {{Sommastat|C=no |29|2|?|? |1|0|?|? |2|0|?|?}}
+| {{Sortname|L.|Leonardi|Lamberto Leonardi}} {{Sommastat|C=no |21|2|?|? |1|0|?|? |2|0|?|?}}
+}}
+== Giovanili ==
+=== Piazzamenti ===
+*'''''Primavera''''':
+**[[Campionato Primavera 1965-1966|Campionato Primavera]]: ?
+== Note ==
+<references/>
+== Bibliografia ==
+*{{cita libro|autore=Paolo Castellani|autore2=Massimiliano Ceci|autore3=Riccardo de Conciliis|città=Roma|titolo=La maglia che ci unisce. Storia delle divise dell'AS Roma dalla nascita ai giorni nostri|editore=Goalbook Edizioni|anno=2012|isbn=978-88-908115-0-0|cid=Castellani, Ceci, de Conciliis}}
+=== Videografia ===
+*{{cita TV|autore=Manuela Romano (a cura di)|trasmissione=La storia della A.S. Roma|canale=Corriere dello Sport, Rai Trade|anno=2006|tipo=10 DVD-Video|cid=Romano}}
+== Collegamenti esterni ==
+*{{cita web|http://www.asroma.it/|Sito ufficiale}}
+*{{cita web|http://www.rsssf.com/tablesi/ital66.html|Italy 1965/66|lingua=en}}
+*{{cita web|http://www.transfermarkt.it/as-rom/transfers/verein/12/saison_id/1965|AS Roma 65/66|lingua=it, en, de}}
+{{Calcio Roma storico}}
+{{Calcio in Italia 1965-1966}}
+{{Portale|calcio}}
