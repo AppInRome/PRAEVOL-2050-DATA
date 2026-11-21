@@ -38,7 +38,7 @@ for tbl in soup.find_all("table"):
  trs=tbl.find_all("tr")
  if not trs:continue
  head=" | ".join(cell(c) for c in trs[0].find_all(["th","td"]))
- if ("Percentuale" in head and "Incontri" in head) or ("Vittorie" in head and "Pareggi" in head and "Sconfitte" in head):
+ if head.count("|") >= 8 and re.search(r"(?:\bG\b|Incontri)",head) and re.search(r"(?:\bV\b|Vittorie)",head):
   tables.append(tbl)
 if not tables:raise RuntimeError("no manager table found "+str([cell(t.find("tr"))[:120] for t in soup.find_all("table")][:30]))
 tbl=tables[0]
