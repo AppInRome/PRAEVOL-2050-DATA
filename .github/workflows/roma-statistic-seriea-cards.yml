@@ -1,0 +1,26 @@
+name: Roma Statistic - Cartellini Serie A
+on:
+  push:
+    branches:
+      - roma-statistic-wikipedia-archive
+    paths:
+      - tools/roma_statistic_seriea_cards.py
+      - .github/workflows/roma-statistic-seriea-cards.yml
+permissions:
+  contents: read
+jobs:
+  download-seriea:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Acquisizione cartellini con fonte
+        run: python3 tools/roma_statistic_seriea_cards.py
+      - name: Esporta osservazioni e rapporto
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: roma-statistic-serie-a-cartellini
+          path: seriea_cards_import/
+          if-no-files-found: warn
+          retention-days: 14
