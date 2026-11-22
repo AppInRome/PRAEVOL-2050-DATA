@@ -43,14 +43,33 @@ def parse(item):
   pattern=re.compile(r"(?i)^(?:a\.?s\.?\s*)?roma\s*(?:\([0-9][0-9 -]{2,15}\))?\s*:\s*(.+)$")
   spans=[]
   for idx in starts[:2]:
-   for offset in range(idx+1,min(idx+18,len(lines))):
+   for offset in range(idx+1,min(idx+48,len(lines))):
     hit=pattern.search(lines[offset])
     if hit:
      spans.append((offset,hit.group(1)));break
   if not spans:return {"season":season,"url":url,"status":"no_roma_line"}
   idx,whole=spans[0]
-  # Avoid parsing text containing an entire article or a table of scores.
+  # Archived pages often split a single XI at HTML line breaks. Join adjacent
+  # name fragments only up to 11 entries, stopping before bench/coach/opponent.
   whole=whole.strip()
+  def tokens(s):
+   parts=[];part="";nest=0
+   for ch in s:
+    if ch=="(":nest+=1
+    if ch==")":nest=max(0,nest-1)
+    if ch in ",;" and nest==0:
+     if part.strip():parts.append(part.strip())
+     part=""
+    else:part+=ch
+   if part.strip():parts.append(part.strip())
+   return parts
+  for nextline in lines[idx+1:idx+16]:
+   if len(tokens(whole))>=11:break
+   if re.match(r"(?i)^(?:all(?:enatore)?\\.?|a\\s+disp\\.?|arbitro|riserve|panchina|lazio|inter|juventus|livorno|milan|note|marcatori|reti)\\s*[:.]",nextline):break
+   if re.match(r"(?i)^.{0,28}\\s*\\([3-5]-[0-9]-[0-9-]+\\)\\s*:",nextline):break
+   if len(nextline)>300 or not nextline.strip():break
+   whole+=" "+nextline.strip()
+  # Avoid parsing text containing an entire article or a table of scores.
   if len(whole)>550:return {"season":season,"url":url,"status":"long_line","sample":whole[:250]}
   # Parse semicolon/comma separators outside parenthetical substitutions.
   parts=[];part="";level=0
