@@ -1,0 +1,28 @@
+name: Roma Statistic - Formazioni storiche
+on:
+  push:
+    branches:
+      - roma-statistic-wikipedia-archive
+    paths:
+      - tools/roma_statistic_match_lineups.py
+      - .github/workflows/roma-statistic-lineups.yml
+permissions:
+  contents: read
+jobs:
+  historical-lineups:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Parser storico
+        run: python3 -m pip install beautifulsoup4
+      - name: Scarica e normalizza formazioni verificabili
+        run: python3 tools/roma_statistic_match_lineups.py
+      - name: Pubblica archivi fattuali con fonti
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: roma-statistic-formazioni-documentate
+          path: lineup_acquisition/
+          if-no-files-found: warn
+          retention-days: 14
